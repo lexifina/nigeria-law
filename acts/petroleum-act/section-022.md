@@ -1,0 +1,1 @@
+22. Precautions before unshipping class "A" petroleum Before any class "A" petroleum is unshipped, the hold containing the petroleum shall be thoroughly ventilated, and when the hold has been emptied it shall be thoroughly cleaned.

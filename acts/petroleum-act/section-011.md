@@ -1,0 +1,1 @@
+11. Anchorage of ship according to direction The master of a ship carrying petroleum shall anchor or moor his ship at such anchor- age or place as the harbour master may direct, and the master shall not move his ship therefrom without the written permission of the harbour master.

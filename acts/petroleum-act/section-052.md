@@ -1,0 +1,1 @@
+52. Separate storage of each consignment Each consignment of petroleum is to be stored separately in a government petroleum store and a label affixed thereto showing the date of receipt, the names of consignee and importing ship.

@@ -1,0 +1,1 @@
+104. Revocation of licences A licence granted under these Regulations may be revoked at any time by the Direc- tor-General or by the officer who granted it, if he is satisfied that the licensee or any per- son in his employ has infringed any of the conditions of the licence or any provision of these Regulations.

@@ -1,0 +1,1 @@
+88. Additional precautions In this Part of these Regulations, the precautions to be observed in the handling and storage of liquefied petroleum gases are additional to those in any other regulations re- lating to class "A" petroleum and such other regulations shall be read accordingly.

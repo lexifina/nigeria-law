@@ -1,0 +1,1 @@
+69. Draining of enclosed areas All enclosed areas, when the entire floor thereof is of concrete or of non-porous mate- rial, shall be drained by pipe fitted with a valve actuated from the outside of the enclo- sure; and such valve shall always be kept closed except when actually in use and no water shall be allowed to accumulate in the enclosure.

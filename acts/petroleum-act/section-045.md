@@ -1,0 +1,1 @@
+45. Duration of licence Every licence to store petroleum shall expire on the 31 st day of December of the year in which it is issued, except in the case of a licence to store petroleum in bulk which may with the approval of the Director-General be issued for such longer period as he may think fit.

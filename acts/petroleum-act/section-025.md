@@ -1,0 +1,1 @@
+25. Small craft carrying class "A" petroleum Small craft carrying class "A" petroleum shall be moored to buoys or anchored where directed by the harbour master, and shall not lie alongside any ship or wharf, except for the purpose of loading or discharging, or when empty.

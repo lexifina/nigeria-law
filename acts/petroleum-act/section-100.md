@@ -1,0 +1,1 @@
+100. Earthing and bonding During any fuelling or de-fuelling operation, an aircraft shall be earthed with an earthing device of an approved type and earthing and bonding wires shall be regularly tested and examined.

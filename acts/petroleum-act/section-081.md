@@ -1,0 +1,1 @@
+81. Special permits The Director of Petroleum Resources or the appropriate authority may, by the issue of a permit, exempt any vehicle specified in the permit from complying with all or any of the provisions of this Part in respect of one journey specified in the permit.

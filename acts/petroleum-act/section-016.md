@@ -1,0 +1,1 @@
+16. Distance between s hips Two or more tankers shall not, except for purpose of transhipment, lie within 100 feet of one another unless in the opinion of the harbour master it is impracticable to maintain such distance.
