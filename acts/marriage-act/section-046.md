@@ -1,0 +1,1 @@
+46. Contracting marriage under this Act when already married by native law Whoever contracts a marriage under the provisions of this Act, or any modification or re‐enactment thereof, being at the time married in accordance with customary law to any person other than the person with whom such marriage is contracted, shall be liable to imprisonment for five years.

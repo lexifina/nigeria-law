@@ -1,0 +1,1 @@
+49. Validity of foreign marriages Subject to sections 50 to 53 of this Act, a marriage between parties one of whom is a citizen of Nigeria, if it is contracted in a country outside Nigeria before a marriage officer in his office, shall be valid in law as if it had been contracted in Nigeria before a registrar in the registrar's office.

@@ -1,0 +1,1 @@
+52. Act to apply subject to modifications Subject to the modifications specified in section 53 this Act shall apply in relation to a marriage contracted before a marriage officer as nearly as may be as it applies in relation to a marriage contracted before a registrar.

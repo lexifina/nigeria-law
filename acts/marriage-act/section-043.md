@@ -1,0 +1,1 @@
+43. Wilful neglect of duty to fill up or transmit certificate of marriage Whoever, being under a duty to fill up the certificate of a marriage celebrated by him, or the counterfoil thereof, or to transmit the same to the registrar of marriages, wilfully fails to perform such duty, shall be liable to imprisonment for two years.

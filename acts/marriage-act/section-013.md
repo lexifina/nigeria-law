@@ -1,0 +1,3 @@
+13. Minister may grant license to marry The Minister upon proof being made to him by affidavit that there is no lawful im‐ pediment to the proposed marriage, and that the necessary consent, if any, to such mar‐ riage has been obtained, may, if he shall think fit, dispense with the giving of notice, and with the issue of the certificate of the registrar, and may grant his license, which shall be according to Form D in the First Schedule, authorising the celebration of a marriage be‐ tween the parties named in such license by a registrar, or by a recognised minister of some religious denomination or body.
+
+[1 of 1958. L.N. 1 of 1955. L.N. 112 of 1964. First Schedule. Form D.]

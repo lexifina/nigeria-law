@@ -1,0 +1,1 @@
+31. Correction of clerical errors in marriage certificates Any registrar, when authorised by the Principal Registrar, may correct any clerical er‐ ror in any certificate of marriage filed in his office, upon production to him of the certifi‐ cate delivered to the parties, and shall authenticate every such correction by his signature and the date of such correction.

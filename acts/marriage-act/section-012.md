@@ -1,0 +1,1 @@
+12. Marriage to take place within three months after date of notice If the marriage shall not take place within three months after the date of the notice, the notice and all proceedings consequent thereupon shall be void; and fresh notice shall be given before the parties can lawfully marry.

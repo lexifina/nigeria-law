@@ -1,0 +1,3 @@
+29. Marriage under license Whenever the license issued under section 13 of this Act authorises the celebration of marriage at a place other than a licensed place of worship, or the office of the registrar of marriages, the registrar of the district in which marriage is intended to take place, upon the production of such license, shall deliver to the person producing the same a blank certificate of marriage in duplicate and shall till up such certificate, and observe strictly all the formalities hereinbefore prescribed as to marriages in a licensed place of worship or registrar's office, as the case may be.
+
+Registry and evidence of marriages

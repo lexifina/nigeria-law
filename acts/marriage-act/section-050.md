@@ -1,0 +1,1 @@
+50. Marriage officers For the purposes of this Act, every Nigerian diplomatic or consular officer of the rank of Secretary or above shall be regarded as a marriage officer in the country to which he is accredited.

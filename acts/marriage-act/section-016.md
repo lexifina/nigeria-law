@@ -1,0 +1,3 @@
+16. Removal of caveat If the judge decides that the certificate ought to be issued, he shall remove the caveat by cancelling the word "Forbidden" in the marriage notice book, in ink, and by writing in such marriage notice book, immediately below such entry and cancellation, the words "Cancelled by order of the High Court" and signing his name thereto. The registrar shall then issue his certificate and the marriage may proceed as if the caveat had not been en‐ tered, but the time that has elapsed between the entering and the removal of the caveat shall not be computed in the period of three months specified in sections 11 and 12 of this Act.
+
+[58 of 1933. L.N. 47 of 1955.]

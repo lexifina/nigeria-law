@@ -1,0 +1,1 @@
+45. Fictitious marriage Whoever goes through the ceremony of marriage, or any ceremony which he or she represents to be a ceremony of marriage, knowing that the marriage is void on any ground, and that the other person believes it to be valid, shall be liable to imprisonment for five years.

@@ -1,0 +1,1 @@
+51. Marriage officer's office The office used by a marriage officer for the performance of his diplomatic or consu‐lar duties shall be regarded as the marriage officer's office for the purposes of this Act.

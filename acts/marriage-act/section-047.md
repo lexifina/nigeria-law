@@ -1,0 +1,1 @@
+47. Contracting marriage by customary law when already married by this Act Whoever, having contracted marriage under this Act, or any modification or re‐ enactment thereof, or under any enactment repealed by this Act, during the continuance of such marriage contracts a marriage in accordance with customary law, shall be liable to imprisonment for five years.

@@ -1,0 +1,1 @@
+44. Personation in marriage Whoever personates any other person in marriage, or marries under a false name or description, with intent to deceive the other party to the marriage, shall be liable to imprisonment for five years.

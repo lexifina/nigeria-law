@@ -1,0 +1,3 @@
+24. Registrars to be provided with books of certificates The Principal Registrar shall cause to be printed and delivered to the several registrars, and to the recognised minister's of licensed places of worship, books of marriage certificates in duplicate and with counterfoils as in the Form E in the First Schedule. Such books shall be kept by the several registrars and the recognised ministers for the time of such places of worship, under lock and key, and be in custody of such registrars and ministers respectively, who shall, so soon as all the certificates in any such books shall have been used, send the said book with the counterfoils duly filled in to the Principal Registrar.
+
+[First Schedule. Form E.]

@@ -1,0 +1,1 @@
+39. Marriage with a person previously married Whoever, being unmarried, goes through the ceremony of marriage under this Act with a person whom he or she knows to be married to another person, shall be liable to imprisonment for five years.
