@@ -1,0 +1,25 @@
+44. Duties as to qualified acceptances
+
+(1) The holder of a bill may refuse to take a qualified acceptance, and if he does not
+
+obtain an unqualified acceptance, may treat the bill as dishonoured by non-acceptance.
+
+(2) Where a qualified acceptance is taken, and the drawer or an endorser has not
+
+expressly or impliedly authorised the holder to take a qualified acceptance, or does not
+
+subsequently assent thereto, such drawer or endorser is discharged from his liability on the
+
+bill.
+
+The provisions of this subsection do not apply to a partial acceptance whereof due
+
+notice has been given. Where a foreign bill has been accepted as to part, it must be pro-
+
+tested as to the balance.
+
+(3) When the drawer or endorser of a bill receives notice of a qualified acceptance,
+
+and does not within a reasonable time express his dissent to the holder, he shall be
+
+deemed to have assented thereto.

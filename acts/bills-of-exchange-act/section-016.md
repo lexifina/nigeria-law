@@ -1,0 +1,7 @@
+16. Optional stipulations by drawer or endorser
+
+The drawer of a bill and any endorser may insert therein an express stipulation-
+
+(a) negativing or limiting his own liability to the holder;
+
+(b) waiving as regards himself some or all of the holder's duties.

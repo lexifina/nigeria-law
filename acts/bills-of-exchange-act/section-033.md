@@ -1,0 +1,7 @@
+33. Conditional endorsement
+
+Where a bill purports to be endorsed conditionally the condition may be disregarded
+
+by the payer, and payment to the endorsee is valid whether the condition has been ful-
+
+filled or not.

@@ -1,0 +1,9 @@
+37. Negotiation of bill to party already liable thereon
+
+Where a bill is negotiated back to the drawer, or to a prior endorser or to the acceptor,
+
+such party may, subject to the provisions of the Act, re-issue and further negotiate the
+
+bill, but he is not entitled to enforce payment of the bill against any intervening party to
+
+whom he was previously liable.

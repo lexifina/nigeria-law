@@ -1,0 +1,5 @@
+80. Crossing a material part of cheque
+
+A crossing authorised by this Act is a material part of the cheque; it shall not be lawful for any person to obliterate or, except as authorised by this Act, to add to or alter the
+
+crossing.

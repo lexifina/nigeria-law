@@ -1,0 +1,5 @@
+86. Delivery necessary
+
+A promissory note is inchoate and incomplete until delivery thereof to the payee or
+
+bearer.

@@ -1,0 +1,17 @@
+85. Promissory note defined
+
+(1) A promissory note is an unconditional promise in writing, made by one person to
+
+another, signed by the maker, engaging to pay, on demand or at a fixed or determinable
+
+future time, a sum certain in money to, or to the order of, a specified person or to bearer.
+
+(2) An instrument in the form of a note payable to maker's order is not a note within
+
+the meaning of this section unless and until it is endorsed by the maker.
+
+(3) A note is not invalid by reason only that it contains also a pledge or collateral security with authority to sell or dispose thereof.
+
+(4) A note which is, or on the face of it purports to be, both made and payable within
+
+Nigeria is an inland note. Any other note is a foreign note.

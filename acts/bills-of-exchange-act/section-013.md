@@ -1,0 +1,11 @@
+13. Ante-dating and post-dating
+
+(1) Where a bill or an acceptance or any endorsement on a bill is dated, the date shall,
+
+unless the contrary be proved, be deemed to be the true date of the drawing, acceptance
+
+or endorsement as the case may be.
+
+(2) A bill is not invalid by reason only that it is ante-dated or post-dated or that it
+
+bears date on a Sunday.
