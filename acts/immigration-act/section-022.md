@@ -1,0 +1,7 @@
+22. Removal of persons subject to deportation orders
+
+(1) The Minister or any person acting under his authority may, notwithstanding any other provision of this Act, give directions to the master of any ship or commander of any aircraft which is about to leave Nigeria, requiring him to afford to any person against whom a deportation order is in force, and to any dependants of his specified in the direc- tions, a passage to any port so specified (being a port in a country of which that person is a citizen or a country or territory to which the Minister has reason to believe that he will be admitted, and at which the ship or aircraft is to call or land in the course of the voyage) and proper accommodation and maintenance during the passage.
+
+(2) A person in respect of whom directions are given under subsection (1) of this section, may be placed, under the authority of the Minister, on board any ship or aircraft in which he is to be removed in accordance with the directions.
+
+(3) The employer of any person against whom a deportation order is in force shall pay the expenses incidental to the voyage from Nigeria of the person to be deported and his dependants (if any) and the maintenance until departure of such person and his de- pendants; and in default of such payment the Minister may in any proper case sue for and recover the same, or in his discretion may apply in and towards any such expenses afore- said, moneys belonging to the person to be deported, or cause the expenses to be defrayed by the Government of the Federation.

@@ -1,0 +1,1 @@
+14. Recognition of airports and ports For the purposes of this Act, the Minister may by order prescribe any aerodrome, air- port or airline to be a recognised airport or airline, and may likewise recognise any port for shipping or point of entry by land or inland waters as a port of entry.

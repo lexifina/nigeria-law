@@ -1,0 +1,1 @@
+15. Arrivals elsewhere than at a recognised port Where any ship or aircraft lands by sea or air in Nigeria elsewhere than at a recog- nised port, the master of the ship or aircraft shall report to the nearest immigration offi- cer, and no person on board shall leave the ship or aircraft without the authority of an immigration officer.

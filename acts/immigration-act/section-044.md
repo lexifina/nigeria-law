@@ -1,0 +1,1 @@
+44. Power of court to recommend deportation Where a court of competent jurisdiction convicts an offender under any enactment for an offence punishable by imprisonment without the option of a fine, the court may in addition to or in lieu of sentence recommend the deportation of the offender, and the Minister may order his deportation accordingly.

@@ -1,0 +1,3 @@
+41. Evidence as to orders, etc.
+
+Any document purporting to be an order, notice or direction made or given by the Minister for the purposes of this Act, and to be signed by him or on his behalf, shall be received in evidence, and shall, until the contrary is proved, be deemed to be made or issued by him; and prima facie evidence of any such order, notice or direction may in any legal proceedings, be given by the production of a document bearing a certificate pur- porting to be signed by or on behalf of the Minister and stating that the document is a true copy of the order, notice or direction.

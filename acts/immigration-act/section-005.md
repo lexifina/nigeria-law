@@ -1,0 +1,7 @@
+5. Appointment of immigration officers
+
+(1) Subject to the provisions of subsections (2) and (3) of this section, there shall be appointed a fit person to be Director of Immigration who shall, under the general direc- tion of the Minister, be charged with the administration of this Act, and such number of other fit persons as Deputy Directors ofImmigration and other officers as may, from time to time, be required to assist the Director of Immigration under this Act and to be subject to his direction and control, the Director of Immigration shall, where necessary for the purposes of this Act, co-ordinate the duties of his division with those of the division of any officer appointed for the control of aliens in Nigeria.
+
+(2) There shall also be appointed a fit person to be Chief Federal Aliens Officer who shall have such duties and powers as may be conferred upon him by this or any other Act for the control of aliens in Nigeria, and such number of other fit persons as officers to assist the Chief Federal Aliens Officer and to be subject to his direction and control; the Chief Federal Aliens Officer in the performance of his duties under this Act shall where necessary co-operate with the Director of Immigration.
+
+(3) Any person who, immediately before the coming into operation of this Act is the holder of any office designated in this section, shall, on the commencement of this Act, continue in office and be deemed for the purpose only of this Act to have been appointed to his office under this section.
