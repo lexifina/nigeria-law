@@ -1,0 +1,1 @@
+6. Additional compensation Where an injury results in permanent total incapacity of such a nature that the injured workman must have the constant help of another person, additional compensation shall be paid amounting to one quarter of the amount which is otherwise payable under sec- tion 5 of this Act.

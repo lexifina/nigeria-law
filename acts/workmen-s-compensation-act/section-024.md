@@ -1,0 +1,5 @@
+24. Remedies against both employer and stranger Where the injury in respect of which compensation is payable under this Act was caused in circumstances creating a legal liability in some person other than the employer to pay damages in respect thereof-
+
+(a) the workman may take proceedings both against that person to recover dam- ages and against any person liable to pay compensation under this Act for such compensation, but shall not be entitled to recover both damages and compen- sation; and
+
+(b) if the workman has recovered compensation under this Act, the person by whom the compensation was paid, and any person who has been called on to pay an indemnity under the provisions of section 23 of this Act relating to li- ability in case of workmen employed by contractors, shall be entitled to be in- demnified as regards the amount of compensation, including costs, by the per- son so liable to pay damages as aforesaid, and any question as to the right to and amount of any such indemnity shall, in default of agreement, be settled by civil suit, or, by consent of the parties or by arbitration under the Arbitration and Conciliation Act.

@@ -1,0 +1,5 @@
+39. Rules as to transfer of funds Where reciprocal arrangement has been made between Nigeria and any country whereby any sums awarded under the law relating to workmen's compensation in Nigeria to beneficiaries resident or becoming resident in that other country, and sums awarded under the law relating to workmen's compensation in that country aforesaid to benefici- aries resident or becoming resident in Nigeria, may, at the request of the authority by which the award is made, be transferred and administered by a competent authority in the country aforesaid, the Minister may make rules-
+
+(a) for the transfer, in such manner as may be provided by the arrangement, to the country aforesaid, of any money in the possession of the court, applicable for the benefit of any person resident in or about to reside in the said country; and
+
+(b) for the receipt and administration by an officer appointed by the Minister for the purposes of any money which under such arrangement has been transmit- ted from the country aforesaid as money applicable for the benefit of any per- son resident or about to reside in Nigeria.

@@ -1,0 +1,1 @@
+21. Power of the court to submit questions of law The court may, if it thinks fit, submit any question of law for the decision of the Court of Appeal; and such submission shall be in the form of a special case in accordance with rules of court made under this Act.

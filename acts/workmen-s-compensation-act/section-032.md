@@ -1,0 +1,11 @@
+32. Occupational diseases The Minister may by order extend the provisions of this Act to incapacity or death caused by any disease specified in such order, and compensation shall be payable as if any disease so specified was a personal injury by accident arising out of and in the course of employment:
+
+Provided that-
+
+(a) the disease is due to the nature of the employment as certified by the appropri- ate medical board;
+
+(b) the Minister may specify in any order made under this section any disease, which unless otherwise certified by a medical practitioner or the employer can prove to the contrary, shall be deemed to be due to the nature of his employ- ment, if the workman who contracts any such disease was at the date of dis- ablement aforesaid employed in any occupation specified in the order in rela- tion to that disease;
+
+(c) for the purposes of calculating a workman's earnings, where the workman was, at the date of his incapacity or death, employed in employment to the nature of which the disease is due, the date of commencement of the incapacity, or the date of his death if there was no previous incapacity, shall be treated as the date of the happening of the accident, and where the workman was not so em- ployed at the date of his incapacity or death, the last day upon which he was so employed shall be treated as the date of the happening of the accident; and for all other purposes of this Act, the commencement of the incapacity of the workman, or the date of his death if there was no previous incapacity, shall be treated as the date of the happening of the accident;
+
+(d) if the disease has been contracted by a gradual process so that two or more employers are severally liable to pay compensation in respect thereof under this section, the aggregate amount of compensation recoverable from those employers shall not exceed the amount that would have been recoverable if those employers had been a single employer, and in any such case those em- ployers shall, in default of agreement, be entitled as between themselves to such rights of contribution as the court thinks just, having regard to the cir- cumstances of the case, any action brought or application made by any of them for this purpose.
