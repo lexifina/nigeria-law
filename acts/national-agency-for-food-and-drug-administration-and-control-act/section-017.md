@@ -1,0 +1,1 @@
+17. Disposal of surplus funds The Council may invest any surplus funds in profit yielding ventures, and notwith- standing that power, the Minister may issue to the Agency directives as he may think necessary as to the disposal of any surplus funds of the Agency.

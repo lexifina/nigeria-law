@@ -1,0 +1,9 @@
+10. Pension
+
+(1) Service in the Agency shall be approved service for the purpose of the Pensions Act and, accordingly, officers and other persons employed in the Agency shall be entitled to pensions, gratuity and other benefits as are prescribed thereunder.
+
+[Cap. P4.]
+
+(2) Notwithstanding the provisions of subsection (1) of this section, the Agency may appoint a person to any office on terms which preclude the grant of a pension, gratuity or other retirement benefits in respect of that office.
+
+power exercisable thereunder by a Minister or other authority of the Government of the Federation, other than the power to make regulations under section 23 thereof, is hereby vested in and shall be exercisable by the Agency and not by any other person or authority.

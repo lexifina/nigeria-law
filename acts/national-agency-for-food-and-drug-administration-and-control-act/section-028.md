@@ -1,0 +1,1 @@
+28. Power of Minister to give directives The Minister may give directives of a general or special character to the Agency re- lating to the performance by the Agency of any or all of its functions under this Act, and it shall be the duty of the Agency to comply and give effect to the directives.
