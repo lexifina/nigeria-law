@@ -1,0 +1,1 @@
+12. Bearing of losses The Corporation shall bear losses up to 200 per cent of its premium income in each class of insurance covered under section 7 of this Act, and the Federal Government shall pay for all losses above 200 per cent of the premium income.
