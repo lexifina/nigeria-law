@@ -1,0 +1,1 @@
+3. Wages not to be paid on certain premises Wages shall not be paid to a worker in premises used for the sale of intoxicating liq- uor or for the retail sale of goods, except in the case of a worker employed on the prem- Ises.

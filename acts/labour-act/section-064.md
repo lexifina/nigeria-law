@@ -1,0 +1,5 @@
+64. Offences (!) Any person who employs a young person in contravention of sections 59 to 62 of this Act or any regulations made under section 63 of this Act, the proprietor, owner and manager of any undertaking in which a young person is so employed and any parent or guardian of a young person who permits the young person to be so employed shall be guilty of an offence and on conviction shall be liable to a fine not exceeding N!OO.
+
+(2) If, in the case of a charge for an offence under subsection (I) of this section it is alleged by the person conducting the prosecution that the person in respect of whom the offence was committed was under the age of twelve, fourteen, fifteen, sixteen or eighteen years at the date of commission of the alleged offence, the magistrate or other person pre- siding at the hearing shall, after such enquiry as he may think necessary and after hearing any evidence that inay be tendered by any party to the proceedings, determine the age of the young person; and any such determination shall be final.
+
+Domestic service

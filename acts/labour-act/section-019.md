@@ -1,0 +1,1 @@
+19. Calculation of leave pay and sickness benefits In the calculation of leave pay and sickness benefits only that part of his wages which a worker receives in money (excluding overtime and other allowances) shall be taken into account.

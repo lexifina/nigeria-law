@@ -1,0 +1,1 @@
+57. Regulations The Minister may make regulations prohibiting or restricting, subject to such condi- tions as may be specified in the regulations, the employment of women in any particular type or types of industrial or other undertakings or in any process or work carried on by such undertakings.

@@ -1,0 +1,1 @@
+2. Agreement as to place and manner of spending wages illegal No employer shall impose in any contract for the employment of any worker any terms as to the place at which, or the manner in which, or the person with whom any wages paid to the worker are to be expended; and every contract between an employer and a worker containing any such terms shall be illegal, null and void.
