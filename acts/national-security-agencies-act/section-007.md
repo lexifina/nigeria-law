@@ -1,0 +1,7 @@
+7. Repeal, etc.
+
+(I) The Nigerian Security Organisation Act is hereby repealed.
+
+(2) If any other law is inconsistent with the provisions of this Act, the provisions of
+
+this Act shall prevail and that other law shall, to the extent of the inconsistency, be void.
