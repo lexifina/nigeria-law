@@ -1,0 +1,1 @@
+155. Candidates to be promoted on probation only [L.N. 13 of 1976.] A candidate promoted to the rank of sub-inspector shall remain on probation in that rank for two years and may by order of the Inspector-General be reverted to his former rank at any time during the two years if his work proves unsatisfactory.

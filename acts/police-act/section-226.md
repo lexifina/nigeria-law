@@ -1,0 +1,1 @@
+226. Establishment of the Police College Kaduna The Police College Kaduna shall be established as the Police Training College for the Northern States and shall be classified as a formation of Force Headquarters.

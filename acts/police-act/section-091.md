@@ -1,0 +1,1 @@
+91. Rejection by Police Area Commander of candidates A candidate for enlistment whose character referees or reference prove unsatisfactory, or who fails to pass the medical examination or fails to answer satisfactorily the questions put to him on attestation, shall have his application rejected by the Police Area Com- mander.

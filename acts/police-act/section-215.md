@@ -1,0 +1,1 @@
+215. Powers, privileges and immunities A member of a Technical Branch of the Force shall have the same powers, privileges and immunities as any other member of the Force and shall be subject to the same code of discipline as is applicable to members of the General Duties Branch of the Force who are his equivalent in rank.

@@ -1,0 +1,1 @@
+176. Rank and File Interview Board Reports The chairman of a Rank and File Interview Board shall complete duplicate Interview Board Reports (Pol. Form A66) in respect of each member of the Rank and File inter- viewed by the Board and send one copy to the area command headquarters for retention.

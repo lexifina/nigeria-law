@@ -1,0 +1,1 @@
+36. Command of a branch of Force Headquarters Department Subject to the authority of the superior police officer to whom the command of a De- partment is assigned in pursuance of regulation 34, each branch of a Department shall be commanded by a police officer of the rank of inspector or above.

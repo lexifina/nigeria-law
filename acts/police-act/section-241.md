@@ -1,0 +1,1 @@
+241. Administration of Force band fund and band (engagement fees) fund The Force band fund and the band (engagement fees) fund shall be administered in accordance with rules made by the Inspector-General.

@@ -1,0 +1,1 @@
+327. Station Officer to report absence from station The Station Officer, when proceeding on duties that will necessitate his absence from his police station for more than 24 hours, shall report in advance his proposed itinerary to the District or Divisional Police Officer.

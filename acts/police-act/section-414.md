@@ -1,0 +1,1 @@
+414. Arms for the Force Members of the Force shall be issued with such firearms and ammunition, and such other weapons of offence or defence as may be authorised by the President, acting with the advice of the Nigeria Police Council.

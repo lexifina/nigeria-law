@@ -1,0 +1,1 @@
+127. Pregnancy of unmarried women police An unmarried woman police officer who becomes pregnant shall be discharged from the Force, and shall not be re-enlisted except with the approval of the Inspector-General.

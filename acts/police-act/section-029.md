@@ -1,0 +1,1 @@
+29. Es tablishment of motor traffic division For the better control of motor traffic, the Inspector-General may, acting with the pre- scribed approval, establish a motor traffic division for duty within the area of respon- sibility of a police area command or a police division.

@@ -1,0 +1,1 @@
+160. Promotions, confirmations and reversions to be published in Gazette The Inspector-General shall publish every promotion to, confirmation in and rever- sion from the rank of sub-inspector in the Federal Gazette.

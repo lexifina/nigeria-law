@@ -1,0 +1,1 @@
+169. Probation for six months on promotion A constable promoted to the rank of corporal shall be required to serve a probationary period of six months in the rank of corporal before he is eligible for confirmation in that rank.

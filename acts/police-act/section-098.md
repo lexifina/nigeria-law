@@ -1,0 +1,1 @@
+98. Administration of Police Declaration The recruitment officer, on approving a candidate for enlistment as a recruit consta- ble, shall himself administer, or nominate a superior police officer to administer, the Po- lice Declaration to the recruit constable.

@@ -1,0 +1,1 @@
+236. Function of police bands The function of a police band or corps of drums is to provide appropriate music at police functions and at official functions, and to give public band concerts for furtherance of good relations between the police and the public.

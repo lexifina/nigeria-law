@@ -1,0 +1,1 @@
+328. Station Officer not to leave locale of station area without permission The Station Officer shall not leave the locale of his police station area of responsibil- ity without first obtaining the permission of the District or Divisional Police Officer.

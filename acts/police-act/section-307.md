@@ -1,0 +1,1 @@
+307. Veterinary officer's report if Force animal dies If any Police Service animal dies as a result of any accident or from natural causes, a report from a veterinary officer certifying the cause of death shall be obtained by the po- lice officer to whose care the animal is assigned.

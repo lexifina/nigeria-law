@@ -1,0 +1,1 @@
+132. Enlistment procedure The enlistment procedure for candidates for enlistment in the Police Band shall be as for recruit constables, except that the duties performed by a Provincial Police Officer in respect of the enlistment of recruit constables shall be performed by the Director of Mu- sic.

@@ -1,0 +1,1 @@
+61. Inter view of cadet officer for appointment A cadet officer who has successfully concluded the training course, shall be inter- viewed by the Nigeria Police Council for final consideration for appointment to proba- tionary rank.

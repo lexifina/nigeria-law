@@ -1,0 +1,1 @@
+395. Powers, privileges etc., of junior officer during interdiction The powers, privileges and immunities vested in a junior officer shall, in the case of an interdicted member, be held in abeyance during the period of his interdiction but he shall continue to be subject to the same authority and discipline as if he had not been in- terdicted.

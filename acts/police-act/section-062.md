@@ -1,0 +1,1 @@
+62. Probationary period (general duties officers) A general duties police officer serving on probation shall be required to serve for a minimum period of two years from the date of first appointment to his cadet or his pro- bationary rank, whichever is the earlier, before becoming eligible for confirmation in his appointment.

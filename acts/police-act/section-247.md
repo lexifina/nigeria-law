@@ -1,0 +1,1 @@
+247. Director of Nigeria Police School of Music Subject to the authority of the Inspector-General the control and administration of the Nigeria Police School of Music shall be vested in the Director of Music.

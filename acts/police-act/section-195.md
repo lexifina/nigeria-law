@@ -1,0 +1,1 @@
+195. Promotion of Launch Engineers to assistant workshops officer A Launch Engineer in possession of the qualifications prescribed for an Assistant Workshops Officer shall be eligible for consideration for promotion to that rank.

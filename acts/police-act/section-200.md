@@ -1,0 +1,1 @@
+200. Promotion to assistant workshops officer A foreman or assistant foreman in possession of the qualifications prescribed for the post of assistant workshops officer shall be eligible for consideration for promotion to the rank of assistant workshops officer.

@@ -1,0 +1,1 @@
+6. Police station area of responsibility not to be territorially sub-divided A police station area of responsibility shall not be subject to territorial division, but where this is deemed expedient a police post or village police post may be set up as re- porting and patrol centres within the police station area.

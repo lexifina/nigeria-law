@@ -1,0 +1,1 @@
+103. Training courses for recruit constables A recruit constable shall, subject to the provisions of these Regulations, be required to undergo a recruits training course at a police college of between three months and six months' duration, as the Inspector-General shall direct.

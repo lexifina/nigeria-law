@@ -1,0 +1,1 @@
+145. Re-engagement of constables after discharge If a constable who has been honourably discharged from the Force offers to re-engage within six months of having received his discharge, he shall, if his offer of service is ac- cepted, on re-engagement be entitled to enter the salary scale of constables at the incre- mental point he had reached at the time of his discharge.

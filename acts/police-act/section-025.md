@@ -1,0 +1,1 @@
+25. Establishment of police mobile force A police mobile force shall be established and maintained to act as a police striking force in the event of riots or other serious disturbances occurring within the Federation.

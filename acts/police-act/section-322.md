@@ -1,0 +1,1 @@
+322. Absence of Police Area Commander from headquarters A Police Area Commander when proceeding on duties that will necessitate his ab- sence from his Headquarters for more than 24 hours shall report in advance his proposed itinerary to the Commissioner.

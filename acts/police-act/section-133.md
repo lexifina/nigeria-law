@@ -1,0 +1,1 @@
+133. Action by station officer In cases where a candidate applies to enlist in the Police Band, the station officer to whom the application is made in the first instance shall request the applicant to complete the Application to Enlist Form and shall forward the form when completed to the Direc- tor of Music, Police College, Ikeja.

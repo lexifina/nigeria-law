@@ -1,0 +1,1 @@
+35. Duty of co-ordinating the work of Force Headquarters Departments The Inspector-General shall assign to a commissioner of police the duty of co- ordinating the work of "G" Department (Public Relations).

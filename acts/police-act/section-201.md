@@ -1,0 +1,1 @@
+201. Police artisans The technical qualifications required of a candidate for enlistment as a police artisan are the possession of a Ministry of Labour, Employment and Productivity Class III Trade Test Certificate in his particular trade or craft.

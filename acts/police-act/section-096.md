@@ -1,0 +1,1 @@
+96. Identity check at interview of candidate by recruitment officer On a candidate for enlistment presenting himself of before the recruitment officer, the officer shall after satisfying himself as to the identity of the candidate, interview such candidate with a view to assessing his suitability for enlistment in the Force.

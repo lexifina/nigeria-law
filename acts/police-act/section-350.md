@@ -1,0 +1,1 @@
+350. Hours of duty A police officer shall ordinarily be required to perform eight hours' duty in every pe- riod of 24 hours save that if the exigencies of the service permit, one 24 hour period in everyone week shall be set aside as a rest period.

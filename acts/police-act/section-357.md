@@ -1,0 +1,1 @@
+357. Memorial funds A police officer may not promote or encourage the raising of funds to mark public approbation of a police officer's conduct, but where such funds are spontaneously raised by persons outside the Force, they may be dedicated to public purposes and connected with the name of the police officer whose conduct has merited such proof of public es- teem.

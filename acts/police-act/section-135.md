@@ -1,0 +1,1 @@
+135. Initial training period A recruit constable bandsman shall be required to undergo an initial three-month training period at the Police College, Ikeja, during which period he shall be instructed in drill and general police duties.

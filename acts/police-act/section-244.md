@@ -1,0 +1,1 @@
+244. Waiving of fees No fees shall be charged for official functions, and the President of the band or corps of drums may at his discretion waive the fees in respect of engagements by organisations whose aims are of a charitable nature.

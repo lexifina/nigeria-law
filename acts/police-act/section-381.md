@@ -1,0 +1,1 @@
+381. Summary investigation A summary investigation of any offence against discipline committed by a junior of- ficer shall be conducted by a delegated officer in one of the ways set forth in the follow- ing regulations.

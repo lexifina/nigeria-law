@@ -1,0 +1,1 @@
+139. Completion of re-engagement formalities When a notice of intention to re-engage for further service is received and such re- engagement is approved by the prescribed authority, the re-engagement formalities shall be completed as soon as is practicable after such approval has been given.

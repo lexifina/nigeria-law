@@ -1,0 +1,1 @@
+66. Resignation - officers on probation A police officer serving on probation who holds a direct entry appointment, and who resigns during the probationary period, may be required to refund any outfit allowance paid to him, and all or part of the expenses incurred by Government in the transportation of himself, his family and his loads on first appointment.

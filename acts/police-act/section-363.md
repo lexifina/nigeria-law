@@ -1,0 +1,1 @@
+363. Serious financial embarrassment to be a dis qualification for promotion A police officer who is seriously financially embarrassed shall be disquali fied for promotion during the period he is so embarrassed.

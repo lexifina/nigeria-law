@@ -1,0 +1,1 @@
+198. Advancement of' assistant foreman (Craftsman) The advancement of an assistant foreman, Grade II to the rank of assistant foreman, Grade I, shall, subject to his having the qualifications required of a craftsman, be auto- matic on completion of four years' service as an assistant foreman, Grade 11.

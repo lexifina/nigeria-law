@@ -1,0 +1,1 @@
+348. Duties generally Notwithstanding the provisions of the Foregoing regulations of this Part of these Regulations, a police officer shall perform such duties as may be assigned to him by his superiors in police rank, subject to the directions of the Inspector-General.

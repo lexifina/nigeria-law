@@ -1,0 +1,1 @@
+297. Inspector-General to be responsible for purchase of Force animals The Inspector-General, or such other officer as may be nominated by the Inspector- General for that purpose, shall be responsible for the purchase of animals for service with the Force.

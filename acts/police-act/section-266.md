@@ -1,0 +1,1 @@
+266. Station Officer 2 i/c to be Station Crime Duties Officer The Station Officer 2 i/C shall be responsible to the Station Officer for the perform- ance of the duties of officers in charge of Station Crime Duties.

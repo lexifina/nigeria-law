@@ -1,0 +1,1 @@
+248. Functions of the Nigeria Police School of Music It shall be the function of the Nigeria Police School of Music to prepare student bandsmen for the examination held under the auspices of the Royal School of Music or any other examination that may be specified by the Inspector-General.

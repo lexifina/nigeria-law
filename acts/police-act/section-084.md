@@ -1,0 +1,1 @@
+84. Recruitment officers may select candidates for entrance examination Recruitment officers may give directions to the Police Area Commanders within their jurisdiction as to the number of candidates that may be permitted to sit any particular entrance examination, and may specify by name the candidates who shall be permitted to sit the examination.

@@ -1,0 +1,1 @@
+342. Police officers to study first-aid Every police officer shall acquire a sound working knowledge of first-aid, and shall be required to obtain a pass in one of the recognised examinations in that subject.

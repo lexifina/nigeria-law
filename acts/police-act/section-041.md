@@ -1,0 +1,1 @@
+41. Appointment as cadet ASP restricted to general duties officers The appointments of cadet assistant superintendents of police shall be restricted to trainees destined for general duties appointments in the Force.

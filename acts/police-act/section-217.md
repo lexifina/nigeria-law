@@ -1,0 +1,1 @@
+217. Equivalent police ranks Without prejudice to the provisions of regulation 278, for pension and gratuity pur- poses and for purposes of discipline, a member of a Technical Branch in receipt of a sal- ary equivalent to that of a member of the General Duties Branch of the Force shall be deemed to hold equivalent rank with such member of the General Duties Branch.

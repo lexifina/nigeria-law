@@ -1,0 +1,1 @@
+130. Training course A recruit constable driver shall be required successfully to undergo a three-month training course in drill and general police duties at one of the police colleges in order to qualify for appointment as a constable driver.

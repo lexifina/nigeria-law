@@ -1,0 +1,1 @@
+3. Office of the Inspector-General to be deemed a Police Area Command For the purposes of these Regulations, the office of the Inspector-General shall be deemed to be a Police Area Command and may be referred to as Force Headquarters.

@@ -1,0 +1,1 @@
+90. Attestation of candidates Subject to the candidate having passed the medical examination, and further subject to his character referees and references having both proved satisfactory, the Police Area Commander shall attest the candidate in the prescribed form.

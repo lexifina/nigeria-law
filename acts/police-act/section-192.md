@@ -1,0 +1,1 @@
+192. ASP (Marine Branch) A Launch Master, Class I or Launch Chief Master, subject to his work and conduct being of the standard required, shall be eligible for consideration for promotion to the rank of assistant superintendent of police (Marine Branch).

@@ -1,0 +1,1 @@
+112. Sub-standard entrants Any member of the rank and file of the Force in respect of whom the prescribed qualifications required for candidates for enlistment in the Force are varied or dispensed with on enlistment shall be classified as a sub-standard entrant to the Force.

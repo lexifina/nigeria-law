@@ -1,0 +1,1 @@
+94. Call up of candidates Recruitment officers shall be responsible for the arranging for the call up for service of attested candidates deriving from their areas of responsibility, who are prima facie suitable for consideration for enlistment.

@@ -1,0 +1,1 @@
+334. Charge Room Officer not to leave Charge Room The Charge Room Officer shall not leave the police station precincts during his period of duty, and shall not leave the Charge Room except where his duties as Charge Room Officer require that he absents himself from the Charge Room for short periods, or where he is properly relieved of his duties as Charge Room Officer.

@@ -1,0 +1,1 @@
+147. Re-engagement of ex-member of the Force in certain cases Any ex-member of the Force who has been discharged from the Force for a period exceeding six months and who applies for re-enlistment to the Force, shall, subject to his being accepted for service, be re-enlisted in the Force in accordance with the procedures laid down for the enlistment of recruit constables.

@@ -1,0 +1,1 @@
+63. Probationary period (technical duties officers) An assistant superintendent of police on probation (technical duties) who is appointed on probation after a period of service on temporary terms, may become eligible to be con- firmed in his appointment on completion of two years' total service.

@@ -1,0 +1,1 @@
+347. Obedience to orders Every police officer shall carry out all lawful orders and shall at all times punctually and promptly perform all appointed duties and attend to all matters within the scope of his office.

@@ -1,0 +1,1 @@
+159. Reversion to previous rank A sub-inspector on trial who is reverted to his former rank before his promotion to the inspectorate rank shall re-enter the incremental scale of his former rank at the point he would normally have reached had he remained in that rank.

@@ -1,0 +1,1 @@
+390. Appellate authorities The appellate authorities for appeals against the findings and punishment awarded by delegated officers in respect of offences against discipline shall be in accordance with the Second Schedule.

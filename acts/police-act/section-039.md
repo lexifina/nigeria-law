@@ -1,0 +1,1 @@
+39. Direct entry appointments When vacancies in the establishment of assistant superintendents of police cannot, by reason of unavailability of suitable candidates, be filled by promotions from within the Force, the Inspector-General shall so inform the Nigeria Police Council, and may request it to arrange for the posts to be filled by direct entry.

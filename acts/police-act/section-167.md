@@ -1,0 +1,1 @@
+167. Promotion to the rank of corporal Subject to regulation 162 and except with the express approval of the Inspector- General, no constable shall be promoted to the rank of corporal unless he has served for a minimum period of five years in the rank of constable.

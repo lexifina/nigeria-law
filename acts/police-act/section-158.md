@@ -1,0 +1,1 @@
+158. Extension of trial period Only one period of extension of the trial period in respect of a sub-inspector may be granted and at the end of such period the appropriate commissioner of police shall make a final recommendation as to the sub-inspector's fitness for confirmation in rank.

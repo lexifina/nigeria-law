@@ -1,0 +1,1 @@
+88. Notification of success at the examination Recruitment officers shall forward to the Police Area Commanders concerned the names of the candidates who have passed the entrance examination, together with their Application to Enlist Forms suitably endorsed.

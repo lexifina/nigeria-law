@@ -1,0 +1,1 @@
+53. Appointment of cadet sub-inspector on probation A cadet sub-inspector who has successfully concluded the prescribed training course may be appointed by the Nigeria Police Council to the rank of sub-inspector on proba- tion.

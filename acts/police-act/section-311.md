@@ -1,0 +1,1 @@
+311. Orders relating to duty post not specified in regulations or standing orders Where the duties of a police officer holding a particular duty post are not prescribed by these Regulations or laid down in standing orders, it shall be the duty of the Inspector- General to prepare, or cause to be prepared, detailed orders governing the duties of that duty post.

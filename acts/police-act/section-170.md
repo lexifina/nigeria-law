@@ -1,0 +1,1 @@
+170. Probation for six months on promotions of corporal to sergeant A corporal promoted to the rank of sergeant shall be required to serve a probationary period of six months in the rank of sergeant before he is eligible for confirmation in that rank.

@@ -1,0 +1,1 @@
+410. Re-allocation of Force Numbers Any Force Number previously allocated to a promoted or discharged member of the Force shall not be re-allocated to any other member until the period of one year has elapsed subsequent to the relinquishment of the number by the previous holder.

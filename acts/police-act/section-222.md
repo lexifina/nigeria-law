@@ -1,0 +1,1 @@
+222. Establishment of the Police College Ikeja The Police College, Ikeja shall be established as the principal police training college of the Force, and shall be classified as a formation of Force Headquarters.

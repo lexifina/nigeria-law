@@ -1,0 +1,1 @@
+85. Candidates to be fingerprinted A candidate on presenting himself for an entrance examination, shall, before entering the examination room, have his identity checked and his fingerprints recorded on Form CRO 21A.

@@ -1,0 +1,1 @@
+341. Liability for misuse of powers In the individual exercise of his powers as a police officer, every police officer shall be personally liable for any misuse of his powers, or for any act done in excess of his authority.

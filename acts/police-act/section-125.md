@@ -1,0 +1,1 @@
+125. No special privileges to be granted to married women police A married woman police officer shall not be granted any special privileges by reason of the fact that she is married, and shall be subject to posting and transfer as if she were unmarried.

@@ -1,0 +1,1 @@
+238. Power to refuse application for engagement The President of a police band or corps of drums may refuse any application for the engagement of the services of the band or corps of drums and shall not be required to give any reason for the refusal to the person who made the application.

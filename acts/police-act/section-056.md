@@ -1,0 +1,1 @@
+56. Extension of training courses The Inspector-General may extend for a maximum period of three months the training period of any cadet police officer who has not reached the required standards at the com- pletion of the twelve or six months' training course respectively, but who shows promise of attaining such standards after a limited period of further training.

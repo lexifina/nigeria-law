@@ -1,0 +1,1 @@
+220. Salary on demotion of member of a technical branch In the event of a member of a Technical Branch being reduced in rank, he shall enter the salary scale applicable to the rank to which he is demoted at the point in the scale commensurate with his total service in the Force.

@@ -1,0 +1,1 @@
+86. Notification of failure at the examination In the case of a candidate who fails to pass the entrance examination the recruitment officer shall make an appropriate endorsement on the candidate's Application to Enlist Form and shall return the form to the Police Area Commander concerned, who shall no- tify the candidate in writing of his failure to pass the examination.

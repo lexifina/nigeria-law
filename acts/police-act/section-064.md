@@ -1,0 +1,1 @@
+64. Extension of probationary period In special circumstances, on the recommendation of the Inspector-General, the Nige- ria Police Council may grant an extension of the probationary period of any individual officer, with or without incremental penalty as the Council shall direct.
