@@ -1,0 +1,5 @@
+13. Other officers
+
+There shall be such other officers of the University as the Council may, from time to
+
+time, desire fit to appoint.
