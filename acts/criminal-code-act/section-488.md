@@ -1,0 +1,1 @@
+488. Impersonation of person named in a testimonial or character Any person who, with the purpose of obtaining any employment, alters any document of the nature of a testimonial or character given to another person, is guilty of a misdemeanor and is liable to imprisonment for one year.

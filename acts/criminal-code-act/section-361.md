@@ -1,0 +1,1 @@
+361. Abduction Any person who, with intent to marry or carnally know a female of any age, or to cause her to be married, or carnally known by any other person, takes her away, or detains her against her will, is guilty of a felony, and is liable to imprisonment for seven years.

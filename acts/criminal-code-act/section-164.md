@@ -1,0 +1,1 @@
+164. Wilful misdelivery of telegrams or postal matter Any person who, being charged by virtue of his employment or by virtue of any contract, with the delivery of any postal matter or telegram, wilfully delivers it to a person other than the person to whom it is addressed, or his authorised agent in that behalf, is guilty of a felony and is liable to imprisonment for three years.

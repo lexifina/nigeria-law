@@ -1,0 +1,1 @@
+23. Bona fide claim of right A person is not criminally responsible, as for an offence relating to property, for an act done or omitted to be done by him with respect to any property in the exercise of an honest claim of right and without intention to defraud.

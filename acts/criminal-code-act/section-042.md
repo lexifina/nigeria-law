@@ -1,0 +1,1 @@
+42. Promoting inter‐communal war Any person who, without lawful authority, carries on, or makes preparation for carrying on, or aids in or advises the carrying on of, or preparation for, any war or warlike undertaking with, for, by, or against, any traditional chief, or with, for, by, or against any band of citizens, is guilty of a felony and is liable to imprisonment for life.

@@ -1,0 +1,1 @@
+153. Offences after previous conviction Any person who commits any of the offences defined in sections 151 and 152 of this Code, after having been previously convicted of any of those offences committed with respect to current coin, or of any felony committed with respect to current coin, is guilty of a felony and is liable to imprisonment for life.

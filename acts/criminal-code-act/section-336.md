@@ -1,0 +1,1 @@
+336. Attempting to injure by explosive substances Any person who unlawfully, and with intent to do any harm to another, puts any explosive substance in any place whatever, is guilty of a felony and is liable to imprisonment for fourteen years.

@@ -1,0 +1,1 @@
+99. Extortion by public officers Any person who, being employed in the public service, takes, or accepts from any person, for the performance of his duty as such officer, any reward beyond his proper pay and emoluments, or any promise of such reward, is guilty of a felony and is liable to imprisonment for three years.

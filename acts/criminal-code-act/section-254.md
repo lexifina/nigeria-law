@@ -1,0 +1,1 @@
+254. Execution of sentence It is lawful for a person who is charged by law with the duty of executing or giving effect to the lawful sentence of a court (including a customary and an area court) to execute or give effect to that sentence.

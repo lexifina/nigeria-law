@@ -1,0 +1,1 @@
+406. Demanding property with menaces with intent to steal Any person who, with intent to steal anything, demands it from any person with threats of any injury or detriment of any kind to be caused to him, either by the offender or by any other person, if the demand is not complied with, is guilty of a felony and is liable to imprisonment for three years.

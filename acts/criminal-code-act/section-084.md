@@ -1,0 +1,1 @@
+84. Challenge to fight a duel Any person who challenges another to fight a duel, or attempts to provoke another to fight a duel, or attempts to provoke any person to challenge another to fight a duel, is guilty of a felony, and is liable to imprisonment for three years.

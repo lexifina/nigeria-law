@@ -1,0 +1,1 @@
+245. Fouling water Any person who corrupts or fouls the water of any spring, stream, well, tank, reservoir, or place, so as to render it less fit for the purpose for which it is ordinarily used, is guilty of a misdemeanor and is liable to imprisonment for six months.

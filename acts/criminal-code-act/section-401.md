@@ -1,0 +1,1 @@
+401. Definition of robbery Any person who steals anything and, at or immediately before or immediately after the time of stealing it, uses or threatens to use actual violence to any person or property in order to obtain or retain the thing stolen or to prevent or overcome resistance to its being stolen or retained, is said to be guilty of robbery.

@@ -1,0 +1,1 @@
+393. Concealing deeds Any person who, with intent to defraud, conceals the whole or part of any document which is evidence of title to any land or estate in land, is guilty of a felony and is liable to imprisonment for three years.

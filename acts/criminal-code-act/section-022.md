@@ -1,0 +1,1 @@
+22. Ignorance of law Ignorance of the law does not afford any excuse for any act or omission which would otherwise constitute an offence, unless knowledge of the law by the offender is expressly declared to be an element of the offence.

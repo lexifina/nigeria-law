@@ -1,0 +1,3 @@
+19. Forfeiture of bribes When any person is convicted of an offence under section 98, 98A, 98B, 99, 112, 117, 126, 128 or 494 of this Code, the court may, in addition to or in lieu of any penalty which may be imposed, order the forfeiture to the State of any property which has passed in connection with the commission of the offence or, if such property cannot be forfeited or cannot be found, of such sum as the court shall assess as the value of such property, and any property or sum so forfeited shall be dealt with in such manner as the Governor may direct. Payment of any sum so ordered to be forfeited may be enforced in the same manner and subject to the same incidents as in the case of the payment of a fine.
+
+[1960 No. 30. 1966 No. 84. 1960 No. 30. L.N. 112 of 1964.]

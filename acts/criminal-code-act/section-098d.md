@@ -1,0 +1,1 @@
+98D. Meaning of "public official" in sections 98 to 98B In sections 98 to 98B of this Code, "public official" means any person employed in the public service (within the meaning of that expression as defined in section 1 (i) or any judicial officer within the meaning of section 98C of this Code.

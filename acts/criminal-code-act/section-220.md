@@ -1,0 +1,1 @@
+220. Defence to charge under preceding section *It is a defence to a charge of any of the offences defined in section 219 of this Code to prove that the accused person believed, on reasonable grounds, that the girl was of or above the age of sixteen years.

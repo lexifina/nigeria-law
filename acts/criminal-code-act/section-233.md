@@ -1,0 +1,1 @@
+233. Knowledge of age immaterial Except as otherwise expressly stated, it is immaterial, in the case of any of the offences defined in this Chapter committed with respect to a woman or girl under a specified age, that the accused person did not know that the woman or girl was under that age or believed that she was not under that age.

@@ -1,0 +1,1 @@
+201. Neglect to aid in arresting offenders Any person who, having reasonable notice that he is required to assist any peace officer or member of the police force in arresting any person, or in preserving the peace, without reasonable excuse omits to do so, is guilty of a misdemeanour and is liable to imprisonment for one year.

@@ -1,0 +1,1 @@
+240B. Recovery of money paid for lottery tickets Any money or money's worth paid or deposited for or in respect of the purchase of a lottery ticket shall be recoverable as money had and received to the use of the person by whom the same was paid or deposited.

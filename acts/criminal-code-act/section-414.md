@@ -1,0 +1,1 @@
+414. Breaking into building with intent to commit felony Any person who breaks and enters a schoolhouse, shop, warehouse, store, office, or counting‐house, or a building which is adjacent to a dwelling‐house and occupied with it but is not part of it, with intent to commit a felony therein, is guilty of a felony and is liable to imprisonment for seven years.

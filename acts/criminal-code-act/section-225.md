@@ -1,0 +1,3 @@
+225. Abduction of girl under eighteen with intent to have carnal knowledge Any person who, with intent that an unmarried girl under the age of eighteen years may be unlawfully carnally known by any man, whether a particular man or not, takes her or causes her to be taken out of the custody or protection of her father or mother, or other person having the lawful care or charge of her, and against the will of such father or mother or other person, is guilty of a misdemeanour and is liable to imprisonment for two years.
+
+It is a defence to a charge of any of the offences defined in this section of this Code to prove that the accused person believed, on reasonable grounds, that the girl was of or above the age of eighteen years.

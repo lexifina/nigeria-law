@@ -1,0 +1,1 @@
+392. Concealing wills Any person who, with intent to defraud, conceals any testamentary instrument, whether the testator is living or dead, is guilty of a felony and is liable to imprisonment for fourteen years.

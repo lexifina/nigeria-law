@@ -1,0 +1,5 @@
+275. Preventing a breach of the peace It is lawful for any person who witnesses a breach of the peace to interfere to prevent the continuance or renewal of it, and to use such force as is reasonably necessary for such prevention and is reasonably proportioned to the danger to be apprehended from such continuance or renewal, and to detain any person who is committing or who is about to join in or to renew the breach of the peace for such time as may be reasonably necessary in order to give him into the custody of a peace officer or police officer.
+
+It is lawful for a peace officer or police officer who witnesses a breach of the peace, and for any person lawfully assisting him, to arrest any person whom he finds committing it, or whom he believes on reasonable grounds to be about to join or renew the breach of the peace.
+
+It is lawful for a peace officer or police officer to receive into custody and detain in custody any person given into his charge as having been a party to a breach of the peace by a person whom the peace officer or police officer believes, on reasonable grounds, to have witnessed the breach of the peace.

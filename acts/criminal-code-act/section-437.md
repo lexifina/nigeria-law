@@ -1,0 +1,3 @@
+437. Defence It is a defence to a charge of any of the offences defined in this Chapter to prove that the accused person, before being charged with the offence, and in consequence of the compulsory process of a court in any action or proceedings instituted in good faith by a party aggrieved, or in a compulsory examination or deposition before a court, disclosed on oath the act alleged to constitute the offence.
+
+A person is not entitled to refuse to answer any question or interrogatory in any civil proceeding in any court, on the ground that his doing so might tend to show that he had committed any such offence.

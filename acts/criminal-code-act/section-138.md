@@ -1,0 +1,1 @@
+138. Negligently permitting escape Any person who, being an officer of a prison, or a member of a police force, negligently permits a person within his lawful custody to escape, is guilty of a misdemeanour and is liable to imprisonment for two years.

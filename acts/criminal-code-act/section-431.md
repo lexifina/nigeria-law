@@ -1,0 +1,3 @@
+431. Unlawfully using animals or vehicles Any person who unlawfully uses a horse, mare, gelding, ass, mule, camel, ostrich, bull, cow, ox, ram, ewe, wether, goat, or pig, or the young of any such animal, or any cycle or other vehicle whatsoever without the consent of the owner, or of the person in lawful possession thereof, is guilty of a misdemeanor, and is liable to imprisonment for one year, or to a fine of forty naira for every animal or vehicle so used.
+
+The offender may be arrested without warrant by a police officer, or by the owner of the property in question, or his servant, or by any person authorised by such owner or servant.

@@ -1,0 +1,1 @@
+341. Abandoning or exposing children Any person who unlawfully abandons or exposes a child under the age of seven years, in such a manner that any grievous harm is likely to be caused to it, is guilty of a felony and is liable to imprisonment for five years.

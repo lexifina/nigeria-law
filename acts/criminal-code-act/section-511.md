@@ -1,0 +1,1 @@
+511. Punishment of attempts to commit simple offences Any person who attempts to commit a simple offence is liable, if no other punishment is provided, to one half of the greatest punishment to which an offender convicted of the offence which he attempted to commit is liable.

@@ -1,0 +1,1 @@
+477. Falsification of register Any person who, having the actual custody of any register or record kept by lawful authority, knowingly permits any entry which, in any material particular, is to his knowledge false, to be made in the register or record, is guilty of a felony and is liable to imprisonment for seven years.

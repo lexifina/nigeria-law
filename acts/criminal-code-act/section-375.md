@@ -1,0 +1,1 @@
+375. Publication of defamatory matter Subject to the provisions of this Chapter, any person who publishes any defamatory matter, is guilty of a misdemeanor and is liable to imprisonment for one year; and any person who publishes any defamatory matter knowing it to be false, is liable to imprisonment for two years.

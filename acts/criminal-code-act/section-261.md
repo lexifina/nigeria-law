@@ -1,0 +1,1 @@
+261. Force used in executing process or in arrest It is lawful for a person who is engaged in the lawful execution of any sentence, process or warrant, or in making any arrest, and for any person lawfully assisting him, to use such force as may be reasonably necessary to overcome any force used in resisting such execution or arrest.

@@ -1,0 +1,1 @@
+166. Secreting letters and telegrams Any person who wilfully secretes or detains any postal matter or telegram which is found by him, or which is wrongly delivered to him, and which, in either case, ought to his knowledge, to have been delivered to another person, is guilty of a misdemeanor and is liable to imprisonment for two years.

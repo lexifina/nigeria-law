@@ -1,0 +1,1 @@
+328. Killing unborn child Any person who, when a woman is about to be delivered of a child, prevents the child from being born alive by any act or omission of such a nature that, if the child had been born alive and had then died, he would be deemed to have unlawfully killed the child, is guilty of a felony and is liable to imprisonment for life.

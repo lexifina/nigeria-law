@@ -1,0 +1,1 @@
+47. Effect of proceeding under sections 44 and 45 A person who has been tried, and convicted or acquitted, on a charge of any of the offences defined in sections 44 and 45 of this Code, cannot be afterwards prosecuted for any other offence defined in this Chapter in respect of the same facts.

@@ -1,0 +1,1 @@
+80. Going armed so as to cause fear Any person who goes armed in public without lawful occasion in such a manner as to cause terror to any person is guilty of a misdemeanour and is liable to imprisonment for two years and his arms may be forfeited.

@@ -1,0 +1,1 @@
+395. Severing with intent to steal Any person who makes anything movable with the intent to steal it, is guilty of an offence and is liable to the same punishment as if he has stolen the thing after it had become movable.

@@ -1,0 +1,3 @@
+348. The like by engineers Any person who is an engineer, or one of the engineers, in charge of the machinery of a steam vessel at any time when any act is done or omitted to be done by any other person with respect to the machinery of the vessel, whereby the safety of any person on board the vessel is, or is likely to be endangered, is guilty of a simple offence and is liable to a fine of two hundred naira.
+
+It is a defence to a charge of the offence defined in this section of this Code to prove that the act or omission was done or made without the knowledge of the accused person, and without any neglect or default on his part.

@@ -1,0 +1,3 @@
+101. Public officers interested in contracts Any person who, being employed in the public service, knowingly acquires or holds, directly or indirectly, otherwise than as a member of a registered joint stock company consisting of more than twenty persons, a private interest in any contract or agreement which is made on account of the public service with respect to any matter concerning the department of the service in which he is employed, is guilty of a felony and is liable to imprisonment for three years and to be fined at the discretion of the court.
+
+The offender cannot be arrested without warrant.

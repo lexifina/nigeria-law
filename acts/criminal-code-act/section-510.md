@@ -1,0 +1,1 @@
+510. Punishment of attempts to commit misdemeanours Any person who attempts to commit a misdemeanor is liable, if no other punishment is provided, to a punishment equal to one half of the greatest punishment to which an offender convicted of the offence which he attempted to commit is liable.

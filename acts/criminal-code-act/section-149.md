@@ -1,0 +1,1 @@
+149. Clipping Any person who deals with any current gold or silver coin in such a manner as to diminish its weight with intent that when so dealt with it may pass as current gold or silver coin, is guilty of a felony and is liable to imprisonment for life.

@@ -1,0 +1,1 @@
+6. Contempt of court Nothing in this Act or in the Code shall affect the authority of courts of record to punish a person summarily for the offence commonly known as contempt of court; but so that a person cannot be so punished and also punished under the provisions of the Code for the same act or omission.

@@ -1,0 +1,1 @@
+144. Removing, etc., property under lawful seizure Any person who, when any property has been attached or taken under the process or authority of any court, knowingly, and with intent to hinder or defeat the attachment or process, receives, removes, retains, conceals, or disposes of such property, is guilty of a felony and is liable to imprisonment for three years.

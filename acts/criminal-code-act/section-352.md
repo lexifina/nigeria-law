@@ -1,0 +1,1 @@
+352. Assault with intent to commit unnatural offence Any person who assaults another with intent to have carnal knowledge of him or her against the order of nature is guilty of a felony and is liable to imprisonment for fourteen years.

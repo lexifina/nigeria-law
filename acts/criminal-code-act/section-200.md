@@ -1,0 +1,1 @@
+200. Neglect to aid in suppressing riot Any person who, having reasonable notice that he is required to assist any peace officer in suppressing a riot, without reasonable excuse omits to do so, is guilty of a misdemeanour and is liable to imprisonment for one year.

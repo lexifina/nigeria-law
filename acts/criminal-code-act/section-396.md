@@ -1,0 +1,1 @@
+396. Fraudulently dealing with minerals in mines Any person who takes, conceals, or otherwise disposes of, any ore of any metal or mineral in or about a mine, with intent to defraud any person, is guilty of a felony and is liable to imprisonment for three years.

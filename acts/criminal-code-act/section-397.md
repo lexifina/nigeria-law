@@ -1,0 +1,3 @@
+397. Bringing stolen goods into Nigeria Any person who, having at any place not in Nigeria obtained any property by any act which if it had been done in Nigeria would have constituted the offence of stealing, and which is an offence under the laws in force in the place where it was done, brings such property into the country, or has it in his possession in Nigeria, is guilty of an offence, and is liable to the same punishment as if he had stolen it in Nigeria;
+
+but so that the punishment does not exceed that which would be incurred for the same act under the laws in force in the place where the act by which he obtained the property was done.

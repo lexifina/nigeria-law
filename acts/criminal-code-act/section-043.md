@@ -1,0 +1,1 @@
+43. Time for proceeding in cases of treason, concealment of treason or promoting inter‐communal war A person cannot be tried for treason, or for any of the felonies defined in the three last preceding sections, unless the prosecution is commenced within two years after the offence is committed.

@@ -1,0 +1,1 @@
+31. Judicial officers Except as expressly provided by this Code, a judicial officer is not criminally responsible for anything done or omitted to be done by him in the exercise of his judicial functions, although the act done is in excess of his judicial authority or although he is bound to do the act omitted to be done.

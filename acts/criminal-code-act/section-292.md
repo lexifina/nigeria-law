@@ -1,0 +1,5 @@
+292. Defence of premises against trespassers: removal of disorderly persons It is lawful for a person who is in peaceable possession of any land, structure, vessel or place, or who is entitled to the control or management of any land, structure, vessel, or place, and for any person acting by his authority, to use such force as is reasonably necessary in order to prevent any person from wrongfully entering upon such land, structure, vessel, or place, or in order to remove therefrom a person who wrongfully remains therein, provided that he does not do harm to such person.
+
+It is lawful for a person who is in peaceable possession of any land, structure, vessel, or place, or who is entitled to the control or management of any land, structure, vessel, or place, and for any person acting by his authority, to use force in order to remove therefrom any person who conducts himself in a disorderly manner therein, provided that he does not do him harm.
+
+The term "place" includes any part of an enclosure or structure, whether separated from the rest of the enclosure or structure, by a partition, fence, rope, or any other means, or not.

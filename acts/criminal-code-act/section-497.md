@@ -1,0 +1,3 @@
+497. Court may deprive person of ownership If the owner of any animal is guilty of cruelty within the meaning of this Chapter to any animal, the court upon his conviction thereof, may if it thinks fit, in addition to any other punishment, deprive such person of the ownership of the animal, and may make such order as to the disposal of the animal as it may think fit:
+
+Provided that no order shall be made under this section of this Code, unless it is shown by evidence as to a previous conviction, or as to the character of the owner, or otherwise, that the animal, if left with the owner, is likely to be exposed to further cruelty.

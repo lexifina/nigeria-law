@@ -1,0 +1,1 @@
+415. Breaking into place of worship and committing felony Any person who breaks and enters a building ordinarily used for religious worship and commits a felony therein, or having committed a felony in any such building breaks out of it, is guilty of a felony and is liable to imprisonment for fourteen years.

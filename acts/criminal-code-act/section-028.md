@@ -1,0 +1,3 @@
+28. Insanity A person is not criminally responsible for an act or omission if at the time of doing the act or making the omission he is in such a state of mental disease or natural mental infirmity as to deprive him of capacity to understand what he is doing, or of capacity to control his actions, or of capacity to know that he ought not to do the act or make the omission.
+
+A person whose mind, at the time of his doing or omitting to do an act, is affected by delusions on some specific matter or matters, but who is not otherwise entitled to the benefit of the foregoing provisions of this section, is criminally responsible for the act or omission to the same extent as if the real state of things had been such as he was induced by the delusion to believe to exist.

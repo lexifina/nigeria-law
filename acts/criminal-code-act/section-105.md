@@ -1,0 +1,1 @@
+105. False certificates by public officers Any person who, being authorised or required by law to give any certificate touching any matter by virtue whereof the rights of any person may be prejudicially affected, gives a certificate which is, to his knowledge, false in any material particular, is guilty of a felony and is liable to imprisonment for three years.

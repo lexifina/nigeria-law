@@ -1,0 +1,3 @@
+432. Suspicion of stealing animals When any horse, mare, gelding, ass, mule, camel, ostrich, bull, cow, ox, ram, ewe, wether, goat, or pig, or the young of any of such animal is suspected, on reasonable grounds, to have been stolen, any person in whose possession or custody the skin, feathers or carcass, or any part of the skin or carcass, of the animal or bird so suspected to have been stolen, is found, is guilty of an offence, unless he proves that he came lawfully by the thing in question; and he is liable to a fine of one hundred naira.
+
+The offender may be arrested without warrant by a police officer, or by the owner of the property in question, or his servant, or by any person authorised by such owner or servant.

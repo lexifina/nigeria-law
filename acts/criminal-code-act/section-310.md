@@ -1,0 +1,1 @@
+310. Causing death by threats A person who, by threat or intimidation or by deceit, causes another person to do an act or make an omission which results in the death of that other person, is deemed to have killed him.

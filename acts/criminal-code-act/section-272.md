@@ -1,0 +1,3 @@
+272. Other cases of preventing escape from arrest When a person who is not a peace officer or police officer is proceeding lawfully to arrest, without warrant, another person for an offence which is such that the offender may be arrested without warrant, and when any person is proceeding lawfully to arrest another person for any cause other than such an offence, and, in either case, the person sought to be arrested takes to flight in order to avoid arrest, it is lawful for the person seeking to arrest him to use such force as may be reasonably necessary to prevent his escape.
+
+But this section of this Code does not authorise the use of force which is intended or is likely to cause death or grievous harm.

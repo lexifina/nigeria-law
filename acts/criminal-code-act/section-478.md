@@ -1,0 +1,1 @@
+478. Sending false certificate of marriage to registrar Any person who signs or transmits to a person authorised by law to register marriages, a certificate of marriage, or any document purporting to be a certificate of marriage, which in any material particular is to his knowledge false, is guilty of a felony and is liable to imprisonment for seven years.

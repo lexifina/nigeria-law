@@ -1,0 +1,1 @@
+362. Abduction of girls under sixteen Any person who unlawfully takes an unmarried girl under the age of sixteen years out of the custody or protection of her father or mother or other person having the lawful care or charge of her, and against the will of such father or mother or other person, is guilty of a misdemeanor, and is liable to imprisonment for two years.

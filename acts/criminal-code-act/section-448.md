@@ -1,0 +1,1 @@
+448. Attempts to cast away ships Any person who attempts unlawfully to cast away or destroy a vessel, whether completed or not, or attempts unlawfully to do any act tending to the immediate loss or destruction of a vessel in distress, is guilty of a felony and is liable to imprisonment for fourteen years.

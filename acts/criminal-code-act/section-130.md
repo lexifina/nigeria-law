@@ -1,0 +1,1 @@
+130. Delay to take person arrested before a court Any person who, having arrested another upon a charge of an offence, wilfully delays to take him before a court to be dealt with according to law, is guilty of a misdemeanour and is liable to imprisonment for two years.

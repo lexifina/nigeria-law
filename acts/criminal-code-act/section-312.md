@@ -1,0 +1,1 @@
+312. When injury or death might be prevented by proper precaution When a person causes bodily injury to another from which death results, it is immaterial that the injury might have been avoided by proper precaution on the part of the person injured, or that his death from that injury might have been prevented by proper care or treatment.

@@ -1,0 +1,1 @@
+471. Procuring execution of documents by false pretences Any person who, by means of any false and fraudulent representation as to the nature, contents, or operation, of a document, procures another to sign or execute the document, is guilty of an offence of the same kind and is liable to the same punishment as if he had forged the document.

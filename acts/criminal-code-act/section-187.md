@@ -1,0 +1,1 @@
+187. Violation of secrecy Any telegraph official who, contrary to his duty, publishes or communicates the contents or substance of a telegram, or any information relating to the despatch or receipt of any telegram, except to some person to whom he is authorised to deliver the telegram, is guilty of a felony and is liable to imprisonment for three years.

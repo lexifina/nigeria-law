@@ -1,0 +1,9 @@
+12. Application of code as to offences wholly or partially committed in Nigeria Where by the provisions of any Federal law the doing of any act or the making of any omission constituted an offence, those provisions shall apply to every person who is in Nigeria at the time of his doing the act or making the omission.
+
+With regard to such offences which are of such a nature that they comprise several elements, if any acts or omissions or events actually occur, which, if they all occurred in Nigeria, would constitute an offence and any of such acts or omissions or events occur in Nigeria, although all or some of the other acts or omissions or events which, if they occurred in Nigeria, would be elements of the offence occur elsewhere than in Nigeria; then‐
+
+(1) if the act or omission, which in the case of an offence wholly committed in Nigeria would be the initial element of the offence, occurs in Nigeria, the person who does that act or makes that omission is guilty of an offence of the same kind and is liable to the same punishment, as if all the subsequent elements of the offence had occurred in Nigeria; and
+
+(2) if that act or omission occurs elsewhere than in Nigeria, and the person who does that act or makes that omission afterwards comes into Nigeria, he is by such coming into Nigeria guilty of an offence of the same kind, and is liable to the same punishment, as if that act or omission had occurred in Nigeria and he had been in Nigeria when it occurred.
+
+But in any such case it is a defence to the charge to prove that the accused person did not intend that the act or omission should have effect in Nigeria. This section does not extend to a case in which the only material event that occurs in Nigeria is the death in Nigeria of a person whose death is caused by an act, done or omitted to be done, at a place not in Nigeria and at a time when he was not in Nigeria.

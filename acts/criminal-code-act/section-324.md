@@ -1,0 +1,1 @@
+324. Conspiring to murder Any person who conspires with any other person to kill any person, whether such person is in Nigeria or elsewhere, is guilty of a felony and is liable to imprisonment for fourteen years.

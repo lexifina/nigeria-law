@@ -1,0 +1,1 @@
+354. Assaults on person protecting wrecks Any person who unlawfully assaults and uses actual violence to a peace officer or any other person while acting in the execution of his duty in or concerning the preservation of a vessel in distress, or of any vessel or goods wrecked or stranded or lying under water, is guilty of a felony and is liable to imprisonment for seven years.

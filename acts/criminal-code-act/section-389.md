@@ -1,0 +1,1 @@
+389. Husband and wife A person who, while a man and his wife are living together, procures either of them to deal with anything which is, to his knowledge, the property of the other in a manner which would be stealing, if they were not married, is deemed to have stolen the thing, and may be charged with stealing it.

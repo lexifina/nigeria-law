@@ -1,0 +1,1 @@
+337. Maliciously administering poison with intent to harm Any person who unlawfully, and with intent to injure or annoy another, causes any poison or other noxious thing to be administered to, or taken by, any person, and thereby endangers his life, or does him some grievous harm, is guilty of a felony and is liable to imprisonment for fourteen years.

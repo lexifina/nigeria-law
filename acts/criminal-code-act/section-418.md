@@ -1,0 +1,1 @@
+418. Definition Any representation made by words, writing, or conduct, of a matter of fact, either past or present, which representation is false in fact and which the person making it knows to be false or does not believe to be true, is a false pretence.

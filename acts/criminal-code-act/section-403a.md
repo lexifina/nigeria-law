@@ -1,0 +1,1 @@
+403A. Conspiracy to commit robbery Any person who conspires with any person to commit an offence under section 402 of this Code, whether or not he is present when the offence is committed or attempted to be committed, shall be deemed to be guilty of the offence as a principal offender and shall be punished accordingly.

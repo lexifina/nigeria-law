@@ -1,0 +1,1 @@
+277. Suppression of riot by peace officers It is lawful for a peace officer to use or order to be used such force as he believes, on reasonable grounds, to be necessary in order to suppress a riot, and is reasonably proportioned to the danger which he believes, on reasonable grounds, is to be apprehended from its continuance.

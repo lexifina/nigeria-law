@@ -1,0 +1,1 @@
+208. Directing, etc., unlawful trial by ordeal Any person who directs or controls or presides at any trial by ordeal which is unlawful, is guilty of a felony and is liable, when the trial which such person directs, controls or presides at results in the death of any party to the proceeding, to the punishment of death and m every other case, to imprisonment for ten years.

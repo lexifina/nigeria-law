@@ -1,0 +1,1 @@
+394. Killing animals with intent to steal Any person who kills any animal capable of being stolen with intent to steal the skin or carcass, or any part of the skin or carcass, is guilty of an offence and is liable to the same punishment as if he had stolen the animal.

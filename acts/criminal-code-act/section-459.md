@@ -1,0 +1,1 @@
+459. Obstructing railways Any person who, by any unlawful act, or by any intentional omission to do any act which it is his duty to do, causes any engine or vehicle in use upon a railway to be obstructed in its passage on the railway, is guilty of a misdemeanor and is liable to imprisonment for two years.

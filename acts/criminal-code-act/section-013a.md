@@ -1,0 +1,1 @@
+13A. Offences against State laws procured, etc., outside the State The provisions of section 13 shall apply in relation to offences against a law of the State as they apply in relation to offences against a Federal law but as if references to Nigeria were references to the State.

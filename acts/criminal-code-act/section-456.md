@@ -1,0 +1,1 @@
+456. Communicating infectious diseases to animals Any person who wilfully and unlawfully causes, or is concerned in causing, or attempts to cause, any infectious disease to be communicated to or among any animal or animals capable of being stolen, is guilty of a felony and is liable to imprisonment for seven years.

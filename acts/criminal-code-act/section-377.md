@@ -1,0 +1,1 @@
+377. Publication of truth for public benefit The publication of defamatory matter is not an offence if the publication is, at the time it is made, for the public benefit and if the defamatory matter is true.

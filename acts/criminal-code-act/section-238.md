@@ -1,0 +1,1 @@
+238. Indemnity of witnesses Any person who shall be called to give evidence against any other person charged under the provisions of section 236 of this Code shall be freed from all criminal prosecution in respect of the offence with which such other person is charged or any other offence under section 236 of this Code.

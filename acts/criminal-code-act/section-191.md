@@ -1,0 +1,3 @@
+191. False statements in statements required to be under oath or solemn declaration Any person who, on any occasion on which a person making a statement touching any matter is required by law to make it on oath, or under some sanction which may by law be substituted for an oath, or is required to verify it by solemn declaration or affirmation, makes a statement touching such matter which, in any material particular, is to his knowledge false, and verifies it on oath, or under such other sanction or by solemn declaration or affirmation, is guilty of a felony and is liable to imprisonment for seven years.
+
+The offender cannot be arrested without warrant.

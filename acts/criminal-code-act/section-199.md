@@ -1,0 +1,1 @@
+199. Neglect of peace officer to suppress riot Any person who, being a peace officer and having notice that there is a riot in his neighbourhood, without reasonable excuse omits to do his duty in suppressing such riot, is guilty of a misdemeanour and is liable to imprisonment for two years.

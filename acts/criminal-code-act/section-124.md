@@ -1,0 +1,1 @@
+124. Preventing witnesses from attending Any person who wilfully prevents or attempts to prevent any person who has been duly summoned to attend as a witness before any court or tribunal from attending as a witness or from producing anything in evidence pursuant to the subpoena or summons, is guilty of a misdemeanour and is liable to imprisonment for one year.

@@ -1,0 +1,3 @@
+259. Arrest of wrong person A person who, being duly authorised to execute a warrant to arrest one person, arrests another person, believing in good faith and on reasonable grounds that the person arrested is the person named in the warrant, is not criminally responsible for doing so to any greater extent than if the person arrested had been the person named in the warrant.
+
+Any person who lawfully assists in making such an arrest believing that the person arrested is the person named in the warrant, or who, being required by the warrant to receive and detain the person named in it, receives and detains the person so arrested, is not criminally responsible for doing so to any greater extent than if the person arrested had been the person named in the warrant.

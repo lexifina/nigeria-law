@@ -1,0 +1,1 @@
+475. Purchasing forged bank notes Any person who, without lawful authority or excuse, the proof of which lies on him, purchases or receives from any person, or has in his possession, a forged bank note, whether filled up or in blank, knowing it to be forged, is guilty of a felony and is liable to imprisonment for seven years.

@@ -1,0 +1,1 @@
+459B. Trespass on aerodrome Any person who commits any nuisance or trespass in or upon any aerodrome or in or upon any building or premises situated on any aerodrome, is guilty of a simple offence and IS liable to imprisonment for three months or to a fine of forty naira.

@@ -1,0 +1,1 @@
+329. Concealing the birth of children Any person who, when a woman is delivered of a child, endeavours, by any secret disposition of the dead body of the child, to conceal the birth, whether the child died before, at or after its birth, is guilty of a misdemeanor and is liable to imprisonment for two years.

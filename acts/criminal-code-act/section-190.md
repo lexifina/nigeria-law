@@ -1,0 +1,1 @@
+190. False declaration as to execution of sentence of death Any person who subscribes a certificate or declaration as to the execution of a sentence of death, which, in any material particular, is to his knowledge false, is guilty of a felony and is liable to imprisonment for fourteen years.

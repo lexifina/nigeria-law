@@ -1,0 +1,3 @@
+340. Endangering life or health of apprentices or servants Any person who, being charged as a master or mistress with the duty of providing necessary food, clothing, or lodging, for a servant or apprentice under the age of sixteen years, unlawfully fails to perform that duty, or in any other manner does any harm or causes any harm to be done to such servant or apprentice, whereby, in either case, the life of such servant or apprentice is or is likely to be endangered, or his health is likely to be permanently injured, is guilty of a felony and is liable to imprisonment for three years.
+
+The offender cannot be arrested without warrant.

@@ -1,0 +1,1 @@
+181. Obstructing post and telegraph offices Any person who, by stopping or loitering opposite to or on the premises of a post office or telegraph office, obstructs the business of the office or any other person lawfully going to the office, is guilty of a simple offence and is liable to a fine of ten naira.

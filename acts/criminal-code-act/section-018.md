@@ -1,0 +1,1 @@
+18. Caning for male persons under seventeen Whenever a male person who, in the opinion of the court, has not attained seventeen years of age, has been found guilty of any offence the court may, in its discretion, order him to be caned in addition to or in substitution for any other punishments to which he is liable.

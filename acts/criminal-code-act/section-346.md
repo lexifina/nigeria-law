@@ -1,0 +1,1 @@
+346. Endangering safety of persons travelling by railway Any person who, by any unlawful act, or by any omission to do any act which it is his duty to do, causes the safety of any person travelling by any railway to be endangered, is guilty of a misdemeanor and is liable to imprisonment for two years.

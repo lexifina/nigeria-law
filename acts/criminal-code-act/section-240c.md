@@ -1,0 +1,1 @@
+240C. Contracting for sale of lottery ticket void Every sale or contract for the sale of a lottery ticket is hereby declared to be void, and no action shall be maintainable by any person in respect of any such sale or contract, except by the purchaser for the return of the money or other consideration (if any) paid thereon.

@@ -1,0 +1,1 @@
+416. Breaking into place of worship with intent to commit felony Any person who breaks and enters a building ordinarily used for religious worship, with intent to commit a felony therein, is guilty of a felony and is liable to imprisonment for seven years.

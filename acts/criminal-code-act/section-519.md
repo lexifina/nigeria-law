@@ -1,0 +1,1 @@
+519. Accessories after the fact to felonies Any person who becomes an accessory after the fact to a felony is guilty of a felony and is liable, if no other punishment is provided, to imprisonment for two years.

@@ -1,0 +1,3 @@
+466. Certain matters immaterial In the case of an offence which involves the forging or uttering of a document or writing relating to the payment of money, or to the delivery or transfer of any property, or to the creation or performance of any obligation, it is immaterial in what country the money or property is, or purports to be, payable, deliverable, or transferable, or the obligation is or purports to be, an obligation to be performed; and, if the money or the property purports to be payable, deliverable or transferable or the obligation purports to be an obligation to be performed in some country out of Nigeria, it is immaterial whether the document or writing is under seal or not.
+
+CHAPTER 44 Punishment of forgery and like offences

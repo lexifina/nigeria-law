@@ -1,0 +1,3 @@
+33. Compulsion of husband A married woman is not free from criminal responsibility for doing or omitting to do an act merely because the act or omission takes place in the presence of her husband.
+
+But a wife of a Christian marriage is not criminally responsible for doing or omitting to do an act which she is actually compelled by her husband to do or omit to do, and which is done or omitted to be done in his presence, except in the case of an act or omission which would constitute an offence punishable with death, or an offence of which grievous harm to the person of another, or an intention to cause such harm, is an element, in which case the presence of her husband is immaterial.

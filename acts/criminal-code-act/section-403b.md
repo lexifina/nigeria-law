@@ -1,0 +1,3 @@
+403B. Definition of firearms and offensive weapons For the purposes of sections 402, 403 and 403A of this Code‐ "firearms" includes any canon, gun, flint‐lock gun, revolver, pistol, explosive or ammunition or other firearm, whether whole or in detached pieces;
+
+"offensive weapon" means any article, apart from a firearm, made or adapted for use for causing injury to the person or intended by the person having it for such use by him and it includes an air gun, air pistol, bow and arrow, spear, cutlass, matchet, dagger, cudgel, or any piece of wood, metal, glass or stone capable of being used as an offensive weapon.

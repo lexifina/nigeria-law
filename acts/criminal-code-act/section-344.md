@@ -1,0 +1,1 @@
+344. Negligent acts causing harm Any person who unlawfully does any act, or omits to do any act which it is his duty to do, not being an act or omission specified in section 343 of this Code, by which act or omission harm is caused to any person, is guilty of a misdemeanor and is liable to imprisonment for six months.

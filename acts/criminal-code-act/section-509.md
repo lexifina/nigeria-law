@@ -1,0 +1,3 @@
+509. Punishment of attempts to commit felonies Any person who attempts to commit a felony of such a kind that a person convicted of it is liable to the punishment of death or of imprisonment for a term of fourteen years or upwards, with or without other punishment, is guilty of a felony and is liable, if no other punishment is provided, to imprisonment for seven years.
+
+Any person who attempts to commit a felony of any other kind is liable, if no other punishment is provided, to a punishment equal to one half of the greatest punishment to which an offender convicted of the felony which he attempted to commit is liable.

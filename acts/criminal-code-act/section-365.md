@@ -1,0 +1,1 @@
+365. Deprivation of liberty Any person who unlawfully confines or detains another in any place against his will, or otherwise unlawfully deprives another of his personal liberty, is guilty of a misdemeanor and is liable to imprisonment for two years.

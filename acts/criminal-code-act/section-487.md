@@ -1,0 +1,3 @@
+487. Lending, etc., certificate for impersonation Any person who, being a person to whom any document has been issued by lawful authority whereby he is certified to be a person possessed of any qualification recognised by law for any purpose, or to be the holder of any office, or to be entitled to exercise any profession, trade, or business, or to be entitled to any right or privilege, or to enjoy any rank or status, sells, gives or lends the document to another person with intent that that other person may represent himself to be the person named therein, is guilty of a felony and is liable to imprisonment for three years.
+
+The offender cannot be arrested without warrant.

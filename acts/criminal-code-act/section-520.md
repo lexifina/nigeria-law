@@ -1,0 +1,1 @@
+520. Accessories after the fact to misdemeanours Any person who becomes an accessory after the fact to a misdemeanor, is guilty of a misdemeanor and is liable to a punishment equal to one half of the greatest punishment to which the principal offender is liable on conviction.

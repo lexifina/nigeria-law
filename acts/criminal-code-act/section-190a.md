@@ -1,0 +1,1 @@
+190A. False statements in application for passports Any person who for the purpose of procuring a passport, whether for himself or any other individual, makes or causes to be made in any written application to a public officer a statement which to the knowledge of such person is false in any material particular, is guilty of an offence and is liable to imprisonment for one year.

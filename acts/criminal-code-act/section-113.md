@@ -1,0 +1,1 @@
+113. Definition of judicial proceeding In this Chapter, the term "judicial proceeding" includes any proceeding had or taken in or before any court, tribunal, commission of inquiry, or person, in which evidence mayor may not be taken on oath.
