@@ -1,0 +1,7 @@
+33. Statement of case pending arbitration
+
+A referee or arbitrator may at any stage of the proceedings under a reference, and
+
+shall, if so directed by the Court, state in the form of a special case for the opinion of the
+
+Court any question of law arising in the course of the reference.
