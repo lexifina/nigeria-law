@@ -1,0 +1,3 @@
+2. Short title
+
+This Act may be cited as the Saving Bonds and Certificates Act.
