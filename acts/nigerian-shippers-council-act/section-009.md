@@ -1,0 +1,3 @@
+9. Regulations
+
+The Minister may make regulations generally for carrying into effect the provisions of this Act.
