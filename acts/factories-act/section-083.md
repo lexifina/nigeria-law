@@ -1,0 +1,1 @@
+83. General application Except as in this Act otherwise expressly provides, the provision of this Act shall apply only to factories, as defined by this Act, but shall, except where the contrary intention appears, apply to all such factories.

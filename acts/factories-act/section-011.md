@@ -1,0 +1,1 @@
+11. Drainage of floors Where any process is carried on which renders the floor liable to be wet to such an extent that the wet is capable of being removed by drainage, effective means shall be provided and maintained for draining of the wet.

@@ -1,0 +1,1 @@
+1. Register of factories The Director of Factories shall keep a register of factories in which he shall cause to be entered such particulars in relation to every factory required to be registered under this Act, as he may consider necessary or desirable.

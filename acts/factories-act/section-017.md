@@ -1,0 +1,5 @@
+17. Other machinery
+
+(1) Every dangerous part of any machinery, other than prime movers and transmission machinery, shall be securely fenced unless it is in such a position or of such construction as to be as safe to every person employed or working on the premises as it would be if securely fenced, provided that, in so far as the safety of a dangerous part of any machinery cannot by reason of the nature of the operation be secured by means of a fixed guard, the requirements of this subsection shall be deemed to have been complied with if a device is provided which in the opinion of the Director of Factories satisfactorily protects the operator or other persons from coming into contact with this part.
+
+(2) Any part of a stock‐bar which projects beyond the headstock of a lathe shall be securely fenced unless it is in such a position as to be as safe to every person employed or working on the premises as it would be if securely fenced.

@@ -1,0 +1,1 @@
+46. Meals in certain dangerous places Where in any room any poisonous or otherwise injurious substance is so used as to give rise to any dust, or fume, no person shall be permitted to partake of food or drink in that room.

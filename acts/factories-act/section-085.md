@@ -1,0 +1,1 @@
+85. Power to exempt in cases of emergency In case of any public emergency the President may, by order to the extent and during the period named in the order, exempt from this Act either factories generally or any class or description of factory.

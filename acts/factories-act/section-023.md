@@ -1,0 +1,5 @@
+23. Training and supervision of inexperienced workers No person shall be employed at any machine or in any process, being a machine or process liable to cause bodily injury, unless he has been fully instructed as to the dangers likely to arise in connection therewith and the precautions to be observed, and‐
+
+(a) has received a sufficient training to work at the machine or in the process; or
+
+(b) is under adequate supervision by a person who has a thorough knowledge and experience of the machine or process.

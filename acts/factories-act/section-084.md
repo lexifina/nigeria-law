@@ -1,0 +1,1 @@
+84. Application to factories belonging to the Government of the Federation or States This Act shall apply to factories belonging to or in the occupation of the Government of the Federation or of a State.

@@ -1,0 +1,1 @@
+47. Protective clothing and appliances Where in any factory workers are employed in any process involving excessive exposure to wet or to injurious or offensive substance, suitable protective clothing and appliances, including, where necessary, suitable gloves, footwear, goggles and head coverings, shall be provided and maintained for the use of such workers.
