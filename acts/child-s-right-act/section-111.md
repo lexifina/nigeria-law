@@ -1,0 +1,1 @@
+111. Effect of fostering on maintenance order Where at the time a fostering order is made in respect of a child, an order requiring a person to contribute towards the maintenance of that child under this Act is in force, the fostering order shall prevail.

@@ -1,0 +1,1 @@
+255. Facilities for observation of children in approved institutions The Minister shall cause to be provided in approved institutions facilities for the observation of any child or youth detained therein on whose physical or mental condition a medical report is required for the assistance of a Court in determining the most suitable method of dealing with this case.

@@ -1,0 +1,1 @@
+244. Supervision officer may be relieved of duties The person named in a supervision order may at any time be relieved or his duties as specified in Section 250 of this Act, and where the person is relieved of his duties or he dies, another person may be substituted by the Court before which the offender is bound by his recognisance to appear to be further dealt with.

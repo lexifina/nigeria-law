@@ -1,0 +1,1 @@
+109. Appeal An appeal shall lie to the Court at High Court level from the Court at the Magisterial level in respect of a decision on an application for a fostering order other than a decision to postpone the determination of an application for the order or to make an interim order.

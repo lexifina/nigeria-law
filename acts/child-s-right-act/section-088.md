@@ -1,0 +1,1 @@
+88. Disputes between joint guardians Where two or more persons act as joint guardians of a child and they are unable to agree on any question affecting the welfare of the child, any of them may apply to the Court for its direction, and the court may make an order regarding the question in dispute.

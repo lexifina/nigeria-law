@@ -1,0 +1,1 @@
+258. Release and supervision after training at the Children Centre Subject to the provisions of section 257 of this Act, a child ordered to be detained in a Children correctional Centre shall, after his release from the Children Centre, be subject to supervision in accordance with the provisions of section 259 of this Act.

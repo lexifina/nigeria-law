@@ -1,0 +1,1 @@
+158. Proceedings to be in the interest of the child The proceedings in the Court shall be conducive to the best interest of the child and shall be conducted in atmosphere of understanding; allowing the child to express himself and participate in the proceedings.

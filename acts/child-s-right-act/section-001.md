@@ -1,0 +1,1 @@
+1. Best interest of a Child to be of paramount consideration in all actions In every action concerning a child, whether undertaken by an individual, public or private body, institutions or service, court of law, or administrative or legislative authority, the best interest of the child shall be the primary consideration.

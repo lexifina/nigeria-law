@@ -1,0 +1,1 @@
+78. Notice of change of address by person ordered to pay money A person who for the time being is under an obligation to make payment in pursuance of an order for the payment of money under this Act shall give notice of any change in his address to the person if any as may be specified in the order.

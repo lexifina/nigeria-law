@@ -1,0 +1,1 @@
+146. Recognition of other adoption Where a person has been adopted under any law in force in any Part of Nigeria, or under the law of any other country other than Nigeria, the adoption shall have the likely validity and effect as if the adoption has been effected by an adoption order under this Act.

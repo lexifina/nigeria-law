@@ -1,0 +1,1 @@
+21. Prohibition of child marriage No person under the age of 18 years is capable of contracting a valid marriage, and accordingly a marriage so contracted is null and void and of no effect whatsoever.

@@ -1,0 +1,1 @@
+149. Establishment of the Family Court There shall be established for each State of the Federation and the Federal Capital Territory, Abuja a court to be known as the Family Court (in this Act referred to as the Court) for the purposes of hearing and determining matters relating to children.

@@ -1,0 +1,1 @@
+75. Power of Court to consult child’s wishes Nothing contained in sections 72, 73 ,and 74 of this Act interferes with, or affects, power of the Court to consult the wishes of the child in considering what order ought to be made under section 74, of this Act or diminishes the right which any child, has to exercise on his own free choice,

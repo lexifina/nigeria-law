@@ -1,0 +1,1 @@
+6. Freedom of association and peaceful assembly Every child has a right to freedom of association and peaceful assembly in conformity with the law and in accordance with the necessary guidance and directions of his parents or guardians.

@@ -1,0 +1,1 @@
+204. Child to be subjected to only child justice system and processes No child shall be subjected to the criminal justice process or to criminal sanctions, but a child alleged to have committed an act which would constitute a criminal offence if he were an adult shall be subjected only to the child justice system and processes set out in this Act.

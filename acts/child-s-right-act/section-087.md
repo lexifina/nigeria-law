@@ -1,0 +1,1 @@
+87. Power of a guardian over estate of a child A guardian under this Act shall have all such powers over the estate, as the case may be, of a child as a guardian appointed by will or otherwise by virtue of the rules of common law, equity, or appropriate personal law.

@@ -1,0 +1,1 @@
+70. Orders as to custody No agreement contained in any separation deed made between the father and mother of a child shall, be invalid by reason only of its providing that the father of the child gives up the custody or control of the child to the mother.

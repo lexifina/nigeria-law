@@ -1,0 +1,1 @@
+275. Delegation of powers by the Minister The Minister may, by order published in the Gazette, delegate any of his powers under this Act, other than the power to make regulations, to the appropriate Commissioners in the States.

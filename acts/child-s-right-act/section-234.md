@@ -1,0 +1,1 @@
+234. Assistance during rehabilitation A child in respect of whom an order referred to in section 227 of this Act is made, shall be provided, where appropriate, with necessary assistance, including accommodation, education or vocational training, employment and any other helpful and practical assistance, during the period the order is in force.

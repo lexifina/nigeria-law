@@ -1,0 +1,1 @@
+231. Apprehension without warrant A child shall, whilst he is detained in or on leave from an approved institution in accordance with the provisions of this Act and also being conveyed to or from the institution, be deemed to be in legal custody an if the child escapes, he may be apprehended without Warrant and brought back to the approved institution.

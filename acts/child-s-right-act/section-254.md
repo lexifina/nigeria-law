@@ -1,0 +1,1 @@
+254. Appointment of voluntary visitors The Director or Comptroller‐General, as the case may be, may authorise such persons as he may, think fit as voluntary visitors to carry out such functions and duties in relation to approved institutions as may be prescribed.

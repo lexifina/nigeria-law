@@ -1,0 +1,1 @@
+127. Religious upbringing of adopted child The Court shall, in placing a child for adoption, have regard as far as is practicable to the wishes, if any, of the parents or guardian of the child as to the religious upbringing of the child.
