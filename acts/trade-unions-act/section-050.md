@@ -1,0 +1,1 @@
+50. General penalty for offences against this Act Every person or body declared by any provision of this Act to be guilty of an offence against this Act shall, if no other penalty for that offence is prescribed in this Act, be li- able on summary conviction to a tine of#50.

@@ -1,0 +1,3 @@
+20. Membership of persons under 21 years of age (I) A person under the age of sixteen shall not be capable of being a member of a trade union, and a person under the age of 21 shall not be capable of being an official of a trade union.
+
+(2) A person of or above the age of sixteen but under the age of 21 may be a member of a trade union unless the rules of the union provide otherwise, and subject to subsec- tion (I) of this section, and to the rules of the union, may enjoy all the rights ofa member and may effectually sign any agreement or other document and give any receipt which may be required to be signed or given by the rules of the union for the purpose of this Act or the Regulations.
