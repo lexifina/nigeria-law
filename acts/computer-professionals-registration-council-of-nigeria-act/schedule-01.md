@@ -1,0 +1,85 @@
+SCHEDULES
+
+FIRST SCHEDULE
+
+[Section 4 (2).]
+
+Supplementary provisions relating to the Council, qualifications and
+
+tenure of office of members
+
+1. (1) Subject to the provisions of this paragraph, a member of the Council shall hold office for a period of two years beginning with the date of his appointment or election.
+
+(2) In the case of a person who is a member by virtue of having been President of the Association, he shall hold office for a period of two years from the date of his having ceased to be President of the Association.
+
+(3) Any member of the Association who ceases to be a member thereof shall, if he is also a member of the Council, cease to hold office on the Council.
+
+(4) Any elected member may, by notice in writing under his hand addressed to the President of the Council, resign his office, and any appointed member may, with the consent of the Minister, in the same manner resign his office.
+
+(5) A person who retires from or otherwise ceases to be an elected member of the Council shall be eligible again to become a member of the Council in another capacity and any appointed member may be re-appointed.
+
+(6) A person who ceases to be an elected member of the Council shall be eligible again to be a member of the Council for one more term only in the same capacity; but he may be subsequently eligible for election to the Council in another capacity.
+
+(7) Members of the Council shall at their next meeting before the annual general meeting of the registered members arrange for the five members of the Council appointed or elected and longest in office to retire at that annual general meeting.
+
+(8) Elections to the Council shall be held in such manner as may be prescribed by rules made by the Association, and until so prescribed, they shall be decided by secret ballot.
+
+(9) If for any reason there is a vacation of office by a member and-
+
+(a) such member was appointed by the Minister, the Minister shall appoint another fit and proper person to replace such member; or
+
+(b) such member was elected, the Council may, if the time between the unexpired portion of the term of office and the next general meeting of the registered member appears to warrant the filling of the vacancy, co-opt some fit and proper persons for such time as aforesaid.
+
+Powers of Council, etc.
+
+2. The Council shall have power to do anything which in its opinion is calculated to facilitate the carrying on of the activities of the Council.
+
+3. (1) Subject to the provisions of this Act, the Council may in the name of the Council make standing orders regulating the proceedings of the Council, or any of its committees.
+
+(2) Standing orders shall provide for decisions to be taken by a majority of the members, and, in the event of equality of votes, the President of the Councilor the Vice-President, as the case may be, shall have a second or casting vote.
+
+(3) Standing orders made for a committee shall provide that the committee shall report to the Council on any matter referred to it by the Council.
+
+4. The quorum of the Council shall be seven and the quorum of a committee of the Council shall be determined by the Council.
+
+Meeting of the registered members
+
+5. (1) The Council shall convene the meeting of the registered members on 30 April in every year or on such other day as the Council may, from time to time, appoint so however that if the meeting is not held within one year after the previous meeting not more than fifteen months shall elapse between the respective dates of the two meetings.
+
+(2) A special meeting of the registered members may be convened by the Council at any time; and if not less than twenty registered members require it by notice in writing addressed to the Registrar of the Council setting out the objects of the proposed meeting, the chairman of the Council shall convene a special meeting of the registered members.
+
+(3) The quorum of any meeting of the registered members shall be thirty members and that of any special meeting of the registered members shall also be thirty members.
+
+Meeting of the Council
+
+6. (1) Subject to the provisions of any standing orders of the Council, the Council shall meet whenever it is summoned by the President; and if the President is required to do so by notice in writing given to him by not less than seven other members, he shall summon a meeting of the Council to be held within seven days from the date on which the notice is given.
+
+(2) At any meeting of the Council, the President or in his absence, the Vice-President shall preside, but if both are absent, the members present at the meeting shall appoint one of their number to preside at that meeting.
+
+(3) Where the Council desires to obtain the advice of any person on a particular matter, the Council may co-opt him as a member for such period as the Council thinks fit; but a person who is a member by virtue of this sub-paragraph shall not be entitled to vote at any meeting of the Council and shall not count towards a quorum.
+
+Committees
+
+7. (1) The Council may appoint one or more committees to carry out on behalf of the Council such functions as the Council may determine.
+
+(2) A committee appointed under this paragraph shall consist of the number of persons determined by the Council, of whom not more than one third shall be persons who are not members of the Council and a person other than a member of the Council shall hold office on the committee in accordance with the terms of the instrument by which he is appointed.
+
+(3) A decision of a committee of the Council shall be of no effect until it is confirmed by the Council.
+
+(4) There shall be a committee of the Council to be known as the College of Fellows Committee consisting of all fellows registered by the Council.
+
+(5) The chairman of the College of Fellows shall be known as the Provost of the College of Fellows.
+
+Miscellaneous
+
+8. (1) The fixing of the seal of the Council shall be authenticated by the signature of the President or of some other member of the Council authorised generally or specially by the Council to act for that purpose.
+
+(2) Any contract or instrument which, if made or executed by a person not being a body corporate, would not be required to be under seal, may be made or executed on behalf of the Council, by any person generally or specially authorised to act for that purpose by the Council.
+
+(3) Any document purporting to be a document duly executed under the seal of the Council shall be received in evidence and shall, unless the contrary is proved, be deemed to be so executed.
+
+9. The validity of any proceedings of the Councilor of a committee of the Council shall not be adversely affected by any vacancy in the membership, or by any defect in the appointment of a member of the Councilor of a person to serve on the committee or by reason that a person not entitled to do so took part in the proceedings.
+
+10. Any member of the Council, and any person holding office on a committee of the Council, who has a personal interest in any contract or arrangement entered into or proposed to be considered by the Councilor a committee thereof, shall forthwith disclose his interest to the President of the Council, as the case may be, and shall not vote on any question relating to the contract or arrangement.
+
+_______________________________
