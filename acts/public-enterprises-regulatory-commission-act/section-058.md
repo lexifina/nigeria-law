@@ -1,0 +1,1 @@
+58. Proof of debt In addition to any other primary source of evidence, the examination reports and recom- mendations of the Commission, or the report of a person appointed by the Commission on the financial condition of the public enterprise disclosing the debt shall be sufficient proof that the debt is owed to the public enterprise and is due for recovery under this Act.

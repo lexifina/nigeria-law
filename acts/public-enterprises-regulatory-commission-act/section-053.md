@@ -1,0 +1,1 @@
+53. Pending proceedings Any part-heard proceeding, relating to a matter for which the Public Enterprises Tribunal previously had jurisdiction under this Act shall in all criminal and civil cases, be discontinued and transferred to the Court for fresh hearing under this Act.

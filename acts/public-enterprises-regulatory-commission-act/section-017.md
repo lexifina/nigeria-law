@@ -1,0 +1,1 @@
+17. Quarterly report The Board shall, notwithstanding the provisions of sections 16 and 18 of this ACI and at the end of every three months, submit to the President a report on the activities and admini- stration of the Commission.

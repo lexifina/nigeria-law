@@ -1,0 +1,1 @@
+54. Power of the Court The Court shall have power to recover, in accordance with the provisions of this Act, the debts owed to a public enterprise arising under the provisions of this Act or any other law or in any other manner whatsoever.
