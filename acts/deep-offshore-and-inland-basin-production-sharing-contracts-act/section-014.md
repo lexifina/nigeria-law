@@ -1,0 +1,3 @@
+14. Submission of receipts
+
+The Corporation or the holder, as the case may be, shall make available to the contractor copies of the receipts issued by the Service bearing the names of each party as defined in the production sharing contract in accordance with each party's tax oil allocation for the payment of petroleum profit tax under the provisions of the production sharing contract.
