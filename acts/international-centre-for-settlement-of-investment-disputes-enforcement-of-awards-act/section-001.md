@@ -1,0 +1,5 @@
+1. Award of I.C.S.I. disputes to have effect as award in final judgment of Supreme Court
+
+(1) Where for any reason it is necessary or expedient to enforce in Nigeria an award made by the International Centre for Settlement of Investment Disputes, a copy of the award duly certified by the Secretary-General of the Centre aforesaid, if filed in the Supreme Court by the party seeking its recognition for enforcement in Nigeria, shall for all purposes have effect as if it were an award contained in a final judgment of the Supreme Court, and the award shall be enforceable accordingly.
+
+(2) The Chief Justice of Nigeria may make rules of court or may adapt any rule of court necessary to give effect to this section.
