@@ -1,0 +1,15 @@
+5. Offences by bodies corporate
+
+Where an offence under this Act is committed by a body corporate is proved to have
+
+been committed with the consent or connivance of or to be attributable to any neglect on
+
+the part of any director, manager, secretary or other similar officer of the body corporate,
+
+or any person who was purporting to act in any such capacity, any such director or other
+
+person mentioned in this section, as the case may be, as well as the body corporate shall
+
+be deemed to be guilty of that offence, and shall be liable to be proceeded against and
+
+punished as provided under subsection (1) of section 1 of this Act.
