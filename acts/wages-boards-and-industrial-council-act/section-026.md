@@ -1,0 +1,1 @@
+26. Notices of hours of work Every employer shall make and keep posted in a conspicuous part of his premises a timetable of hours of work and breaks for meals and rest in respect of all workers and apprentices employed on his premises.

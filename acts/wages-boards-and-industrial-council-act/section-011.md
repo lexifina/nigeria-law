@@ -1,0 +1,1 @@
+11. Maximum working hours Subject to the provisions of paragraph 12, the provisions of paragraphs 3 and 7 relating to the maximum working hours of adults, young persons and juveniles respectively, shall apply to apprentices according as to whether such apprentices are adults, young persons or juveniles.

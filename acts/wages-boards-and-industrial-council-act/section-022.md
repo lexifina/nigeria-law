@@ -1,0 +1,1 @@
+22. Transfer An employer shall be responsible for the payment of transfer expenses in respect of any employee who is transferred from one branch of the employer's business to another, and in addition for the payment of full pay at his normal rate during the period required for the journey.

@@ -1,0 +1,1 @@
+23. Allowance when travelling Any employee when travelling within the scope of his employment, including travel on transfer, outside the boundaries of the town of Lagos and which necessitates his absence from his normal place of residence for one or more full nights shall receive a reasonable lodging and subsistence allowance in addition to his wages.

@@ -1,0 +1,1 @@
+27. Domestic service No employee, whether adult, young person or juvenile, shall be permitted to perform any kind of domestic service for the employer for whom he works unless such employee is lodged and fed by his employer by mutual arrangement and such domestic service shall then only be such as would normally be performed by a member of the employer's family.
