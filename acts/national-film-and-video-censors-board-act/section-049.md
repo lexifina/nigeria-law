@@ -1,0 +1,1 @@
+49. Offence and penalty A person who contravenes the provisions of sections 46 and 47 of this Act is guilty of an offence and liable on conviction to a fine of N2,000 and for any subsequent offence is liable to a fine of N3,000.

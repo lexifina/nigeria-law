@@ -1,0 +1,1 @@
+55. Zonal Video Censors Committee There shall be established by the Board for the purposes of the application of this part of this Act, a Zonal Video Censors Committee (in this Act referred to as "the Video Censors Committee") whose composition, functions and procedure shall be similar to the Film Censors Committee established by section 35 of this Act.

@@ -1,0 +1,1 @@
+56. Supplying video recording of unclassified work Where a video recording contains a video work in respect of which no classification certificate has been issued, a person who supplies, distributes or exhibits such a video work is guilty of an offence under this Act.

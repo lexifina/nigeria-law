@@ -1,0 +1,1 @@
+58. Supplying a video recording not in conformity with regulation A person who supplies or offers to supply a video recording or any spool, case, or other thing on or in which the recording is kept which does not satisfy any requirement imposed by regulations made pursuant to this Act is guilty of an offence unless the sup- ply is an exempted supply.

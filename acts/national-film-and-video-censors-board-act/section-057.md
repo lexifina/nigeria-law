@@ -1,0 +1,1 @@
+57. Supplying video recording of classified work in breach of classification Where a classification certificate issued in respect of a video work specifies that no person who has not attained a specified age shall be supplied with it, any person who is in breach of this specification thereby is guilty of an offence.

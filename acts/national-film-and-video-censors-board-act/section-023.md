@@ -1,0 +1,1 @@
+23. Cancellation or suspension of licence Where the holder of a licence is convicted of an offence under this Act, the court by which he is convicted may cancel any licence held by him under this Act and may, whether or not he is the holder of such a licence, disqualify him from carrying out any film or video exhibition for such period as the court thinks fit.
