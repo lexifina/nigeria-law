@@ -1,0 +1,1 @@
+3. If the owner proves that the pollution damage resulted wholly or partially either from an act or omission done with intent to cause damage by the person who suffered the damage or from the negligence of that person, the owner may be exonerated wholly or partially from his liability to such person.

@@ -1,0 +1,11 @@
+9. (a) The "unit of account" referred to in paragraph 1 of this Article is the Special Drawing Right as defined by the International Monetary Fund. The amounts mentioned in paragraph I shall be converted into national currency on the basis of the value of that currency by refer- ence to the Special Drawing Right on the date of the constitution of the fund referred to in paragraph 3. The value of the national currency, in terms of the Special Drawing Right, of a Contracting State which is a member of the International Monetary Fund shall be calculated in accordance with the method of valuation applied by the International Monetary Fund in effect on the date in question for its operations and transactions. The value of the national currency, in terms of the Special Drawing Right, of a Contracting State which is not a member of the International Monetary Fund shall be calculated in a manner determined by that State.
+
+(b) Nevertheless, a Contracting State which is not a member of the International Monetary Fund and whose law does not permit the application of the provisions of paragraph
+
+9 (a) may, at the time of ratification, acceptance, approval of or accession to this Convention or at any time thereafter, declare that the unit of account referred to in paragraph 9 (a) shall be equal to 15 gold francs. The gold franc referred to in this paragraph corresponds to sixty-five and a half milligrammes of gold of millesimal fineness nine hundred. The conversion of the gold franc into the national currency shall be made according to the law of the State concerned.
+
+(c) The calculation mentioned in the last sentence of paragraph 9 (a) and the conver- sion mentioned in paragraph 9 (b) shall be made in such manner as to express in the national currency of the Contracting State as far as possible the same real value for the amounts in paragraph
+
+1 as would result from the application of the first three sentences of paragraph
+
+9 (a). Contracting States shall communicate to the depositary the manner of calculation pursu- ant to paragraph 9 (a), or the result of the conversion in paragraph 9 (b) as the case may be, when depositing an instrument of ratification, acceptance, approval of or accession to this Convention and whenever there is a change in either.

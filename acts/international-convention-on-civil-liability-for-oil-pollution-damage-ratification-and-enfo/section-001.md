@@ -1,0 +1,1 @@
+1. Except as provided in paragraphs 2 and 3 of this Article, the owner of a ship at the time of an incident, or, where the incident consists of a series of occurrences, at the time of the first such occurrence, shall be liable for any pollution damage caused by the ship as a result ofthe incident.

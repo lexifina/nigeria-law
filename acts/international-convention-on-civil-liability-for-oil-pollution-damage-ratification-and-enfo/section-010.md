@@ -1,0 +1,1 @@
+10. For the purpose of this Article the ship's tonnage shall be the gross tonnage calculated in accordance with the tonnage measurement regulations contained in Annex 1 of the Interna- tional Convention on Tonnage Measurement of Ships, 1969.

@@ -1,0 +1,1 @@
+8. Claims in respect of expenses reasonably incurred or sacrifices reasonably made by the owner voluntarily to prevent or minimise pollution damage shall rank equally with other claims against the fund.
