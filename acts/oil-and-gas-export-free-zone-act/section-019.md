@@ -1,0 +1,9 @@
+19. Enterprises to submit returns
+
+An approved enterprise shall submit to the Authority at such intervals as may be pre-
+
+scribed, such statistical data, and such information and returns as regards the sales and
+
+purchases and other operations of the enterprise as the Authority may require or as may
+
+be prescribed, from time to time.
