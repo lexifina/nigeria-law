@@ -1,0 +1,3 @@
+8. Description of trade mark in pleading
+
+In any information, pleading, proceeding, or document in which any trade mark or forged trade mark is intended to be mentioned, it shall be sufficient, without further de- scription and without any copy or facsimile, to state that trade mark or forged trade mark to be a trade mark or forged trade mark.

@@ -1,0 +1,17 @@
+6. Exemption of certain persons employed in ordinary course of business
+
+Where a defendant is charged with making any dye, block, machine or other instrument for the purpose of forging, or being used for forging, a trade mark, or with falsely applying to goods any trade mark or any mark so nearly resembling a trade mark as to be calculated to deceive, or with applying to goods any false trade description, or causing any of the things mentioned in this section to be done, and proves-
+
+(a) that, in the ordinary course of his business, he is employed, on behalf of other persons, to make dyes, blocks, machines or other instruments for making, or being used in making, trade marks, or, as the case may be, to apply marks or
+
+descriptions to goods, and that in the case which is the subject of the charge he was so employed by some person resident in Nigeria, and was not interested in the goods by way of profit or commission dependent on the sale of goods; and
+
+(b) that he took reasonable precautions against committing the offence charged; and
+
+(c) that he had, at the time of the commission of the alleged offence, no reason to suspect the genuineness of the trade mark, mark or trade description; and
+
+(d) that he gave to the prosecutor all the information in his power with respect to the persons on whose behalf the trade mark, mark or trade description was ap-
+
+plied,
+
+he shall be discharged from the prosecution, but shall be liable to pay the costs incurred by the prosecutor unless he has gi ven due notice to him that he will rely on the above defence.

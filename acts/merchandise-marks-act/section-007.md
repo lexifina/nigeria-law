@@ -1,0 +1,7 @@
+7. Application of the Act to watches
+
+(1) Where a watch case has thereon any words or marks which constitute, or are by common repute considered as constituting, a description of the country in which the watch was made, and the watch bears no description of the country where it was made,
+
+those words or marks shall prima facie be deemed to be a description of that country within the meaning of this Act, and the provisions of this Act with respect to goods to which a false trade description has been applied, and with respect to selling or exposing for or having in possession for sale, or any purpose of trade or manufacture, goods with a false trade description shall apply accordingly.
+
+(2) For the purposes of this section, the expression "watch" means all that portion of a watch which is not the watch case.
