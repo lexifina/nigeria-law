@@ -1,0 +1,3 @@
+33. Summons against suspects
+
+Subject to the provisions of sections 34 to 38 of this Act, the Commission may issue a summons directed to a person complained against or any other person to attend before the Commission for the purpose of being examined in relation to the complaint or in relation to any other matter which may aid or facilitate the investigation of the complaint and a summons so issued shall state the substance of the complaint, the time and place at which the inquiry is to be held, the substance of the complaint and a copy of the complaint thereof shall be handed over to the person against whom the complaint is directed.

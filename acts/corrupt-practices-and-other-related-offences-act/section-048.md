@@ -1,0 +1,5 @@
+48. Protection of informers and information
+
+(1) Subject to subsection (2), where any complaint made by any officer of the Commission states that the complaint is made in consequence of information received by the officer making the complaint, the information referred to in the complaint and the identity of the person from whom such information is received shall be secret between the officer who made the complaint and the person who gave the information, and everything contained in such information, identity of the person who gave the information and all other circumstances relating to the information, including the place where it was given, shall not be disclosed or be ordered or required to be disclosed in public but only to the trial judge and the defence lawyer in attendance in any civil, criminal or other proceedings in any court or tribunal.
+
+(2) Any person who gives the information referred to in subsection (1) knowing the information to be false is guilty of an offence and on conviction be liable to imprisonment for a term not exceeding ten years, or fine not exceeding one hundred thousand naira.

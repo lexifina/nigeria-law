@@ -1,0 +1,3 @@
+27. Dealing with, using, holding, receiving or concealing gratification
+
+Any person who, whether within or outside Nigeria, whether directly or indirectly, whether on behalf of himself or on behalf of any other person, enters into, or causes to be entered into, any dealing in relation to any property, or otherwise uses or causes to be used, or holds, receives, or conceals any property or any part thereof which was the subject-matter of an offence under sections 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 and 24 is guilty of an offence and shall on conviction be liable to imprisonment for a term not exceeding five (5) years.
