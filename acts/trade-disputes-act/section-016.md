@@ -1,0 +1,1 @@
+16. Directions Where it appears to the Court that the future conduct of any proceedings would thereby be facilitated, the Court may either of its own motion or on application at any stage of the proceedings appoint a date for the giving of directions as to their future conduct.

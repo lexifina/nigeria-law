@@ -1,0 +1,1 @@
+11. Seal of the Court Subject to the provisions of these Rules, the seal of the Court and any duplicate thereof shall be kept in the custody of the Chief Registrar and shall not be affixed to any order or other process or to any document without the express authority of the President.

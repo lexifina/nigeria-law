@@ -1,0 +1,1 @@
+6. Hours of opening to public The Registry of the Court shall, subject to the direction of the President, be open to the public on every day in the year from nine o'clock in the forenoon to two o'clock in the afternoon, except on Saturdays, Sundays or any day declared as a public holiday by the Federal Government.

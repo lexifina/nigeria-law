@@ -1,0 +1,1 @@
+14. Joinder of parties The Court may on the application of any party to the proceedings or of its own motion direct that any person or body not already a party to the proceedings be joined as a party or that any party to the proceedings shall cease to be a party and in either case may give such consequential directions as it considers necessary.

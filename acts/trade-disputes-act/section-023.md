@@ -1,0 +1,1 @@
+23. Conciliation The Court may encourage parties to the proceedings in respect of cases coming before it in the first instance to reach mutual settlement between themselves; and upon such mutual settlement, if any, the Court shall make such order or orders as seem just.

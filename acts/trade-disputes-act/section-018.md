@@ -1,0 +1,1 @@
+18. Attendance of witnesses and production of documents The Court may of its own motion or on the application of any party order any person to attend before the Court as a witness or to produce any document.
