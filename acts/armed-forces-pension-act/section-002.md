@@ -1,0 +1,1 @@
+2. Pension, etc., to be charged on revenue of Nigeria There shall be charged on and paid out of the Consolidated Revenue Fund of the Federation all such sums of money as may from time to time be granted by the Federal Government by way of pension or gratuity in accordance with this Act.
