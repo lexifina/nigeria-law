@@ -1,0 +1,3 @@
+25. Power to issue search warrants Notwithstanding the provisions of any other enactment conferring power to search, if the chairman of the Tribunal is satisfied that there is a reasonable ground to suspect that there may be found in any building or other place whatsoever, any books, records, statements or information in any form whatsoever, which, in his opinion, are or may be material to the charge or any trial under this Act, he may issue a warrant under his hand authorising any police officer or any member of the security agencies to enter, if necessary by force, the said building or other place and every part thereof, and to search for, seize and remove any such material as aforesaid, found therein.
+
+PART III Miscellaneous

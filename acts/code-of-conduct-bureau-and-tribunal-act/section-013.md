@@ -1,0 +1,1 @@
+13. Abuse of powers A public officer shall not do or direct to be done, in abuse of his office, any act prejudicial to the rights of any other person, knowing that such act is unlawful or contrary to any government policy.

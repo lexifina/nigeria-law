@@ -1,0 +1,1 @@
+2. Aims and objectives of the Bureau The aims and objectives of the Bureau shall be to establish and maintain a high standard of morality in the conduct of government business and to ensure that the actions and behaviour of public officers conform to the highest standards of public morality and accountability.

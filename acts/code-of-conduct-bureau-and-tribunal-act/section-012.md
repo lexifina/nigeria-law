@@ -1,0 +1,1 @@
+12. Bribery of public officers No person shall offer a public officer any property, gift or benefit of any kind as an inducement or bribe for the granting of any favour or the discharge in his favour of the public officer's duties.
