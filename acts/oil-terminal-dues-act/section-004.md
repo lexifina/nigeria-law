@@ -1,0 +1,1 @@
+4. Appointment or designation of officers, etc., of the Authority The Authority may for the purposes of this Act appoint or designate any officer, ser- vant or agent of the Authority for the purposes of discharging any of its functions under this Act.

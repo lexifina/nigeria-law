@@ -1,0 +1,3 @@
+5. Power to apply or extend regulations made under the Nigerian Ports Authority Act The Minister may by regulations extend any regulations made by the Minister or by the Authority under the Nigerian Ports Authority Act for the maintenance, control and management of anything to which the Act relates, and in particular, apply section 71 of the Nigerian Ports Authority Act (which relates to the power of the authority to make regulations for the levy of dues and rates) or extend any regulations made pursuant to that section for the purposes of this Act, and any regulations as so extended or applied shall be of the same effect as if made under this Act.
+
+[Cap. NI26.]
