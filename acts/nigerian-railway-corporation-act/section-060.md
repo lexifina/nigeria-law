@@ -1,0 +1,1 @@
+60. Conditions for carriage of goods The Corporation may (in addition to fixing rates under the provisions of section 18 of this Act) impose conditions, not inconsistent with the provisions of this Act, for the receiving, forwarding, conveying and delivering of goods.

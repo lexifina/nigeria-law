@@ -1,0 +1,1 @@
+47. Employment of servants and agents Subject to the other provisions of this Part, the Corporation may appoint and employ such servants and agents as it deems necessary, for the discharge of its functions under this Act, upon such terms and conditions of service, as it may determine.

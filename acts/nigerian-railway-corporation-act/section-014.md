@@ -1,0 +1,1 @@
+14. Appointment of secretary The Corporation shall appoint a person, not being a member of the Corporation, to be secretary of the Corporation, who shall perform such duties as the chairman may direct.

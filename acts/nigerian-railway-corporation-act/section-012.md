@@ -1,0 +1,1 @@
+12. Power to give directions to the Corporation The Minister may, after consultation with the Corporation, give to the Corporation directions of a general character, as to the discharge by the Corporation of its functions in relation to matters appearing to the Minister to be of grave public importance, and the Corporation shall give effect to all such directions.

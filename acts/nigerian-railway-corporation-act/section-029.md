@@ -1,0 +1,1 @@
+29. Construction of railways by persons other than the Corporation It shall be unlawful for any person, without the consent of the Corporation, to construct or operate a railway for the public carriage of passengers or goods within Nigeria.

@@ -1,0 +1,1 @@
+91. Power to apprehend railway servant offending against section 90 It shall be lawful for any railway servant, and for all persons whom he may call to his aid, to apprehend any railway servant who is or appears to be in a state of intoxication while on duty, and to convey him to the nearest police station and there hand him over to the custody of the police.

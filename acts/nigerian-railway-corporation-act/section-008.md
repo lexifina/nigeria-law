@@ -1,0 +1,1 @@
+8. Power to remove members from office The President may, at any time, remove from office, all or any of the members of the Corporation, other than the chairman, if he considers it necessary to do so in the interest of the effective and economical performance of the functions of the Corporation.

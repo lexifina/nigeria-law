@@ -1,0 +1,1 @@
+19. Conditions for holding goods on railway The Corporation may (in addition to fixing charges other than rates and fares under the provisions of section 18 of this Act) impose conditions, not inconsistent with the pro- visions of this Act, for the holding of goods left upon a railway, before or after carriage or for warehousing or in any other circumstances whatsoever.

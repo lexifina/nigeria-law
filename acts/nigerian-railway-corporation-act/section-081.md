@@ -1,0 +1,1 @@
+81. Printed copies to be evidence In any legal proceedings, the production of a printed copy of any tariff or amendment of a tariff purporting to be published by the Corporation, shall be prima facie evidence of the matters provided therein and that the rates, fares, charges, conditions or limits fixed, imposed or determined thereby, have been duly fixed, imposed or determined.

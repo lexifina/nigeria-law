@@ -1,0 +1,1 @@
+98. Common carriers not applicable Nothing in the common law or statute law regarding the responsibilities and obligations of common carriers or of railway companies, shall affect the responsibilities and obligations of the Corporation set out in this Act, with respect to the carriage of passengers and goods.

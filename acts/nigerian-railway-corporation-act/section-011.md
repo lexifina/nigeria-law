@@ -1,0 +1,1 @@
+11. Duty to furnish information The Corporation shall furnish to the Minister such information relating to the discharge of its functions and its property and finances, including financial, statistical or other returns, as the Minister may, from time to time, require.

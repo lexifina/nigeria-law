@@ -1,0 +1,9 @@
+38. Working capital
+
+(1) The amount of working capital required on the vesting day for the performance of the functions of the Corporation, shall be agreed between the Government of the Federation and the Corporation, regard being had to the scale of activities of the Corporation, the expected requirements of funds for renewals and capital expenditure, and other factors relevant thereto.
+
+(2) If the value of the investments and current assets vested in the Corporation is less than the amount agreed to be required for working capital, the amount of the deficiency shall be placed to the debit of an advance account in the books of the Corporation; and this account shall either be repaid by the Government of the Federation as soon as the amount is determined or shall remain as an advance by the Corporation to that Government, on such terms as to interest and repayment, as may be agreed between that Government and the Corporation.
+
+(3) If the value of the investments and current assets vested in the Corporation is more than the amount agreed to be required for working capital, the amount of the excess shall be placed to the credit of an advance account in the books of the Corporation; and this account shall either be repaid to the Government of the Federation by the Corporation as soon as the amount is determined or shall remain as an advance by that Government to the Corporation, on such terms as to interest and repayment, as may be agreed between that Government and the Corporation.
+
+(4) For the purposes of this section, the expression "current assets" means stocks of stores and materials, outstanding traffic accounts and other accounts receivable, cash in hand and at banks and any other assets of the railway undertaking not being investments or assets classified as capital in the accounts of the undertaking.

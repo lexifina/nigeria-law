@@ -1,0 +1,1 @@
+93. Travelling with intent to defraud Any person who travels or attempts to travel in any carriage or vehicle of the Corpo- ration, with intent to defraud the Corporation, shall be guilty of an offence and liable on conviction, to a fine not exceeding N100 or to imprisonment for a term not exceeding six months.

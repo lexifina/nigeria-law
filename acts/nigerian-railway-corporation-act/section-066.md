@@ -1,0 +1,1 @@
+66. Conditions for carriage passengers The Corporation may (in addition to fixing fares under the provisions of section 18 of this Act) impose conditions, not inconsistent with the provisions of this Act, for the carriage of passengers.
