@@ -1,0 +1,5 @@
+15. Priority of claim for tax
+
+(1) No goods or chattels belonging to the licensee at the time any tax under this Act becomes in arrear shall be liable to be taken by virtue of any execution or other process, warrant or authority whatever, or by virtue of any assignment on any account or pretence whatever, unless the person at whose suit the execution or seizure is made or to whom the assignment was made, pays or causes to be paid to the board, before the sale or removal of the goods or chattels, all arrears of tax which are due at the time of the seizure, or which are payable for the year in which the seizure is made.
+
+(2) In case of neglect or refusal to pay the tax so claimed, the Board may distrain the goods and chattels notwithstanding the seizure or assignment, and may proceed to the sale thereof, as prescribed by section 16 of this Act, for the purpose of obtaining payment of the whole of the tax charged and claimed, and reasonable costs and charges attending such distress and sale, and the Board and every person acting under the authority of the Board so doing shall be indemnified by virtue of this Act.
