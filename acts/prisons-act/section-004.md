@@ -1,0 +1,1 @@
+4. All money, effects or articles taken from prisoners, or sent to the prison for their use, and not allowed to be received and retained by them, shall be taken charge of by the su- perintendent of the prison, and an inventory of them shall be made in the prison register.

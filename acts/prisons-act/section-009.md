@@ -1,0 +1,1 @@
+9. On the discharge of a prisoner, the clothes in which he was admitted, and any other articles he brought with him on his admission, shall be returned to him, unless it has been found necessary to destroy the clothes, in which case suitable clothing shall be provided at Government expense.

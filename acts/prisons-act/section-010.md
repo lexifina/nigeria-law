@@ -1,0 +1,1 @@
+10. No prisoner can, in consequence of misconduct while in prison, be detained in prison beyond the expiration of the term of imprisonment to which he was sentenced by a court of law, unless he has been again brought before a court of law and received a fresh sentence.

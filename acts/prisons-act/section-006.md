@@ -1,0 +1,1 @@
+6. The prisoner shall, as soon as possible, be examined by the medical officer, who shall enter in the prison register a record of the state of health of the prisoner, whether it is req- uisite that he should be vaccinated, and any observations which he may deem it expedient to make.

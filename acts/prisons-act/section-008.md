@@ -1,0 +1,1 @@
+8. All prisoners, prior to being removed or discharged, shall be examined by the medical officer, and no prisoner shall be discharged except at his own request, while labouring under any acute or dangerous disorder, nor until the medical officer shall certify that such discharge is safe.

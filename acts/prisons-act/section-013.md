@@ -1,0 +1,3 @@
+13. Such release will only be sanctioned by the Minister on the condition endorsed on the warrant for release, i.e., that it does not operate as a commutation of the sentence of imprisonment passed upon the prisoner, and that, at any time during the continuance thereof, the prisoner may be arrested by warrant issued by the Minister, and committed to prison until such time as the original sentence would in due course have expired. In case release is sanctioned, under the foregoing regulation, the warrant for release, duly signed by the Minister shall be filed with the prisoner's commitment warrant in the prison in which he was last confined.
+
+[25 of 1918.]

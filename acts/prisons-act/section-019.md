@@ -1,0 +1,1 @@
+19. Any order by medical officer for the admission of spirituous liquors or tobacco shall specify the quantity to be admitted, and the name of the prisoner for whose use it is in- tended, and shall be entered by him in his journal.
