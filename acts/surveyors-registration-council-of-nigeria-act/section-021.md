@@ -1,0 +1,1 @@
+21. Regulations In addition to any other power to make regulations under this Act, the Minister may make all such other regulations as may, in his opinion, be necessary or expedient for giving full effect to the provisions of this Act and for the administration thereof.

@@ -1,0 +1,1 @@
+20. Recovery of fees A person other than a fully registered surveyor shall not be entitled to recover, by process of law, fees or other valuable consideration whatsoever in respect of any act, matter or thing done or omitted to be done by him pursuant to any contract while pur- porting to act as a registered surveyor.
