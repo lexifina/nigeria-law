@@ -1,3 +1,7 @@
-1. Short title
+1. ShortTitle.
 
-This Act may be cited as the coastal and inland shipping (Cabotage) Act, 2003.
+Interpretation.
+
+PART n.-RESTRICTION
+
+OF VESSELS IN DOMESTIC COASTAL TRADE

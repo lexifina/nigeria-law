@@ -1,5 +1,1 @@
-55. Savings as to court proceedings
-
-Except as expressly provided in this Act, nothing in this Act shall affect the rights of any party to any proceedings commenced in any court on or before the commencement of this Act.
-
-_________________
+55. Savings as to Court Proceedings.
