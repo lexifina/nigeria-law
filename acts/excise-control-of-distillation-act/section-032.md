@@ -1,0 +1,1 @@
+32. Vats, etc., in distiller's warehouse With the consent of the Board and subject to such conditions it may impose, a distiller may keep receivers or vats in the distiller's warehouse or in a room on his entered premises for the storage of spirits and while such spirits are stored in such receiver or vat they shall be deemed to be in a distiller's warehouse.

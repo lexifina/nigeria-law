@@ -1,0 +1,1 @@
+31. Hours of opening distiller's warehouse A distiller's warehouse shall not be opened except during such hours as the Board shall approve and such hours may be varied at any time at the discretion of the Board.

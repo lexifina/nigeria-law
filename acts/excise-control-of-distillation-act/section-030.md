@@ -1,0 +1,1 @@
+30. Spirits which may be deposited in a distiller's warehouse Save as permitted by the Board, and subject to such conditions as from time to time it sees fit to impose, a distiller shall not deposit any spirits in his distiller's warehouse other than spirits manufactured in the distillery to which the warehouse is attached.

@@ -1,0 +1,1 @@
+38. Spirits not to be removed to another distillery Except with the permission of the Board, upon its being satisfied as to the necessity, and subject to such conditions as it may impose, a distiller shall not remove spirits from his distiller's warehouse to another distillery.

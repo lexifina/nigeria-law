@@ -1,0 +1,1 @@
+11. Notice to commence or re‐commence brewing A distiller shall, at least six days before commencing to brew wort or, if he has discontinued brewing wort for more than a month, before re‐commencing to brew wort, give to the proper officer a written notice specifying the day on which he intends to begin brewing or re‐commence brewing.

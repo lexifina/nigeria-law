@@ -1,0 +1,1 @@
+13. Notice to mash or brew A distiller shall, before he mashes any materials, or brews for making wort, give to the proper officer twenty‐four hours' written notice specifying the day and hour when the mashing or brewing is to be commenced.

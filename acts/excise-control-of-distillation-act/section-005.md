@@ -1,0 +1,1 @@
+5. Signboard Every distiller shall affix and maintain to the satisfaction of the Board in a conspicuous position outside his distillery a signboard showing the name, or if that name is different from the business name, the business name of the distiller, and a statement that he is the holder of a distiller's licence.
