@@ -1,0 +1,3 @@
+24. Powers of Tribunal over proceedings (I) All interlocutory questions and matters shall be heard and disposed of before the Tribunal which shall have control over the proceedings as a judge in the ordinary proceedings of the High Court.
+
+(2) After the hearing has been concluded, if the Tribunal before whom it was made has prepared its judgment, but the chairman of the Tribunal is unable to deliver it through illness or otherwise, the judgment may be delivered by a member of the Tribunal, as the judgment of the Tribunal; and the member shall certify the determination of the complaint to the Commis- sion.

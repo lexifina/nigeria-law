@@ -1,0 +1,1 @@
+11. Default of appearance If the respondent does not enter an appearance as aforesaid, any document intended for the respondent may be posted on the Tribunal notice board and such posting shall be sufficient notice thereof.
