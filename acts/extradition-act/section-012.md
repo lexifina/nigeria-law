@@ -1,0 +1,3 @@
+12. Discharge of fugitive if not removed from Nigeria within limited time
+
+If a fugitive criminal who has been committed to prison under section 9 of this Act is not surrendered and conveyed out of Nigeria within two months beginning with the day on which he is so committed or, if a writ of habeas corpus has been issued, within two months beginning with the day on which the court gives its decision on the return to the writ, whichever is the later, the High Court of the territory in which he is, may, on application made by or on behalf of the fugitive, and upon proof that reasonable notice of the intention to make the application has been given to he Attorney-General, order the fugitive to be discharged from custody.
