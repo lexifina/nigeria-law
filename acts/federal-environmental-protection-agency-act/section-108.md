@@ -1,0 +1,1 @@
+108. Penalty A person who contravenes a provision of these Regulations is guilty of an offence and liable on conviction to the penalty specified in section 35 or 36 of the Federal Environmental Protection Agency Act.

@@ -1,0 +1,1 @@
+73. Special requirement for ignitable or reactive waste The owner or operator of a facility, factory, or industry shall not apply ignitable or reactive waste to the treatment zone unless the waste is immediately incorporated into the soil so that the resulting material is no longer ignitable or reactive waste.

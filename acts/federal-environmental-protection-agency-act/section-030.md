@@ -1,0 +1,1 @@
+30. All communications or alarm systems, fire‐protection equipment, spill‐control equipment and decontamination equipment, installed with waste‐reception facility shall be tested and maintained as and when necessary to assure their proper operation and functioning in times of emergency.

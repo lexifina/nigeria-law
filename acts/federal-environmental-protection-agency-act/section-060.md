@@ -1,0 +1,1 @@
+60. Special requirement for ignitable or reactive waste Ignitable or reactive waste shall not be placed in a surface impoundment, unless the waste is treated or mixed before or immediately after placement in the impoundment so that the resulting waste, mixture or dissolution of material is no longer ignitable.

@@ -1,0 +1,1 @@
+32. Aisle space The owner or operator shall maintain aisle space to allow the unobstructed movement of personnel, fire protection equipment, spill‐control equipment and decontamination equipment to any area of the facility operation at all times and particularly in an emergency.

@@ -1,0 +1,1 @@
+12. For new sources: A submission of an environmental impact assessment report is mandatory. Request for permit system must be made 180 days before discharge commences, (attach photocopies of the relevant documents)……………………………………………………………………………………………………………………………………………………………… ……………………………………………………………………………………………………………………………………………………………………..

@@ -1,0 +1,1 @@
+90. Monitoring and inspection During construction or installation, liners and cover systems shall be inspected for uniformity, damage and imperfections as specified in regulation 56 of these Regulations.

@@ -1,0 +1,1 @@
+89. Double‐lined landfills The factory or industry of a double‐lined landfill is not subject to the provisions of this Chapter if the provisions of regulation 59 of these Regulations have been complied with.
