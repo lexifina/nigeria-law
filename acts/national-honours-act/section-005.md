@@ -1,0 +1,1 @@
+5. Commanding officer's recommendation The President shall not award a service medal or any bar or clasp thereto to any per- son unless that person's commanding officer has recommended him for the award on grounds specified in the recommendation.
