@@ -1,0 +1,3 @@
+29. Personation of members of the Fire Service
+
+Any person not being a member of the Fire Service who puts on or assumes, either in whole or in part, the dress, name, designation or description of any member of the Fire Service, or in any way pretends to be a member of the Fire Service or to possess authority from or on behalf of the Fire Service, for the purpose of obtaining admission into any building or other place, or of doing any act which such person would not by law be entitled to do of his own authority, shall be guilty of an offence, and on summary conviction thereof shall be liable to a fine of two hundred naira or to imprisonment for a term not exceeding one year or to both such fine and imprisonment.

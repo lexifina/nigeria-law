@@ -1,0 +1,3 @@
+30. Obtaining admission into the Fire Service by fraud
+
+Any person who knowingly uses or attempts to pass off any forged or false certificate, character, letter, or other document for the purpose of obtaining admission into the Fire Service, or who, on applying for admission shall make any false statement whether orally or in writing, shall be guilty of an offence and on summary conviction thereof shall be liable to a fine not exceeding one hundred naira or to a term of imprisonment not exceeding three months or to both such fine and imprisonment; and, if having been admitted to the Fire Service, shall further be liable to dismissal therefrom.
