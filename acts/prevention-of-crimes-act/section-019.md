@@ -1,0 +1,1 @@
+19. Every person sentenced to police supervision (in these Regulations called a supervi- see) shall on his release report himself to the superior police officer of the district in which he is released in order that his particulars may be registered and such superior po- lice officer shall carefully instruct him in the requirements of the law.

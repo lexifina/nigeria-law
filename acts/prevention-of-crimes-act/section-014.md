@@ -1,0 +1,3 @@
+14. All copies of fingerprints received in the central registry shall be carefully compared with the fingerprints filed in the central registry. If the central registrar finds a set of fin- gerprints in his collection corresponding to any set received he will at once forward the necessary information concerning the previous criminal record of the person thus identi- fied to the police station concerned, with Form C.R. 14. The fingerprints will be retained by the central registrar. In the event of no set of fingerprints being found identical, the fingerprints will be returned to the police station with Form CR. 15.
+
+[Forms 14and 15.]

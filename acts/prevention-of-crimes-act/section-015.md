@@ -1,0 +1,1 @@
+15. The photographs taken under regulation 12 may be either in the dress of the prison, or in the dress that the person wore at the time of his arrest or trial or in any other dress suitable to his ostensible position in life. The photographs taken shall include a photo- graph of the full face and a photograph of the true profile of the person.

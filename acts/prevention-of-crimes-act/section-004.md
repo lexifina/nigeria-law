@@ -1,0 +1,1 @@
+4. President may remit requirements of section 3 The President may, by order under his hand, remit any of the requirements of sec- tion 3 of this Act either generally or in the case of any person subject to supervision of the police.
