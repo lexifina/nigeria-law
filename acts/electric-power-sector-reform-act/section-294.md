@@ -1,0 +1,1 @@
+294. Earthed return conductors The return cable from an electrode to a transformer terminal which is earthed may be a low voltage cable provided that the cross‐sectional area of the conductor is not less than 2.5 rnrn2.

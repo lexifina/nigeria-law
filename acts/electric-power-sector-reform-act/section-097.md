@@ -1,0 +1,1 @@
+97. Application of transformers Where a step‐up transformer forms part of a consumer's installation, a linked switch shall be provided for isolating the transformer from all circuit conductors of the supply.

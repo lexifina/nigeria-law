@@ -1,0 +1,1 @@
+218. Control of points Every point, including every socket‐outlet, shall be controlled by a switch or switches, which shall be readily accessible at all times. For motors driving machinery, the switches shall be clearly marked to show the on and off positions.

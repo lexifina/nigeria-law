@@ -1,0 +1,1 @@
+255. Control of lighting Where the general lighting of the premises can be controlled from within the projection or re‐ winding room, there shall be separate and independent means of control outside of and away from the projection or re‐winding room.

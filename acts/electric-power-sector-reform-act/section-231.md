@@ -1,0 +1,1 @@
+231. Garages Where vehicles are housed, stored or repaired in buildings or other enclosed spaces, every fixed item of apparatus shall be mounted at a sufficient height or in such a position as to be clear of all vehicles.

@@ -1,0 +1,1 @@
+9. In any case of emergency due to a breakdown or other accident any authorised person may, without obtaining a permit as required by these Regulations, begin any work necessary to repair the installation, but application for such permit must be made to the supply authority within 24 hours after such work is begun.

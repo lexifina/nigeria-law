@@ -1,0 +1,1 @@
+5. The Director of Electrical Inspectorate Services may from time to time, by notice in the Gazette, approve methods or types of construction or materials not specially provided for in these Regulations, and impose such conditions as he deems necessary with respect to the use thereof.

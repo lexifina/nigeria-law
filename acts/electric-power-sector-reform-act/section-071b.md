@@ -1,0 +1,1 @@
+71B. Cables which are used in connection with the electric bells, telephone and signalling apparatus, etc., in a building shall be kept away from and not be installed in the same casing or conduit as the cables used for the distribution of the electrical supply throughout the building.

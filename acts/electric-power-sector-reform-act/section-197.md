@@ -1,0 +1,1 @@
+197. Earth effectiveness tests Where earth‐leakage protection relies on the operation of fuses or excess‐current circuit‐ breakers, the contractor and other person responsible for the work shall test the effectiveness of the earthing of each completed installation or major alteration by means of an earth‐loop‐impedance test.

@@ -1,0 +1,1 @@
+155. General provisions In every installation operating at any voltage, a consumer's earthing terminal shall be provided adjacent to the consumer's terminals. Throughout every circuit of such an installation, an earth‐ continuity conductor shall be provided and connected to the consumer's earthing terminal.

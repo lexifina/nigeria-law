@@ -1,0 +1,1 @@
+123. Adequate means, such as an isolator adjacent to the heater or boiler, or a locking device on the circuit‐breaker, shall be provided to prevent the apparatus being made live while persons are working thereon.

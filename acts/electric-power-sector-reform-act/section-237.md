@@ -1,0 +1,1 @@
+237. The earthing lead of an agricultural installation shall be adequately protected against disturbance or damage by livestock or by passing mechanical implements. Where the earthing lead is not enclosed in conduit or equivalent mechanical protection, it shall be of the armoured type.

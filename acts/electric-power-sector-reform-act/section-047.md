@@ -1,0 +1,1 @@
+47. Segregation of circuits Where an installation comprises extra low‐voltage or telecommunication or fire‐alarm circuits, as well as circuits operating at low voltage and connected directly to a mains supply system, precautions shall be taken to prevent electrical contact between the cables of the various types of circuit.

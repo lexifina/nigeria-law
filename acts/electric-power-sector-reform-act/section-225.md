@@ -1,0 +1,1 @@
+225. Where additional protection against mechanical damage to cables is required, it shall wherever possible be provided by the use of non‐metallic materials, e.g. non‐metallic conduit or hardwood, and in any event metal conduit shall not be used.

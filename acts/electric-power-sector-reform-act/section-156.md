@@ -1,0 +1,1 @@
+156. All metal work of wiring systems (other than current‐carrying parts), including cables, sheathes and armour, conduit, ducts, trunking, boxes, and catenary wires, shall be connected to the appropriate earth‐continuity conductors.

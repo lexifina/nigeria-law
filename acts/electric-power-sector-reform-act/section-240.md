@@ -1,0 +1,1 @@
+240. Electric fence controllers Every mains‐operated electric fence controller shall be so installed that, as far as is reasonably practicable, it is free from risk of mechanical damage or unauthorised interference.

@@ -1,0 +1,1 @@
+261. All live parts of apparatus within one and a half metre of the projector shall be shielded so that they cannot be accidentally touched. The covers of enclosed switches shall be of metal and shall be so constructed that the switch handle does not work through an open slot.

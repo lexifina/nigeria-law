@@ -1,0 +1,1 @@
+181. Every connection of an earthing lead to an earth electrode or other means of earthing shall be readily accessible and soundly made by use of soldered joints or clamps: A permanent label indelibly marked with the words "Safety Electrical Earth ‐ DO NOT Remove", in a legible type not less than 4.75 mm high, shall be permanently fixed at the point of this connection.

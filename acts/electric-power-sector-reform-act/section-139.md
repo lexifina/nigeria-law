@@ -1,0 +1,1 @@
+139. Motors shall, wherever possible, be placed in positions in which they are not exposed to risk of mechanical injury or damage from water, steam, oil. Motors necessarily exposed to such conditions shall have suitable types of enclosing frames selected from the standard "types of enclosures" specified in Nigerian Standard Specifications.

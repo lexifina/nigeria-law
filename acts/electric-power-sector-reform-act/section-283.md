@@ -1,0 +1,1 @@
+283. A fireman's switch may be used to open one or more contactors or circuit‐breakers for the total isolation of an installation from the supply, provided that every such contractor or circuit‐breaker is arranged to open automatically on failure of the supply to its holding coil circuit.

@@ -1,0 +1,1 @@
+227. Wiring between buildings Cables buried underground shall be placed at a sufficient depth to avoid any risk of damage by implements used for purposes of cultivation or drainage. In any case not less than 600 mm, and where consideration of drainage arise a depth of 1m may be necessary.

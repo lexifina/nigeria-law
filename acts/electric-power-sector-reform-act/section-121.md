@@ -1,0 +1,1 @@
+121. Boilers and water heaters‐general Electrode boilers and electrode water‐heaters shall be connected to a.c. systems only, and be installed in accordance with the general requirements of regulations 122 to 125 and, according to type of equipment concerned, with the particular requirements of regulations 127 and 128.

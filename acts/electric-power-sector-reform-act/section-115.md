@@ -1,0 +1,1 @@
+115. All connections between elements or between elements and main terminals shall, unless self‐ supporting or rigidly fixed in posited, be continuously insulated with suitable non‐ignitable material.

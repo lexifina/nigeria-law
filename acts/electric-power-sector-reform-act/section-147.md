@@ -1,0 +1,1 @@
+147. Internal connections, the temperature rise of which may exceed 30°C shall not be soldered, and all such connections, unless self‐supporting or rigidly fixed in position, shall be continuously insulated with non‐ignitable material or beads.

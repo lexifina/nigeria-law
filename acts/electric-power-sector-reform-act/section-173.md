@@ -1,0 +1,1 @@
+173. Where the requirements of regulation 172 cannot be satisfied, earth‐leakage protection shall be provided by one or more earth‐leakage circuit‐breaker for all parts of an installation to which the requirement of earthing applies, installation of the earth‐leakage circuit‐breakers shall satisfy the test requirements of these Regulations.

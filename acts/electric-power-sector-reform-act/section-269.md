@@ -1,0 +1,1 @@
+269. Batteries for safety lighting Where the safety lighting is derived from a battery of accumulators, the battery shall be of such capacity and so maintained as to be capable of supplying at normal voltage the full load which will be connected thereto while the public is upon the premises.

@@ -1,0 +1,1 @@
+148. Suitable terminals with cable sockets shall be provided for the attachment of external leads, and shall be so situated that such leads enter the case below the resistance, and are not exposed at any point to a high temperature.

@@ -1,0 +1,1 @@
+216. For isolated items of apparatus, e.g. pumps, remote from the main installation, a separate means of control adjacent to the apparatus and readily accessible to the person in charge of the apparatus, shall be provided.

@@ -1,0 +1,1 @@
+202. Where apparatus is disconnected for the tests under regulations 200 and 201, the insulation resistance between the case or framework and all live parts of each item of fixed apparatus shall be measured separately and shall be not less than 1.0 megaohm.

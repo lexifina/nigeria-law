@@ -1,0 +1,1 @@
+206. Every re‐inspection of an installation should be reported upon by means of an Inspection certificate which should be submitted to the consumer and be signed by a competent person who should be a registered electrical engineer.

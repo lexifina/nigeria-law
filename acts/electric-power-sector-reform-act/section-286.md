@@ -1,0 +1,1 @@
+286. For shop‐front fascia installations, bare or lightly insulated conductors shall be used only for connections housed within an earthed metal enclosure or for connections between the terminals of electrode housings. For all other connections behind or through fascia panels, including series connections, armoured or metal‐sheathed or metal‐braided cable shall be used.

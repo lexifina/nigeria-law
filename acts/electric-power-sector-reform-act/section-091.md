@@ -1,0 +1,1 @@
+91. Accessories other than fuses shall be mounted on a base‐block unless they are completely enclosed in metallic casing, and where the surface on which it is mounted is liable to become damp the base‐block shall be rendered impervious to moisture.

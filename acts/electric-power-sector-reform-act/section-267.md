@@ -1,0 +1,1 @@
+267. Safety lighting Safety lighting shall be provided in every cinematograph theatre and shall be maintained in good working order and so kept in use that it is adequate to enable the public to see the way out of the premises.

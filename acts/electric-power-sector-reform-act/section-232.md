@@ -1,0 +1,1 @@
+232. Lamp‐holders All Edison‐type screw lamp‐holders shall be of the drip‐proof type and shall be provided with a protective shield. The requirements of regulations 93 and 94 for the use of such lamp‐holders in damp situations shall apply to all situations in agricultural or horticultural installations.

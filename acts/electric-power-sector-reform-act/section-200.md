@@ -1,0 +1,1 @@
+200. When measured with all fuse links in place, all switches (including, if practicable, the main switch) closed and, except where earthed concentric wiring is installed, all poles, or phases of the wiring electrically connected together, the installation resistance to earth shall be not less than 1 megaohm.

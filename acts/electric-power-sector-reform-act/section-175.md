@@ -1,0 +1,1 @@
+175. Every voltage‐operated earth‐leakage circuit‐breaker shall be arranged to have its operating coil connected between the consumer's earthing terminal (which may serve the whole or part of an installation) and an earth electrode, the connecting lead shall be insulated.

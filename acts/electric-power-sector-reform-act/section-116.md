@@ -1,0 +1,1 @@
+116. The hot‐plates of all electric cookers shall be iron‐clad, and the oven elements shall be so guarded that the cooking utensils cannot be brought into contact with them, and so that accidental personal contact cannot be made.

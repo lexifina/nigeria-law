@@ -1,0 +1,1 @@
+150. All woodwork or other combustible material which is within a distance of 600 mm (measured vertically below), or 150 mm (measured in any other direction) from the frames or cases containing resistance shall be protected with non‐ignitable material.

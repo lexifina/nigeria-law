@@ -1,0 +1,1 @@
+111. In places where petrol‐driven conveyances are stored or repaired, plugs and sockets shall be placed not less than 2 metres above the floor level unless an interlocked plug and gas‐tight switch is used.

@@ -1,0 +1,1 @@
+87. The handle of every hand‐lamp (not being a hand‐lamp made entirely of metal as specified in the last preceding regulation) shall be made of treated hard‐wood, or of some suitable non‐ignitable composite insulating material capable of withstanding round usage in service.

@@ -1,0 +1,3 @@
+272. Circuit loading Circuits shall be capable of carrying the total steady current viz that of the lamp(s) and any associated gear and also their harmonic currents. Where more exact information is not available, the demand in volt‐amperes may be taken for the purpose of this regulation as the rated lamp watts multiplied by not less than 1.8. The neutral conductor in every discharge‐lighting circuit shall have a cross‐sectional area not less than that of the phase conductor(s).
+
+NOTE.‐ The multiplier referred to in regulation 272 is based on the assumption that a circuit is corrected to a power factor of not less than 0.85 lagging, and takes into account control‐ gear losses and harmonic currents.

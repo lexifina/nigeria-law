@@ -1,0 +1,1 @@
+192. If any consumer refuses to admit such person during such hours, the electric supply authority shall on demand in writing by the Director of Electrical Inspectorate Services disconnect the consumer's installation from the source of supply.

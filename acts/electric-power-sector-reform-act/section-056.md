@@ -1,0 +1,1 @@
+56. Paper insulated cables Paper insulated cables shall be of a non‐draining type which will comply with appropriate Nigerian standard, where migration of the impregnating compound would otherwise be liable to occur.

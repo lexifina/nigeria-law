@@ -1,0 +1,1 @@
+83. Enclosed type fittings shall be provided with a removable glass receptacle arranged to enclose the lamp completely, and of such size or construction as to prevent undue heating of the lamp; and if the position of the fitting be such that the glass receptacle is liable to mechanical damage, the glass shall be protected by a suitable wire guard.

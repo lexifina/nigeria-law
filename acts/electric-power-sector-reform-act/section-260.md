@@ -1,0 +1,1 @@
+260. Where two or more projectors are installed and a change‐over switch is required, it shall, unless it be a double‐pole switch having a secure "off" position, be in addition to and not in substitution for the main switch.

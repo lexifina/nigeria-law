@@ -1,0 +1,1 @@
+101. Capacitor Every capacitor, unless incorporated for the sole purpose of radio interference suppression or directly connected across a motor winding, shall be provided with a means, such as a high‐resistance leak, for its prompt automatic discharge immediately the supply is disconnected. This requirement shall not apply to small capacitors where no risk of shock can arise.

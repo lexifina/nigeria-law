@@ -1,0 +1,1 @@
+292. Where likely to suffer mechanical damage, every cable in a circuit operating at a voltage exceeding low voltage shall be armoured or otherwise suitably protected. Non‐armoured cable shall not be drawn into metal tubing except where they pass through walls or floors where they may be installed in short lengths of metal conduit which shall be earthed.

@@ -1,0 +1,1 @@
+209. Periodic inspections and tests The results of a periodic inspection and test of an installation, or any part thereof, shall be recorded on an inspection certificate and give by the contractor or by an authorised person acting on his behalf, to the person ordering the inspection. The certificate shall be in the form set out in these Regulations.

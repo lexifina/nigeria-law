@@ -1,0 +1,1 @@
+138. Position and safety precautions Motors shall, wherever possible, be placed in well ventilated space in which inflammable gases cannot accumulate. Where that is not practicable, the motors shall be of the flame‐proof or pipe ventilated type, with inlet and outlet connected to the outer air.

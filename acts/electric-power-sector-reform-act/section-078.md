@@ -1,0 +1,1 @@
+78. Construction of fittings Fittings shall be so designed and constructed that the passages for the insulated conductors are of ample size, and are free from rough projections and sharp angle, or bends. All outlets shall have well‐ rounded edges or be bushed.

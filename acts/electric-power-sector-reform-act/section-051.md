@@ -1,0 +1,5 @@
+51. (1) Where a non‐metallic outlet box of thermoplastic material (e.g. p.v.c.) is used for the suspension of, or is in contact with, a light fitting, care shall be taken to ensure that the temperature of the box does not exceed 60°C. The mass suspended from the box shall not exceed 3 kg.
+
+(2) The termination of cables in a situation where flammable and/or explosive dust, flammable volatile liquid or vapour or gas is likely to be present, or where explosive materials are handled or stored, shall be avoided wherever possible. Otherwise, the terminal shall be enclosed in a flame‐proof fitting or alternatively, where methods are employed for avoiding the explosion hazard other than by the use of flame‐proof equipment the terminations shall be enclosed in a box suitable for such use.
+
+(3) Cable glands shall securely retain the outer sheath or armour of the cables without damage to these, and where necessary shall incorporate adequate means of maintaining earth continuity between the sheath or armour and the threaded fixing component of the gland.

@@ -1,0 +1,1 @@
+81. Where a hanging fitting exceeds 5 kg in weight it shall be supported by a metal chain, tube, or rod, or by several flexible cords in such a manner that the maximum weight to which any cord is subjected shall not be greater than that specified in regulation 67 (2).

@@ -1,0 +1,1 @@
+293. Where not otherwise readily identifiable, cables in a circuit operating at a voltage exceeding low voltage or their protective covering shall be distinguished by tabs or labels marked "DANGER" securely attached at intervals not greater than 1.5m. The letters shall be in red on a white background, and shall be not less than 10 mm high.

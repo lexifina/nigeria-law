@@ -1,0 +1,1 @@
+287. Cables and conductors in circuit operating at a voltage exceeding low voltage shall be supported at intervals not exceeding the appropriate value stated in Table 13 in Schedule 1. Supports for insulated and braided cables and for bare conductors shall be of non‐combustible, non‐hygroscopic insulating material, e.g. glass or glazed porcelain.

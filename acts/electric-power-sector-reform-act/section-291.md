@@ -1,0 +1,1 @@
+291. Where a connection is made to a cable in a circuit operating at a voltage exceeding medium voltage, the insulation exposed by removing the metal sheath or braid shall be suitably protected from the effect of ozone.

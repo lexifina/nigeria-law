@@ -1,0 +1,1 @@
+96. Where arc lams are used in positions where danger might otherwise arise, they shall be protected either by a metal reflector rigidly fixed beneath the arch or by a globe or lantern. Wherever noxious fumes are likely to be emitted from such a lamp, suitable ventilation shall be provided.

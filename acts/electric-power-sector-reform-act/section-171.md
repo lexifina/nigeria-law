@@ -1,0 +1,1 @@
+171. Protection against earth leakage The earthing of the consumer's installation shall be effected in such a manner that no fault of negligible impedance to earthed metal shall be so sustained as to cause danger and shall be in accordance with the appropriate requirements of these Regulations.

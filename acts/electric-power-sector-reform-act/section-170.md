@@ -1,0 +1,1 @@
+170. In a room containing a fixed bath or shower, electric shavers shall be connected only by means of shaver supply units where the secondary circuit supplying the output sockets shall be isolated both from the supply mains and from earths.

@@ -1,0 +1,1 @@
+160. An earthing terminal, connected to the earth‐continuity conductor the final sub‐circuit shall be provided at every metal lighting switch position unless this takes the form of an earthed metal box having a means of fixing the switch‐plate in reliable electrical contact with the box.

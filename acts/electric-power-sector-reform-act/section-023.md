@@ -1,0 +1,1 @@
+23. General Temporary installations and installations on construction sites shall comply in all respects with the requirements of these Regulations for permanent installations and in addition with the requirements of regulations 24 and 25.

@@ -1,0 +1,1 @@
+124. Where the circuit‐breaker is remote from the heater or boiler, indicating lamps shall be provided adjacent to or mounted on the boiler, to indicate whether the circuit‐breaker is in the "on" or "off" position.

@@ -1,0 +1,1 @@
+20. Storage batteries and controls When apparatus is supplied from secondary batteries, the work of connecting such apparatus to such batteries shall be done in accordance with the provisions of these Regulations which would govern the connecting of such apparatus with a generating plant developing the same difference of potential.

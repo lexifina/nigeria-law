@@ -1,0 +1,1 @@
+179. Earthing leads Pipes such as gas or water pipes, or members of structural metalwork, shall not by themselves constitute an earth‐continuity conductor, but it is admissible to bond them to the earth‐continuity conductor where this is necessary.

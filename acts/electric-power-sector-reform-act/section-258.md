@@ -1,0 +1,1 @@
+258. Projection and rewinding room and film store All wiring contained in the projection and rewinding rooms and film store shall be carried out in a mineral insulated metal sheathed, fire‐resisting system, approved by the Director of Electrical Inspectorate Services. All slack cables shall be heavily covered with fire‐proof material.

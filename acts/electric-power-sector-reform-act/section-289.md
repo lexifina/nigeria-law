@@ -1,0 +1,1 @@
+289. In circuit operating at a voltage exceeding low voltage, the air gap in mm from metal or cables which are neither metal‐sheathed not armoured, to earthed metal woodwork, or surfaces likely to become damp, shall be not less than the value obtained by multiplying the voltage to earth of the transformer secondary in kilovolts (r.m.s.) measured on open circuit, by 4.

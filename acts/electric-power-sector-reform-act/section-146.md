@@ -1,0 +1,1 @@
+146. Resistances shall be so proportioned and placed that they do not rise to such a temperature as to impair their durability, and they shall be so disposed within their cases that no accessible part of such cases shall rise to a temperature higher than 80°C.

@@ -1,0 +1,1 @@
+277. Transformers of input exceeding 500W Every circuit at a voltage exceeding low voltage supplied from a transformer having a rated input exceeding 500 watts shall be provided with means for the automatic disconnection of the supply in the event of a short circuit on an earth‐leakage current which exceeds 20% of the normal steady current in the circuit.

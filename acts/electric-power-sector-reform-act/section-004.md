@@ -1,0 +1,1 @@
+4. Where a supply authority changes over from one voltage or system to another the Director of Electrical Inspectorate Services may, by notice published in the Gazette, make such modification as may be specified in such notice of these Regulations in their application to the reconditioning of installations for the purposes of such change‐over.

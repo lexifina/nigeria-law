@@ -1,0 +1,1 @@
+230. Exposure to flammable dust Where apparatus may be exposed to a concentration of flammable dust, such as in situations used for grain milling and mixing, grain drying, some intensive rearing houses, and the like, the apparatus shall satisfy the test requirements of regulation 74.

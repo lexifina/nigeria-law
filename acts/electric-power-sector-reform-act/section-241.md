@@ -1,0 +1,1 @@
+241. A mains‐operated electric fence controller shall not be fixed to any pole of an overhead power or telecommunication line; provided that, where a low voltage supply to an electric fence controller is carried by insulated overhead line from a distribution board, the controller may be fixed to the pole carrying the supply.

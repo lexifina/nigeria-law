@@ -1,0 +1,1 @@
+174. A current‐operated earth‐leakage circuit‐breaker shall be used only where the pro‐duct of its operating current in amperes and the earth‐loop impedance in ohms does not exceed 40. Where such a circuit‐breaker is used, the consumer's earthing terminal shall be connected to a suitable electrode.

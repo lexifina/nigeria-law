@@ -1,0 +1,1 @@
+109. Such accessories shall be of specially robust construction, and be provided with efficient means to keep the socket weatherproof when the plug is removed therefrom. When a loose cover is employed for this purpose it shall be anchored to the socket by means of a chain.

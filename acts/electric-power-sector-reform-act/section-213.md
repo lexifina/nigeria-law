@@ -1,0 +1,1 @@
+213. General All installations in agricultural and horticultural holdings, except dwellings, shall comply with the requirements of this Part and generally with the Regulations for Electrical Installations.

@@ -1,0 +1,1 @@
+134. The heater or boiler shall be provided with an earthing terminal which is in effective electrical connection with all exposed metal parts of the heater or boiler, and this terminal shall be effectively connected with the consumer's earthing terminal via the earth‐continuity conductor of the final sub‐ circuit supplying the heater or boiler.

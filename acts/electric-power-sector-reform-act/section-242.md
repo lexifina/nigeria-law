@@ -1,0 +1,1 @@
+242. Any earth electrode connected to the earth terminal of an electric fence controller shall be separate from the earthing system of any other circuit and shall be situated outside the resistance area of any electrode used for protective earthing.

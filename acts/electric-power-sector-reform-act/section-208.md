@@ -1,0 +1,1 @@
+208. On the expiration of the period or extended period as aforesaid for which temporary connection has been so permitted, the installation shall be disconnected from the source of supply unless before such expiration the authorised inspector has issued his certificate pursuant to the last preceding regulation.

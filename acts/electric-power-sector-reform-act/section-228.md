@@ -1,0 +1,1 @@
+228. Where conductors or cables are carried overhead, supported by buildings or by poles, the minimum height above ground and maximum lengths of span specified in regulation 70 are applicable, provided for the purpose that any position on any horticultural holding is deemed to be accessible to vehicular traffic.

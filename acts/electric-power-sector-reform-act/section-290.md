@@ -1,0 +1,1 @@
+290. Cable installation In a circuit operating at a voltage exceeding medium voltage, every cable shall be supported close to each terminal connection and in no instance at a distance greater than 150 mm, or 300 mm if a glazed porcelain electrode‐receptacle forming an adequate support for the cable is used.

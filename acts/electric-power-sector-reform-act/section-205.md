@@ -1,0 +1,1 @@
+205. For a major alteration to an existing installation, the person ordering the work shall be notified of any repairs required to that part of the existing installation which is required to be inspected and tested, but completion certificates shall apply only to the new work.

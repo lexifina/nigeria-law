@@ -1,0 +1,1 @@
+15. Isolation Effective means, suitably placed for ready operation, shall be provided so that all voltage may be cut off from every circuit and sub‐circuit and from all apparatus, as may be necessary to prevent danger.

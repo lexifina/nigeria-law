@@ -1,0 +1,1 @@
+259. An efficient double‐pole main switch shall be fixed within the projection room whereby all current may be cut off from the projector circuit or circuits within the projection room and an additional double‐pole or triple‐pole switch shall be fixed for each arc lamp so that the current may be cut off whilst recarboning is taking place.

@@ -1,0 +1,1 @@
+263. All metal work liable to become accidentally charged, including the projecting apparatus, shall be efficiently earthed. The size of the earth wires shall be in accordance with the requirements of these Regulations.
