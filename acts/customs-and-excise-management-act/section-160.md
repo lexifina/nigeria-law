@@ -1,0 +1,3 @@
+160. Failure to pay duty on demand If any customs and excise duty is not paid at the time when it becomes payable under any enactment by any person from whom it is due, whether or not payment of that duty has been secured by bond or otherwise, it shall be paid on demand made by the Board either on that person personally or by delivering the demand in writing to his place of abode or business, and if it is not so paid on demand, he shall, in addition to the amount of customs and excise duty, be liable to a fine equal to twice the amount thereof or six hundred naira, whichever is the greater.
+
+[1966 No. 43.]

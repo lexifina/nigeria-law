@@ -1,0 +1,1 @@
+6. Signification Anything done or required to be done by the Board in pursuance of any of its powers or duties under the customs and excise laws, may be signified under the hand of the Comptroller‐General or of an officer who has been authorised by the Board for the purpose of this section.

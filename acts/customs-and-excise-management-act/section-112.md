@@ -1,0 +1,1 @@
+112. Remission of excise duty on beer for export or loading as stores The Board may, subject to such conditions as it sees fit to impose, allow beer brewed in Nigeria to be delivered from the brewery of manufacture for exportation or loading as stores in accordance with the customs and excise laws, without payment of the excise duty chargeable thereon.

@@ -1,0 +1,1 @@
+179. Penalties prescribed to be maximum penalties Where, by or under any provision of the customs and excise laws, a fine or term of imprisonment is prescribed, such fine or term of imprisonment shall be deemed to be a fine or term of imprisonment not exceeding the fine or term of imprisonment so prescribed.

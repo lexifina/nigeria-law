@@ -1,0 +1,1 @@
+91. Removal from warehouse without payment of duty Without prejudice to any other provisions of this Act authorising the removal of goods from a warehouse without payment of duty, the Board may, subject to such conditions as it sees fit to impose, allow warehoused goods entered for any purpose other than use in Nigeria to be removed for that purpose without payment of duty.

@@ -1,0 +1,5 @@
+164. Penalty for fraudulent evasion of duty Without prejudice to any other provision of this Act, if any person‐
+
+(a) knowingly and with intent to defraud the Federal Government of any duty payable thereon, or to evade any prohibition with respect thereto, acquires possession of, or is in any way concerned in the carrying, removing, depositing, harbouring, keeping or concealing or in any manner dealing with any goods which have been unlawfully removed from a warehouse or Government warehouse, or which are chargeable with a duty which has not been paid, or with respect to the importation, exportation or carriage coastwise of which any prohibition is for the time being in force; or
+
+(b) is, in relation to any goods, in any way knowingly concerned in any fraudulent evasion or attempt at evasion of any duty chargeable thereon or of any such prohibition as aforesaid or of any provision of this Act applicable to those goods, he shall be liable to a fine of six times the value of the goods or four hundred naira, whichever is the greater, or to imprisonment for two years, or to both.

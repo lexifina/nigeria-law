@@ -1,0 +1,1 @@
+95. Extension to all dutiable goods of provisions to warehousing Nothing in the customs and excise laws shall be construed as limiting to imported goods the provisions of those laws relating to the warehousing of goods.

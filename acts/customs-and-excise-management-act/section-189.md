@@ -1,0 +1,1 @@
+189. Evidence of officers If, in any proceedings under the customs and excise laws, the question arises whether any person is an officer, his own evidence thereof shall be deemed sufficient unless the contrary be proved.

@@ -1,0 +1,1 @@
+49. Saving as to goods in transit Transit goods shall not be deemed to be goods the exportation of which is prohibited, unless such goods are goods the exportation of which in transit or transhipment is expressly prohibited.

@@ -1,0 +1,1 @@
+184. Appeals by prosecutor from court of summary jurisdiction It is declared for the avoidance of doubt that, without prejudice to any right to require the statement of a case for the opinion of a superior court, a prosecutor may appeal to a superior court against any decision of a court of summary jurisdiction in proceedings for an offence under the customs and excise laws.

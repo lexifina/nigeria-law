@@ -1,0 +1,1 @@
+88. Liability for production and safe custody of warehoused goods The warehouse keeper shall produce to the proper officer on request any goods deposited in his warehouse which have not been lawfully removed therefrom; and if he fails so to produce any such goods, he shall be liable to a fine of ten naira for each container or lot not produced.

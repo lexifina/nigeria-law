@@ -1,0 +1,1 @@
+99. Licence to manufacture spirits No person shall manufacture spirits, whether by distillation of a fermented liquor or by any other process, unless he holds an excise licence for that purpose as a spirits manufacturer.

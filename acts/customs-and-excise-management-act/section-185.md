@@ -1,0 +1,1 @@
+185. Application of penalties Any sum paid or recovered on account of any fine imposed under the customs and excise laws and all costs awarded in any proceedings relating to customs and excise to the Board or to any person discharging any duty under those laws shall be accounted for and paid to the Board, or as it may direct.

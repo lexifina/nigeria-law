@@ -1,0 +1,1 @@
+60. Relief from export duty of goods entered for transit or transhipment The Board may, subject to such conditions and restrictions as it may see fit to impose, allow transit goods to be exported without payment of any export duty chargeable on such goods.

@@ -1,0 +1,1 @@
+8. Officers to have powers of police officers For the purpose of carrying out or enforcing the provisions of the customs and excise laws, all officers shall have the same powers, authorities and privileges as are given by law to police officers.
