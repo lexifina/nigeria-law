@@ -1,0 +1,1 @@
+1.4 Local Anaesthetics Lignocaine ........................................Injection, I % and 2% (Hydrochloride) in via Injection, 1% and 2% (Hydrochloride) plus Adrenaline I :200,000 in vial Topical, 2-4% (Hydrochloride) Dental Cartridges, 2% plus Adrenaline I in 80,000

@@ -1,0 +1,1 @@
+22. ANTISEPTICS +Benzoin ............................................. Compound Tincture of: Chlorhexidine Solution, 5% (Gluconate), for dilution Chlorhexidine Chloroxylenol +Iodine Solution 5% (Eluconate) for dilution Solution, 5% Solution, Different Preparations
