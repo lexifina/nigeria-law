@@ -1,0 +1,1 @@
+80. Subsistence money added to judgment Sums disbursed by an execution creditor for the subsistence of a judgment debtor in prison or hospital shall be added to the costs of the suit and shall be recoverable by the attachment and sale of the property of the judgment debtor but he shall not be detained in custody or arrested on account of any sums so disbursed.

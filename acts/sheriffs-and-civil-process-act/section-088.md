@@ -1,0 +1,1 @@
+88. Lien or claim of third person on debt Whenever in any proceedings to obtain an attachment of a debt it is suggested by the garnishee that the debt sought to be attached belongs to some third person or that any third person has a lien or charge upon it, the court may order such third person to appear and state the nature and particulars of his claim upon such debt.

@@ -1,0 +1,3 @@
+86. Execution against garnishee If the garnishee does not within the prescribed time pay into court the amount due from him to the judgment debtor, or an amount equal to the judgment debt, together with the costs of the garnishee proceedings, and does not dispute the debt due or claimed to be due from him to such debtor, or if he does not appear upon summons, the court upon proof of service may order execution to issue, and it may issue accordingly without any previous writ or process, to levy the amount due from such garnishee, or so much thereof as may be sufficient to satisfy the judgment or order, together with the costs of the gar- nishee proceedings.
+
+[First Schedule.]

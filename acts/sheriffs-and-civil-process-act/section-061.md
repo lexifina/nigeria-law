@@ -1,0 +1,1 @@
+61. Adjournment of examination The court may, if it thinks fit, adjourn the examination form time to time, and require from the judgment debtor such security for his appearance at the adjourned hearing as seems fit, and in default of his finding security may commit him to prison, there to re- main until the adjourned hearing, or may discharge him from custody.

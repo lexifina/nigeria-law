@@ -1,0 +1,1 @@
+48. When sale becomes absolute If no such application as is mentioned in section 47 of this Act is made, the sale shall be deemed absolute. If such application be made and the objection be disallowed the court shall make an order confirming the sale; and in like manner, if the objection be al- lowed, the court shall make an order setting aside the sale for irregularity.

@@ -1,0 +1,1 @@
+67. Party in default to be brought before the court If such judgment debtor is arrested or in custody he shall be brought before the court on the first convenient opportunity, and shall then, or if an order to show cause as afore- said has been made, he shall on appearing on the return-day of the order, have opportu- nity of showing cause why he should not be punished.

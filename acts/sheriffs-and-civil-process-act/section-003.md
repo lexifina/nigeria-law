@@ -1,0 +1,1 @@
+3. Appointment of sheriffs There shall be appointed for each State of the Federation and the Federal Capital Terri- tory, Abuja, a tit and proper person to be the sheriff for the State or for the Federal Capi- tal Territory, Abuja.

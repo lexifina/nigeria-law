@@ -1,0 +1,1 @@
+14. Liability for wrongful imprisonment A person unlawfully imprisoned by the sheriff, deputy sheriff or any bailiff appointed by the sheriff, shall have an action against such sheriff, deputy sheriff or bailiff, as the case may be, in like manner as against any other person that should imprison him without warrant.

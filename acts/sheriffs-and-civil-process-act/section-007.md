@@ -1,0 +1,1 @@
+7. Sheriff may command person to arrest felon The sheriff may command any person to arrest any person who has committed or is suspected of having committed a felony, and any person failing to obey such command shall on conviction be liable to a fine of N200 or to imprisonment for one year or to both such fine and such imprisonment.

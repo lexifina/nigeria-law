@@ -1,0 +1,1 @@
+32. Priority of writs When writs against the property of any person have been issued from more than one court, the right to the property attached shall be determined according to the order of pri- ority of the respective times of application to the registrars for the issue of the writs.

@@ -1,0 +1,1 @@
+70. Labour may be ordered in certain cases The court may in its discretion direct that any judgment debtor ordered to be impris- oned on account of any misconduct as aforesaid shall be employed in work within the prison during any period of such imprisonment.

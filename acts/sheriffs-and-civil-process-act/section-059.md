@@ -1,0 +1,1 @@
+59. Enlargement of time and conditional order The court may enlarge the time for return to the order and may direct that the warrant shall only issue after a certain time and in the event of the continued refusal or neglect of the judgment debtor at the time to comply with the judgment summons.

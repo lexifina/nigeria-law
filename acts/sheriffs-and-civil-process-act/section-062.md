@@ -1,0 +1,1 @@
+62. Interim order for protection of property The court may, upon such investigation as aforesaid, make an interim order for the protection of any property applicable or available in discharge of the judgment debt, as it shall think expedient.

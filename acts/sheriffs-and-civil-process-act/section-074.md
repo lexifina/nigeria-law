@@ -1,0 +1,3 @@
+74. Application for discharge Any person imprisoned under the provisions of section 65 or 66 of this Act may apply to the court for his discharge. The application shall be accompanied by a full statement and account of all property of whatever nature belonging to the applicant, whether in ex- pectancy or in possession, and whether held exclusively by himself or jointly with others, or by others in trust for him, excepting the necessary wearing apparel of himself and his family, and the necessary implements of his trade, if any, to the value of ten naira, and of the places respectively where such property is to be found. The application shall be veri- fied by oath or affidavit.
+
+[First Schedule. Form 23.]

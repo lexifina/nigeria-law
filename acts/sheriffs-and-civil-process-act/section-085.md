@@ -1,0 +1,1 @@
+85. Order for attachment to bind debt Service of an order that a debt due or accruing to the judgment debtor shall be at- tached, or notice thereof to the garnishee, in such manner as the court may direct, shall bind such debt in his hands.

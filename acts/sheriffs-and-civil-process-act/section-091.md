@@ -1,0 +1,1 @@
+91. Garnishee discharged Payment made by or execution levied upon a garnishee under any such proceedings shall be a valid discharge to him against the debtor liable under a judgment or order, to the amount paid or levied, even although such proceeding may be set aside or the judg- ment or order reversed.

@@ -1,0 +1,1 @@
+49. Return of deposit or purchase money Wherever a sale of immovable property is set aside the purchaser shall be entitled to receive back any money deposited or paid by him on account of such sale, with or with- out interest, to be paid by such parties and in such manner as it may appear proper to the court to direct in each instance.

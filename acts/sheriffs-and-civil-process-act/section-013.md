@@ -1,0 +1,1 @@
+13. Duties of deputy sheriffs Every deputy sheriff may be charged generally with the performance of the duties of the sheriff and shall be subject to the same liabilities and protection as the sheriff,

@@ -1,0 +1,1 @@
+89. Order may be made if third person does not appear If the third person as described in the last preceding section does not appear, the court on proof of service of a copy of the order may proceed to make an order as if such person had appeared.

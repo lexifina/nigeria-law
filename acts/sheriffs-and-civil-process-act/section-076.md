@@ -1,0 +1,1 @@
+76. Imprisonment does not extinguish debt No imprisonment under this Act shall operate as a satisfaction or extinguishment of any debt, demand or cause of action, or deprive any person of any right to take out exe- cution against the movable or immovable property of the person imprisoned in the same manner as if such imprisonment had not taken place.
