@@ -1,0 +1,3 @@
+14. Power to borrow (I) Subject to subsection (2) of this section, the Board may, for the purpose of giving effect to this Act, borrow any sum of money from any source.
+
+(2) Subject as herein provided, the Board may, from time to time, borrow by way of overdraft or otherwise however such sums as it may require in the exercise of its func- tions under this Act whereby the amount in the aggregate outstanding on any loan or on all loans at any time is not more than NS,OOO,OOO so however that the Board shall not, without the approval of the Minister, borrow sums of money where the amount in the aggregate outstanding as aforesaid at any time exceeds N2,500,OOO.

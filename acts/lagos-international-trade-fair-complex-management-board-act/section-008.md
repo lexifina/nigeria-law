@@ -1,0 +1,1 @@
+8. Power to delegate to executive director The Board may delegate to the executive director such of its functions under this Act as may be necessary to enable him transact the day-to-day business of the Complex.

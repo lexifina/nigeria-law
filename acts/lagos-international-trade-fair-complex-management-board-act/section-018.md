@@ -1,0 +1,1 @@
+18. Annual reports The Board shall, not later than six months after the end of each year, submit through the Minister to the President a report on the activities of the Complex and its administra- tion during the immediately preceding year and shall include in such report the audited accounts of the Complex and the auditor's comments thereon.
