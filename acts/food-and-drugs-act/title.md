@@ -1,0 +1,3 @@
+FOOD AND DRUGS ACT
+
+ARRANGEMENT OF SECTIONS Food, drugs, cosmetics and devices SECTION
