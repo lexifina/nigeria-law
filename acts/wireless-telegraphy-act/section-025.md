@@ -1,0 +1,1 @@
+25. Frequency stabilisation A satisfactory method of frequency stabilisation shall be employed in the sending ap- paratus; and equipment for frequency measurement capable of verifying that the sending apparatus is operating with emissions within the authorised frequency bands shall be pro- vided by the licensee.

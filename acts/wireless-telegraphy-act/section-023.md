@@ -1,0 +1,1 @@
+23. Additional information to be furnished Before granting any licence, the Director-General or an authorised officer may require the applicant to furnish such additional information as may be deemed necessary.

@@ -1,0 +1,1 @@
+22. Failure to renew expired licence If a licensee refuses or neglects to renew his licence within seventeen days of receipt of a notice to that effect, the licence shall be deemed to be void and shall be returned to the nearest Post Office.

@@ -1,0 +1,1 @@
+13. Apparatus to comply with regulations Before any licence is granted, the applicant shall satisfy the Director-General or an authorised officer that the wireless telegraphy apparatus to be worked in pursuance of the licence complies with the regulations for the time being in force.

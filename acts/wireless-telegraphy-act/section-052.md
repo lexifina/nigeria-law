@@ -1,0 +1,1 @@
+52. Particulars to be supplied by successful candidates Each successful candidate shall be required to furnish (for attachment to his certifi- cate) an autographic photograph of himself (about 2Y2 inches) and his nationality, height, colour of eyes, colour of hair and any special peculiarities.

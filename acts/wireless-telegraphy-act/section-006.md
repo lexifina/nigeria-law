@@ -1,0 +1,1 @@
+6. Licences subject to provisions of regulations Every licence shall be subject to the provisions of regulations from time to time made under the Act so far as they are applicable to the licence, and those provisions shall be deemed to be incorporated in the licence.

@@ -1,0 +1,1 @@
+27. Wireless aerial No direct connection shall be made between a wireless aerial and a public electricity supply; and any aerial or earth connection which crosses or is liable to be blown on to any electricity wire or power apparatus shall be guarded to the reasonable satisfaction of the owner of the wire or apparatus.

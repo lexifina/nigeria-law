@@ -1,0 +1,1 @@
+14. Licensee to comply with International Telecommunications Convention The licensee, and or his agents, shall observe and comply with the relevant provisions of the International Telecommunications Convention in operating the station.

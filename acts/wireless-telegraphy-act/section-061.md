@@ -1,0 +1,1 @@
+61. Importation of wireless telegraphy apparatus by non-holder of wireless dealer's licence Any person, other than the holder of a wireless dealer's licence, who imports any wireless telegraphy apparatus, shall notify the Director-General or an authorised officer in writing of the importation and furnish particulars of the apparatus imported within a period of fourteen days.

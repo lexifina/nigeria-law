@@ -1,0 +1,1 @@
+4. Licences to non-Nigerian citizens No licence (other than a broadcast receiving licence or a dealer's licence) shall be granted to a person who is not a citizen of Nigeria without the approval of the Director- General in writing.

@@ -1,0 +1,1 @@
+20. Closure of station When so requested by an authorised officer of the Ministry of Communications, the owner of a station shall close down that station and shall not reopen it until permission is granted for him to do so.

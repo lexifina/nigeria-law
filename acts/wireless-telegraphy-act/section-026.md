@@ -1,0 +1,1 @@
+26. Licensee to notify change of address A permanent change of address of a licensee shall be notified promptly to the office of issue, giving the date of expiration of the licence and the serial number.

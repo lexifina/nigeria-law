@@ -1,0 +1,3 @@
+11. Duration of licence A licence shall continue in force for one year from the date of issue and thereafter so long as the licensee pays in each year on or before the anniversary of the date of issue the renewal fee prescribed by, or under, the regulations for the time being in force under sec- tion 30 of the Act:
+
+Provided that the Director-General may at any time after the date of issue revoke the licence or vary the terms, provisions, or limitations thereof by a notice in writing served on the licensee or by a Government notice published in the Federal and State Gov- ernment Gazettes addressed to all holders of this type of licence. Any notice given under these Regulations may take effect either forthwith or on such subsequent date as may be specified in the notice.

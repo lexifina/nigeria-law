@@ -1,0 +1,1 @@
+59. Aircraft at rest within Nigeria Aircraft at rest within the territory or territorial waters of Nigeria shall not make use of any wireless telegraphy apparatus without the written permission of the Director-General or an authorised officer.

@@ -1,0 +1,1 @@
+35. Ship station licence A ship station licence shall be granted only in respect of a station on a ship which is registered in Nigeria and for the purpose of communication with a coast station or limited coast station.

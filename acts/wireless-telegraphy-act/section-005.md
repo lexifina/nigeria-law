@@ -1,0 +1,1 @@
+5. Declaration as to secrecy All persons having access to wireless communications or actually operating licensed installations (other than broadcast receiving installations) shall make a declaration of se- crecy as in the Third Schedule to these Regulations in respect of commercial, naval, mili- tary, or airforce wireless communications.

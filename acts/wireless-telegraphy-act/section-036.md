@@ -1,0 +1,1 @@
+36. Ship station to be operated by holders of prescribed certificate Every ship station on a ship registered in Nigeria shall be operated by a person who is holding the prescribed certificate of proficiency; and the certificate of proficiency shall be readily available for inspection by an authorised officer.
