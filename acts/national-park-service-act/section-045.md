@@ -1,0 +1,3 @@
+45. Scientific investigation of activities relating to the National Parks (I) For a better achievement of the objectives specified in this Act, every person responsible for the administration of this Act shall ensure that any measure taken or instituted under this Act is based on the result of scientific investigation, including the monitoring of the status and habitat conditions of the species.
+
+(2) The Service may appoint suitable persons, organisations, committee of scientists, academicians or such other persons as it may think fit, to assist in undertaking surveys, scientific researches and other studies of a scientific and professional nature relating to its functions under this Act.

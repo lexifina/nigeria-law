@@ -1,0 +1,1 @@
+49. Directives by the Minister The Minister may give directives of a general or special character, not inconsistent with the provisions of this Act, to the Service in relation to the performance by the Ser- vice of its functions under this Act and it shall be the duty of the Service to comply and give effect to the directives.

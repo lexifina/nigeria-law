@@ -1,0 +1,3 @@
+48. Participation of local communities in the management of National Park (I) The Board and Management Committees shall consult with and take into account the views of local communities in the administration and management of the National Parks and may, in each case, establish Local Advisory Committees consisting of local residents to assist in the management of a National Park.
+
+(2) For the purpose of achieving a more effective partnership with the local communities and to return benefits to them, a Management Committee may organise, co-operate with or encourage the organisation of or co-operation with guilds, associations and networks of local communities in respect of any particular endeavour, activity, trade or profession.

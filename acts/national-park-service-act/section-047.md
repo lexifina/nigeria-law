@@ -1,0 +1,1 @@
+47. Delineation of boundaries of National Parks Within three years of the declaration of a National Park, and two years from the date of the commencement of this Act, in the case of an existing National Park, the Service shall clearly mark the boundaries between each of the National Parks and the surrounding land.

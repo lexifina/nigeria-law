@@ -1,0 +1,3 @@
+39. Forfeiture and compensation (I) In a judicial proceeding under this Act it shall be lawful for the court before which the proceeding is brought to make an order that any equipment, instrument and any other thing of the like nature used by the offender in committing the offence be forfeited to the National Park.
+
+(2) Where by or under this Act a fine or imprisonment is imposed on a person, the court may order that compensation for the conservation value of a wild plant, wild animal or the ecosystem, where applicable, as stipulated in regulations made under section 51 of this Act, be paid by the person to the National Park.
