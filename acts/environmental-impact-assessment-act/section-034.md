@@ -1,0 +1,1 @@
+34. Subsequent reference to review panel Where at any time after a project has been referred to mediation, the Council is of the opinion that the mediation is not likely to produce a result that is satisfactory to all of the parties, the Council may terminate the mediation and refer the project to a review panel.

@@ -1,0 +1,1 @@
+7. Opportunity for comments by certain groups Before the Agency gives a decision on an activity to which an environmental assessment has been produced, the Agency shall give opportunity to government agencies, members of the public, experts in any relevant discipline and interested groups to make comment on the environmental impact assessment of the activity.

@@ -1,0 +1,1 @@
+27. Termination by responsible authority Where at any time the Agency decides not to exercise any power or perform any duty or function referred to in section 25 of this Act in relation to a project that has not been referred to mediation or a review panel, it may terminate the environmental assessment of the project.

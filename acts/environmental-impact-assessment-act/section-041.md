@@ -1,0 +1,1 @@
+41. Certificate A certificate stating that an environmental assessment of a project has been completed, and signed by the Agency that exercises a power or performs a duty or function referred to in section 8 of this Act in relation to the project, is in the absence to the contrary, proof of the matter stated in the certificate.

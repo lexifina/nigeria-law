@@ -1,0 +1,1 @@
+10. Supervision of the activity When the Council deems it fit and appropriate, a decision on an activity which has been the subject of an environmental impact assessment, the activity and its effect on the environment or the provisions of section 9 of this Act shall be subject to appropriate supervision.

@@ -1,0 +1,1 @@
+46. Substitution Where the Council approves a substitution of a process pursuant to section 44 (1) of this Act, an assessment that is conducted in accordance with that process shall be deemed to satisfy any requirements of this Act, in respect of assessment by a panel.

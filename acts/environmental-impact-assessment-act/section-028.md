@@ -1,0 +1,1 @@
+28. Termination by Council Where at any time the Agency decides not to exercise any power or perform any duty or function referred to in section 25 of this Act in relation to a project that has been referred to mediation or a review panel, the Council may terminate the environmental assessment of the project.

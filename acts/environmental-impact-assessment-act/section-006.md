@@ -1,0 +1,1 @@
+6. Examination of environmental impact assessment by the Agency The information provided as part of an environmental impact assessment shall be examined impartially by the Agency prior to any decision to be made thereto (whether in favour or adverse thereto).

@@ -1,0 +1,1 @@
+8. Decision not to be given until the appropriate period has elapsed The Agency shall not give a decision as to whether a proposed activity should be authorised or undertaken until the appropriate period has elapsed to consider comments pursuant to sections 7 and 17 of this Act.

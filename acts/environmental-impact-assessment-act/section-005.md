@@ -1,0 +1,1 @@
+5. Detailed degree of environmental significance The environmental effects in an environmental assessment shall be assessed with a degree of detailed commensuration with their likely environmental significance.

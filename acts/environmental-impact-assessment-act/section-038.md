@@ -1,0 +1,1 @@
+38. Public notice On receiving a report submitted by a mediator or a review panel, the Agency shall make the report available to the public in any manner the Council considers appropriate and shall advise the public that the report is available.

@@ -1,0 +1,1 @@
+50. Application of certain provisions Sections 35 to 38 and 42 to 44 of this Act, shall apply, with such modifications as the circumstances require, to a review panel established pursuant to sections 47 (1), 48 (1) or 49 (1) or (2) of this Act.

@@ -1,0 +1,1 @@
+60. Offence and penalty Any person who fails to comply with the provisions of this Act shall be guilty of an offence under this Act and liable on conviction in the case of an individual to N100,000 fine or to five years' imprisonment and in the case of a firm or corporation to a fine of not less than N50,000 and not more thanN100,000.
