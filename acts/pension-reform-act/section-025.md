@@ -1,0 +1,1 @@
+25. Accounts and Audit The Commission shall cause to be kept proper accounts and records in relation thereto, such account shall, not later than four months after the end of each year, be au- dited by auditors appointed by the Commission from the list and in accordance with the guidelines supplied by the Auditor-General for the Federation.

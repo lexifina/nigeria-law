@@ -1,0 +1,1 @@
+67. Appointment of Director and Chief Executive Officer From the date of commencement of this Act, no Chief Executive Officer or Director of a pension fund administrator shall be appointed without the prior written approval of the Commission.

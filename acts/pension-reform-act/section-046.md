@@ -1,0 +1,1 @@
+46. Pension assets custodian As from the commencement of this Act, pension funds and assets shall only be held by pension funds custodian (in this Act referred to as "the custodian") licensed by the Commission under this Act.

@@ -1,0 +1,1 @@
+57. Annual reports by pension fund administrators and custodians The pension fund administrator or custodian shall not later than four months from the end of the financial year submit to the Commission an annual report in respect of the im- mediate preceding year on the pension funds being managed by him and such report shall include the audited accounts.

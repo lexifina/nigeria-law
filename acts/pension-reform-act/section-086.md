@@ -1,0 +1,1 @@
+86. Offences relating to misappropriation of pension funds Any pension fund administrator or custodian who misappropriates pension funds commits an offence and is liable on conviction to a fine of an amount equal to three times the amount so misappropriated or imprisonment for a term not less than ten years or to both such fine and imprisonment.

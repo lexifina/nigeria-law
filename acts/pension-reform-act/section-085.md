@@ -1,0 +1,1 @@
+85. General penalty Any person who contravenes any provisions of this Act where no other penalty is pre- scribed under this Act, commits an offence and is liable on conviction to a fine not more than N250, 000 or to imprisonment for a term not exceeding one year or to both such fine and imprisonment.

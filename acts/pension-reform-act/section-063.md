@@ -1,0 +1,1 @@
+63. Prohibited employment No pension fund administrator or custodian shall employ any person whose name is on the list maintained by the Commission under section 62 (2) of this Act, unless with the prior approval of the Commission.

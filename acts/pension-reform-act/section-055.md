@@ -1,0 +1,1 @@
+55. Publication of list of pension fund administrators The Commission shall, at the end of each calendar year, publish a list of all pension fund administrators and custodians licenced by it in such manner, as it considers necessary.

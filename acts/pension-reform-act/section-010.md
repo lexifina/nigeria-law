@@ -1,0 +1,1 @@
+10. Contribution under the Scheme to form part of tax deductible expenses Notwithstanding anything in any enactment or law, contributions by an employee to the Scheme under this Act shall form part of tax-deductible expenses in the computation of tax payable by an employer or employee under the relevant income tax law.

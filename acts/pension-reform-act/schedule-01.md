@@ -1,0 +1,3 @@
+SCHEDULES
+
+FIRST SCHEDULE [Section 8 (3).] Computation of Retirement Benefits Formula for calculation of Pensions and Gratuity in respect of Retirement Year of qualifying Gratuity as percentage Pension as percentage Year of qualifying Gratuity as percentage Pension as percentage service offinal pay affinal pay service of total final of total final emolument emolument - - - - - - - - - - - - - - - - - - - - - - - - - FIRST SCHEDULE-continued Year af qualifying Gratuity as percentage Pension as percentage Year of qualifying Gratuity as percentage Pension as percentage service offinal pay affinal pay service of total final of total final emolument emolument

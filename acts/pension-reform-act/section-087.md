@@ -1,0 +1,1 @@
+87. Offences relating to custodian Any person who contravenes the provisions of section 6\, commits an offence and shall be liable on conviction to a fine not less than N10,000,000 and each of its directors or officers shall be liable to a [me not less than N5,000,000 or imprisonment for a term not exceeding three years or to both such fine and imprisonment.
