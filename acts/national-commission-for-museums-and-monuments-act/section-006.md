@@ -1,0 +1,3 @@
+6. (1) The Commission shall, not later than three months after the appointed day, by notice in writing, offer, to every person remaining deployed to its service at that time, employment on terms and conditions as are not less favourable than those enjoyed by that person immedi- ately before his deployment.
+
+(2) For the purposes of this Schedule, the terms and conditions comprised in any offer shall not be construed as being less favourable merely because they are not in all respects identical with or superior to the terms and conditions enjoyed by the person immediately be- fore the deployment, if the first-mentioned terms and conditions taken as a whole offer sub- stantially equivalent or greater benefits.

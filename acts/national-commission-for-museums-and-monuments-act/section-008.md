@@ -1,0 +1,1 @@
+8. When a person accepts an offer of employment made pursuant to paragraph 6 of this Schedule, such person shall be deemed to have been transferred to the Commission and his previous service in the Department shall be deemed to be service in the Commission for pen- sions purposes.

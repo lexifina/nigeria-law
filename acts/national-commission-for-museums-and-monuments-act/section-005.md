@@ -1,0 +1,1 @@
+5. Notwithstanding the dissolution of the Federal Department of Antiquities by this Act but subject as hereinafter provided, any person who immediately before the appointed day held office in the said Department shall, on the appointed day, be deemed to have been deployed to the Commission by the Federal Civil Service Commission.

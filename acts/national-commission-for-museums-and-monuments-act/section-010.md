@@ -1,0 +1,1 @@
+10. Within the twelve months next after the making of this Act the Minister, if he thinks fit, may by order in the Federal Gazette make additional transitional or saving provisions for the better carrying out of the objectives of this Schedule.

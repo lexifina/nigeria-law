@@ -1,0 +1,1 @@
+3. Any proceeding or cause of action pending or existing immediately before the appointed day by or against the old Commission in respect of any right, interest, obligation or liability of the old Commission may be commenced, continued or enforced by or against the new Com- mission as if this Act had not been made.
