@@ -1,0 +1,1 @@
+11. Caustic "Nerve pastes" Preparations containing, in addition to morphine salts, or morphine and cocaine salts, at least 25 per cent of arsenious acid, and made up with the requisite proportion of creosote or phenol to produce the consistency of a paste.
