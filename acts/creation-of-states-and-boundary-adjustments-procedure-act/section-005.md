@@ -1,0 +1,1 @@
+5. Form of question at referendum The sole matter on which a voter shall be invited to cast his vote at the referendum shall be the question as to whether or not he agrees to the proposal to create the new State.
