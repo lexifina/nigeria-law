@@ -1,0 +1,1 @@
+7. The President shall preside over all Parliamentary proceedings except those held in Committee and, in his or her absence, the Vice-Presidents shall act in rotation, in accordance with the Rules of Procedure which shall also deal with the powers of the person presiding over Parliamentary proceedings.

@@ -1,0 +1,1 @@
+6. The Pan-African Parliament shall appoint a Clerk, two Deputy Clerks and such other staff and functionaries as it may deem necessary for the proper discharge of its functions and may by regulations provide for their terms and conditions of office in accordance with the relevant AU practice as appropriate.

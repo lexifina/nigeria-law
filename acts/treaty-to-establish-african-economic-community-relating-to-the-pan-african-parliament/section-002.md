@@ -1,0 +1,1 @@
+2. The Pan-African Parliament shall elect, at its first sitting following its election, by secret ballot, from among its members and in accordance with its Rules of Procedure, a President and four Vice-Presidents representing the Regions of Africa as determined by the AU. The election shall, in each case, be by simple majority of the members present and voting.
