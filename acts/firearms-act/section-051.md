@@ -1,0 +1,1 @@
+51. Exemption of air-guns Without prejudice to the application of the Act to air-rifles and air-pistols, no air-gun, being a smooth-bored weapon designed to discharge a pellet by means of compressed air or inert gas and having a barrel of more than nine inches in length, shall be subject to any of the provisions of the Act or of these Regulations.

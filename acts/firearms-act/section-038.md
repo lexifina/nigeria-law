@@ -1,0 +1,1 @@
+38. Conditions of permit to manufacture and repair firearms The requirements contained in regulations 39 to 43 of these Regulations inclusive shall, subject to the provisions of regulation 50, be conditions of every permit issued un- der section 25 of the Act in addition to the conditions required by regulation 27 of these Regulations.

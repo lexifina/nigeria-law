@@ -1,0 +1,1 @@
+23. Cost of transmission of firearms or ammunition through official channels The importer of any firearm or ammunition required under section 20 of the Act to surrender such firearm or ammunition for transmission through official channels to a specified authority or public armoury, shall bear all costs in connection with such trans- mission, and shall pay such costs in advance.

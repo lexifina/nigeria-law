@@ -1,0 +1,1 @@
+25. Escorts to consignments of firearms or ammunition The Inspector-General of Police, if he is of the opinion that any consignment of fire- arms or ammunition in transit in Nigeria requires any special safeguards, may provide a police guard for such consignment at the cost of the owner, or the agent of the owner, of such consignment as a condition of any licence or permit.

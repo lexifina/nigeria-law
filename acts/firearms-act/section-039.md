@@ -1,0 +1,1 @@
+39. Capacity of armoury The armoury in any place for the manufacture of firearms shall be constructed having a minimum storage capacity of twice the estimated maximum monthly output of firearms ofthe manufactory.

@@ -1,0 +1,1 @@
+28. Firearms repairer to maintain armoury Every firearms repairer shall maintain an armoury which shall comply with the re- quirements for a registered dealer's armoury as set out in regulation 13 of these Regula- tions.

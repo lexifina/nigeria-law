@@ -1,0 +1,1 @@
+27. Conditions of permit to repair firearms The requirements contained in regulations 28 to 35 of these Regulations inclusive shall, subject to the provisions of regulation 50, be conditions of every permit issued un- der section 24 or 25 of the Act.

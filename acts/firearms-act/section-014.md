@@ -1,0 +1,1 @@
+14. Appointment of watchmen The Inspector-General of Police may, if he considers it necessary, require the person in charge of any registered dealer's armoury to employ one or more watchmen and may detail the hours during which such watchmen shall be on duty, and the person in charge shall comply with such requirement.

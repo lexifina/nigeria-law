@@ -1,0 +1,1 @@
+24. Duration of transit permits The duration of any permit issued under paragraph (c) of section 20 of the Act for the temporary possession of any firearm or ammunition during a period of transit shall not exceed three months.

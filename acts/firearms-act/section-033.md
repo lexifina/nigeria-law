@@ -1,0 +1,1 @@
+33. Prohibition of conversion of flint-lock guns into cap-guns A firearms repairer shall not convert a flint-lock gun into a cap-gun or attempt or be concerned in any such conversion or do any act for the purpose of causing, assisting, or facilitating such conversion.

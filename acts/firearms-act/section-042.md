@@ -1,0 +1,1 @@
+42. Stamping of firearms by manufacturer Every firearm shall be stamped by the manufacturer on the wooden stock or other suitable place with the manufacturer's name and number, or mark or distinguishing letter or letters and number.

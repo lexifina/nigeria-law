@@ -1,0 +1,1 @@
+48. Offences and penalties Any person who contravenes or fails to comply with the provisions of regula- tion 6 (1),9, 10, 14, 15, 17 or 21 of these Regulations shall be guilty of an offence and liable to a fine of one hundred naira or imprisonment for six months or both.

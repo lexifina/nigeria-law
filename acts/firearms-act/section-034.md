@@ -1,0 +1,1 @@
+34. Inspection of premises A firearms repairer shall permit inspection of any place in which he carries on busi- ness and the records maintained thereat by a police officer upon production by such officer of the written authority of the Inspector-General of Police.

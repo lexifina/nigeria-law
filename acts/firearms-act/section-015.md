@@ -1,0 +1,1 @@
+15. Inspection by person in charge When no watchman has been on duty at a registered dealer's armoury between sunset and sunrise, the person in charge of the armoury shall inspect or cause to be inspected, the door and fastenings of the armoury as soon as possible after sunrise, to ascertain that no unlawful entry has been made.
