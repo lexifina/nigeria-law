@@ -1,0 +1,57 @@
+29. Supplemental powers of court
+
+In the exercise of its appellate jurisdiction, the Supreme Court may, if it thinks it necessary or expedient in the interest of justice-
+
+(a) order the production of any document, exhibit, or other thing connected with
+
+the proceedings, the production of which appears to it necessary for the deter-
+
+mination of the case; and
+
+(b) order any of the witnesses who would have been compellable witnesses at the
+
+trial to attend and be examined before the Court, whether they were or were
+
+not called at the trial, or order the examination of any such witnesses to be
+
+conducted in manner provided by rules of court, or, in the absence of rules of
+
+court making provision on that behalf, as it may direct, before any judge of the
+
+Court or before any officer of the Court or other person appointed by the Court
+
+for the purpose, and allow the admission of any depositions so taken as evi-
+
+dence before the Court; and
+
+(c) receive the evidence, if tendered, of any witness (including the appellant) who
+
+is a competent but not compellable witness and, if the appellant makes an ap-
+
+plication for the purpose, of the husband or wife of the appellant, in cases
+
+where the evidence of the husband or wife could not have been given at the
+
+trial except on such an application; and
+
+(d) where any question arising on the appeal involves prolonged examination of
+
+documents or accounts, or any scientific or local investigation, which cannot in
+
+the opinion of the Court conveniently be conducted before the Court, order the
+
+reference of the question in manner provided by rules of court, or, in the ab-
+
+sence of rules of court making provision in that behalf, as it may direct, for en-
+
+quiry and report of any such commissioner appointed by the Court, and act
+
+upon the report of any such commissioner so far as it thinks fit to adopt it; and
+
+exercise in relation to the proceedings of the Court any other powers which
+
+may for the time being be prescribed by rules of court and issue any warrants
+
+necessary for enforcing the orders or sentence of the Court:
+
+Provided that in no case shall any sentence be increased by reason of or in consideration of any evidence that was not given at the trial.
