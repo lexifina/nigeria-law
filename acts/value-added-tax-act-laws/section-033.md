@@ -1,0 +1,1 @@
+33. Failure to keep proper records and accounts A taxable person who fails to keep records and accounts of his business transactions to allow for the correct ascertainment of tax and filing of returns is liable to pay a penalty of N 2,000 for every month in which the failure continues.

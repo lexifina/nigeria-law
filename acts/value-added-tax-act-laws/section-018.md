@@ -1,0 +1,1 @@
+18. Effect of failure to render returns Where a taxable person fails to render returns or renders an incomplete or inaccurate returns, the Board shall assess, to the best of its judgment, the amount of tax due on the taxable goods and services purchased or supplied by the taxable person.

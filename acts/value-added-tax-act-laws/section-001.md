@@ -1,0 +1,1 @@
+1. Imposition, etc., of Value Added Tax There is hereby imposed and charged a tax to be known as the Value Added Tax (in this Act referred to as "the tax") which shall be administered in accordance with the pro- visions of this Act.

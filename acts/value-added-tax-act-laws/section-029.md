@@ -1,0 +1,1 @@
+29. Failure to issue tax invoice A person who fails to issue a tax invoice for goods sold or services rendered, is guilty of an offence and liable on conviction to a fine of 50% of the cost of the goods or services for which the invoice was not issued.
