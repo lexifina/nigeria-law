@@ -1,0 +1,1 @@
+7. to preserve and strengthen positive African cultural values in his relations with other members of the society, in the spirit of tolerance, dialogue and consultation and, in general, to contribute to the promotion of the moral well-being of society;
