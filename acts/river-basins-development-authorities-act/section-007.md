@@ -1,0 +1,1 @@
+7. Power of Minister to give directions The Minister may give to any of the Authorities directions of a general character or relating generally to particular matters with regards to the exercise of the functions of the Authority concerned and it shall be the duty of that Authority to comply with such direc- tions.
