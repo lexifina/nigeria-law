@@ -1,0 +1,9 @@
+18. Annual estimates and expenditure
+
+(I) The Board shall, not later than 30 September in each year, submit to the National Assembly through the President an estimate of the expenditure and income of the Com-
+
+mission during the next succeeding year for approval.
+
+(2) The Board shall cause to be kept proper accounts of the Commission in respect of each year and proper records in relation thereto and shall cause the accounts to be audited
+
+not later than six months after the end of each year by auditors appointed from the list and in accordance with the guidelines supplied by the Auditor-General for the Federation.
