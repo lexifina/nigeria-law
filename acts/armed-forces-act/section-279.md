@@ -1,0 +1,3 @@
+279. Property of deceased service person to be distributed subject to rights of creditors
+
+Where money or personal property or any part thereof of a deceased person subject to service law under this Act is paid or delivered to a person recorded as next of kin under this Part of this Act or as beneficiary under the will of the deceased person or as his widow or child, or otherwise in accordance with this Act as a near relative, a creditor of the deceased person shall have the same rights and remedies against the person to whom the money or personal property is paid or delivered as if that person had received the money or personal property as legal personal representative of the deceased person.

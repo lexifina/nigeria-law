@@ -1,0 +1,5 @@
+191. Right of appellant to present his case in writing
+
+An appellant may, if he so desires, instead of presenting his case orally, present it in writing in the prescribed form.
+
+[1997 No. 15.]
