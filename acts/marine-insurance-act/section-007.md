@@ -1,0 +1,15 @@
+7. Insurable interest defined
+
+(1) Subject to the provisions of this Act every person has an insurable interest who is
+
+interested in a marine adventure.
+
+(2) In particular a person is interested in marine adventure where he stands in any le-
+
+gal or equitable relation to the adventure or to any insurable property at risk therein, in
+
+consequence of which he may benefit by the safety or due arrival of insurable property,
+
+or may be prejudiced by its loss, or damage thereto, or by the detention thereof, or may
+
+incur liability in respect thereof.

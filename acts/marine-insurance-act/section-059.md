@@ -1,0 +1,5 @@
+59. Missing ship
+
+Where the ship concerned in the adventure is missing, and after the lapse of a reason-
+
+able time no news of her has been received, an actual total loss may be presumed.

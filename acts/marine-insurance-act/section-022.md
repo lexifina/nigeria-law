@@ -1,0 +1,31 @@
+22. Representations pending negotiation of contract
+
+(1) Every material representation made by the assured or his agent to the insurer dur-
+
+ing the negotiations for the contract, and before the contract is concluded shall be true;
+
+and if untrue the insurer may avoid the contract.
+
+(2) A representation is material which would influence the judgement of a prudent
+
+insurer in fixing the premium, or determining whether he will take the risk.
+
+(3) A representation may be either a representation as to a matter of fact, or as to a
+
+matter of expectation or belief.
+
+(4) A representation as to matter of fact is true, if it is substantially correct, that is to
+
+say, if the difference between what is represented and what is actually correct would not
+
+be considered material by a prudent insurer.
+
+(5) A representation as to a matter of expectation or belief is true if it is made in good
+
+faith.
+
+(6) A representation may be withdrawn or corrected before the contract is concluded.
+
+(7) Whether a particular representation is material or not is, in each case, a question
+
+of fact.

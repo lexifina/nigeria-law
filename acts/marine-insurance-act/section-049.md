@@ -1,0 +1,9 @@
+49. Delay in voyage
+
+In the case of a voyage policy, the adventure insured shall be prosecuted throughout
+
+its course with reasonable dispatch and, if without lawful excuse it is not so prosecuted,
+
+the insurer shall be discharged from liability as from the time when the delay became
+
+unreasonable.
