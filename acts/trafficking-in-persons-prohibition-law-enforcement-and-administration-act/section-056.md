@@ -1,0 +1,1 @@
+56. Power to borrow money The Agency shall have power to borrow money from banks with the approval of the Board and the Agency shall have power to borrow money on recommendation of the Board and approval by the Attorney-General of the Federation.

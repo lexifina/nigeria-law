@@ -1,0 +1,1 @@
+51. Non-detention or presentation of a trafficked person in certain circumstances Where the circumstances so justify, trafficked persons shall not be detained, imprisoned or prosecuted for offences relating to being a victim of trafficking, including non possession of a valid travel stay or use of a false travel or other document.

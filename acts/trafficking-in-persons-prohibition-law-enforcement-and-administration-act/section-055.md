@@ -1,0 +1,1 @@
+55. Accounts and audit The Agency shall keep proper accounts, in a form which conforms with existing laws on auditing of its receipts, payments, assets and liabilities and shall submit the accounts annually, for auditing by a qualified auditor from the list of auditors supplied by the Auditor-General of the Federation.

@@ -1,0 +1,1 @@
+16. Foreign travels which promote prostitution Any person who organises or promotes foreign travels which promote prostitution of any person or encourages such activity commits an offence and is liable on conviction to imprisonment for ten years without an option of fine.

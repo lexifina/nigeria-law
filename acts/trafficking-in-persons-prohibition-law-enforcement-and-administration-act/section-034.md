@@ -1,0 +1,1 @@
+34. Forfeiture of passport The passport of any person convicted of an offence involving traffic in person under this Act shall be forfeited to the Federal Government and shall not be returned to that person unless or until the President directs otherwise, after the grant of a pardon or on the exercise of the Constitution of the Federal Republic of Nigeria.

@@ -1,0 +1,1 @@
+31. Responsibilities of Airlines Every airline company shall promote through every Possible means, public awareness the guiding of the guiding principles of this Act in in-flight magazines, tickets, jackets, Internet Departments and video on long lane flights.

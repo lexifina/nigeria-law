@@ -1,0 +1,1 @@
+57. Annual report The Agency shall, not later than 30th September in each year, submit to the Federal Executive Council, a report of its activities during the immediate preceding year and shall include in such report the audited accounts of the Agency.

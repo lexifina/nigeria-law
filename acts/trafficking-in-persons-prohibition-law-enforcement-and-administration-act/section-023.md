@@ -1,0 +1,1 @@
+23. Traffic in slaves Any person who imports, exports, removes, buys, sells, disposes, traffics or deals in any person as a slave or accepts, receives, or detains a person against that persons will as a slave, commit an offence and is liable on conviction to imprisonment for life.

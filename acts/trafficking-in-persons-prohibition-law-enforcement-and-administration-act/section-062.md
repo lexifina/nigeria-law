@@ -1,0 +1,1 @@
+62. Right of appeal A person convicted for an offence under this Act or any other law prohibiting traffic in persons or for related offences shall have the exercise any of all such rights of appeal as are conferred on him by the Constitution of the Federal Republic of Nigeria in such case.

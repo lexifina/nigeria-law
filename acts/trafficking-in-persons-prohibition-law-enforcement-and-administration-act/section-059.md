@@ -1,0 +1,1 @@
+59. Protection of informant and information Where a person volunteers to the Agency or an official of the Agency any information which may be useful in the investigation of an offence under this Act, the Agency shall take all reasonable measures to protect the identity of that person and the information so volunteered shall be treated as confidential.

@@ -1,0 +1,1 @@
+20. Kidnapping and abducting in order to commit culpable homicide A person who kidnaps, abducts or by deceitful means lures any person away in order that such person may be killed for any purpose, commits an offence and is liable on conviction to imprisonment for life.
