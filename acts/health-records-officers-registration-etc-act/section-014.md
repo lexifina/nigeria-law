@@ -1,0 +1,13 @@
+14. Recovery of fees
+
+(1) Subject to the provisions of this Act, a registered health records officer shall be
+
+entitled to recover his fees for professional services by action in any court of competent
+
+jurisdiction.
+
+(2) No fees shall be recoverable by legal proceedings in respect of any act pertaining
+
+to the profession of a registered person when performed by a person who is prohibited
+
+from performing such act.
