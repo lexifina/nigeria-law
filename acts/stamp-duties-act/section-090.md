@@ -1,0 +1,1 @@
+90. Certain forms of receipts not dutiable Neither the name of a banker (whether accompanied by words of receipt or not) writ- ten in the ordinary course of his business as a banker upon a bill of exchange or promis- sory note duly stamped, nor the name of a payee written upon a draft or order, if payable to order, shall constitute a receipt chargeable with duty.

@@ -1,0 +1,3 @@
+12. Proper time for stamping instruments Every instrument first executed in Nigeria, which by law may be or is required to be stamped with an adhesive stamp, shall be stamped on or before its first execution, and such stamp shall be cancelled by the person by whom the instrument is first executed and, at the time of such execution:
+
+[28 of 1941.] Provided that where an instrument is prepared or attested by or executed before a commissioner of oaths, a justice of the peace or a notary public, such stamp shall be can- celled by such commissioner of oaths, justice of the peace or notary public at the time of its first execution.

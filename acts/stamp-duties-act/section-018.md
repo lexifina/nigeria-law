@@ -1,0 +1,1 @@
+18. Persons authorised to take declarations and affidavits Any statutory declaration or affidavit made in pursuance of or for the purposes of this Act or any other Act for the time being in force relating to stamp duties may be made before any of the commissioners or any other person authorised by law to administer oaths.

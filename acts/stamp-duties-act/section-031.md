@@ -1,0 +1,1 @@
+31. Definition of "appraiser" For the purposes of this Act, the expression "appraiser" means a person who values or appraises any estate or property, real or personal, or any interest, whether in possession or not, in any estate or property, or any goods, merchandise, or effects for or in expecta- tion of any hire, gain, fee or reward.

@@ -1,0 +1,3 @@
+66. Provision as to duplicates and counterparts The duplicate or counterpart of an instrument chargeable with duty (except the coun- terpart of an instrument chargeable as a lease, such counterpart not being executed by or on behalf of any lessor or grantor) shall not be deemed duly stamped, unless it is stamped as an original instrument, or unless it is made to appear to a commissioner (who shall upon payment of a fee of 25 kobo in adhesive stamps, certify on such duplicate or coun- terpart accordingly) that the full and proper duty has been paid upon the original instru- ment of which it is the duplicate or counterpart.
+
+Exchange and partition or division

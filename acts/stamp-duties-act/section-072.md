@@ -1,0 +1,1 @@
+72. Provisions as to letters of allotment Every person who executes, grants, issues, or delivers out any document chargeable with duty as a letter of allotment, letter or renunciation, or scrip certificate, or as scrip, before the same is duly stamped, shall be guilty of an offence and liable on conviction to a fine of forty naira.

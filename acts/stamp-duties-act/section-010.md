@@ -1,0 +1,11 @@
+10. Mode of calculating ad valorem duty in certain cases
+
+(l) Where an instrument is chargeable with ad valorem duty in respect of-
+
+(a) any money in any foreign currency; or
+
+(b) any stock or marketable security, the duty shall be calculated on the value, on the day of the date of the instrument, of the money in United States dollars according to the current rate of exchange, or of the stock or security according to the average price thereof.
+
+(2) Where an instrument contains a statement of current rate of exchange, or average rate of exchange, or average price, as the case may require, and is stamped in accordance with that statement, it shall, so far as regards the subject matter of the statement, be deemed duly stamped, unless or until it is shown that the statement is untrue, and that the instrument is in fact insufficiently stamped.
+
+Use of adhesive stamps

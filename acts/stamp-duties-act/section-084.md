@@ -1,0 +1,11 @@
+84. Interpretation For the purposes of this Act, unless the context otherwise requires- "policy of insurance" includes every writing other than cover notes, slips or other in- struments usually made in anticipation of the issue of formal policy of marine insurance, and instruments embodying alterations of the terms or conditions of any formal policy of marine insurance whereby any contract of insurance is made or agreed to be made, or is evidenced, and the expression "insurance" includes assurance;
+
+[1961 No. 65.] "policy of life insurance" means a policy of insurance upon any life or lives or upon any event or contingency relating to or depending upon any life or lives except a policy of insurance against accident;
+
+"policy of insurance against accident" means a policy of insurance for any payment agreed to be made upon the death of any person only from accident or violence or other- wise than from a natural cause, or as compensation for personal injury, and includes any notice or advertisement in a newspaper or other publication which purports to insure the payment of money upon the death of or injury to the holder or bearer of the newspaper or publication containing the notice only from accident or violence, or otherwise than from a natural cause; and also includes policies of insurance or indemnity against liability in- curred by employers in consequence of claims made upon them by workmen who have sustained personal injury where the annual premium on such policies does not exceed four naira;
+
+"policy of insurance for any payment agreed to be made during the sickness of any person or his incapacity from personal injury" includes any notice or advertise- ment in a newspaper or other publication which purports to insure such payment;
+
+"policy of insurance for any payment agreed to be made by way of indemnity against loss or damage of or to any property" includes any notice or advertisement in a newspaper or other publication which purports to insure such payment;
+
+"policy of marine insurance" means any formal contract whereby an insurer under- takes to indemnify an assured against losses incident to marine adventure, and includes any contract relating to insurance of a ship or the machinery or fittings belonging to the ship whilst under construction or repair or on trial.

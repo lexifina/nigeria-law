@@ -1,0 +1,3 @@
+97. Meaning of stock certificate to bearer For the purposes of this Act, the expression "stock certificate to bearer" includes every stock certificate to bearer issued after the coming into operation of this Act, under the provisions of the Companies and Allied Matters Act, or of any other enactment authorising the creation of debenture stock, corporation stock, municipal stock or funded debt, by whatever name known, and also includes any instrument to bearer issued by or on behalf of any company or body of persons formed or established in Nigeria and hav- ing a like effect as such a stock certificate to bearer.
+
+[Cap. C20.j

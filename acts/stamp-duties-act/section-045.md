@@ -1,0 +1,1 @@
+45. Bills of sale A bill of sale shall not be registered under any law for the time being in force relating to the registration of bills of sale unless the original, duly stamped, is produced to the proper officer. .

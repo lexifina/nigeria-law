@@ -1,0 +1,1 @@
+28. Adhesive stamps may be used for agreements The duty of ten kobo on an agreement may be denoted by an adhesive stamp which must be cancelled by the person by whom the agreement is first signed before he delivers it out of his hands.

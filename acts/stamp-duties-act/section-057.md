@@ -1,0 +1,13 @@
+57. Direction as to duty in certain cases
+
+(1) Where properly contracted to be sold for one consideration for the whole is con- veyed to the purchaser in separate parts or parcels by different instruments, the consid- eration shall be apportioned in such manner as the parties think lit, so that a distinct con- sideration for each separate part or parcel is set forth in the conveyance relating thereto, and such conveyance shall be charged with ad valorem duty in respect of such distinct consideration.
+
+(2) Where property contracted to be purchased for one consideration for the whole by two or more persons jointly, or by any person for himself and others, or wholly for oth- ers, is conveyed in separate parts or parcels by separate instruments to the persons by or for whom the same was purchased for distinct parts of the consideration, the conveyance of each separate part or parcel shall be charged with ad vaLorem duty in respect of the distinct part of the consideration therein speci fied.
+
+(3) Where there are several instruments of conveyance for completing the pur- chaser's title to property sold, the principal instrument of conveyance only shall be charged with ad vaLorem duty, and the other instruments shall respectively be charged with such other duty as they may be liable to, but the last mentioned duty shall not exceed the ad valorem duty payable in respect of the principal instrument.
+
+(4) Where a person having contracted for the purchase of any property, but not hav- ing obtained a conveyance thereof, contracts to sell the same to any other person, and the property is in consequence conveyed immediately to the sub-purchaser, the conveyance shall be charged with ad vaLorem duty in respect of the consideration moving from the sub-purchaser.
+
+(5) Where a person having contracted for the purchase of any property but not having obtained a conveyance, contracts to sell the whole, or any part or parts thereof, to any other person or person, and the property is in consequence conveyed by the original seller to different persons in parts or parcels, the conveyance of each part or parcel shall be charged with ad valorem duty in respect only of the consideration moving from the sub- purchaser thereof, without regard to the amount or value of the original consideration.
+
+(6) Where a sub-purchaser takes an actual conveyance of the interest of the person immediately selling to him, which is chargeable with ad valorem duty in respect of the consideration moving from him, and is duly stamped accordingly, any conveyance to be afterwards made to him of the same property by the original seller shall be chargeable only with such other duty as it may be liable to, but the last mentioned duty shall not ex- ceed the ad vaLorem duty.

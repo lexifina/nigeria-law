@@ -1,0 +1,5 @@
+24. Certain rolls and books to be open to inspection
+
+(1) Every person having in his custody any rolls, books, records, papers, documents, or proceedings, the inspection whereof may tend to secure any duty, or to prove or lead to the discovery of any fraud or omission in relation to any duty, shall at all reasonable times permit any person thereto authorised by the commissioner to inspect the rolls, books, records, papers, documents, and proceedings, and to take such notes and extracts as he deems necessary, without fee or reward, and in case of refusal, shall for every such refusal be guilty of an offence and be liable on conviction to a fine of twenty naira.
+
+(2) Where such rolls, books, records, papers, documents or proceedings are in the custody of any bank, such inspection shall first be made by a commissioner unaccompa- nied by any other person unless the commissioner decides that it is necessary for him to have assistance in determining whether any fraud or omission in relation to any duty has taken place.

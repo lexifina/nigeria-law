@@ -1,0 +1,1 @@
+61. Principal instrument, how to be ascertained The parties may determine for themselves which of several instruments shall be deemed the principal instrument, and may pay the ad valorem duty thereon accordingly.

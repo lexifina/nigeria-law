@@ -1,0 +1,3 @@
+26. Destruction of unclaimed instruments Where any instrument has been left with or at the office of any commissioner for any purpose connected with any of the provisions of this Act and the instrument is not claimed by the person to whom the same belongs within six months of its being so left, a notice may be inserted in an issue of the Federal Gazette stating that the instrument will be destroyed if not claimed by such person within two months of the publication of the notice and if the instrument is not so claimed it may be destroyed.
+
+PART II Regulations applicable to particular instruments Admission

@@ -1,0 +1,7 @@
+29. Certain mortgages of stock to be chargeable as agreements
+
+(1) Every instrument under hand only (not being a promissory note or bill of ex- change) given upon the occasion of the deposit of any share warrant or stock certificate to bearer, or foreign share certificate or any security for money transferable by delivery, by way of security for any loan, shall be deemed to be an agreement, and shall be charged with duty accordingly.
+
+(2) Every instrument under hand only (not being a promissory note or bill of ex- change) making redeemable or qualifying a duly stamped transfer, intended as a security, of any registered stock or marketable security shall be deemed to be an agreement and shall be charged with duty accordingly.
+
+(3) A release or discharge of any such instrument shall not be chargeable with any ad valorem duty.

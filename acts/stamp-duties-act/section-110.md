@@ -1,0 +1,1 @@
+110. Duty and debts recoverable with fines and penalties Proceedings for the recovery of any duty imposed by this Act or for the recovery of any debt due to the Government of the Federation under this Act may be included in any proceedings for the recovery of a fine or penalty under this Act.

@@ -1,0 +1,9 @@
+11. Cancellation of adhesive stamps
+
+(1) An instrument, the duty upon which is required or permitted by law to be denoted by an adhesive stamp, shall not be deemed duly stamped with an adhesive stamp unless the person required by law to cancel such adhesive stamp cancels the same by writing on or across the stamp his name or initials, or the name or initials of his firm, together with the true date of his so writing, or otherwise effectively cancels the stamp and renders the same incapable of being used for any other instrument or for any postal purpose or for payment of a telegram:
+
+Provided that, when the person required by law to cancel an adhesive stamp is an illiterate person, the stamp shall be deemed to be sufficiently cancelled, if the mark of such person, together with the true date of the making thereof, is written on or across such stamp.
+
+(2) When two or more adhesive stamps are used to denote the duty upon an instru- ment, each or every stamp shall be cancelled in the manner aforesaid.
+
+(3) Every person who, being required by law to cancel an adhesive stamp, neglects or refuses duly and effectively to do so in the manner aforesaid, shall be guilty of an offence and liable on conviction to a fine of twenty naira.

@@ -1,0 +1,1 @@
+41. Provisions as to bills and notes purporting to be drawn abroad A bill of exchange or promissory note which purports to be drawn or made out of Ni- geria shall, for the purposes of determining the mode in which the duty thereon is to be denoted, be deemed to have been so drawn or made, although it may in fact have been drawn or made in Nigeria.
