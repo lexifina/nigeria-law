@@ -1,0 +1,1 @@
+98. Any political party registered by the Commission in accordance with the provisions of any law in force immediately before the coming into force of the Constitution of the Federal Republic of Nigeria and this Act shall be deemed to have been duly registered under this Act Existing political parties

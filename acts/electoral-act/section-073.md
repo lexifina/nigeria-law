@@ -1,0 +1,3 @@
+73. Subject to the provisions of this Act, the Commission shall issue and publish in the Gazette, guidelines for the elections which shall make provisions, among other things, for the step by step recording of the poll in the electoral forms as may be prescribed beginning from the polling unit to the last collation centre for the ward or constituency where the result of the election shall be declared.
+
+Step by step recording of poll

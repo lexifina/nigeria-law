@@ -1,0 +1,3 @@
+153. The Commission may, subject to the provisions of this Act, issue regulations, guidelines, or manuals for the purpose of giving effect to the provisions of this Act and for its administration thereof.
+
+Regulations

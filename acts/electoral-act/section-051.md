@@ -1,0 +1,3 @@
+51. The Presiding Officer shall separate the queue between men and women if in that area of the country the culture is such that it does not permit the mingling of men and women in the same queue.
+
+Separate queues for men and women
