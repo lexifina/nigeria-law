@@ -1,0 +1,1 @@
+6. All hides and skins shall immediately after flaying be hung up to dry until thoroughly dried in the approved manner of drying in the drying shed provided for that purpose or in the shade if no drying shed is provide
