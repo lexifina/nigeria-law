@@ -1,0 +1,43 @@
+22. Penalties for unprofessional conduct
+
+(1) Where-
+
+(a) a member is convicted, by any court or tribunal in Nigeria or elsewhere having power to award imprisonment, of an offence (whether or not punishable with imprisonment) which in the opinion of the Tribunal is incompatible with the status of a registered freight forwarder; or
+
+(b) a person provisionally registered under this Act is likewise convicted in circumstances such that the Council is satisfied that his name ought to be removed from the Register; or
+
+(c) a person fully registered under this Act is judged by the Tribunal to be guilty of infamous conduct in any professional respect; or
+
+(d) the Tribunal is satisfied that the name of any person has been fraudulently registered; or
+
+(e) The Tribunal is satisfied that the partnership, firm, or organization has been practicing as freight forwarders without the annual registration,
+
+the Tribunal may, if it thinks fit, give a direction reprimanding that person or ordering the Registrar to strike his name off the relevant part of the Register.
+
+(2) The Tribunal may, if it thinks fit, defer or further defer its decision as to the giving of a direction under subsection (1) of this section until a subsequent meeting of the Tribunal; but--
+
+(a) no decision shall be deferred under this subsection for periods exceeding two years in the aggregate; and
+
+(b) no person shall be a member of the Tribunal for the purpose of reaching a decision, which has been deferred or further deferred, unless he unless he was present as a member of the Tribunal when the decision was deferred.
+
+(3) For the purpose of subsection (1) of this section, a person shall not be treated as convicted, unless the conviction stands at a time when no appeal or further appeal is pending or may (without extension of time) be brought in connection with the conviction.
+
+(4) When the Tribunal gives a direction under subsection (1) of this section, the Tribunal shall cause notice of the direction to be served on the person to whom it relates.
+
+(5) A person to whom a direction relates may, at any time within twenty-eight days from the date of service on him of notice of the direction, appeal against the direction to the Court of Appeal and the Tribunal may appear as respondent to the appeal and, for the purpose of enabling directions to be given as to the costs of the appeal and of proceedings before Court of Appeal, the Tribunal shall be deemed to be a party thereto whether or not it appears on the hearing of the appeal.
+
+(6) A direction of the Tribunal under subsection (1) of this section, shall take effect-
+
+(a) where no appeal under this section is brought against the direction within time limit for such an appeal, on the expiration of that time;
+
+(b) where such an appeal is brought and is withdrawn or struck out for want of prosecution, on the withdrawal or striking out of the appeal;
+
+(c) where such an appeal is brought and is not withdrawn or struck out as aforesaid, if and when the appeal is dismissed,
+
+and shall not take effect except in accordance with the foregoing provision of this subsection.
+
+(7) A person whose name is struck off the Register in pursuance of a direction of the Tribunal under this section, shall not be entitled to be enrolled or registered again except in pursuance of a direction in that behalf given by the Tribunal on the application of that person; and a direction under this section far the striking off of a person’s name from the Register may prohibit an application under this subsection by that person until the expiration of such period from the date of the direction (and where he has duly made such an application, from the date of his last application) as may be specified in the direction:
+
+PART VI
+
+Miscellaneous
