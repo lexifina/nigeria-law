@@ -1,0 +1,7 @@
+22. Exemption from income tax
+
+All income derived by the Agency from the sources specified in section 20 (2) of this
+
+Act shall be exempt from income tax and all contributions to the fund of the Agency shall
+
+be tax deductible.
