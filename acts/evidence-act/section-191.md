@@ -1,0 +1,1 @@
+191. Cross‐examination by co‐accused of witness called by an accused Where more than one accused are charged at the same time, a witness called by one accused may be cross‐examined by the other accused and if cross‐examined by the other accused such cross‐examination shall take place before cross‐examination by the prosecution.

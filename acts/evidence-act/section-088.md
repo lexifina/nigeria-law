@@ -1,0 +1,1 @@
+88. Grounds of belief to be stated When a person deposes to his belief in any matter of fact, and his belief is derived from any source other than his own personal knowledge, he shall set forth explicitly the facts and circumstances forming the ground of his belief.

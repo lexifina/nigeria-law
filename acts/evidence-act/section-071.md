@@ -1,0 +1,3 @@
+71. In libel and slander notice must be given of evidence of character In actions for libel and slander in which the defendant does not by his defence assert the truth of the statement complained of, the defendant is not entitled on the trial to give evidence in chief with a view to mitigation of damages, as to the circumstances under which the libel or slander was published, or as to the character of the plaintiff, without the leave of the judge, unless seven days at least before the trial he furnishes particulars to the plaintiff of the matters as to which he intends to give evidence.
+
+______________________________ * See also section 225.

@@ -1,0 +1,1 @@
+85. Amendment and re‐swearing A defective or erroneous affidavit may be amended and re‐sworn by leave of the court, on such terms as to time, costs or otherwise as seem reasonable.

@@ -1,0 +1,1 @@
+43. Service of certificates on other party before hearing Where any such certificate is intended to be produced by either party to the proceedings, a copy thereof shall be sent to the other party at least ten clear days before the day appointed for the hearing and if it is not so sent the court may, if it thinks fit, adjourn the hearing on such terms as may seem proper.

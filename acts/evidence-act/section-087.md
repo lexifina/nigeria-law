@@ -1,0 +1,1 @@
+87. No extraneous matter An affidavit shall not contain extraneous matter, by way of objection, or prayer, or legal argument or conclusion.

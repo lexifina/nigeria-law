@@ -1,0 +1,1 @@
+147. Proof of good faith in transactions where one party is in relation of active confidence Where there is question as to the good faith of a transaction between parties, one of whom stands to the other in a position of active confidence, the burden of proving the good faith of the transaction is on the party who is in a position of active confidence.*

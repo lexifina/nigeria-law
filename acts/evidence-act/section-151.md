@@ -1,0 +1,1 @@
+151. Estoppel When one person has, by his declaration, act or omission, intentionally caused or permitted another person to believe a thing to be true and to act upon such belief, neither he nor his representative in interest shall be allowed, in any proceedings between himself and such person or such person's representative in interest, to deny the truth of that thing.

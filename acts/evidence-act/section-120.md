@@ -1,0 +1,1 @@
+120. Presumption as to books The court may presume that any book to which it may refer for information on matters of public or general interest, the statements of which are relevant facts and which is produced for its inspection, was written and published by the person, and at the time and place, by whom or at which it purports to have been written or published.

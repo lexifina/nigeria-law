@@ -1,0 +1,1 @@
+192. Production of documents without giving evidence Any person, whether a party or not, in a cause may be summoned to produce a document without being summoned to give evidence, and if he causes such document to be produced in court the court may dispense with his personal attendance.

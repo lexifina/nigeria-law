@@ -1,0 +1,5 @@
+11. Things said or done by conspirator in reference to common intention
+
+(1) Where there is reasonable ground to believe that two or more persons have conspired together to commit an offence or actionable wrong, anything said, done or written by anyone of such persons in execution or furtherance of their common intention, after the time when such intention was first entertained by anyone of them, is a relevant fact as against each of the persons believed to be so conspiring, for the purpose of proving the existence of the conspiracy as well as for the purpose of showing that any such person was a party to it; but statements made by individual conspirators as to measures taken in the execution or furtherance of any such common intention are not deemed to berelevant as such as against any conspirators, except those by whom or in whose presence such statements are made.
+
+(2) Evidence of acts or statements deemed to be relevant under this section may not be given until the court is satisfied that, apart from them, there are prima facie grounds for believing in the existence of the conspiracy to which they relate.

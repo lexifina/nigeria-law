@@ -1,0 +1,1 @@
+202. Question not to be asked without reasonable grounds No such question as is referred to in section 201 of this Act ought to be asked, unless the person asking it has reasonable grounds for thinking that the imputation which it conveys is well founded.

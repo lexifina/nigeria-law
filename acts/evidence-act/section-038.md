@@ -1,0 +1,1 @@
+38. Entries in books of account, when relevant Entries in books of account, regularly kept in the course of business, are relevant whenever they refer to a matter into which the court has to inquire, but such statements shall not alone be sufficient evidence to charge any person with liability.

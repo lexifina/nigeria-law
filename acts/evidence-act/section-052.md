@@ -1,0 +1,1 @@
+52. Judgments, etc., other than those mentioned in sections 49 to 51, when relevant Judgments, orders or decrees, other than those mentioned in section 49,50 and 51 of this Act, are irrelevant, unless the existence of such judgment, order or decree is a fact in issue, or is relevant under some other provision of this or any other Act.

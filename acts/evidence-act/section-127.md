@@ -1,0 +1,1 @@
+127. Presumption as to sealing and delivery When any document purporting to be, and stamped as, a deed, appears or is proved to be or to have been signed and duly attested, it is presumed to have been sealed and delivered although no impression of a seal appears thereon.

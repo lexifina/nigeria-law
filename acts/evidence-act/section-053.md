@@ -1,0 +1,1 @@
+53. Fraud or collusion in obtaining judgment, or incompetency of court, may be proved Any party to a suit or other proceeding may show that any judgment, order or decree which is relevant under section 49, 50 or 51 of this Act and which has been proved by the adverse party, was delivered by a court without jurisdiction, or was obtained by fraud or collusion.

@@ -1,0 +1,3 @@
+153. Estoppel of bailee, agent and licensee No bailee, agent or licensee is permitted to deny that the bailor, principal or licensor, by whom any goods were entrusted to any of them respectively, was entitled to those goods at the time when they were so entrusted:
+
+Provided that any such bailee, agent or licensee may show that he was compelled to deliver up any such goods to some person who had a right to them as against his bailor, principal or licensor, or that his bailor, principal or licensor wrongfully and without notice to the bailee, agent or licensee, obtained the goods from a third person who has claimed them from such bailee, agent or licensee.

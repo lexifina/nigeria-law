@@ -1,0 +1,3 @@
+32. Evidence in other proceedings amounting to a confession is admissible Evidence amounting to a confession may be used as such against the person who gives it, although it was given upon oath, and although the proceeding in which it was given had reference to the same subject‐matter as the proceeding in which it is to be proved, and although the witness might have refused to answer the questions put to him; but if, after refusing to answer any such question, the witness is improperly compelled to answer it, his answer is not a voluntary confession.
+
+Statements by persons who cannot be called as witnesses

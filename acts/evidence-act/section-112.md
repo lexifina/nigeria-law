@@ -1,0 +1,1 @@
+112. Proof of documents by production of certified copies Such certified copies may be produced in proof of the contents of the public documents or parts of the public documents of which they purport to be copies.

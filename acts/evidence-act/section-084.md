@@ -1,0 +1,1 @@
+84. Defective in form The court may permit an affidavit to be used, notwithstanding it is defective in form according to this Act, if the court is satisfied that it has been sworn before a person duly authorised.

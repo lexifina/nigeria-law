@@ -1,0 +1,1 @@
+168. Official communications No public officer shall be compelled to disclose communications made to him m official confidence, when he considers that the public interests would suffer by the disclosure.

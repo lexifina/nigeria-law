@@ -1,0 +1,1 @@
+158. Parties to civil suit, and their wives or husbands Subject to the proviso contained in section 148 of this Act, in all civil proceedings the parties to the suit, and the husband or wife of any party to the suit, shall be competent witnesses.

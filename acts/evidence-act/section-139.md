@@ -1,0 +1,3 @@
+139. Burden of proof as to particular fact The burden of proof as to any particular fact lies on the person who wishes the court to believe in its existence, unless it is provided by any law that the proof of that fact shall lie on any particular person, but the burden may in course of a case be shifted from one side to the other; in considering the amount of evidence necessary to shift the burden of proof, regard shall be had by the court to the opportunity of knowledge with respect to the fact to be proved which may be possessed by the parties respectively.
+
+____________________________ * See section 141 (3).

@@ -1,0 +1,1 @@
+181. Absence of religious belief does not invalidate oath Where an oath has been duly administered and taken, the fact that the person to whom the same was administered had, at the time of taking such oath, no religious belief, does not for any purpose affect the validity of such oath.

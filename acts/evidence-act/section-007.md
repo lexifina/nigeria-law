@@ -1,0 +1,1 @@
+7. Relevancy of facts forming part of same transaction Facts which, though not in issue, are so connected with a fact in issue as to form part of the same transaction, are relevant, whether they occurred at the same time and place or at different times and places.

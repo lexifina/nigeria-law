@@ -1,0 +1,1 @@
+104. Admission of execution by party to attested document The admission of a party to an attested document of its execution by himself shall be sufficient proof of its execution as against him, though it be a document required by law to be attested.

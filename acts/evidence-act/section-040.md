@@ -1,0 +1,1 @@
+40. Relevancy of statements in maps, charts and plans Statements of facts in issue or relevant facts made in published maps or charts generally offered for public sale, or in maps or plans made under the authority of Government, as to matters usually represented or stated in such maps, charts or plans, are themselves relevant facts.

@@ -1,0 +1,1 @@
+83. Affidavit not to be sworn before certain persons An affidavit shall not be admitted which is proved to have been sworn before a person on whose behalf the same is offered, or before his legal practitioner, or before a partner or clerk of his legal practitioner.

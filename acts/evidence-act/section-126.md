@@ -1,0 +1,1 @@
+126. Presumption as to stamp of a document When any document is not produced after due notice to produce, and after being called for, it is presumed to have been duly stamped unless it be shown to have remained unstamped for some time after its execution.

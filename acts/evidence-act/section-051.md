@@ -1,0 +1,1 @@
+51. Relevancy and effect of judgments other than those mentioned in section 50 Judgments, orders or decrees other than those mentioned in section 50 of this Act are relevant if they relate to matters of a public nature relevant to the inquiry; but such judgments, orders or decrees are not conclusive proof of that which they state.

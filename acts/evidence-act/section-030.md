@@ -1,0 +1,1 @@
+30. Confession made after removal of duress, relevant If such a confession as is referred to in section 28 of this Act is made after the impression caused by any such inducement, threat or promise has, in the opinion of the court, been fully removed, it is relevant.

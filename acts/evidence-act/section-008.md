@@ -1,0 +1,1 @@
+8. Facts which are the occasion, cause or effect of facts in issue Facts which are the occasion, cause or effect, immediate or otherwise, of relevant facts or facts in issue, or which constitute the state of things under which they happened, or which afforded an opportunity for their occurrence or transaction, are relevant.

@@ -1,0 +1,1 @@
+3. Relation of relevant facts One fact is said to be relevant to another when the one is connected with the other in any of the ways referred to in the provisions of this Act relating to the relevancy of facts.

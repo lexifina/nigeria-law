@@ -1,0 +1,3 @@
+116. Presumption as to gazettes, newspapers, private Acts of the National Assembly and other documents The court shall presume the genuineness of every document purporting to be the official Gazette of Nigeria or of a State or the Gazette of any part of the Commonwealth or to be a newspaper or journal, or to be a copy of the resolutions of the National Assembly printed by the Government Printer, and of every document purporting to be a document directed by any law to be kept by any person, if such document is kept substantially in the form required by law and is produced from proper custody.
+
+____________________________ * See section 35.

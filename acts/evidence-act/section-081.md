@@ -1,0 +1,1 @@
+81. Sworn in foreign parts Any affidavit sworn in any foreign parts out of Nigeria or out of any part of the Commonwealth before a judge or magistrate, being authenticated by the official seal of the court to which he is attached, or by a public notary, or before a British minister or consul, may be used in the court in all cases where affidavits are admissible.
