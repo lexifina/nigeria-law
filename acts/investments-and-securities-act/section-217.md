@@ -1,0 +1,1 @@
+217. Delegation of power A body may delegate to the Commissioner or chairman or such other appropriate officer all or any of the powers conferred on it by the approving authority subject to such restriction, conditions and qualifications, not inconsistent with the provisions of this Part of the Act as may be specified.

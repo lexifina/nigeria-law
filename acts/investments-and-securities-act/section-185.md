@@ -1,0 +1,1 @@
+185. Closing of register The register shall be closed for a period of 21 days immediately proceeding each date on which interest on that bond falls due and no transfer of that bond shall be registered during that period.

@@ -1,0 +1,1 @@
+162. Power to settle claims The Commission may, subject to this Part of this Act, allow and settle any claims for compensation from an Investors Protection Fund at any time after the commission of the defalcation in respect of which the claim arose.

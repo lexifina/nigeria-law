@@ -1,0 +1,1 @@
+216. Exemption from stamp duties Any provision in any other law or enactment to the contrary notwithstanding all docu‐ ments or instruments made or used under the provisions of this Part of this Act shall be in such form as may be prescribed and shall be exempted from stamp duty payable to the Federal or a State Government.

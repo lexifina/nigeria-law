@@ -1,0 +1,1 @@
+87. Penalties Any person who contravenes the provisions of sections 81, 82, 83, 84 and 85 of this Act commits an offence and is liable on conviction to a fine of not less than N500,000 or to imprisonment of a term not exceeding three years or to both such fine and imprisonment.

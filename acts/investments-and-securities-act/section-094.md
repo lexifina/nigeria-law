@@ -1,0 +1,1 @@
+94. Penalty for contravention An individual who contravenes the provisions of section 88 or 89 of this Act commits an offence and is liable on conviction to a fine of N1,000,000 or to imprisonment for a term of two years or to both such fine and imprisonment.

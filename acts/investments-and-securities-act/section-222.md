@@ -1,0 +1,1 @@
+222. Application of enactments Nothing in this Part of this Act shall be construed as derogating from the provision of any other enactment which restricts the borrowing of money by any body to which the provisions of this Part of this Act applies or requires the consent of any authority to the raising of such money by any such body.

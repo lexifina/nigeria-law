@@ -1,0 +1,1 @@
+177. Appointment of issuing house Subject to the consent of its approving authority a body may appoint any reputable issu‐ ing house or financial institution registered with the Commission, for the purpose of under‐ taking on behalf of the body the raising of any specific loan pursuant to the provisions of this Part of this Act.

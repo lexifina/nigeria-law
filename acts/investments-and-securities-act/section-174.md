@@ -1,0 +1,1 @@
+174. Loans to be charged upon revenue The principal monies and interest represented or secured by any registered bond or secu‐ rities issued under this Act shall be charged on and payable out of the general revenue and assets of the body concerned and of the assets of the appropriate authority or project which is the beneficiary of the proceeds of the loan.

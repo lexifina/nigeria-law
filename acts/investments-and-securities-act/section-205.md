@@ -1,0 +1,1 @@
+205. Deficiency in fund to be charged upon revenue In the event of the sinking fund established under this Part of this Act being found at the time fixed for the repayment of that loan to be insufficient for such redemption, the defi‐ ciency shall be made good out of the general revenue and assets of the body concerned and that of the project which is the beneficiary of the loan.

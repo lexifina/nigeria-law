@@ -1,0 +1,1 @@
+110. Arrangement for funds Where a bid under a take‐over bid states that the consideration for the shares deposited pursuant to the bid is to be paid in money or partly in money, the offeror shall make adequate arrangements to ensure that funds are available to make the required money payment for those shares.

@@ -1,0 +1,1 @@
+36. Excerpt of register The Commission may supply a copy of the extract of a register obtained under subsection(1) of section 35 of this Act to any person who, in the opinion of the Commission, should in the public interest be informed of the dealings in securities disclosed in the register.

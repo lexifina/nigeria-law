@@ -1,0 +1,1 @@
+49. Effective date of a prospectus A prospectus issued by or on behalf of a company or in relation to an intended company shall be dated and that date shall, unless the contrary is proved, be taken as the date of publication of the prospectus.

@@ -1,0 +1,5 @@
+130. Civil liabilities arising from prospectus
+
+(1) Any manager under a unit trust scheme who offers or sells units by means of a letter, notice, circular, document or oral communication which includes an untrue statement of a material fact or omits to state a material fact necessary in order to make the statements, in the light of the circumstances under which they were made, not misleading (the purchaser not knowing of such untruth or omission and who shall not sustain the burden of proof that he did not know, and in the exercise of reasonable care could not have known, of such untruth or omission), is liable to the person purchasing such units who may bring an action before the Investments and Securities Tribunal established under this Act (in this Act referred to as "the Tribunal") to recover the consideration paid for such units, or for damages if he no longer owns the units.
+
+(2) No action shall be maintained to enforce any liability under subsection (1) of this section, unless brought within two years after discovery of the untrue statement or after such discovery ought to have been made by the exercise of reasonable care.

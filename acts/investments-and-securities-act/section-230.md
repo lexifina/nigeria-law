@@ -1,0 +1,1 @@
+230. Filling up of vacancies If, for reason other than temporary absence, any vacancy occurs in the office of a Capital Market Assessor, then the Minister shall appoint another person in accordance with the provisions of this Act to fill the vacancy.

@@ -1,0 +1,1 @@
+227. Term of office A Capital Market Assessor shall hold office for a term of five years from the date on which he assumes his office or until he attains the age of seventy years, whichever is earlier.

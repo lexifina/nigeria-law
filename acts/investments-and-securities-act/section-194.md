@@ -1,0 +1,1 @@
+194. Payments All payments of interest and all payments of principal amount due on any registered bond or securities shall be made at the registered office of a body or at any other lawfully author‐ ised place as may be specified within Nigeria for the payment of any such interest or princi‐ pal amount.

@@ -1,0 +1,1 @@
+249. Delegation The Commission may, by general or special order in writing, delegate to any member, officer of the Commission or any other person subject to such conditions, if any, as may be specified in the order, such of its powers and functions under this Act as it may deem neces‐ sary.

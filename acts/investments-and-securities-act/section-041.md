@@ -1,0 +1,1 @@
+41. Claims and lien not affected Nothing in this section shall be construed as taking away or affecting any lawful claim or lien which a person may have against or upon any moneys held in a trust account or against or upon any moneys received for the purchase of securities or from the sale of securities before such moneys are paid into a trust account.

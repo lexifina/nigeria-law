@@ -1,0 +1,1 @@
+166. Payment of claim only from Investors Protection Fund No moneys or other property belonging to a Securities Exchange or Capital Trade Point, other than the Investors Protection Fund, shall be available for the payment of any claim under this Part of this Act whether the claim is allowed by the Commission or is made the subject of an order of the Tribunal.

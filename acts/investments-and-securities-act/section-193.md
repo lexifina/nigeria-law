@@ -1,0 +1,1 @@
+193. Cessation of liabilities on interest No person shall be entitled to claim interest on any registered bond or securities in respect of any period which has elapsed after the earliest date on which demand could lawfully have been made for the re‐payment of the principal amount due on such bond or securities.

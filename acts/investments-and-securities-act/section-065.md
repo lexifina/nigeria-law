@@ -1,0 +1,1 @@
+65. Allotment of securities The issuer and the issuing house or any other capital market operator duly appointed by the issuer shall be responsible for the allotment of the securities of the company where a public offer of securities is made with or without quotation under such rules and regulations as may be laid down by the Commission.

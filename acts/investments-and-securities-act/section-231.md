@@ -1,0 +1,1 @@
+231. Order constituting a Tribunal to be final The question as to the validity of the appointment of any person as a Capital Market As‐ sessor shall not be the cause of any litigation in any Court or tribunal and no act or proceed‐ ings before the Tribunal shall be called into question in any manner on the ground merely of any defect in the constitution of the Tribunal.

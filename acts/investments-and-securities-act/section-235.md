@@ -1,0 +1,1 @@
+235. Criminal prosecution Where in the course of its investigation, the Commission discovers evidence of possible criminality, the Commission shall be obliged to pass such information to the appropriate criminal prosecuting authorities, such as the office of the Attorney‐General of the Federation and the Attorney‐General of the State.

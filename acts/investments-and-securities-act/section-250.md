@@ -1,0 +1,1 @@
+250. Right to represent Commission before court or Tribunal Notwithstanding the provisions of any other law or enactment to the contrary, any legal practitioner employed by the Commission shall be entitled to represent the Commission before any court or the Tribunal.

@@ -1,0 +1,1 @@
+251. Protection of action taken in good faith No suit, prosecution or other legal proceedings shall lie against the Federal Government or any officer of the Federal Government or any member, officer or other employee of the Commission for anything which is done in good faith or intended to be done under this Act or the rules or regulations made thereunder.

@@ -1,0 +1,1 @@
+226. Qualifications for appointment as a Capital Market Assessor A person shall not be qualified for appointment as a Capital Market Assessor unless he is knowledgeable about the laws, regulations, norms, practices and operations of the capital market.

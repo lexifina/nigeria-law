@@ -1,0 +1,1 @@
+169. Application of insurance money No claimant against an Investors Protection Fund shall have any rights of action against any person or body of persons with whom a contract of insurance or indemnity is made under this Part of this Act in respect of such contract, or have any right or claim with respect to any money paid by the insurer in accordance with any such contract.

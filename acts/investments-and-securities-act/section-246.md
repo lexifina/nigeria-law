@@ -1,0 +1,1 @@
+246. Power of Minister to issue directives Without prejudice to the foregoing provisions of this Act, the Minister may give to the Commission such directives as appear to him to be just and proper for the effective discharge of the functions of the Commission under this Act and it shall be the duty of the Commission to comply.

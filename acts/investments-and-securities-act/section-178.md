@@ -1,0 +1,1 @@
+178. Liability of a body in respect of issue of registered securities A body shall pay to the person registered for the time being as the bond‐holder of the principal sum represented by the body and the interest due on that sum at the rate and on the dates specified under section 175 of this Act or in pursuance of an option to redeem the bond.

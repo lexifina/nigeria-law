@@ -1,0 +1,1 @@
+204. Expenses to be paid out of sinking fund There shall be paid out of the sinking fund all expenses specifically incurred in, or inci‐ dental to, the investment and management of that fund and the re‐payment of the loan for which that fund was established.

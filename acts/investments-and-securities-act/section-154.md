@@ -1,0 +1,1 @@
+154. Amount in the Investors Protection Fund The Investors Protection Fund shall consist of such amount as may by regulation be ap‐ proved by the Commission, from time to time, to be paid to the credit of the Investors Protection Fund on the establishment of a Securities Exchange or Capital Trade Point under this Act.

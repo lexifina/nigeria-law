@@ -1,0 +1,1 @@
+58. Contract in prospectus, etc., not to be varied without leave A company limited by shares shall not, before the statutory meeting, vary the terms of a contract referred to in the prospectus or a statement in lieu of prospectus, except subject to the approval of the statutory meeting.

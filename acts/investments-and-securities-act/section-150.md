@@ -1,0 +1,1 @@
+150. Fund to be kept in separate bank account All moneys forming a part of an Investors Protection Fund shall be paid or transferred into a separate bank account in Nigeria pending the investment or application of such moneys in accordance with the provisions of this Part of this Act.

@@ -1,0 +1,1 @@
+248. Reports on development of the securities industry The Commission shall furnish to the President through the Minister reports pertaining to any proposed or existing programme for the promotion and development of the securities industry in Nigeria.

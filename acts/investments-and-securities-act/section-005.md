@@ -1,0 +1,1 @@
+5. Remuneration and allowance Members of the Commission appointed under subsection (1) (a) and (e) of section 2 of this Act shall be paid such remuneration and allowances as the President may, after consultation with the Minister, from time to time, direct.

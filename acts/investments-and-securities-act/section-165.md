@@ -1,0 +1,1 @@
+165. Subrogation On payment out of an Investors Protection Fund of any moneys in respect of any claim under this Part of this Act, the Securities Exchange and Capital Trade Point shall be subro‐ gated to the extent of payment to all the rights and remedies of the claimant in relation to the loss suffered by him from the defalcation.
