@@ -1,0 +1,1 @@
+14. Restriction on execution against the property of the Board In any action or suit against the Board no execution or attachment or process in the nature thereof shall be issued against the Board but any sums of money which by judg- ment of the court is awarded against the Board shall, subject to any direction given by the Board, be paid from the funds of the Board.

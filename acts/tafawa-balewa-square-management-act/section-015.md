@@ -1,0 +1,1 @@
+15. Representation of the Board at hearing of suit In any suit pending before a court, the Board may be represented at any stage of the proceedings by any servant or agent of the Board who shall satisfy the court that he is duly authorised in writing by the Board in that behalf.
