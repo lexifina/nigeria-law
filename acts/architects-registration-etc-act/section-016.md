@@ -1,0 +1,7 @@
+16. Regulations, rules and orders
+
+(1) Any power to make regulations, rules or orders conferred by this Act shall include power to make-
+
+(a) provisions for such incidental and supplementary matters as the authority making the instrument considers expedient for the purposes of the instrument; and
+
+(b) different provisions for different circumstances.
