@@ -1,0 +1,11 @@
+15. Application of sinking fund
+
+The sinking fund shall be applied in the first place in payment of all expenses of, or
+
+incidental to, the redemption of the debentures and the cost and expenses of all notices
+
+required by this Act to be given, and in the next place, and subject to the aforesaid pay-
+
+ments, in repayment of the principal moneys for the time being represented by the de-
+
+bentures.

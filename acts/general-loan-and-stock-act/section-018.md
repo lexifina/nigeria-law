@@ -1,0 +1,5 @@
+18. Appointment of day for drawing of debentures
+
+After the date specified in the Act authorising a loan as that on which the contribu-
+
+tions to the sinking fund shall commence in respect of that loan, and so long thereafter as any of the debentures remain outstanding and unsatisfied, the Nigeria High Commission shall, in every year, unless the whole of the money applicable in that year to the redemption of debentures has been applied in the purchase thereof, appoint a day in that year for the drawing by lot of the debentures to be redeemed.
