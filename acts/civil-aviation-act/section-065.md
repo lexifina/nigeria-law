@@ -1,0 +1,1 @@
+65. Rights of Government aircraft Notwithstanding anything contained in these Regulations, all aircraft belonging to or employed in the service of the Government of the Federation of Nigeria shall have access at all times to any Government or licensed aerodome.

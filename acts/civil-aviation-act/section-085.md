@@ -1,0 +1,1 @@
+85. Saving Subject to the provisions of regulations 65 and 67 of these Regulations, nothing in these Regulations or any regulations made thereunder shall confer any right to land in any place as against the owner of the land or other persons interested therein.

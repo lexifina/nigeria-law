@@ -1,0 +1,1 @@
+83. Exemption The Minister may exempt from any of the provisions of these Regulations or any other regulation made thereunder any aircraft or persons or classes or types of aircraft or persons, either absolutely or subject to such conditions as he thinks fit.

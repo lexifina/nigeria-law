@@ -1,0 +1,1 @@
+64. Power to give directions The Minister may, in relation to any aerodrome or air route or airway or air route facility or airway facility, issue such directions as he considers necessary to ensure the safety of aircraft or compliance with any standards or recommended practices or procedures adopted from time to time in pursuance of the Chicago Convention.

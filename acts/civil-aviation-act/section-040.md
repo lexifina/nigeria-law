@@ -1,0 +1,5 @@
+40. Smoking in aircraft
+
+(1) Notices indicating when smoking is prohibited shall be exhibited in every aircraft registered in Nigeria so as to be visible from each passenger seat therein.
+
+(2) A person shall not smoke in any compartment of an aircraft registered in Nigeria at a time when smoking is prohibited in that compartment by a notice to that effect exhibited by or on behalf of the commander of the aircraft.

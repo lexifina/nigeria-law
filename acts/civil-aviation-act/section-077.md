@@ -1,0 +1,1 @@
+77. Enforcement of directions Any person who fails to comply with any direction given to him by the Minister or by any authorised person under any provision of these Regulations or any regulations made thereunder, shall be deemed for the purposes of these Regulations to have contravened that provision.

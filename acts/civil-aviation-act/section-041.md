@@ -1,0 +1,1 @@
+41. Authority of commander of aircraft Every person in an aircraft registered in Nigeria shall obey all lawful commands which the commander of that aircraft may give for the purpose of securing the safety of the aircraft and of persons or property carried therein, or the safety, efficiency or regularity of air navigation.

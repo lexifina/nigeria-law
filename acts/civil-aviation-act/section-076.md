@@ -1,0 +1,1 @@
+76. Obstruction of persons A person shall not wilfully obstruct or impede any person acting in the exercise of his powers or the performance of his duties under these Regulations.
