@@ -1,0 +1,1 @@
+19. Power to give directives The Minister may give to the Corporation directives of a general nature with regard to the carrying out of the functions of the Corporation under this Act and it shall be the duty of the Corporation to comply with such directives.
