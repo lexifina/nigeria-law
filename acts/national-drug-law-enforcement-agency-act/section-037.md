@@ -1,0 +1,1 @@
+37. Final order Where an arrested person is convicted of an offence under this Act, the Agency, or any authorised officer, shall apply to the Federal High Court for a final order of confisca- tion and forfeiture of the convicted person's assets and properties already subject to an interim order under this Act.

@@ -1,0 +1,1 @@
+34. Investigation of assets and properties of persons arrested for an offence under this Act Where a person is arrested for an offence under this Act, the Agency shall immedi- ately trace and attach all the assets and properties of the person and shall thereafter cause to be obtained an interim attachment order by the Federal High Court.

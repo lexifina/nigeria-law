@@ -1,0 +1,1 @@
+48. Annual report The Agency shall, not later than 30 September in each year, submit to the President a report of its activities during the immediately preceding year and shall include in such report the audited accounts of the Agency.
