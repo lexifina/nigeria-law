@@ -1,0 +1,1 @@
+10. Defence in civil and criminal proceedings Where any proceedings, whether civil or criminal, are brought against any public officer in respect of any act done in pursuance of any of the provisions of this Act, it shall be a good defence to show that there was reasonable and probable cause for the act in respect of which such proceedings are brought.
