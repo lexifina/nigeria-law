@@ -1,0 +1,5 @@
+17. Preliminary advice on distinctiveness (I) Any person proposing to apply for the registration of a trade mark in Part A or Part B of the register may, if he so desires, apply to the Registrar in the prescribed man- ner for advice as to whether the trade mark appears to the Registrar prima facie to be in- herently adapted to distinguish, or capable of distinguishing, as the case may be; and the Registrar shall have power to give the advice asked for in the application.
+
+(2) If an application for the registration of a trade mark, as to which the Registrar has given advice under this section in the affirmative, is made within three months after the giving of the advice, and the Registrar, after further investigation or consideration, gives to the applicant under section
+
+18 of this Act notice of his objection to the acceptance of the application on the ground that the trade mark is not adapted to distinguish, or not ca- pable of distinguishing, as the case may be, the applicant shall be entitled, on giving no- tice of withdrawal of the application within the prescribed period, to have repaid to him any fee paid on the filing of the application.

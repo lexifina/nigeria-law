@@ -1,0 +1,1 @@
+29. Registered proprietor's power to assign Subject to the provisions of this Act, the person for the time being entered in the reg- ister as proprietor of a trade mark shall, subject to any rights appearing from the register to be vested in any other person, have power to assign the trade mark, and to give effec- tual receipts for any consideration for an assignment thereof.

@@ -1,0 +1,1 @@
+69. Short title This Act may be cited as the Trade Marks Act.

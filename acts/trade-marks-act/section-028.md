@@ -1,0 +1,1 @@
+28. Effect of association of trade marks Trade marks that are registered as, or are deemed by virtue of this Act to be, associ- ated trade marks, shall be assignable and transmissible only as a whole, and not sepa- rately, but shall for all other purposes be deemed to have been registered as separate trade marks.

@@ -1,0 +1,11 @@
+5. Right given by registration in Part A ( I) Subject to the provisions of this section and of sections 7 and 8 of this Act, the registration (whether before or after the commencement of this Act) of a person in Part A of the register as proprietor of a trade mark (other than a certification trade mark) in re- spect of any goods, shall, if valid, give or be deemed to have given to that person the ex- clusive right to the use of that trade mark in relation to those goods.
+
+(2) Without prejudice to the generality of the right to the use of a trade mark given by such registration as aforesaid, that right shall be deemed to be infringed by any person [Issue 1] Tl3 -4 CAP. T13 Trade Marks Act who, not being the proprietor of the trade mark or a registered user thereof, using it by way of the permitted use, uses a mark identical with it or so nearly resembling it as to be likely to deceive or cause confusion, in the course of trade, in relation to any goods in respect of which it is registered, and in such manner as to render the use of the mark likely to be taken either-
+
+(a) as being used as a trade mark; or
+
+(b) in a case in which the use is use upon the goods or in physical relation thereto or in an advertising circular or other advertisement issued to the public, as im- porting a reference to some person having the right either as proprietor or as registered user to use the trade mark or to goods with which such a person as aforesaid is connected in the course of trade.
+
+(3) The right to the use of a trade mark given by such registration as aforesaid shall be subject to any conditions or limitations entered on the register, and the use of any such mark as aforesaid in any circumstances to which, having regard to any such limitations, the registration does not extend, shall not constitute an infringement of that right.
+
+(4) The use of a registered trade mark, being one of two or more registered trade marks that are identical or nearly resemble each other, in the exercise of the right to the use of that trade mark given by such registration as aforesaid, shall not constitute an in- fringement of the right to the use of any other of those trade marks given by such regis- tration.

@@ -1,0 +1,1 @@
+54. Court's power to review Registrar's decisions The court, in dealing with any question of the rectification of the register (including all applications under the provisions of section 38 of this Act), shall have power to review any decision of the Registrar relating to the entry in question or the correction sought to be made.

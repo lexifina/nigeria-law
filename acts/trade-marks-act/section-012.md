@@ -1,0 +1,5 @@
+12. Names of chemical substances not to be registered (I) Subject to this section, no word which is the commonly used and accepted name of any single chemical element or single chemical compound, as distinguished from a mixture, shall be registered as a trade mark in respect of a chemical substance or prepara- tion; and any such registration in force at the commencement of this Act or thereafter shall, notwithstanding anything in section
+
+14 of this Act, be treated for the purposes of section 38 of this Act as being an entry made in the register without sufficient cause, or an entry wrongly remaining on the register, as the case may require.
+
+(2) The foregoing subsection shall not apply in relation to a word which is used to denote only a brand or make of such an element or compound as made by the proprietor or a registered user of the trade mark as distinguished from that element or compound as made by others, and in association with a suitable name or description open to the public use.

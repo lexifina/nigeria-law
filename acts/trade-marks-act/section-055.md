@@ -1,0 +1,1 @@
+55. Powers of court on appeal In any appeal from a decision of the Registrar to the court under this Act, the court shall have and exercise the same discretionary powers as under this Act are conferred upon the Registrar.
