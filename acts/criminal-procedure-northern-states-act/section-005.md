@@ -1,0 +1,3 @@
+5. Powers of arrest in respect of Federal offences, and method of process (I) The powers of arrest provided for in Part III of the Schedule to the Criminal Pro- cedure Code Law, 1960, of the Northern States, shall be applicable in respect of Federal offences as they apply in respect of offences other than Federal offences, and references in section 26 of the Schedule to that Law to the third column of Appendix A to the Law, shall be construed as reference to the third column of the Appendix to this Act.
+
+(2) Process to compel the attendance of the accused person shall ordinarily be a summons or a warrant according as in the opinion of the court, a summons or a warrant according to the fourth column of the Appendix hereto issued in the first instance.

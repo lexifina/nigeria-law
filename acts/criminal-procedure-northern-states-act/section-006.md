@@ -1,0 +1,3 @@
+6. Modifications to Northern States Criminal Procedure Code Law In its application to the jurisdiction, powers, practice and procedure of the courts of the Northern States in relation to Federal offences, the Criminal Procedure Code Law,
+
+1960, of the Northern States, shall be read and construed as though references to the Di- rector of Public Prosecutions of the relevant Northern States were references to the [Issue I] C42 - 2 CAP. C42 Criminal Procedure (Northern States) Act Attorney-General of the Federation, but shall include the Director of Public Prosecutions of the relevant Northern States to the extent that powers vested in the Attorney-General of the Federation have been delegated to such Director.
