@@ -1,0 +1,1 @@
+13. Issue of fresh certificates Where an insurer is satisfied that a certificate of insurance or a certificate of security issued by him has become defaced, or has been lost or destroyed he shall, if so requested by the person to whom any such certificate was issued, issue to that person a fresh certifi- cate and shall so notify the Inspector-General of Police.

@@ -1,0 +1,1 @@
+22. Return by licensing authorities Each licensing authority shall furnish to the central registrar a monthly return of cer- tificates of foreign insurance issued by him with such other details as the central registrar may from time to time require.

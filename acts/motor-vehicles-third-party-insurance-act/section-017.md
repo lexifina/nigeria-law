@@ -1,0 +1,1 @@
+17. Issue of certificate of foreign insurance An issuing authority if he is satisfied that the terms of any such policy comply with the provisions of the Act may issue a certificate of foreign insurance to any visitor who makes application there for in accordance with the provisions of these Regulations.
