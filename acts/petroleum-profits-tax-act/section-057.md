@@ -1,0 +1,1 @@
+57. Tax to be payable notwithstanding any proceedings for penalties The institution of proceedings for or the imposition of, a penalty, fine or term of im- prisonment under this Act shall not relieve any person from liability to payment of any tax for which he is or may become liable.

@@ -1,0 +1,1 @@
+8. Charge of tax There shall be levied upon the profits of each accounting period of any company en- gaged in petroleum operations during that period, a tax to be charged, assessed and pay- able in accordance with the provisions of this Act.

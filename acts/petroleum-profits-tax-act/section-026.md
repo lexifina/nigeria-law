@@ -1,0 +1,1 @@
+26. Manager of companies, etc., to be answerable The manager or any principal officer in Nigeria of every company which is or has been engaged in petroleum operations shall be answerable for doing all such acts as are required to be done by virtue of this Act for the assessment and charge to tax of such company and for payment of such tax.

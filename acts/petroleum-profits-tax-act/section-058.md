@@ -1,0 +1,1 @@
+58. Prosecution to be with the sanction of the Board No prosecution in respect of an offence under sections 5, 52, 53 or 55 of this Act may be commenced, except at the instance of or with the sanction of the Board.
