@@ -1,0 +1,1 @@
+11. Certificate of National Service The Directorate shall, on completion of the service of a member of the service corps unless such person is exempted under section 17 of this Act, issue him with a Certificate of National Service which shall contain such particulars as may be prescribed.

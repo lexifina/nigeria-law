@@ -1,0 +1,1 @@
+14. Illegal wearing of service corps uniform Any person who, not being a person serving in the service corps or duly authorised so to do, wears the uniform or any part of the uniform of the service corps is guilty of an offence and liable on conviction to a tine of N 1,000 or to imprisonment for a term of six months or to both such fine and imprisonment.
