@@ -1,0 +1,3 @@
+17. Prohibition of falsely professing to be a registered person
+
+Any person, not being registered in accordance with this Act, who holds himself out to be so registered or uses any name, title, description or symbol calculated to lead any person to infer that he is so registered, shall be guilty of an offence and liable on conviction for a first offence to a fine of not less than two thousand naira or more than five thousand naira or to imprisonment for a term of six months or to both such fine and imprisonment, and on conviction for a second or any subsequent offence to imprisonment for a term of not less than one year or more than three years.
