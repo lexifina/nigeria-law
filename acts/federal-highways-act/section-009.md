@@ -1,0 +1,1 @@
+9. Power of arrest in certain cases A police officer may arrest without warrant the driver of a motor vehicle on a Federal highway who within his view commits an offence under section 5,6, 7 or 8 of this Act, unless the driver either produces his licence to drive or produces other evidence of his identity acceptable to the police officer.

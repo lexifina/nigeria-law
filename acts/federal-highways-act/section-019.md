@@ -1,0 +1,3 @@
+19. Power to nominate driver of vehicle in public service, etc.
+
+Notwithstanding the provisions of any other enactment or rule of law, where in respect of vehicles used in the public services of the federation or of a State an offence under this Act is committed on a Federal highway, the Ministry or other department of State in whose service (Federal or otherwise) the vehicle is used, may nominate an official as the person responsible for the offence, and that person shall be deemed to be the person actually liable therefor unless the court hearing the charge is satisfied that the driver of the vehicle was in fact the person guilty of the offence.

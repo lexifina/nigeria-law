@@ -1,0 +1,1 @@
+12. Driving without authority of owner of motor vehicle Any person who on a Federal highway drives a motor vehicle on any occasion without the authority express or implied of the owner shall, be guilty of an offence and liable on conviction to a fine of N100 or to imprisonment for six months, or to both such fine and imprisonment.
