@@ -1,0 +1,1 @@
+6. Replacement of lost or damaged certificate Where a certificate has been lost or damaged a certifying officer may on application being made to him issue a duplicate copy of such certificate and endorse thereon the word "DUPLICATE".
