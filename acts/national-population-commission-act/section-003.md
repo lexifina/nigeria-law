@@ -1,0 +1,1 @@
+3. At any time while the office of the chairman is vacant or the chairman is in the opinion of the Commission, temporarily or permanently unable to perform the functions of his office, the President shall appoint a member of the Commission to perform those functions and references in this Schedule to the chairman, shall be construed accordingly.

@@ -1,0 +1,1 @@
+42. Duplicate of documents In the absence of express provision for the furnishing of copies of duplicates of documents filed or used in connection with any step taken in the proceedings, the party taking such steps shall, unless the secretary otherwise directs, leave with the secretary a duplicate of every such document for each other party and three other duplicates.

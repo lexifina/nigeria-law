@@ -1,0 +1,1 @@
+41. Multiple complaints Where more complaints than one are presented in reaction to the same census result, all such complaints shall be considered and be dealt with as one complaint, unless the Tribunal shall otherwise direct.

@@ -1,0 +1,1 @@
+20. Publication, good notice The posting of the notice of hearing on the Tribunal notice board, shall be deemed and taken to be good notice and such notice shall not be vitiated by any miscarriage of or relating to the copy or copies of the notice sent pursuant to paragraph 18 of this Schedule.

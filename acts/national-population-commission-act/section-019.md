@@ -1,0 +1,1 @@
+19. Notice of hearing The Commission shall publish the notice of hearing by causing the copy to be affixed to the premises of the Commission, but failure to do so or any miscarriage relating to such copy shall not affect the proceedings in any manner whatsoever.

@@ -1,0 +1,1 @@
+7. Address for service For the purpose of service of the complaint on the respondent, the complainant shall furnish the secretary with the address of the respondent's abode or the address of a place where personal service can be effected on the respondent.
