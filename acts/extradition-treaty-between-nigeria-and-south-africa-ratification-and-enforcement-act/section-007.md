@@ -1,0 +1,241 @@
+7. Where extradition has been granted for an extraditable offence, it shall also be granted for any other offence specified in the request even if the latter offence is punishable by less than one year's deprivation of liberty, provided that all other requirements of extradition are met No. 2 Extradition Treaty between Nigeria and South Africa (Ratification and Enforcement) Act ARTICLE 3--OPTIONAL GROUNDS FOR EXTRADITION
+
+1. Extradition shall be granted unless the offence for which extradition is sought is punishable by death under the laws of the Requesting State, and is not punishable by death under the laws of the Requested State and the Requested State may refuse extradition unless the Requesting State provides assurances that the death penalty will not be imposed or, if imposed, will not be carried out.
+
+2. In instances in which a Requesting State provides an assurance in accordance with this Article, the death penalty, if imposed by the courts of the Requesting State, shall not be carried out,
+
+3. Extradition may be refused unless the Requesting State undertakes or gives such assurance as considered sufficient by the Requested State that the person sought will not be-
+
+(a) detained without trial;
+
+(b) tortured in any way; and
+
+(c) treated in a cruel, inhuman or degrading way.
+
+ARTICLE 4-NATIONALITY Extradition shall not be refused on the ground that the person sought is a citizen or national of the Requested State.
+
+ARTICLE 5-POLITICAL AND MILITARY OFFENCES
+
+1. Extradition shall not be granted if the offence for which extradition is requested is an offence of a political character.
+
+2. For the purposes of this Treaty, the following shall not be considered to be offences of a political character-
+
+(a) The murder or other wilful crime against the person of a Head of State of one of the Contracting States, or a member of the Head of State's family;
+
+(b) an offence for which both contracting States have the obligation pursuant to a multilateral international agreement to extradite the person sought or to submit the case to their competent authorities for decision as to prosecution ;
+
+(c) murder;
+
+(d) an offence involving kidnapping, abduction, or any form of unlawful detention, including the taking of a hostage ; and
+
+(e) attempting or conspiring to commit, aiding, abetting, inducing, counselling or procuring the commission of, or being an accessory before or after the fact to such offences.
+
+3. Despite paragraph 2 of this article, extradition shall not be granted if the executive authority of the Requested State is of the opinion that there are substantial grounds for believing that the request has been made for the purpose of prosecuting or punishing a person on account of that person's gender, race, nationality or political opinion.
+
+4. The executive authority of the Requested State may refuse extradition for offences under military law which are not offences under ordinary criminal law.
+
+Extradition Treaty between Nigeria and South Africa 2004 No.2 (Ratification and Enforcement) Act ARTICLE 6--PRIOR PROSECUTION
+
+1. Extradition shall not be granted when the person sought has been convicted or acquitted in the Requested State for the offence for which extradition is requested.
+
+2. Extradition shall not be precluded by the fact that the competent authorities in the Requested State have decided not to prosecute the person sought for the acts or omissions for which extradition is requested, or to discontinue any criminal proceedings which have been instituted against the person sought for those acts ; provided such discontinuance does not have the effect of acquittal.
+
+ARTICLE 7-LAPSE OF TIME Extradition shall not be granted when the prosecution has become barred by lapse of time according to the laws of the Requesting State.
+
+ARTICLE 8-EXTRADITION PROCEDURES AND REQUIRED DOCUMENTS
+
+1. All requests for extradition shall be made in writing and be submitted through the diplomatic channel.
+
+2. The request for extradition shall be supported by-
+
+(a) documents, statements, or other types of information which describe the identity and probable location of the person sought;
+
+(b) a statement of the facts of the offence and the procedural history of the case;
+
+(c) a statement of the provisions of the law describing the essential elements of the offence for which extradition is requested;
+
+(d) a statement of the provisions of law describing the punishment for the offence;
+
+(e) a statement of the provisions of law describing any statute of limitation on the prosecution which shall be conclusive; and
+
+(f) the documents, statements or other information specified in paragraph 3 or 4 of this article, as the case may be.
+
+3. A request for extradition of a person who is sought for prosecution shall also be supported by-
+
+(a) a copy of the warrant or order of arrest, or any document having the same force and effect, if any, issued by a judge or other competent authority ;
+
+(b) a copy of the indictment, charge sheet or other charging document, if any ; and
+
+(c) such information as would justify the committal for trial of the person if the offence had been committed in the Requested State, but neither State is required to establish a prima facie case.
+
+4. A request for extradition relating to a person who has been convicted of the offence for which extradition is sought shall also be supported by-
+
+(a) a copy of the judgment of conviction, if available, or a statement by a judicial officer or other competent authority that the person sought has been convicted or a certified copy of any record of conviction that reflects the charge and the conviction;
+
+No. 2 Extradition Treaty between Nigeria and South Africa (Ratification and Enforcement) Act
+
+(b) information establishing that the person sought is the person to whom the conviction refers; and
+
+(c) a copy of the sentence imposed, if the person sought has been sentenced, and a statement establishing to what extent the sentence has been carried out ARTICLE 9 - ADMISSIBILITY OF DOCUMENTS Any document submitted in support of an extradition request shall be received and admitted as evidence in extradition proceedings if such document has been certified as a true copy of the original .
+
+by a magistrate, judge or any other person authorized to do so and such document has been authenticated by a statement-
+
+(a) if the Requested State is the Republic of South Africa, the Attorney-General of the Federation and Minister of Justice of the Federal Republic of Nigeria ; or
+
+(b) if the Requested State is the Federal Republic of Nigeria, the Minister responsible for Justice and Constitutional Development of the Republic of South Africa ; or
+
+(c) by a person designated by such Minister under the seal of that Minister, identifying the person who has signed the document, including that person's position or Title or authenticated in any other manner provided for by the law of the Requested State.
+
+ARTICLE 10 - PROVISIONAL ARREST
+
+1. In case of urgency, either Contracting State may request in writing the provisional arrest of the person sought pending presentation of the documents in support of the request for extradition. A request for provisional arrest may be transmitted through the diplomatic channel or directly between the Federal Ministry of Justice in the Federal Republic of Nigeria and the Department of Justice and Constitutional Development in the Republic of South Africa. The facilities of the International Criminal Police Organization (INTERPOL) may be used to transmit such a request. The application may also be transmitted by post, telegraph, telefax or any other means affording a record in writing.
+
+2. The application for provisional arrest shall contain-
+
+(a) a description of the person sought;
+
+(b) the location of the person sought, if known ;
+
+(c) a brief statement of the facts of the case, including if possible, the time and location of the offence;
+
+(d) a description of the laws violated;
+
+(e) a statement of the existence of a warrant of arrest or finding of guilt or judgment of conviction against the person sought ;
+
+(f) a statement that a request for extradition, and supporting documents, for the person sought will follow within the time period specified in this Treaty; and
+
+(g) a description of the punishment that can be imposed or has been imposed for the offences.
+
+3. On receipt of the application, the Requested State shall promptly take appropriate steps to secure the arrest of the person sought. The Requesting State shall be notified without delay of the disposal of its Application and the reasons for any denial.
+
+Extradition Treaty between Nigeria and South Africa
+
+2004 No.2 (Ratification and Enforcement) Act
+
+4. A person who is provisionally arrested may be discharged from custody upon the expiration of sixty (60) days from the date of arrest pursuant, to the application of the Requesting State if the executive authority of the Requested State has not received the formal request for extradition and the supporting documents required under Article 8.
+
+5. The fact that the person sought has been discharged from custody pursuant to paragraph 4 of this Article shall not prejudice the subsequent re-arrest and extradition of that person if the extradition request and supporting documents are delivered at a later date.
+
+ARTICLE 11 - DECISION AND SURRENDER
+
+1. The Requested State shall promptly notify the Requesting State through the diplomatic channel or in any other manner, of its decision on the request for extradition.
+
+2 If the request-is denied in whole or in part, the Requested State shall provide information as to the reasons for the denial of the request. The Requested State shall provide copies of pertinent judicial decisions upon request.
+
+3. If the request for extradition is granted, the competent authorities of the Contracting States shall agree on the time and place for the surrender of the person sought.
+
+4. If the person sought is not removed from the territory of the Requested State within fifteen
+
+(15) days of the appointed date, the person may be discharged from custody, and the Requested State may subsequently refuse extradition for the same offence.
+
+5. If circumstances beyond its control prevent either the Requested State or the Requesting State from respectively surrendering or receiving the person sought, the State so prevented shall notify the other accordingly and seek to agree on a new date and, if necessary, a new place.
+
+ARTICLE 12-TEMPORARY AND DEFFERED SURRENDER
+
+1. If the extradition request is granted in the case of a person who is being prosecuted or is serving a sentence in the territory of the Requested State, the Requested State may temporarily surrender the person sought to the Requesting State for the purpose of prosecution. The person so surrendered shall be kept in custody in the Requesting State and shall be returned to the Requested State after the conclusion of the proceedings against that person, in accordance with conditions to be determined by agreement in writing between the Contracting States.
+
+2. The Requested State may postpone the extradition proceedings against a person who is being prosecuted or who is serving a sentence in that State. The postponement may continue until the prosecution of the person sought has been concluded or until such person has served any sentence imposed upon him or her, or any part thereof ARTICLE I3 - REQUESTS FOR EXTRADITION BY MORE THAN ONE STATE
+
+1. If the Requested State receives requests from the other Contracting State and from any other State or States for the extradition of the same person, either for the same offence or for a different offence, the executive authority of the Requested State shall determine to which ofthose States it will surrender the person and shall inform the Requesting State of its decision. In making its decision, the Requested State shall consider whether the request was made pursuant to a treaty and all other relevant factors including but not limited to-- No. 2 Extradition Treaty between Nigeria and South Africa (Ratification and Enforcement) Act
+
+(a) the time and place where the respective offence or offences were committed;
+
+(b) the gravity of the offence if the States are seeking the person for different offences;
+
+(c) the circumstances of the case including the nationality of the victim and the State against which the offence was directed;
+
+(d) the possibility of re-extradition between the Requesting States, and
+
+(e) the chronological order in which the requests were received from the Requesting States.
+
+ARTICLE 14-SEIZURE AND SURRENDER OF PROPERTY
+
+1. To the extent permitted under its law the Requested State may seize and surrender all articles, documents and evidence connected with the offence in respect of which extradition is granted. The items mentioned in this Article may be surrendered even when' extradition cannot be effected due to the death, disappearance or escape of the person sought.
+
+2. Where the said property is liable to seizure or confiscation within the jurisdiction of the Requested State, the Requested State may temporarily surrender the property upon satisfactory assurances from the Requesting State that the property will be returned to the Requested State within a fixed period of time or as soon as practicable. The Requested State may also defer surrender of such property if it is needed as evidence in criminal proceedings in the Requested State.
+
+3. Any rights which the Requested State or third parties may have to such property shall be duly respected in accordance with the laws of the Requested State.
+
+ARTICLE I5 - RULE OF SPECIALTY
+
+1. A person extradited under this Treaty may not be detained, tried, or punished in the Requesting State except for an offence-
+
+(a) for which extradition has been granted or any differently denominated offence based on the same facts on which extradition was granted, provided such offence is extraditable or is a lesser included offence;
+
+(b) committed by him or her after his or her extradition; or
+
+(c) for which the executive authority of the Requested State has consented to the person's detention, trial, or punishment.
+
+2. For the purposes of paragraph (1) (c) of this Article-
+
+(a) the Requested State may require the submission of the documents specified in Article 8 ;
+
+and
+
+(b) the person extradited may be detained by the Requesting State for ninety (90) days, or for such longer time as the Requested State may authorize, pending the processing of the request.
+
+3. Paragraphs 1 and 2 of this Article shall not apply if the person extradited-
+
+(a) leaves the territory of the Requesting State after extradition and voluntarily returns to it ; or Extradition Treaty between Nigeria and South Africa
+
+2004 No.2 (Ratification and Enforcement) Act
+
+(b) has had an opportunity to leave the territory of the Requesting State and has not done so within fifteen (15) days of final discharge in respect of the offence for which that person was extradited and the person was free to do so.
+
+ARTICLE I6--SURRENDER TO A THIRD STATE OR AN INTERNATIONAL TRIBUNAL
+
+1. Subject to any multilateral agreement to which both Contracting States are parties, neither of the Contracting States may re-extradite or surrender a person extradited to it to any third State or International Tribunal for an offence committed by that person before his or her extradition unless-
+
+(a) the Requested State consents to that extradition or surrender; or
+
+(b) the person has had an opportunity to leave the territory of the Requesting State and has not done so within fifteen (15) days of final discharge of the offence for which the person was extradited and the person was free to do so.
+
+2. Paragraph 3 of Article 15 also applies to this article.
+
+ARTICLE 17-SIMPLlFIED SURRENDER If the person sought consents to surrender to the Requesting State, the Requested State may surrender the person as expeditiously as possible and without further proceedings.
+
+ARTICLE 18- TRANSIT
+
+1. Either Contracting State may authorize transportation through its territory of a person surrendered to the other State by a third State. A request for transit may be made through the diplomatic channel or directly between the Department of Justice and Constitutional Development of the Republic of South Africa and the Federal Ministry of Justice of the Federal Republic of Nigeria and shall contain a description of the person being transported and a brief statement of the facts of the case. To the extent permitted by the law of the Contracting States, a person in transit may be detained in custody during the period of transit.
+
+2. No authorization is required where air transportation is used and no landing is scheduled on the territory of the other Contracting State.' If an unscheduled landing occurs on the territory of the other Contracting State, the other Contracting State may require the request for transit as provided in paragraph 1. That Contracting State shall detain the person to be transported until the request for transit is received and the transit is effected, so long as the request is received within 96 hours of the unscheduled landing.
+
+ARTICLE 19-EXPENSES AND REPRESENTATION
+
+1. The Requested State shall make all necessary arrangements for and meet the cost of any proceedings arising out of a request for extradition and shall advise, assist, represent, and appear in court on behalf of the Requesting State, and otherwise represent the interests of the Requesting State until the person whose extradition is sought is surrendered to a person nominated by the Requesting State.
+
+2. The Requesting State-shall bear the expenses related to the translation of documents and the transportation of the person extradited.
+
+No. 2 Extradition Treaty between Nigeria and South Africa (Ratification and Enforcement) Act
+
+3. Neither State shall make any pecuniary claim against the other State arising out of the arrest, detention, examination, or surrender of persons sought under this Treaty.
+
+ARTICLE 20-C0NSULTATION The Federal Ministry of Justice of the Federal Republic of Nigeria and the Department of Justice and Constitutional Development in the Republic of South Africa may communicate with each other directly, through the diplomatic channel, or through the facilities of the International Criminal Police Organization (INTERPOL) in connection with the processing of individual cases and in furtherance of efficient implementation of this Treaty.
+
+ARTICLE 21-SCOPE OF APPLICATION This Treaty shall apply to offences committed before, on, or after the date this Treaty enters into force.
+
+ARTICLE 22-AMENDMENT This Treaty may be amended by agreement in writing between the Contracting States and the amendments shall enter into force in accordance with the procedures set forth in Article 23 of this Treaty.
+
+ARTICLE 23-RATIFICATION, ENTRY INTO FORCE AND TERMINATION
+
+1. This Treaty shall be subject to ratification, and the instruments of ratification shall be exchanged as soon as possible.
+
+2. This Treaty shall enter into force immediately upon the exchange of the instruments of ratification.
+
+3. Either Contracting State may terminate this Treaty at any time by giving written notice to the other Contracting State and the termination. shall be effective six (6) months after the date of the receipt of such notice. Such termination shall not prejudice any request for extradition made prior to the date on which the termination becomes effective.
+
+IN WITNESS WHEREOF, the undersigned, being duly authorized by their respective Governments, have signed this Treaty.
+
+DONE at ........................................ on this ............... day of ................................. , 2002 in two originals in the English language.
+
+(Signed) H.E. ATIKU ABUBAKAR Vice-President for the Government of the Federal Republic of Nigeria (Signed) H.E. JACOB ZUMA Deputy President for the Government of the Republic of South Africa Extradition Treaty between Nigeria and South Africa
+
+2004 No.2 (Ratification and Enforcement) Act I certify, in accordance with Section 2 (1) of the Acts Authentication Act Cap. A2, the Laws of the Federation of Nigeria 2004 that this is a true copy of the Bill passed by both Houses of the National Assembly.
+
+IBRAHIM SALIM, CON Clerk to the National Assembly
+
+24th Day of February, 2005.
+
+EXPLANATORY MEMORANDUM.
+
+This Act provides for the enforcement in Nigeria the Extradition Treaty between the Government of the Federal Republic of Nigeria and the Government of the Republic of South Africa.
