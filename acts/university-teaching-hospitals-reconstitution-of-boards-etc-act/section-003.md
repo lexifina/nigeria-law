@@ -1,0 +1,1 @@
+3. Qualification of chairman of the Board The chairman of the Board shall be a person of proven integrity coupled with experience and outstanding ability in administration or in professional or technical education.
