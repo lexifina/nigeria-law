@@ -1,0 +1,1 @@
+27. Power to remove obstruction to visibility of lighthouses and beacons An authorised employee of the Authority may, with all proper assistance where required, enter on any land and cut and remove all trees, underwood and vegetation, which may interfere with the visibility of any lighthouse or beacon from any other point or place.

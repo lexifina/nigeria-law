@@ -1,0 +1,1 @@
+78. Book specifying dues and rates to be kept at port The Authority shall keep at its office in each port, a book specifying the dues and rates for the time being in force and shall allow any person to inspect the book at all reasonable times, without the payment of a fee.

@@ -1,0 +1,1 @@
+116. Prohibition of entry into Nigeria of ships in certain cases Except with the prior approval of the Authority, no ship shall enter a port or an approach to a port in Nigeria, except as may be permitted by and in accordance with the terms of an entry issued by the Authority in respect of that ship.

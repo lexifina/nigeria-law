@@ -1,0 +1,1 @@
+112. Rating Notwithstanding the provisions of any enactment or law, a wharf vested in or in the possession of the Authority shall not be regarded as hereditament or tenement to be valued for rating purposes, and the Authority shall not pay any rates under any enactment or law in respect of the wharf or any property situated thereon.

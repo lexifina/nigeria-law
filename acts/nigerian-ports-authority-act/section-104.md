@@ -1,0 +1,1 @@
+104. Failure to comply with sections 57 and 58 A master of a ship who contravenes any of the provisions of section 57 or 58 of this Act, is guilty of an offence and liable on conviction to a fine of N10,000 or to imprisonment for a term not exceeding twelve months or to both such fine and imprisonment.

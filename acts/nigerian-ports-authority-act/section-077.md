@@ -1,0 +1,1 @@
+77. Authority may recover dues, rates, etc., by suit Notwithstanding anything contained in sections 66 to 76 of this Act, the Authority may recover by civil suit any dues, rates, expenses, costs or, in the case of sale, the balance thereof, when the proceeds of sale are insufficient.

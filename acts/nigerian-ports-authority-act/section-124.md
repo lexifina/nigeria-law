@@ -1,0 +1,1 @@
+124. Directives by the Minister The Minister may give to the Authority directives of a general nature or relating generally to matters of policy with regard to the exercise by the Authority of its functions and it shall be the duty of the Authority to comply with the directives.

@@ -1,0 +1,1 @@
+94. Restriction on execution against the property of the Authority In any action or suit against the Authority, no execution or attachment or process in the nature thereof, shall be issued against the Authority, but any sum of money which may by the judgment of the court be awarded to the plaintiff, shall be paid by the Authority from the funds of the Authority.

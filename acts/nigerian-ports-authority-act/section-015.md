@@ -1,0 +1,1 @@
+15. Application of surplus revenue Any excess of the Authority's revenues for any year over its outgoings and charges for that year, shall be applied for such purposes as the Authority may determine, but no part of the excess shall be applied otherwise than for the purposes of the Authority.

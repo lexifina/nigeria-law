@@ -1,0 +1,1 @@
+54. Liability of the master or owner in the case of a ship under pilotage The master or owner of a ship navigating in circumstances in which pilotage is compulsory shall be answerable for any loss or damage caused by the ship or by any fault of the navigation of the ship in the same manner as he would if pilotage were not compulsory.

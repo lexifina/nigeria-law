@@ -1,0 +1,1 @@
+106. Penalty for unlawfully loosing moorings A person who, for the purpose of obtaining salvage, or for any other purpose, wilfully sets adrift, cuts, breaks or unfastens the moorings of a ship, is guilty of an offence and liable on conviction, to a fine of N10,000 or to imprisonment for a term not exceeding twelve months or to both such fine and imprisonment.

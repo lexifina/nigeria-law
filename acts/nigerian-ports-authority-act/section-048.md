@@ -1,0 +1,1 @@
+48. Power to take evidence on oath and summon witnesses A pilotage board holding an inquiry under section 47 of this Act may summon and ex- amine witnesses on oath and call for any document in any matter before it.

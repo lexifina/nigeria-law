@@ -1,0 +1,1 @@
+90. Liability in connection with pilotage when Authority is a ship owner In a case where the Authority is entitled to limit its liability as the owner of a ship, the provisions of sections 87, 88 and 89 of this Act shall not apply to any loss or damage, the liability for which can be so limited by the Authority.
