@@ -1,0 +1,1 @@
+31. Removal of soiled linen The midwife shall remove soiled linen, blood, faeces, urine, placenta and membranes from the neighbourhood of the patient and from the puerperium room as soon as possible after the labour and in every case before she leaves the patient.

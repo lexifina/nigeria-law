@@ -1,0 +1,1 @@
+18. Copy of Regulations to be supplied to applicant A copy of these Regulations relating to the restoration to the register of names re- moved therefrom and of the relevant forms in the Schedule to these Regulations shall be supplied by the Secretary-General to intending applicants on demand.

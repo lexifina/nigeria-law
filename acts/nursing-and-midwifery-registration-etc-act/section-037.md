@@ -1,0 +1,1 @@
+37. Child in danger of death On the birth of a child which is in danger of death, the midwife shall inform one of the parents of the child's condition and any abnormality reported to the parent shall be recorded in the register of cases.

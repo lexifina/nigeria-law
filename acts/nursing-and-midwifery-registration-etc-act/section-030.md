@@ -1,0 +1,1 @@
+30. Examination of placenta, etc., before disposal The midwife in charge shall in all cases of labour examine the placenta and membranes before the disposal thereof and shall satisfy herself that they are completely re- moved.

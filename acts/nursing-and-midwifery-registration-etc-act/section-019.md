@@ -1,0 +1,3 @@
+19. Power of Council to restore name on recommendation of supervisory authority In addition to its power under the foregoing provisions of these Regulations to restore to the register the name of any midwife removed therefrom, the Council may at any time, on the recommendation of the supervisory authority, restore such name to the register and on payment of a fee of four naira forty kobo issue a fresh certificate of registration to the midwife whose name is so restored.
+
+Regulating, supervising and restricting within due limits the practice of midwives Regulations for midwives concerning their person, instruments, their duties to parent and child and their obligations with regard to disinfection, medical assistance, and noti- fication.

@@ -1,0 +1,1 @@
+41. Register of cases to be available for inspection A midwife shall at all times give every reasonable facility for a proper inspection of her register of cases, her bag of appliances and her residence by the local supervisory authority, and shall submit to and facilitate any investigation in her mode of practice.

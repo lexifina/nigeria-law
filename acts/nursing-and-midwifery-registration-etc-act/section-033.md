@@ -1,0 +1,1 @@
+33. Normal labour In these Regulations, a case of normal labour means a labour in which none of the conditions exists which are specified in regulation 39 of these Regulations as conditions in which medical help shall be sent for.

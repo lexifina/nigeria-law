@@ -1,0 +1,1 @@
+45. Administration of drug to be noted in register of cases A midwife shall note in her register of cases each occasion on which she is under the necessity of administering or applying in any way any drug other than a simple aperient, the name and dose of the drug, and the time and reason for its administration or application.

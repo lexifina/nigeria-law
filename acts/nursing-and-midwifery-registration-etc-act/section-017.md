@@ -1,0 +1,1 @@
+17. Decision of Council to restore name to register If, after consideration of the application, the Council decides that the name of the applicant shall be restored to the register, the Council shall direct the Secretary-General to restore the name to the register and to issue a new certificate of registration to her on payment of a fee of four naira forty kobo.
