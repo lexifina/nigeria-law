@@ -1,14 +1,10 @@
-NATIONAL BOUNDARY COMMISSION (ESTABLISHMENT) ACT
+NATIONAL BOUNDARY COMMISSION (ESTABLISHMENT) ACT, 2006
 
-ARRANGEMENT OF SECTIONS
+ARRANGEMENT OF SECTIONS Section :
 
-PART I
+PART I-ESTABLISHMENT AND COMPOSITION OF THE NATIONAL BOUNDARY COMMISSION, ETC.
 
-Establishment and Composition of the National Boundary Commission, etc.
-
-SECTION
-
-I. Repeal of Act, Cap. 238, L.F.N. 1990.
+1. Repeal of Act, Cap. 238, LFN 1990.
 
 2. Establishment of the Commission.
 
@@ -20,19 +16,15 @@ I. Repeal of Act, Cap. 238, L.F.N. 1990.
 
 6. Emoluments, etc.
 
-PART 11
-
-Functions of the Commission
+PART II-FUNCTIONS OF THE COMMISSION
 
 7. Functions of the Commission.
 
-PART 1I1
+PART III-ESTABLISHMENT AND FUNCTIONS OF THE INTERNAL AND
 
-Establishment and Functions of the Internal and International Boundary Technical
+INTERNATIONAL BOUNDARY TECHNICAL COMMITTEES
 
-Committees
-
-8. Establishment of Internal Boundary Technical Committee.
+8. Establishment of Internal Boundary Committees.
 
 9. Functions of the Internal Boundary Technical Committee.
 
@@ -40,11 +32,11 @@ Committees
 
 11. Functions of the International Boundary Technical Committee.
 
-PART IV
+PART IV-ESTABLISHMENT AND FUNCTIONS OF THE STATE AND LOCAL GOVERNMENT
 
-Establishment and Functions of the State and Local Government Boundary Committees
+BOUNDARY COMMITTEES
 
-12. Establishment and composition of the State Boundary Committee.
+12. Establishment and composition of the State Boundary Committees.
 
 13. Functions of the State Boundary Committees.
 
@@ -52,11 +44,9 @@ Establishment and Functions of the State and Local Government Boundary Committee
 
 15. Functions of the Local Government Boundary Committee.
 
-PART V
+PART V -STAFF OF THE COMMISSION
 
-Staff of the Commission
-
-16. The Director-General of the Commission.
+16. The Director General of the Commission.
 
 17. Directors and departments of the Commission.
 
@@ -64,15 +54,13 @@ Staff of the Commission
 
 19. Staff regulations.
 
+2006 No. 12 National Boundary Commission (Establishment) Act
+
 20. Service in the Commission to be pensionable.
 
 21. Secrecy.
 
-PART VI
-
-Financial Provisions
-
-SECTION
+P ART VI-FINANCIAL PROVISIONS
 
 22. Fund of the Commission.
 
@@ -86,11 +74,9 @@ SECTION
 
 27. Power to borrow.
 
-28. Trustee Investments Act, Cap. 449, L.F.N. 1990.
+28. Trustee Investments Act, Cap. 449 LFN, 1990.
 
-PART VII
-
-Legal Proceedings
+P ART VII-LEGAL PROCEEDINGS
 
 29. Limitation of suit against the Commission, etc.
 
@@ -100,9 +86,7 @@ Legal Proceedings
 
 32. Indemnity of officer.
 
-PART VIII
-
-Miscellaneous
+PART VIII-MISCELLANEOUS
 
 33. Directives by the President, etc.
 
@@ -120,22 +104,16 @@ Miscellaneous
 
 40. Interpretation.
 
-41. Short title.
+41. Short Title.
 
-SCHEDULE
+SCHEDULE NATIONAL BOUNDARY COMMISSION (ESTABLISHMENT) ACT, 2006
 
-Supplementary Provisions relating 10 the Commission, etc.
+2006 ACT No. 12
 
-An Act to repeal the National Boundary Commission, Act, Cap. 238, L.F.N., 1990
+AN ACT TO REPEAL THE NATIONAL BOUNDARY COMMISSION ACT, CAP. 238 LFN, 1990 AND AMONG OTHERS THINGS, TO
 
-and among other things, to establish a new National Boundary Commission
+ESTABLISH A NEW NATIONAL BOUNDARY COMMISSION WITH MORE POWERS AND FUNCTIONS; AND FOR RELATED MATTERS [22nd Day of December, 2006 ]
 
-charged with more powers and functions; and for related matters.
+PART I-ESTABLISHMENT, COMPOSITION, ETC. OF THE
 
-[22nd December, 2006]
-
-[Commencement.]
-
-PART I
-
-Establishment, Composition, etc. of the National Boundary Commission
+NATIONAL BOUNDARY COMMISSION

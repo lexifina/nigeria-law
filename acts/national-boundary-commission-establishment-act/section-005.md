@@ -1,35 +1,21 @@
-5. Cessation of membership
-
-(1) Notwithstanding the provisions of section 3 of this Act, a person shall cease to
-
-hold office as a member of the Commission if-
+5.-(1) Notwithstanding the provisions of Section 3 of this Act, a person shall cease to hold office as a member of the Commission if-
 
 (a) he is declared bankrupt;
 
-(b) he is convicted of a felony or any offence involving dishonesty, fraud;
+(b) he is convicted of a felony or any offence involving dishonesty or fraud;
 
-(c) he becomes of unsound mind or incapable of carrying out his duties arising
+(c) he becomes of unsound mind or incapable of carrying out his duties arising from infirmity of the body or mind;
 
-from infirmity of the body or mind;
+(d) he is guilty of a serious misconduct in relation to his duties;
 
-(d) he is guilty ofa serious misconduct in relation to his duties;
+(e) in the case of a person possessed of a professional qualification, he is disqualified or suspended from practicing his profession in any part of the world by an order of a competent authority made in respect of that member; or Schedule.
 
-(e) in the case of a person possessed of a professional qualification, he is disquali-
+Cessation of membership.
 
-fied or suspended from practising his profession in any part of the world by an
-
-order of a competent authority made in respect of that member; or
+National Boundary Commission (Establishment) Act 2006 No. 12
 
 (f) he resigns his appointment by a letter addressed to the President.
 
-(2) If a member of the Commission ceases to hold office for any reason whatsoever,
+(2) If a member of the Commission ceases to hold office for any reason whatsoever, before the expiration of the term for which he is appointed, another person representing the same interest as that member shall be appointed to the Commission for the unexpired term.
 
-before the expiration of the term for which he is appointed, another person representing
-
-the same interest as that member shall be appointed to the Commission for the unexpired
-
-term.
-
-(3) A member of the Commission may be removed from office by the President ifhe
-
-is satisfied that it is not in the interest of the public that the member continues in office.
+(3) A member of the Commission may be removed from office by the President if he is satisfied that it is not in the interest of the Public that the member continues in office.

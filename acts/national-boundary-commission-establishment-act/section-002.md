@@ -1,8 +1,4 @@
-2. Establishment of the Commission
-
-(1) There is established a body to be known as the National Boundary Commission
-
-(in this Act referred to as "the Commission").
+2.-(1) There is established a body to be known as the National Boundary Commission (in this Act referred to as "the Commission").
 
 (2) The Commission-
 

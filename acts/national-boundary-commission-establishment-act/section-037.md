@@ -1,17 +1,15 @@
-37. Pending or existing proceedings or cause of action
+37. Any proceeding or cause of action pending or existing immediately before the commencement of this Act by or against the Commission in respect of any right, interest, obligation or liability of the Commission existing before the commencement of this Act may be continued or, as the case may be, commenced and any determination of the court of law, tribunal or other authority or person may be enforced by or against the Commission to the same extent that such proceeding or cause of action or Restriction on execution against property of the Commission.
 
-Any proceeding or cause of action pending or existing immediately before the com-
+Indemnity of officer.
 
-mencement of this Act by or against the Commission in respect of any right, interest,
+Directives by the President, etc.
 
-obligation or liability of the Commission existing before the commencement of this Act
+Regulations.
 
-may be continued or, as the case may be, commenced and any determination of the court
+Transfer of rights, etc.
 
-of law, tribunal or other authority or person may be enforced by or against the Commis-
+Obligations and liabilities.
 
-sion to the same extent that such proceeding or cause of action or determination might
+Pending or existing proceedings or cause of action.
 
-have been continued, commenced or enforced by or against the Commission existing
-
-before the commencement of this Act.
+2006 No. 12 National Boundary Commission (Establishment) Act determination might have been continued, commenced or enforced by or against the Commission existing before the commencement of this Act.

@@ -1,16 +1,16 @@
-14. Establishment and composition of the Local Government Boundary Committee
+14.-(1) There shall be established by each Local Government Area in a State and each Area Council in the Federal Capital Territory, a Local Government Boundary Committee.
 
-(1) There shall be established by each Local Government Area in a State and each
+(2) A Local Government Boundary Committee shall consist of- Functions of the State Boundary Committees.
 
-Area Council in the Federal Capital Territory, a Local Government Boundary Committee.
+Establishment and compo- sition of the Local Government Boundary Committee.
 
-(2) A Local Government Boundary Committee shall consist of-
+2006 No. 12 National Boundary Commission (Establishment) Act
 
-(a) the Vice-Chairman of the Local Government Area, who shall be the Chairman of the Committee;
+(a) the Vice Chairman of the Local Government Area, who shall be the Chairman of the Committee;
 
 (b) the Supervisory Councillor each for-
 
-(i) Works; and
+(i) Works, and
 
 (ii) Finance;
 
@@ -18,18 +18,16 @@ Area Council in the Federal Capital Territory, a Local Government Boundary Commi
 
 (d) a representative each of the-
 
-(i) State Security Services in the Local Government Area; and
+(i) State Security Services in the Local Government Area ; and
 
 (ii) Surveyor-General of the State;
 
 (e) a Local Government Council Officer of Immigration Services;
 
-(f) two--
+(f) two-
 
-(i)· Traditional Rulers;
+(i) Traditional Rulers;
 
-(ii) other persons knowledgeable in boundary and border matters,
-
-appointed by the Chairman of the Local Government Area; and
+(ii) other persons knowledgeable in boundary and border matters, appointed by the Chairman of the Local Government; and
 
 (g) the Head of Department of Works.

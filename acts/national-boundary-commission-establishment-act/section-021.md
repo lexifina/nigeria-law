@@ -1,35 +1,21 @@
-21. Secrecy
+21.- (1) A member of the Commission or the Director-General or any other officer or employee of the Commission shall-
 
-(1) A member of the Commission or the Director-General or any other officer or em-
+(a) not for his personal gain, make use of any information which has come to his knowledge in the exercise of his powers or is obtained by him in the ordinary course of his duty as a member of the Commission or as the Director-General, officer or employee of the Commission;
 
-ployee of the Commission shall-
+(b) treat as confidential any information which has come to his knowledge in the exercise of his powers or is obtained by him in the performance of his duties under this Act;
 
-(a) not, for his personal gain, make use of any information which has come to his
+(c) not disclose any information referred to under paragraph (b) of this subsection, except when required to do so by a court or in such other circumstances as may be prescribed by the Commission, from time to time.
 
-knowledge in the exercise of his powers or is obtained by him in the ordinary
+(2) Any person who contravenes the provisions of Subsection (l) of th is section, commits an offence and shall be liable to disciplinary action in accordance with the provisions of the Public Service Rules.
 
-course of his duty as a member of the Commission or as the Director-General,
+Staff regulations.
 
-officer or employee of the Commission;
+Service in the Commission to be pensionable.
 
-(b) treat as confidential any information which has come to his knowledge in the
+Secrecy.
 
-exercise of his powers or is obtained by him in the performance of his duties
+National Boundary Commission (Establishment) Act
 
-under this Act; and
+2006 No. 12
 
-(c) not disclose any information referred to under paragraph (b) of this subsection,
-
-except when required to do so by a court or in such other circumstances as may
-
-be prescribed by the Commission, from time to time.
-
-(2) Any person who contravenes the provisions of subsection (1) of this section com-
-
-mits an offence and shall be liable to disciplinary action in accordance with the provisions
-
-of the Public Service Rules.
-
-PART VI
-
-Financial Provisions
+PART VI-FINANCIAL PROVISIONS
