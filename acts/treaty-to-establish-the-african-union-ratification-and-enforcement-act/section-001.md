@@ -1,0 +1,1 @@
+1. In order to provide a platform for the common peoples of Africa and their grassroots organisations to be more involved in discussions on the problems and challenges facing the continent, and enable them to make proposals and recommendations to the organs of the Union, consultative fora shall be convened by the Secretariat, on a regular basis.

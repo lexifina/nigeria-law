@@ -1,0 +1,1 @@
+4. Special budgets shall be made available, where necessary, to meet the extra-budgetary expenditure of the Union. The Assembly shall determine the contributions of Member States to special budgets of the Union.

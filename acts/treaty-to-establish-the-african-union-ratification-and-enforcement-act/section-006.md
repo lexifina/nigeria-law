@@ -1,0 +1,1 @@
+6. Notwithstanding the provisions of paragraph 1 of this Article, the Assembly may suspend the application of the provisions of the said paragraph if it is satisfied, on the basis of an ex- planatory report by the Member States through the Secretary-General, that the non-payment of contributions is due to causes and circumstances beyond the control of the said Member State.
