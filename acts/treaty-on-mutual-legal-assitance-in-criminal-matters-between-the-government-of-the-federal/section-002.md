@@ -1,0 +1,1 @@
+2. The Central Authority of the Requested State shall make all necessary arrangements for representation in that State on behalf of the Requesting State in any proceedings arising out of a request for assistance.

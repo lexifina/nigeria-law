@@ -1,0 +1,1 @@
+3. Requests shall be executed in accordance with the laws of the Requested State, including the terms of this Treaty. However, the method of execution specified in the request shall be followed except in so far as it is prohibited by the laws of the Requested State.
