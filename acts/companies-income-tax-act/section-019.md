@@ -1,0 +1,1 @@
+19. A public institution or public fund (including the Armed Forces Comfort Fund) estab‐ lished or maintained for the comfort, recreation or welfare of members of the Nigerian Army, Navy or Air Force.

@@ -1,0 +1,1 @@
+5. Any educational institution affiliated under any law with any university in Nigeria, or established under any law in Nigeria and any other educational institution recognised by any Government in Nigeria.

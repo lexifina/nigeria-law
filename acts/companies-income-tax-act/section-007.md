@@ -1,0 +1,1 @@
+7. Any hospital owned by the Government of the Federation or of a State or any University Teaching Hospital or any hospital which is carried on by a society or association other‐ wise than for the purpose of profits or gains to the individual members of that society or association.
