@@ -1,0 +1,1 @@
+2. Establishment of the Petroleum (Special) Trust Fund Management Board There is hereby established for the management of the Fund, a body to be known as the Petroleum (Special) Trust Fund Management Board (in this Act referred to as "the Board") which shall, subject to this Act, have general control of the Fund.

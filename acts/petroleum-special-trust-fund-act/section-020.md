@@ -1,0 +1,1 @@
+20. Quarterly report The Board shall, not withstanding the provisions of section 19 of this Act and at the end of every three months, submit to the President a report on its activities and admini- stration of the Board in relation to the Fund.

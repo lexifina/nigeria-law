@@ -1,0 +1,1 @@
+10. Removal from office of secretary Notwithstanding the provisions of section 6 (3) of this Act, the secretary of the Board may be removed from office by the President if any circumstances arise which would require the secretary to cease to hold office as a member of the Board under section 6 of this Act.

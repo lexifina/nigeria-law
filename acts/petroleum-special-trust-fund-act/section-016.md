@@ -1,0 +1,1 @@
+16. A ward of contracts The Board shall have power to award contracts up to an amount of NSO,OOO,OOO, but shall be required to obtain the approval of the President for any contract in excess of that amount.
