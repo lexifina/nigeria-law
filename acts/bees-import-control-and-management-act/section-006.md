@@ -1,0 +1,7 @@
+6. Compensation
+
+(1) Where a person suffers damage by reason of the detention, seizure or destruction as the case may be, of any bees or apicultural material, at the time of importation, he shall, unless the bees or apicultural material, have been or, but for the destruction would have been forfeited in pursuance of this Act or any other enactment, be entitled to receive in respect of the damage, compensation in such amount, not exceeding in any particular importation the amount of fifty naira, as the Minister may authorise; and save as provided by this or the next succeeding subsection, compensation or damages for detention, seizure, destruction or treatment shall not otherwise be recoverable by action.
+
+(2) Where a claim relates to the detention, seizure or destruction of bees or apicultural material under subsection (1) of this section, the claimant shall be entitled if he so desires, to have the question as to his interest in the bees or apicultural material, or the amount of compensation, determined by the High Court most convenient of access to the place where the detention, seizure or destruction was effected; and if compensation is awarded the amount thereof not exceeding the limit specified in subsection (1) of this section shall thereafter be paid to the person found entitled.
+
+(3) In the application of this section, if treatment is directed it shall be carried out as directed by the court and the cost thereof shall be borne by the owner.
