@@ -1,0 +1,1 @@
+438. Penalties in subsidiary legislation Subject to the provisions of this Act, any subsidiary legislation made or deemed to have been made under this Act may provide penalties for the contravention of the sub- sidiary legislation.

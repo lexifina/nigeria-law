@@ -1,0 +1,1 @@
+419. Proof of attestation not required Notwithstanding anything in any other Act or rule of law, where any document is re- quired by this Act to be executed in the presence of, or to be attested by a witness, the document may be proved by the evidence of any person who is able to bear witness to the requisite facts, without calling the attesting witness.

@@ -1,0 +1,3 @@
+418. Sums ordered to be paid leviable by distress on ship Where any court is empowered to make an order under this Act directing payment of any seaman's wages, fines or other sums of money to be made and, if the party so directed to pay is the owner or master of a ship, and the payment is not made at the time or in the manner prescribed in the order, the court which made the order may, in addition to any other powers it may have for the purpose of compelling payment, direct the amount remaining unpaid to be levied by distress and sale of the ship, its tackle, furniture and equipment, and shall remit the case to the court for the levying of the said distress or sale.
+
+Evidence and Service of Documents

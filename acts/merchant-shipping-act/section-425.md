@@ -1,0 +1,1 @@
+425. Exemption of naval ships Unless otherwise specially provided in this Act or by regulations under this Act, noth- ing in this Act shall apply to a ship which belongs to the Nigerian Navy or the Nigerian Naval Reserve or the Government.

@@ -1,0 +1,1 @@
+408. Provision as to jurisdiction in case of offences For the purpose of conferring jurisdiction under this Act, an offence shall be deemed to have been committed, and every cause of complaint to have arisen, in the place in which the offence was actually committed or arose or in any place in which the offender or person complained against may be.

@@ -1,0 +1,1 @@
+422. All officers, etc., deemed public officers Any officer or other person appointed or authorised to act for any purpose under this Act, shall when acting for that purpose be deemed to be a public officer.

@@ -1,0 +1,5 @@
+378. Claims of owner to wreck
+
+(1) the owner of any wreck in the possession of the receiver of wreck, upon establishing his claim to same to the satisfaction of the Receiver of Wreck within one year, from the time when the wreck came into possession of the Receiver of Wreck, shall, upon paying the salvage fees and expenses due, be entitled to have the wreck or the proceeds thereof, delivered up to him.
+
+(2) Where any foreign vessel is wrecked in Nigeria, or any articles belonging to, or forming part of, any such vessel, or belonging to, or forming part of, the cargo of any such vessel, are found in Nigeria or are brought into any port within Nigeria, the consular officer of the country to which the vessel, or, in the case of cargo, to which the owner of the cargo, may have belonged, if authorised by any treaty or arrangement with that country, shall, in the absence of the owner and of the master or other agent of the owner, be deemed to be the agent of the owner, so far as it relates to the custody and disposal of the vessel or the articles.

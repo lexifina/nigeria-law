@@ -1,0 +1,1 @@
+305. Ships not to proceed to sea without Load Line Certificate.

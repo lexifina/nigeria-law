@@ -1,0 +1,1 @@
+49. Power of Registrar to dispense with declarations and other evidence.
