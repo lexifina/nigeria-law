@@ -24,7 +24,7 @@ PART II
 
 Functions and powers of the Agency, etc.
 
-6. Functions of the Agency
+6. Functions of the Agency.
 
 7. Powers of the Council.
 
@@ -32,7 +32,7 @@ PART III
 
 Establishment of State Emergency Management Committees, etc.
 
-8. Establishment of State Committeee
+8. Establishment of State Committee.
 
 9. Functions of State Committee.
 
@@ -70,41 +70,25 @@ Miscellaneous
 
 SECTION
 
-20.
+20. Requisition, etc.
 
-Requisition, etc.
+21. Offices and premises of the Agency.
 
-21.
+22. Directives by the President.
 
-Offices and premises of the Agency.
+23. Repeal of Cap. 257 L.F.N. 1990 and saving provisions.
 
-22.
+24. Regulations.
 
-Directives by the President.
+25. Interpretation.
 
-23.
-
-Repeal of Cap. 257 L.F.N. 1990 and saving provisions.
-
-24.
-
-Regulations.
-
-25.
-
-Interpretation.
-
-26.
-
-Short title.
+26. Short title.
 
 SCHEDULE
 
 Supplementary provisions relating to the Council, etc.
 
-An Act to establish a National Emergency Management Agency and a State Emer-
-
-gency Management Committee for each State in the Federation; and to make
+An Act to establish a National Emergency Management Agency and a State Emergency Management Committee for each State in the Federation; and to make
 
 provision for other matters connected therewith.
 
@@ -120,13 +104,9 @@ Establishment, etc., of the National Emergency Management Agency
 
 and the Governing Council
 
-1.
+1. Establishment of the National Emergency Management Agency, etc.
 
-Establishment of the National Emergency Management Agency, etc.
-
-(1) There is hereby established a body to be known as the National Emergency Man-
-
-agement Agency (in this Act referred to as "the Agency").
+(1) There is hereby established a body to be known as the National Emergency Management Agency (in this Act referred to as "the Agency").
 
 (2) The Agency-
 
@@ -134,13 +114,9 @@ agement Agency (in this Act referred to as "the Agency").
 
 (b) may sue and be sued in its corporate name.
 
-2.
+2. Establishment and membership of the Governing Council of the Agency
 
-Establishment and membership of the Governing Council of the Agency
-
-(1) There is hereby established for the management of the Agency a governing coun-
-
-cil (in this Act referred to as "the Council").
+(1) There is hereby established for the management of the Agency a governing council (in this Act referred to as "the Council").
 
 (2) The Council shall consist of-
 
@@ -148,9 +124,7 @@ cil (in this Act referred to as "the Council").
 
 (b) the Secretary to the Government of the Federation;
 
-(c) one representative each of the following Federal Ministries who shall not be
-
-below the rank of a Director, that is-
+(c) one representative each of the following Federal Ministries who shall not be below the rank of a Director, that is-
 
 (i) Aviation;
 
