@@ -1,0 +1,3 @@
+2. Short title
+
+This Act may be cited as the Off-Shore Oil Revenues (Registration of Grants) Act.
