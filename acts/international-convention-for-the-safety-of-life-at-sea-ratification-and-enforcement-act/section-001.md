@@ -1,0 +1,1 @@
+1.22 Chapter XI‐2 and Part A of this Code require Contracting Governments to provide certain information to the International Maritime Organisation and for information to be made available to allow effective communication between Contracting Governments and between company security officers/ship security officers and the port facility security officers.
