@@ -1,0 +1,1 @@
+18. Account and audit The Service shall keep proper accounts and records, and such account shall, not later than six months after the end of each year, be audited by auditors appointed by the Board from the list and in accordance with the guidelines supplied by the Auditor-General for the Federation.

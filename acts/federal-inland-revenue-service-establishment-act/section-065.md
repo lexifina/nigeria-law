@@ -1,0 +1,1 @@
+65. Continuation of Board members Subject to the provisions of this Act, the Executive Chairman of the former Board is deemed to have been transferred to the Service established under this Act in the same capacity.

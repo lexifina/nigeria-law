@@ -1,0 +1,1 @@
+17. Estimates The Service shall cause to be prepared, not later than the 30th day of September in each year, an estimate of its income and expenditure for the succeeding year for the purpose of appropriation by the National Assembly.

@@ -1,0 +1,1 @@
+47. Prosecution The Service shall have powers to employ its own legal officers who shall have pow- ers to prosecute any of the offences under this Act subject to the powers of the Attorney-General ofthe Federation.

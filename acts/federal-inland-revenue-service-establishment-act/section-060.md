@@ -1,0 +1,1 @@
+60. Directive by the Minister The Minister may give to the Service or the Executive Chairman such directives of a general nature or relating generally to matters of policy with regards to the exercise of its or his functions as he may consider necessary and the Service or the Executive Chairman shall comply with the directives or cause them to be complied with.

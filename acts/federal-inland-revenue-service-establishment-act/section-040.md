@@ -1,0 +1,3 @@
+40. Failure to deduct or remit tax Any person who being obliged to deduct any tax under this Act or the laws listed in the First Schedule to this Act, but fails to deduct, or having deducted, fails to pay to the Service within 30 days from the date the amount was deducted or the time the duty to deduct arose, commits an offence and shall, upon conviction, be liable to pay the tax withheld or not remitted in addition to a penalty of 10 percent of the tax withheld or not remitted per annum and interest at the prevailing Central Bank of Nigeria minimum rediscount rate and imprisonment for period of not more than three years.
+
+[First Schedule.]

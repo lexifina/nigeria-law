@@ -1,0 +1,1 @@
+21. Power to borrow The Service may, with the approval of the Minister, borrow by way of loan, overdraft or otherwise from any source such sums as it may require for the performance of its function and meeting of its obligations under this Act.
