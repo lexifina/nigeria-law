@@ -1,0 +1,3 @@
+7. Short title
+
+This Act may be cited as the Venture Capital (Incentives) Act.
