@@ -1,0 +1,1 @@
+21. Forfeiture of property For the avoidance of doubt and without any further assurance than this Act, all the properties of a person convicted of an offence under this Act and shown to be derived or acquired from such economic or financial crime and already the subject of an interim order shall be forfeited to the Federal Government.

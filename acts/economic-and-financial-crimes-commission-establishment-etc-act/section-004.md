@@ -1,0 +1,1 @@
+4. Vacancy in membership Where a vacancy occurs in the membership of the Commission, it shall be filled by the appointment of a successor to hold office for the remainder of the term of office of his predecessor, so however that the successor shall represent the same interest as his predecessor.

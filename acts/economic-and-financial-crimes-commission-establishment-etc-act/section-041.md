@@ -1,0 +1,1 @@
+41. Immunities Subject to the provisions of this Act, an officer of the Commission when investigating or prosecuting a case under this Act, shall have all the powers and immunities of a Police Officer under the Police Act and any other law conferring power on the police, or empowering and protecting law enforcement agencies.

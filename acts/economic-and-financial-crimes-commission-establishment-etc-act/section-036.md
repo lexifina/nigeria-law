@@ -1,0 +1,1 @@
+36. Accounts and audit The Commission shall keep proper accounts in a form, which conforms to accepted commercial standards of its receipts, payments, assets and liabilities and shall submit the accounts annually for auditing by a qualified auditor appointed from the list of auditors and in accordance with the guidelines supplied by the Auditor‐General for the Federation.
