@@ -1,0 +1,1 @@
+13. Exclusion of statutes of limitation The provisions of the Limitation Law of a State or Limitation Act of the Federal Capital Territory, Abuja shall not apply to matters brought before the Court under this Part of this Act.
