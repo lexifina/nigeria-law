@@ -1,0 +1,1 @@
+12. No officer of any Customary Court or other person bound to execute lawful warrants-or orders issued or made in exercise of any jurisdiction conferred by this Act shall be personally liable on account of anything done by him in good faith in the execution of any warrant or order of the court if the person issuing same acted in exercise of lawful authority.

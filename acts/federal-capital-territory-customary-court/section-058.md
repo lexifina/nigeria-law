@@ -1,0 +1,1 @@
+58. Any clerk or member of a Customary Court who knowingly renders a false return of the cases tried or the penalties imposed by such shall be guilty of an offence and shall be liable on conviction to a fine of two-thousand naira or to imprisonment of six months or to both.
