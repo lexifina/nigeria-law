@@ -1,0 +1,1 @@
+34. Ground for decree of nullity of marriage Subject to the following provisions of this Part of this Act, a petition under this Act for nullity of marriage may be based on the ground that the marriage is void, or on the ground that the marriage is voidable at the suit of the petitioner.

@@ -1,0 +1,1 @@
+67. When proceedings finally disposed of Where a decree nisi has been made in any proceedings, for the purpose of this Part of this Act, the proceedings shall not be taken to have been finally disposed of until the de‐ cree nisi has become absolute.

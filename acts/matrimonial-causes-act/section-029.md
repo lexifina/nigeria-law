@@ -1,0 +1,1 @@
+29. No dissolution where petition for nullity before court Where both a petition for a decree of nullity of a marriage and a petition for a decree of dissolution of that marriage are before a court, the court shall not make a decree of dissolution of the marriage unless it has dismissed the petition for a decree of nullity of the marriage.

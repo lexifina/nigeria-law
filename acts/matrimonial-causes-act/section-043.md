@@ -1,0 +1,1 @@
+43. Exercise of joint powers not affected Nothing in this Part shall prevent a wife, during separation under a decree of judicial separation, from joining in the exercise of any power given to herself and her husband jointly.

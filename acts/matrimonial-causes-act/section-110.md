@@ -1,0 +1,1 @@
+110. Costs In proceedings under this Act the court may, subject to rules of court, make such or‐ der as to costs and security for costs, whether by way of interlocutory order or otherwise, as the court thinks just.

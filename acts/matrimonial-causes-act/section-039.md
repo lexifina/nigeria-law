@@ -1,0 +1,1 @@
+39. Grounds for judicial separation Subject to this Part, a petition under this Act by a party to a marriage for a decree of judicial separation may be based on one or more of the facts and matters specified in sec‐ tions 15 (2) and 16 (1) of this Act.

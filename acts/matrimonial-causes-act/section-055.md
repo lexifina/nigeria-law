@@ -1,0 +1,1 @@
+55. Duty of court Save where other provisions in that behalf are made by this Act, the court, upon being satisfied of the existence of any ground in respect of which relief is sought, shall make the appropriate decree.

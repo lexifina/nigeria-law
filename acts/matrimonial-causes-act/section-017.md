@@ -1,0 +1,7 @@
+17. Additional provisions to encourage reconciliation
+
+(1) Where the petitioner alleges that the respondent has behaved in such a way that the petitioner cannot reasonably be expected to live with him but the parties to the mar‐ riage have lived with each other for a period or periods after the date of the occurrence of the final incident relied on by the petitioner and held by the court to support his allega‐ tion, that fact shall be disregarded in determining for the purposes of section 15 (2) (c) of this Act whether the petitioner cannot reasonably be expected to live with the respondent if the length of that period or of those periods together was six months or less.
+
+(2) In considering for the purposes of section 15 (2) of this Act whether the period for which the respondent has deserted the petitioner or the period for which the parties to a marriage have lived apart has been continuous, no account shall be taken of anyone pe‐ riod (not exceeding six months) or of any two or more periods (not exceeding six months in all) during which the parties resumed living with each other, but no period during which the parties lived with each other shall count as part of the period of desertion or of the period for which the parties to the marriage lived apart, as the case may be.
+
+(3) References in this section to the parties to a marriage living with each other shall be construed as references to their living with each other in the same household.

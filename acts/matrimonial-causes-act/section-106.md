@@ -1,0 +1,1 @@
+106. Service of process Service of process of a court under this Act may be effected in or outside the Federa‐ tion in accordance with rules of court, so however that the court, where it thinks it neces‐ sary or expedient to do so, may dispense with service of process.

@@ -1,0 +1,1 @@
+100. Continuance of other pending proceedings Subject to section 101 of this Act, pending proceedings constituting a matrimonial cause, not being proceedings for a decree of dissolution or nullity of marriage or of judi‐ cial separation, shall be deemed to have been instituted and dealt with under this Act and may be continued and dealt with under this Act.

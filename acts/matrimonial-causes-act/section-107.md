@@ -1,0 +1,1 @@
+107. Position of clergy as to re‐marriage A minister of religion shall not be bound to solemnise the marriage of a person whose former marriage has been dissolved, whether in Nigeria or elsewhere, otherwise than by death.

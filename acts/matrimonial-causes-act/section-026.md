@@ -1,0 +1,1 @@
+26. Condonation and connivance Except where section 16 (1) (g) of this Act applies, a decree of dissolution of mar‐ riage shall not be made if the petitioner has condoned or connived at the conduct consti‐ tuting the facts on which the petition is based.

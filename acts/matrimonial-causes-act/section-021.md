@@ -1,0 +1,1 @@
+21. Restriction on finding of non‐consummation The court shall not find that a respondent has wilfully and persistently refused to con‐ summate the marriage unless the court is satisfied that, as at the commencement of the hearing of the petition, the marriage had not been consummated.

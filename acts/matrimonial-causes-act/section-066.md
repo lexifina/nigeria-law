@@ -1,0 +1,1 @@
+66. Rescission of decree nisi in consequence of intervention Where an intervention takes place under this Part of this Act after a decree nisi has been made and it is proved that the petitioner has been guilty of collusion with intent to cause a perversion of justice, or that material facts have not been brought before the court, the court may rescind the decree.

@@ -1,0 +1,1 @@
+48. Agreement for separation An agreement for separation, whether entered into before or after the commencement of this Act, shall not constitute a defence to proceedings under this Act for a decree of restitution of conjugal rights.

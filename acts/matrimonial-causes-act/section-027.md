@@ -1,0 +1,1 @@
+27. Collusion A decree of dissolution of marriage shall not be made if the petitioner, in bringing or prosecuting the proceedings, has been guilty of collusion with intent to cause a perversion of justice.

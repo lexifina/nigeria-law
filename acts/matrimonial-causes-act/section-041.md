@@ -1,0 +1,1 @@
+41. Effect of decree of judicial separation A decree of judicial separation relieves the petitioner from the obligation to cohabit with the other party to the marriage while the decree remains in operation, but, except as provided by this Part, it shall not otherwise affect the marriage or the status, rights and obligations of the parties to the marriage.

@@ -1,0 +1,1 @@
+24. Restriction on finding of insanity A finding in accordance with section 16 (1) (g) of this Act shall not be made unless the court is satisfied that, at the commencement of the hearing of the petition, the respon‐ dent was still confined in an institution referred to in the said section 16 (1) (g) and was unlikely to recover.

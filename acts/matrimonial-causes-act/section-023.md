@@ -1,0 +1,1 @@
+23. Restriction on finding of non‐maintenance A finding in accordance with section 16 (1) (f) of this Act shall not be made unless the court is satisfied that reasonable attempts have been made by the petitioner to enforce the order or agreement under which maintenance was ordered or agreed to be paid.

@@ -1,0 +1,1 @@
+109. Injunctions A court exercising jurisdiction under this Act may grant an injunction, by interlocu‐ tory order or otherwise (including an injunction in aid of the enforcement of a decree), in any case in which it appears to the court to be just or convenient to do so and either un‐ conditionally or upon such terms and conditions as the court thinks just.

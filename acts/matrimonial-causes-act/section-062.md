@@ -1,0 +1,1 @@
+62. Intervention by Attorney‐General on request from court In any proceedings under this Act where the court requests him to do so, the Attor‐ ney‐General of the Federation may intervene in, and contest or argue any question arising in, the proceedings.
