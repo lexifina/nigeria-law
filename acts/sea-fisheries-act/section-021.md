@@ -1,0 +1,1 @@
+21. Navigation of fishing vessel No master of a licensed fishing vessel shall navigate such vessel within one half of a nautical mile of set gear approximately so marked as to be visible from a half mile away.

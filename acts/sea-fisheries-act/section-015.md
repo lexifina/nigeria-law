@@ -1,0 +1,1 @@
+15. Interpretation In these Regulations unless the context otherwise requires- "Minister" means the Minister charged with responsibility for matters relating to fisheries and "Ministry" shall be construed accordingly.

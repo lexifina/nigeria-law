@@ -1,0 +1,1 @@
+6. Issuance of licence The Minister shall be responsible for the issuance in accordance with the provisions of these Regulations, of a licence authorising a vessel to carry on fishing or shrimping purposes in Nigeria's territorial waters.

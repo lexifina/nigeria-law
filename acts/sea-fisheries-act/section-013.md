@@ -1,0 +1,1 @@
+13. Penalty If any person, in furnishing any information for the purposes of these regulations, makes any false statement which he knows to be false in any material particular, that per- son shall be guilty of an offence under the Act and be liable to the penalties prescribed therein.
