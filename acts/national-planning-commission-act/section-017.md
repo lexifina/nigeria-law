@@ -1,0 +1,3 @@
+17. Regulations
+
+The President may make regulations generally for the purpose of giving effect to the provisions of this Act.
