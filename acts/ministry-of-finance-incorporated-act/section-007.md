@@ -1,0 +1,3 @@
+7. Power of Minister to transfer property by order to public offices or authority
+
+The Minister may, by order, vest in any public officer or authority any property, movable or immovable, for the time being vested in the corporation and, upon the coming into operation of any such order, the property to which such order relates shall, without any conveyance, assignment or transfer whatever, vest in such officer or authority for the like title, estate or interest and on the like tenure and for the like purposes as the same was vested or held immediately before the coming into operation of the order.
