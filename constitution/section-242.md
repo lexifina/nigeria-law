@@ -1,0 +1,3 @@
+# 242. Appeals with leave
+(1) Subject to the provisions of section 241 of this Constitution, an appeal shall lie from decisions of the Federal High Court or a High Court to the Court of Appeal with the leave of the Federal High Court or that High Court or the Court of Appeal.
+(2) The Court of Appeal may dispose of any application for leave to appeal from any decision of the Federal High Court or a High Court in respect of any civil or criminal proceedings in which an appeal has been brought to the Federal High Court or a High Court from any other court after consideration of the record of the proceedings, if the Court of Appeal is of opinion that the interests of justice do not require an oral hearing of the application.

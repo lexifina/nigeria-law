@@ -1,0 +1,2 @@
+# 31. Persons deemed to be Nigerian citizens
+For the purposes of this Chapter, a parent or grandparent of a person shall be deemed to be a citizen of Nigeria if at the time of the birth of that person such parent or grandparent would have possessed that status by birth if he had been alive on the date of independence; and in this section, ''the date of independence'' has the meaning assigned to it in Section 25 (2) of this Constitution.

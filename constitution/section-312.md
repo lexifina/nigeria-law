@@ -1,0 +1,3 @@
+# 312. Special provisions in respect of first election
+(1) The electoral commission established for the Federation under any law in force immediately before the date when this section comes into force shall be responsible for performing the functions conferred on the Independent National Electoral Commission established by the provisions of this Constitution.
+(2) Any person who before the coming into force of this Constitution was elected to any elective office mentioned in this Constitution in accordance with the provisions of any law in force immediately before the coming into force of this Constitution shall be deemed to have been duly elected to that office under this Constitution.

@@ -1,0 +1,4 @@
+# 154. Appointment of Chairman and members
+(1) Except in the case of ex officio members or where other provisions are made in this Constitution, the Chairman and members of any of the bodies so established shall, subject to the provisions of this Constitution, be appointed by the President and the appointment shall be subject to confirmation by the Senate.
+(2) In exercising his powers to appoint a person as Chairman or member of the Council of State, the National Defence Council, or the National Security Council, the President shall not be required to obtain the confirmation of the Senate.
+(3) In exercising his powers to appoint a person as Chairman or member of the Independent National Electoral Commission, the National Judicial Service Council, the Federal Judicial Service Commission or the National Population Commission, the President shall consult the Council of State.

@@ -1,0 +1,2 @@
+# 152. Declaration of assets and liabilities, Oath of Special Adviser
+A person appointed as a Special Adviser under section 151 of this Constitution shall not begin to perform the functions of his office until he has declared his assets and liabilities as prescribed in this Constitution and has subsequently taken and subscribed the Oath of Allegiance and the oath of office prescribed in the Seventh Schedule to this Constitution.

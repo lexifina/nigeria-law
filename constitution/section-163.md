@@ -1,0 +1,4 @@
+# 163. Allocation of other revenues
+Where under an Act of the National Assembly, tax or duty is imposed in respect of any of the matters specified in item D of Part II of the Second Schedule to this Constitution, the net proceeds of such tax or duty shall be distributed among the States on the basis of derivation and accordingly—
+(a) where such tax or duty is collected by the Government of a State or other authority of the State, the net proceeds shall be treated as part of the Consolidated Revenue Fund of that State;
+(b) where such tax or duty is collected by the Government of the Federation or other authority of the Federation, there shall be paid to each State at such times as the National Assembly may prescribed a sum equal to the proportion of the net proceeds of such tax or duty that are derived from that State.

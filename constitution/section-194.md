@@ -1,0 +1,2 @@
+# 194. Declaration of assets and liabilities; Oaths of Commissioners Seventh Schedule
+A Commmissioner of the Government of a State shall not enter upon the duties of his office, until and unless it has been confirmed that he has declared his assets and liabilities as prescribed in this Constitution and has subsequently taken and subscribed the Oath of Allegiance and the oath of office prescribed in the Seventh Schedule to this Constitution.

@@ -1,0 +1,2 @@
+# 198. Appointment of Chairmen and members
+Except in the case of ex-officio members or where other provisions are made in this Constitution, the Chairmen and members of any of the bodies so established shall, subject to the provisions of this Constitution, be appointed by the Governor of the State, and the appointment shall be subject to confirmation` by a resolution of the House of Assembly of the State.

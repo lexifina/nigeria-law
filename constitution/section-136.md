@@ -1,0 +1,2 @@
+# 136. Death of President-elect before Oath of Office
+If the person duly elected as President dies before taking and subscribing to the Oath of Allegiance and oath of office, the person elected with him as Vice-President shall be sworn in as President and he shall nominate a new Vice-President who shall be appointed by the new President with the approval by a simple majority of the National Assembly.

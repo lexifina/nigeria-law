@@ -1,0 +1,6 @@
+# 226. Annual report on finances
+(1) The Independent National Electoral Commission shall in every year prepare and submit to the National Assembly a report on the accounts and balance sheet of each political party.
+(2) It shall be the duty of the Commission, in preparing its report under this section, to carry out such investigations as will enable it to form an opinion as to whether proper books of accounts and proper records have been kept by each political party; and if the Commission is of opinion that proper books of accounts have not been kept by a political party, the Commission shall so report.
+(3) Every member of the Commission or its duly authorised agent shall—
+(a) have a right of access at all times to the books and accounts and vouchers of all political parties; and
+(a) be entitled to require from the officers of the parties such information and explanation as he thinks necessary for the performance of his duties under this Constitution, and if the member of the Commission or such agent fails or is unable to obtain all the information and explanation which to the best of his knowledge and belief are necessary for the purposes of the investigations, the Commission shall state that fact in its reports.

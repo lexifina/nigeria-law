@@ -1,0 +1,8 @@
+# 306. Resignation
+(1) Save as otherwise provided in this section, any person who is appointed, elected or otherwise selected to any office established by this Constitution may resign from that office by writing under his hand addressed to the authority or person by whom he was appointed, elected or selected.
+(2) The resignation of any person from any office established by this Constitution shall take effect when the writing signifying the resignation is received by the authority or person to whom it is addressed or by any person authorised by that Buthority or person to receive it.
+(3) The notice of resignation of the President and of the Vice- President shall respectively be addressed to the President of the Senate and to the President.
+(4) On the resignation of the President, the President of the Senate shall forthwith give notice of the resignation to the Speaker of the House of Representatives.
+(5) The notice of resignation of the Governor and of the Deputy Governor of a State shall respectively be addressed to the Speaker of the House of Assembly and the Governor of the State.
+(6) The notice of resignation of the President of the Senate and of the Speaker of the House of Representatives shall in each case be addressed to the Clerk of the National Assembly, and the notice of resignation of the Speaker of a House of Assembly shall be addressed to the Clerk of the House of Assembly of the State.
+(7) The notice of resignation of a member of a legislative house shall be addressed to the President of the Senate or, as the case may require, to the Speaker of the legislative house in question.

@@ -1,0 +1,2 @@
+# 149. Declaration of assets and liabilities, oaths of Ministers
+A Minister of the Government of the Federation shall not enter upon the duties of his office, until and unless he has declared his assets and liabilities as prescribed in this Constitution and has subsequently taken and subscribed the Oath of Allegiance and the oath fo the due execution of the duties of his office prescribed in the Seventh Schedule to this Constitution.

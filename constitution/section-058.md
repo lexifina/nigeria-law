@@ -1,0 +1,6 @@
+# 58. Mode of excer-cising Federal legislative power: general
+(1) The power of the National Assembly to make laws shall be exercised by bills passed by both the Senate and the House of Representatives and, except as otherwise provided by subsection (5) of this section, assented to by the President.
+(2) A bill may originate in either the Senate or the House of Representatives and shall not become law unless it has been passed and, except as otherwise provided by this section and section 59 of this Constitution, assented to in accordance with the provisions of this section.
+(3) Where a bill has been passed by the House in which it originated, it shall be sent to the other House, and it shall be presented to the President for assent when it has been passed by that other House and agreement has been reached between the two Houses on any amendment made on it.
+(4) Where a bill is presented to the President for assent, he shall within thirty days thereof signify that he assents or that he withholds assent.
+(5) Where the President withholds his assent and the bill is again passed by each House by two-thirds majority, the bill shall become law and the assent of the President shall not be required.

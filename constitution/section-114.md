@@ -1,0 +1,3 @@
+# 114. Periodical review of State Constituencies
+(1) The Independent National Electoral Commission shall review the division of every State into constituencies at intervals of not less than ten years, and may alter such constituencies in accordance with the provisions of this section to such extent as it may consider desirable in the light of the review.
+(2) The Independent National Electoral Commission may at any time carry out such a review and alter the constituencies in accordance with the provisions of this section to such extent as it considers necessary in consequence of any alteration of the boundaries of the State or by reason of the holding of a census of the population of Nigeria in pursuance of an Act of National Assembly.

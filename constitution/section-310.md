@@ -1,0 +1,3 @@
+# 310. Staff of legislative houses
+(1) Until the National Assembly or a House of Assembly has exercised its powers to initiate legislation in accordance with the provisions of section 51 or 93 of this Constitution, the Clerk or other staff of a legislative house shall be appointed, as respects each House of the National Assembly by the Federal Civil Service Commission, and as respects a House of Assembly by the State Civil Service Commission.
+(2) In exercising its powers under the provisions of this section, the Federal Civil Service Commission shall consult, as appropriate, the President of the Senate or the Speaker of the House of the Representatives, and a State Civil Service Commission shall consult the Speaker of the House of Assembly of the State.

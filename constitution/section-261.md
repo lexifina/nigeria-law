@@ -1,0 +1,10 @@
+# 261. Appointment of Grand Kadi and Kadis of Sharia Court of Appeal of the Federal Capital Territory, Abuja
+(1) The appointment of a person to the office of the Grand Kadi of the Sharia Court of Appeal of the Federal Capital Territory, Abuja shall be made by the President on the recommendation of the National Judicial Council, subject to confirmation of such appointment by the Senate.
+(2) The appointment of a person to the office of a Kadi of the Sharia Court of Appeal shall be made by the President on the recommendation of the National Judicial Council.
+(3) A person shall not be qualified to hold office as Grand Kadi or Kadi of the Sharia Court of Appeal unless—
+(a) he is a legal practitioner in Nigeria and has been so qualified for a period not less than ten years and has obtained a recognised qualification in Islamic law from an institution acceptable to the National Judicial Council; or
+(b) he has attended and has obtained a recognised qualification in Islamic law from an institution approved by the National Judicial Council and has held the qualification for a period of not less than twelve years; and
+(i) he either has considerable experience in the practice of Islamic law; or
+(ii) he is a distinguished scholar of Islamic law.
+(4) If the office of the Grand Kadi of the Sharia Court of Appeal is vacant or if the person holding the office is for any reason unable to perform the functions of the office, then, until a person has been appointed to and has assumed the functions of that office or until the person holding the office has resumed those functions, the President shall appoint the most senior Kadi from amongst the Kadis of the Sharia Court of Appeal to perform those functions.
+(5) Except on the recommendation of the National Judicial Council, an appointment pursuant to the provisions of subsection (4) of this section shall cease to have effect after the expiration of three months from the date of such appointment and the President shall not re-appoint a person whose appointment has lapsed.

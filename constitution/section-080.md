@@ -1,0 +1,5 @@
+# 80. Establishment of Consolidated Revenue Fund
+(1) All revenues or other moneys raised or received by the Federation (not being revenues or other moneys payable under this Constitution or any Act of the National Assembly into any other public fund of the Federation established for a specific purpose) shall be paid into and form one Consolidated Revenue Fund of the Federation.
+(2) No moneys shall be withdrawn from the Consolidated Revenue Fund of the Federation except to meet expenditure that is charged upon the Fund by this Constitution or where the issue of those moneys has been authorised by an Appropriation Act, Supplementary Appropriation Act or an Act passed in pursuance of section 81 of this Constitution.
+(3) No moneys shall be withdrawn from any public fund of the Federation other than the Consolidated Revenue Fund of the Federation unless the issue of those moneys has been authorised by an Act of the National Assembly.
+(4) No money shall be withdrawn from the Consolidated Revenue Fund or any other public fund of the Federation, except in the manner prescribed by the National Assembly.
