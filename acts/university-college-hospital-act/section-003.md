@@ -1,0 +1,1 @@
+3. All sums received by the hospital authority shall be paid into the account of the hospital and shown in the annual financial accounts of the hospital. No department is allowed to receive fees for services rendered on behalf of the hospital.
