@@ -1,0 +1,2 @@
+# 227. Prohibition of quasi-military organsisation
+No person or association shall retain, organise, train or equip any person or group of persons for the purpose of enabling them to be employed for the use or display of physical force or coercion in promoting any political objective or interest or in such manner as to arouse reasonable apprehension that they are organised and trained or equipped for that purpose.

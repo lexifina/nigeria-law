@@ -1,0 +1,24 @@
+# 36. Right to fair hearing
+(1) In the determination of his civil rights and obligations, including any question or determination by or against any government or authority, a person shall be entitled to a fair hearing within a reasonable time by a court or other tribunal established by law and constituted in such manner as to secure its independence and impartiality.
+(2) Without prejudice to the foregoing provisions of this section, a law shall not be invalidated by reason only that it confers on any government or authority power to determine question arising in the administration of a law that affects or may affect the civil rights and obligations of any person if such law—
+(a) provides for an opportunity for the person whose rights and obligations may be affected to make representations to the administering authority before that authority makes the decision affecting that person; and
+(b) contains no provision making the determination of the administering authority final and conclusive.
+(3) The proceedings of a court or the proceedings of any tribunal relating to the matters mentioned in subsection (1) of this section (including the announcement of decisions of the court or tribunal) shall be held in public.
+(4) Whenever any person is charged with a criminal offence, he shall unless the charge is withdrawn, be entitled to a fair hearing in public within a reasonable time by a court or tribunal:
+Provided that—
+(a) a court or such a tribunal may exclude from its proceedings persons other than parties thereto or their legal practitioners in the interest of defence, public safety, public order, public morality, the welfare of persons who have not attained the age of eighteen years, the protection of the private lives of the parties or to such extent as it may consider necessary by reason of special circumstances in which publicity would be contrary to the interests of justice;
+(b) if in any proceedings before a court or such a tribunal, a Minister of the Government of the Federation or a Commissioner of the Government of a State satisfies the court or tribunal that it would not be in the public interest for any matter to be publicly disclosed, the court or tribunal shall make arrangements for evidence relating to that matter to be heard in private and shall take such other action as may be necessary or expedient to prevent the disclosure of the matter.
+(5) Every person who is charged with a criminal offence shall be presumed to be innocent until he is proved guilty:
+Provided that nothing in this section shall invalidate any law by reason only that the law imposes upon any such person the burden of proving particular facts.
+(6) Every person who is charged with a criminal offence shall be entitled to—
+(a) to be informed promptly in the language that he understands and in detail of the nature of the offence;
+(b) to be given adequate time and facilities for the preparation of his defence;
+(c) to defend himself in person or by a legal practitioner of his own choice;
+(d) to examine in person or by his legal practitioner the witnesses called by the prosecution before any court or tribunal and obtain the attendance and carry out the examination of witnesses to testify on his behalf before the court or the same conditions as those applying to the witnesses called by the prosecution; and
+(e) have, without payment the assistance of an interpreter if he cannot understand the language used at the trial of the offence.
+(7) When any person is tried for any criminal offence, the court shall keep a record of the proceedings and the accused person or any person authorised by him in that behalf shall be entitled to obtain copies of the judgment in the case within seven days of the conclusion of the case.
+(8) No person shall be held to be guilty of a criminal offence on account of any act or omission that did not, at the time it took place, constitute such an offence, and no penalty shall be imposed for any criminal offence heavier than the penalty in force at the time the offence was committed.
+(9) No person who shows that he has been tried by any court of competent jurisdiction or tribunal for a criminal offence and either convicted or acquitted shall again be tried for that offence or for a criminal offence having the same ingredients as that offence save upon the order of a superior court.
+(10) No person who shows that he has been pardoned for a criminal offence shall again be tried for that offence.
+(11) No person who is tried for a criminal offence shall be compelled to give evidence at the trial.
+(12) Subject as otherwise provided by this Constitution, a person shall not be convicted of a criminal offence unless that offence is defined and the penalty therefore is prescribed in a written law; and in this subsection, a written law refers to an Act of the National Assembly or a Law of a State, any subsidiary legislation or instrument under the provisions of a law.

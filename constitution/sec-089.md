@@ -1,0 +1,8 @@
+# 89. Powers as to matters of evidence
+(1) For the purposes of any investigation under section 88 of this Constitution and subject to the provisions thereof, the Senate or the House of Representatives or a committee appointed in accordance with section 65 of this Constitution shall have power —
+(a) to procure all such evidence, written or oral, direct or circumstantial, as it may think necessary or desirable, and to examine all persons as witnesses whose evidence may be material or relevant to the subject matter;
+(b) to require such evidence to be given on oath;
+(c) to summon any person in Nigeria to give evidence at any place or to produce any document or other thing in his possession or under his control, subject to all just exceptions; and
+(d) to issue a warrant to compel the attendance of any person who, after having been summoned to attend, fails, refuses or neglects to do so and does not excuse such failure, refusal or neglect to the satisfaction of the House or the committee in question, and to order him to pay all costs which may have been occasioned in compelling his attendance or by reason of his failure, refusal or neglect to obey the summons, and also to impose such fine as may be prescribed for any failure, refusal or neglect; and any fine so imposed shall be recoverable in the same manner as a fine imposed by a court of law.
+(2) A summons or warrant issued under this section may be served or executed by any member of the Nigeria Police Force or by any person authorised in that behalf by the President of the Senate or the Speaker of the House of Representatives, as the case may require.
+Part II

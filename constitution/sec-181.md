@@ -1,0 +1,3 @@
+# 181. Death, etc. of Governor-elect before oath of office
+If a person duly elected as Governor dies before taking and subscribing the Oath of Allegiance and oath of office, or is unable for any reason whatsoever to be sworn in, the person elected with him as Deputy Governor shall be sworn-in as Governor and he shall nominate a new Deputy Governor who shall be appointed by the Governor with the approval of a simple majority of the House of Assembly of the State.
+(2) Where the person duly elected as Governor and Deputy Governor of a State die or are for any reason unable to assume office before the inauguration of the House of Assembly, the Independent National Electoral Commission shall immediately conduct an election for a Governor and Deputy Governor of the State.

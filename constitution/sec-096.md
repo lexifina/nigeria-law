@@ -1,0 +1,3 @@
+# 96. Quorum
+(1) The quorum of a House of Assembly shall be one-third of all the members of the House.
+(2) If objection is taken by any member of a House of Assembly present that there are present in the House (besides the person presiding) fewer than one-third of all the members of that House and that it is not competent for the House to transact business, and after such interval as may be prescribed in the rules of procedure of the House, the person presiding ascertains that the number of members present is still less than one-third of all the members of the House, he shall adjourn the House.

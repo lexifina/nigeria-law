@@ -1,0 +1,5 @@
+# 38. Right to freedom of thought, conscience and religion
+(1) Every person shall be entitled to freedom of thought, conscience and religion, including freedom to change his religion or belief, and freedom (either alone or in community with others, and in public or in private) to manifest and propagate his religion or belief, in worship, teaching, practice and observance.
+(2) No person attending any place of education shall be required to receive religious instruction or to take part in or attend any religious ceremony or observance if such instruction, ceremony or observance relates to a religion other than his own, or a religion not approved by his parents or guardian.
+(3) No religious community or denomination shall be prevented from providing religious instruction for pupils of that community or denomination in any place of education maintained wholly by that community or denomination.
+(4) Nothing in this section shall entitle any person to form, take part in the activity or be a member of a secret society.

@@ -1,0 +1,2 @@
+# 165. Cost of collection of certain duties
+(1) Each State shall in respect of each financial year pay to the Federation an amount equal to such part of the expenditure incurred by the Federation during that financial year for the purpose of collection of taxes or duties which are wholly or partly payable to the State pursuant to the provisions of this Part of this Chapter or of any Act of the National Assembly as is proportionate to the share of the proceeds of those taxes or duties received by the State in respect of that financial year.

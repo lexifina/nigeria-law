@@ -1,0 +1,4 @@
+# 105. Dissolution and issue of proclamation by Governor
+(1) A House of Assembly shall stand dissolved at the expiration of a period of four years commencing from the date of the first sitting of the House.
+(2) If the Federation is at war in which the territory of Nigeria is physically involved and the President considers that it is not practicable to hold elections, the National Assembly may by resolution extend the period of four years mentioned in subsection (1) of this section from time to time but not beyond a period of six months at any one time.
+(3) Subject to the provisions of this Constitution, the person elected as the Governor of a State shall have power to issue a proclamation for the holding of the first session of the State House of Assembly concerned immediately after his being sworn in or for its dissolution as provided in this section.

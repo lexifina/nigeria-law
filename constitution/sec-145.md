@@ -1,0 +1,2 @@
+# 145. Acting President during temporary absence of President
+Whenever the President transmits to the President of the Senate and the Speaker of the House of Representatives a written declaration that he is proceeding on vacation or that he is otherwise unable to discharge the functions of his office, untill he transmits to them in written declaration to the contrary, such functions shall be discharged by Vice-President as Acting President.

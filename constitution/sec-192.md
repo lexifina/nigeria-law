@@ -1,0 +1,6 @@
+# 192. Commissioners of the State Government
+(1) There shall be such offices of Commissioners of the Government of a State as may be established by the Governor of the State.
+(2) Any appointment to the office of Commissioner of the Government of a State shall, if the nomination of any person to such office is confirmed by the House of Assembly of the State, be made by the Governor of that State and, in making any such appointment the Governor shall conform with the provisions of section 14 (4) of this Constitution.
+(3) Where a member of a House of Assembly or of the National Assembly is appointed as Commissioner of the Government of a State, he shall be deemed to have resigned his membership of the House of Assembly or of the National Assembly on his taking the oath of office as Commissioner.
+(4) No person shall be appointed as a Commissioner of the Government of a State unless he is qualified for election as a member of the House of Assembly of the State.
+(5) An appointment to the office of Commissioner under this section shall be deemed to have been made where no return has been received from the House of Assembly within twenty-one working days of the receipt of nomination, by the House of Assembly.

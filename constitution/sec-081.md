@@ -1,0 +1,7 @@
+# 81. Authorisation of expenditure from Consolidated Revenue Fund
+(1) The President shall cause to be prepared and laid before each House of the National Assembly at any time in each financial year estimates of the revenues and expenditure of the Federation for the next following financial year.
+(2) The heads of expenditure contained in the estimates (other than expenditure charged upon the Consolidated Revenue Fund of the Federation by this Constitution) shall be included in a bill, to be known as an Appropriation Bill, providing for the issue from the Consolidated Revenue Fund of the sums necessary to meet that expenditure and the appropriation of those sums for the purposes specified therein.
+(3) Any amount standing to the credit of the judiciary in the Consolidated Revenue Fund of the Federation shall be paid and disbursed directly to the National Judicial Council for disbursement to the heads of the courts established for the Federation and the States under section 6 of this Constitution.
+(4) If in respect of any financial year it is found that—
+(a) the amount appropriated by the Appropriation Act for any purpose is insufficient; or
+(b) a need has arisen for expenditure for a purpose for which no amount has been appropriated by the Act, a supplementary estimate showing the sums required shall be laid before each House of the National Assembly and the heads of any such expenditure shall be included in a Supplementary Appropriation Bill.

@@ -1,0 +1,2 @@
+# 115. Time when alteration of State Constituencies takes effect
+Where the boundaries of any State constituency established under section 112 of this Constitution are altered in accordance with the provisions of section 114 of this Constitution, that alteration shall come into effect after it has been approved by each House of the National Assembly and after the current life of the House of Assembly.

@@ -1,0 +1,3 @@
+# 28. Dual citizenship
+(1) Subject to the other provisions of this section, a person shall not forfeit forthwith his Nigerian citizenship if, not ebing a citizen of Nigeria by birth, he acquires or retains the citizenship or nationality of a country, other than Nigeria, of which he is not a citizen by birth.
+(2) Any registration of a person as a citizen of Nigeria or the grant of a certificate of naturalisation to a person who is a citizen of a country other than Nigeria at the time of such registration or grant shall, if he is not citizen by birth of that other country, be conditional upon effective renunciation of the citizenship or nationality of that other country within a period of not more than twelve months from the date of such registration or grant.

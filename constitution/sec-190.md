@@ -1,0 +1,2 @@
+# 190. Acting Governor during temporary absence of Governor
+Whenever the Governor transmits to the Speaker of the House of Assembly a written declaration that he is proceeding on vacation or that he is otherwise unable to discharge the functions of his office and until he transmits to the Speaker a written declaration to the contrary such functions shall be discharged by the Deputy Governor as Acting Governor.

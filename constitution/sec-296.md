@@ -1,0 +1,2 @@
+# 296. Interpretation
+In this Chapter, unless the context otherwise requires, "office" when used with reference to the validity of an election to an office includes the office of President of the Federation, Vice-President of the Federation and Governor or Deputy Governor of a State, but does not include the office of President of the Senate, Speaker of the House of Representatives, Speaker of a House of Assembly or any office not established by this Constitution.

@@ -1,0 +1,4 @@
+# 103. Committees
+(1) A House of Assembly may appoint a committee of its members for any special or general purpose as in its opinion would be better regulated and managed by means of such a committee, and may by resolution, regulation or otherwise as it thinks fit delegate any functions exerciseable by it to any such committee.
+(2) The number of members of a committee appointed under this section, their term of office and quorum shall be fixed by the House of Assembly.
+(3) Nothing in this section shall be construed as authorising a House of Assembly to delegate to a committee the power to decide whether a bill shall be passed into Law or to determine any matter which it is empowered to determine by resolution under the provisions of this Constitution, but such a committee of the House may be authorised to make recommendations to the House on any such matter.

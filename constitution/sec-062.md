@@ -1,0 +1,5 @@
+# 62. Committee
+(1) The Senate or the House of Representatives may appoint a committee of its members for such special or general purpose as in its opinion would be better regulated and managed by means of such a committee, and may by resolution, regulation or otherwise, as it thinks fit, delegate any functions exercisable by it to any such committee.
+(2) The number of members of a committee appointed under this section, their terms of office and quorum shall be fixed by the House appointing it.
+(3) The Senate and the House of Representatives shall appoint joint committee on finance consisting of an equal number of persons appointed by each House and may appoint any other joint committee under the provisions of this section.
+(4) Nothing in this section shall be construed as authorising such House to delegate to a committee the power to decide whether a bill shall be passed into law or to determine any matter which it is empowered to determine by resolution under the provisions of this Constitution, but the committee may be authorised to make recommendations to the House on any such matter.

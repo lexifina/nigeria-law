@@ -1,0 +1,3 @@
+# 83. Contingencies Fund
+(1) The National Assembly may by law make provisions for the establishment of a Contingencies Fund for the Federation and for authorising the President, if satisfied that there has arisen an urgent and unforseen need for expenditure for which no other provision exists, to make advances from the Fund to meet the need.
+(2) Where any advance is made in accordance with the provisions of this section, a Supplementary Estimate shall be presented and a Supplementary Appropriation Bill shall be introduced as soon as possible for the purpose of replacing the amount so advanced.

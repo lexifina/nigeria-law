@@ -1,0 +1,5 @@
+# 30. Deprivation of citizenship
+(1) The President may deprive a person, other than a person who is a citizen of Nigeria by birth or by registration, of his citizenship, if he is satisfied that such a person has, within a period of seven years after becoming naturalised, been sentenced to imprisonment for a term of not less than three years.
+(2) The President may deprive a person, other than a person who is a citizen of Nigeria by birth, of his citizenship, if he is satisfied from the records of proceedings of a court of law or other tribunal, or after due inquiry in accordance with regulations made by him, that—
+(a) the person has shown himself by act or speech to be disloyal towards the Federal Republic of Nigeria; or
+(b) the person has, during any war in which Nigeria was engaged unlawfully traded with the enemy or been engaged in or associated with any business that was in the opinion of the President carried on in such a manner as to assist the enemy of Nigeria in that war, or unlawfully communicated with such enemy to the detriment of or with intent to cause damage to the interest of Nigeria.

@@ -1,0 +1,5 @@
+# 120. Establishment of Consolidated Revenue Fund
+(1) All revenues or other moneys raised or received by a State (not being revenues or other moneys payable under this Constitution or any Law of a House of Assembly into any other public fund of the State established for a specific purpose) shall be paid into and form one Consolidated Revenue Fund of the State.
+(2) No moneys shall be withdrawn from the Consolidated Revenue Fund of the State except to meet expenditure that is charged upon the Fund by this Constitution or where the issue of those moneys has been authorised by an Appropriation Law, Supplementary Appropriation Law or Law passed in pursuance of section 121 of this Constitution.
+(3) No moneys shall be withdrawn from any public fund of the State other than the Consolidated Revenue Fund of the State unless the issue of those moneys has been authorised by Law of the House of Assembly of the State.
+(4) No moneys shall be withdrawn from the Consolidated Revenue Fund of the State or any other public fund of the State except as prescribed by the House of Assembly.

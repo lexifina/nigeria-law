@@ -1,0 +1,3 @@
+# 201. Removal of members
+(1) Any person holding any of the offices to which this section applies shall only be removed from that office by the Governor of that State acting on an address supported by two-thirds majority of the House of Assembly of the State praying that he be so removed for inability to discharge the functions of the office (whether arising from infirmity of mind or body or any other cause) or for misconduct.
+(2) This section applies to the offices of the Chairmen and members of the State Civil Service Commission, the State Independent Electoral Commission, and the State Judicial Service Commission.

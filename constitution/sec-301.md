@@ -1,0 +1,5 @@
+# 301. Adaptation of certain references
+Without prejudice to the generality of the provisions of section 299 of this Constitution, in its application to the Federal Capital Territory, Abuja, this Constitution shall be construed as if—
+(a) references to the Governor, Deputy Governor and the executive council of a State (howsoever called) were references to the President, Vice-President and the executive council of the Federation (howsoever called) respectively;
+(b) references to the Chief Judge and Judges of the High Court of a State were references to the Chief Judge and Judges of the High Court, which is established for the Federal Capital Territory, Abuja by the provisions of this Constitution; and
+(c) references to persons, offices and authorities of a State were references to the persons, offices and authorities of the Federation with like status, designations and powers, respectively; and in particular, as if the references to the Attorney-General, Commissioners and the Auditor General for a State were references to the Attorney-General, Ministers and the Auditor-General of the Federation with like status, designations and powers.

@@ -1,0 +1,3 @@
+# 185. Declaration of assets and liabilities: oaths of office of Governor
+(1) A person elected to the office of Governor of a State shall not begin to perform the functions of that office until and unless he has declared his assets and liabilities, he has taken and subscribed the Oath of Allegiance and oath of office prescribed in the Seventh Schedule to this Constitution.
+(2) The Oath of Allegiance and the oath of office shall be administered by the Chief Judge of the State or Grand Khadi of the Sharia Court of Appeal of the State, if any, or President of the Customary Court of Appeal of the State, if any, or the person for the time being respectively appointed to exercise the functions of any of those offices in any State.
