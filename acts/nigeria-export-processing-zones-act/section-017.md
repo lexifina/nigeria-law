@@ -1,0 +1,1 @@
+17. Export of goods from a Zone Export of goods from a Zone to the customs territory shall, except as otherwise pre- scribed by or pursuant to this Act, be subject to the same customs and licensing requirements as apply to goods imported from other countries.
