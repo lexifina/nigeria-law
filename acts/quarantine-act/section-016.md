@@ -1,0 +1,3 @@
+16. Detention and inspection of ships at other places The port health officer may detain any ship for medical inspection at its mooring (not being a mooring station) or its place of discharge or loading and the detention of a ship under these Regulations shall cease as soon as the ship has been inspected by the port health officer or, if such inspection has not commenced within twelve hours after such detention, on the expiration of that period:
+
+Provided that nothing in this regulation shall affect the power of the port health of- ficer to continue the detention of a ship in accordance with paragraph (4) of regulation 15 of these Regulations.

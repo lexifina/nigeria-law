@@ -1,0 +1,1 @@
+13. Restrictions on boarding or leaving ships Until pratique has been granted by the port health officer in pursuance of these Regu- lations, no person other than a pilot, or an authorised officer, shall, without the permis- sion of the port health officer, board or leave the ship and the master shall take all steps necessary to secure compliance with this provision.
