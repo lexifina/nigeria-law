@@ -1,0 +1,5 @@
+16. Procedure after adverse report
+
+(1) Where, after an inspection under section 15 of this Act, a report is received by the appropriate authority that any provision of this Act or of any subsidiary legislation issued thereunder has been infringed, the appropriate authority shall as soon as may be send a copy of the report to the person appearing to the appropriate authority to be in charge of the institution or responsible for examinations to which the report relates requesting that person to make observations on the report to the appropriate authority within such period as may be specified in the request, not being more than sixty days beginning with the date of the request.
+
+(2) After receipt of the observations from the institution concerned, the appropriate authority may issue to such institution directions as to necessary adjustments to be made by the institution concerned to reach prescribed minimum standards and where such institution fails within such time as may be contained in the directions for implementation thereof, the appropriate authority may withdraw recognition for any academic or other award thereafter issued or made by such institution.
