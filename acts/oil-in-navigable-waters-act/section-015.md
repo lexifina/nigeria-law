@@ -1,0 +1,1 @@
+15. Power to grant exemptions The Minister may exempt any vessels or classes of vessels from any of the provisions of this Act or of any regulations made thereunder, either absolutely or subject to such conditions as he thinks fit.
