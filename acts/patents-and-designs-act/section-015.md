@@ -1,0 +1,3 @@
+15. Upon the grant of a patent, the registrar shall issue to the applicant a document in Form 4 which shall bear the relevant number, the name and domicile of the patentee or his successor or assign if any, the dates of the patent application and the grant, the title of the invention and the period of its validity, with reservations as to the rights of third par- ties, the number and date of the application on which a claim of foreign priority is based and the name of the foreign country concerned and where appropriate the name and ad- dress of the true inventor; a copy of the specification and a copy of the relevant drawings and plans, if any, shall be annexed to it.
+
+Registration and publication

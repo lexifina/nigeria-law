@@ -1,0 +1,7 @@
+18. (1) Patents Form No. 5 together with the prescribed fee shall be lodged in the patent office not later than the due date, otherwise the patent will cease. Only one half of such prescribed fees is payable if, and so long as, the patent is endorsed "Licences of Right" - this reduction takes effect in relation to the annual fees first payable after the date of the entry. If the form with the fee is not lodged in the patent office until after that date it cannot be accepted unless application for an extension of time is made on Patents Form No. 6 accompanied by the prescribed surcharge fee for this purpose; extension be- yond six months cannot be obtained.
+
+(2) No reduction of extension fees shall be made in the case of a patent endorsed "Li- cences of Right".
+
+(3) Patents fees shall be paid direct to the patent office by means of money orders, postal orders, banker's draft and banker's cheques, (adhesive stamps shall not be ac- cepted in payment of fees), the prescribed fee must be submitted together with the appro- priate completed patents form; in addition each form or batch of forms shall be accompa- nied by a fee sheet showing details of the form and the amount of the fee. Money orders, etc., shall be made payable to "The Registrar of Patents, Federal Ministry of Trade, Fed- eral Capital Territory, Abuja", and crossed. Patents forms together with the fees and fee sheets may be delivered to the patent office in Abuja either by hand or by registered post.
+
+Assignments

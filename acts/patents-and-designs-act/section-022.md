@@ -1,0 +1,1 @@
+22. Where the name of a person is entered in the register as mortgagee or licensee, such person may on making an application for the purpose on Form 10 have a note entered in the register that he no longer claims to be mortgagee or licensee, as the case may be.

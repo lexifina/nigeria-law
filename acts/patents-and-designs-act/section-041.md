@@ -1,0 +1,1 @@
+41. On completion of the evidence or at such other time as he may see fit, the registrar shall inform the applicant thereof in writing and thereafter the case shall be deemed to stand for the determination of the court.

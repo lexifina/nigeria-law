@@ -1,0 +1,1 @@
+39. Within such time as the registrar may allow, the patentee may lodge evidence in answer and shall deliver to the applicant a copy thereof; and within such time as the Registrar may allow, the applicant may lodge evidence confined to matters strictly in reply and shall deliver to the patentee a copy thereof.

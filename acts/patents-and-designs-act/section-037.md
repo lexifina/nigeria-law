@@ -1,0 +1,1 @@
+37. If the patentee desires to oppose the application, he shall within such time as the registrar may allow, lodge a statement fully setting out the grounds on which the applica- tion is to be opposed and shall deliver to the applicant a copy thereof.
