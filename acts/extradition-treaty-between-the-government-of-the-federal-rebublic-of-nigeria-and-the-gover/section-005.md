@@ -1,0 +1,1 @@
+5. Extradition shall also be granted in respect of a person convicted of but not yet sentenced, or convicted of and sentenced for an offence as contemplated in this article, for the purpose of sentence, or for enforcing such sentence or the remaining portion thereof, as the case may be.

@@ -1,0 +1,1 @@
+2. An offence shall also be an extraditable offence if it consists of attempting or conspiring to commit, aiding, abetting, inducing, counselling or procuring the commission of, or being an accessory before or after the fact to, any offence contemplated in paragraph 1.

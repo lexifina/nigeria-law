@@ -1,0 +1,1 @@
+3. For the purposes of this article, an offence shall be an extraditable offence whether or not the laws of the Contracting States place the offence within the same category of offences or describe the offence by the same terminology.
