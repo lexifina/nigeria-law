@@ -1,0 +1,11 @@
+3. Assistance in arrest of offenders from visiting forces
+
+(1) For the purpose of enabling the service courts and service authorities of a country to which this section applies to exercise more effectively the powers mentioned in section 2 (1) of this Act, the Nigerian Army Council, the Navy Board or the Nigerian Air Council, if so requested by the appropriate authority of that country, may from time to time by general or special orders direct members of the home forces for whom they respectively have responsibilities to arrest any person, being a member of a visiting force of that country, who is alleged to be guilty of an offence punishable under the law of that country, and to hand him over to such service authority of that country as may be designated by or under the orders.
+
+(2) For the purpose of enabling the service courts and service authorities of a country to which this section applies to exercise more effectively the powers mentioned in section 2 (1) of this Act, the Inspector-General of the Nigeria Police, if so requested by the appropriate authority of that country, may from time to time by general or special orders direct members of the Nigeria Police Force to arrest any person, being a member of a visiting force of that country, who is alleged to be guilty of an offence punishable under the law of that country, and to hand him over to such service authority of that country as may be designated by or under the orders:
+
+Provided that, without prejudice to section 10 of this Act, nothing in this subsection shall be construed as enabling any powers of arrest to be conferred on any person which he would not possess apart from this subsection.
+
+(3) Where in pursuance of subsection (1) or (2) of this section a request has been made by the appropriate authority of a country to which this section applies, the Minister may give to the body or person to whom the request was made such directions as the Minister thinks fit for the purpose of securing compliance with that request; and it shall be the duty of that body or person to comply with any such directions:
+
+Provided that the Minister shall not give any directions under this section to the Inspector- General of the Nigeria Police except with the consent or the President.
