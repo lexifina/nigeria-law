@@ -1,0 +1,1 @@
+9. Furniture (including shop and office furniture and fittings, lamp‐standards, lamp shades and garden fur‐ niture) other than furniture of a specialised type unsuit‐ able for domestic use; and floor coverings ................. .

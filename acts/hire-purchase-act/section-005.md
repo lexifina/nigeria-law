@@ -1,0 +1,1 @@
+5.Photographic cameras and photographic enlargers and lenses therefor, projectors and other photographic equipment not designed specifically for industrial, sci‐ entific or commercial use ........................................... .

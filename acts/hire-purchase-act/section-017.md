@@ -1,0 +1,1 @@
+17. Washing machines and washers which are de‐ signed for heating water by electricity or gas but which are not otherwise designed for operation by electricity or gas, including wash boilers and coppers ............................ .
