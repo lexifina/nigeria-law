@@ -1,0 +1,1 @@
+86. Railway or tram way locomotives, rolling‐stock and parts thereof; railway or tram way track fixtures and fittings and parts thereof; mechanical (including electro‐mechanical) traffic signalling equipment of all kinds.
