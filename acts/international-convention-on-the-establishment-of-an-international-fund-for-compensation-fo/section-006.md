@@ -1,0 +1,1 @@
+6. The Assembly of the Fund may decide that, in exceptional cases, compensation in accor- dance with this Convention can be paid even if the owner of the ship has not constituted a fund in accordance with Article V, paragraph 3, of the 1992 Liability Convention. In such case paragraph 4 (e) of this Article applies accordingly.

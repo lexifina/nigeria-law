@@ -1,0 +1,1 @@
+10. to determine which non-Contracting States and which inter-governmental and interna- tional non-governmental organisations shall be admitted to take part, without voting rights, in meetings of the Assembly and subsidiary bodies;

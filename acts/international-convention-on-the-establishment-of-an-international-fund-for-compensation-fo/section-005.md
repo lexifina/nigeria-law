@@ -1,0 +1,1 @@
+5. Where the amount of established claims against the Fund exceeds the aggregate amount of compensation payable under paragraph 4, the amount available shall be distributed in such a manner that the proportion between any established claim and the amount of compensation actually recovered by the claimant under this Convention shall be the same for all claimants.

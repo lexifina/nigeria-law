@@ -1,0 +1,1 @@
+7. The Fund shall, at the request of a Contracting State, use its good offices as necessary to assist that State to secure promptly such personnel, material and services as are necessary to enable the State to take measures to prevent or mitigate pollution damage arising from an incident in respect of which the Fund may be called upon to pay compensation under this Convention.
