@@ -1,0 +1,1 @@
+417. Actions stayed on winding‐up order If a winding‐up order is made or a provisional liquidator is appointed, no action or proceeding shall be proceeded with or commenced against the company except by leave of the court given on such terms as the court may impose.

@@ -1,0 +1,1 @@
+18. Right to form a company As from the commencement of this Act, any two or more persons may form and incorporate a company by complying with the requirements of this Act in respect of registration of such company.

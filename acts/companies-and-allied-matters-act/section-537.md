@@ -1,0 +1,1 @@
+537. Definition of "arrangement" In this Part of this Act, the expression "arrangement" means any change in the rights or liabilities of members, debenture holders or creditors of a company or any class of them or in the regulation of a company, other than a change effected under any other provision of this Act or by the unanimous agreement of all parties affected thereby.

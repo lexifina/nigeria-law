@@ -1,0 +1,1 @@
+388. Power of the court to appoint official receiver for debenture holders and others Where an application is made to the court to appoint a receiver on behalf of the debenture holder or other creditors of a company which is being wound up by the court, an official receiver may be appointed.

@@ -1,0 +1,7 @@
+474. Appointment of committee of inspection
+
+(1) The creditors at the meeting to be held in pursuance of section 472 of this Act or at any subsequent meeting may, if they think fit, appoint a committee of inspection consisting of not more than five persons, and if such a committee is appointed, the company may, either at the meeting at which the resolution for voluntary winding up is passed or at any time subsequently in general meeting, appoint such number of persons as they think fit to act as members of the committee not exceeding five in number:
+
+Provided that the creditors may, if they think fit, resolve that all or any of the persons so appointed by the company shall not be members of the committee of inspection, and if the creditors so resolve, the persons mentioned in the resolution shall not, unless the court otherwise directs, be qualified to act as members of the committee, and on any application to the court under this provision the court may, if it thinks fit, appoint other persons to act as such members in place of the persons mentioned in the resolution.
+
+(2) Subject to the provisions of this section and to general rules made under this Act, the provisions of section 434 of this Act (except subsection (1) of this section), shall apply with respect to a committee of inspection appointed under this section as they apply with respect to a committee of inspection appointed in a winding up by the court.

@@ -1,0 +1,1 @@
+446. Adjustment of rights of contributories The court shall adjust the rights of the contributories among themselves, and distribute any surplus among the persons entitled thereto.

@@ -1,0 +1,1 @@
+475. Fixing of liquidators' remuneration The committee of inspection, or if there is no such committee, the creditors, may fix the remuneration to be paid to the liquidator or liquidators.

@@ -1,0 +1,1 @@
+33. Articles for regulating companies There shall be registered, with the memorandum of association, articles of association signed by the subscribers to the memorandum of association, and prescribing regulations for the company.

@@ -1,0 +1,1 @@
+181. Advertisement of appointment of receiver and manager Where a receiver or a receiver and manager is appointed by the court, advertisement to this effect shall be made by the receiver or the receiver and manager in the Gazette and in two daily newspapers.

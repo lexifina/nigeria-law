@@ -1,0 +1,1 @@
+598. Alteration of provisions of the constitution Subject to sections 593 and 594 of this Part of this Act, an association whose trustees are incorporated under this Part of this Act may alter its constitution by a resolution passed by a simple majority of its members and approved by the Commission.

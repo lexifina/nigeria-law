@@ -1,0 +1,43 @@
+338. Meaning of "holding company", "subsidiary" and "wholly‐owned subsidiary"
+
+(1) Subject to subsection (4) of this section, a company shall for the purposes of this Act be deemed to be a subsidiary of another company if‐
+
+(a) the company‐
+
+(i) is a member of it and controls the composition of its board of directors; or
+
+(ii) holds more than half in nominal value of its equity share capital; or
+
+(b) the first‐mentioned company is subsidiary of any company which is that other's subsidiary.
+
+(2) For the purposes of subsection (1) of this section, the composition of the board of directors of a company shall be deemed to be controlled by another company if that other company by the exercise of some power, without the consent or concurrence of any other person, can appoint or remove the holders of all or majority of the directors.
+
+(3) For purposes of subsection (2) of this section, the other company shall be deemed to have power to appoint a director with respect to which any of the following conditions is satisfied that‐
+
+(a) a person cannot be appointed to it without the exercise in his favour by the other company of such power as is mentioned in this section; or
+
+(b) the appointment of a person to the directorship follows necessarily from his appointment as director of the other company; or
+
+(c) the directorship is held by the other company itself or by a subsidiary of it.
+
+(4) In determining whether one company is a subsidiary of another‐
+
+(a) any shares held or power exercisable by the other in a fiduciary capacity shall be treated as not held or exercisable by it;
+
+(b) subject to paragraphs (c) and (d) of this subsection, any shares held or power exercisable‐
+
+(i) by any person as nominee for the other (except where the other is concerned only in a fiduciary capacity); or
+
+(ii) by, or by a nominee for, a subsidiary or the other (not being a subsidiary which is concerned only in a fiduciary capacity), shall be treated as held or exercisable by the other;
+
+(c) any shares held or power exercisable by any person by virtue of the provisions of any debentures of the first‐ mentioned company or of a trust deed for securing any issue of such debentures shall be disregarded;
+
+(d) any shares held or power exercisable by, or by a nominee for, the other or its subsidiary (not being held or exercisable as mentioned in paragraph (c) of this subsection), shall be treated as not held or exercisable by the other, if the ordinary business of the other or its subsidiary (as the case may be) includes the lending of money and the shares are held or the power is exercisable as above mentioned by way of security only for the purposes of a transaction entered into in the ordinary course of that business.
+
+(5) For the purposes of this Act‐
+
+(a) a company shall be deemed to be the holding company of another, if the other is its subsidiary; and
+
+(b) a body corporate shall be deemed to be the wholly‐owned subsidiary of another, if it has no member except that other and that other's wholly owned subsidiaries are its or their nominees.
+
+(6) In this section, "company" includes any body corporate.

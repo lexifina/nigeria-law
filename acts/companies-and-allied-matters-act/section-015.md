@@ -1,0 +1,1 @@
+15. Annual report The Commission shall, not later than 30 June in each year, submit to the President a report on the activities of the Commission during the immediate preceding year, and shall include in such report the audited accounts of the Commission.

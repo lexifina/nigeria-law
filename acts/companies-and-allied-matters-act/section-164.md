@@ -1,0 +1,1 @@
+164. Re‐issue of shares acquired Where shares in a company are redeemed, purchased, acquired or forfeited, such shares shall, unless the company by alteration of its articles of association cancels the shares, be available for re‐issue by the company.

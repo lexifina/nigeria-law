@@ -1,0 +1,7 @@
+528. Investment of surplus funds in government securities, etc.
+
+(1) If the cash balance standing to the credit of the companies liquidation account is in excess of the amount which in the opinion of the Commission is required for the time being to answer demands in respect of companies' estates, the Commission shall notify the excess to the Accountant‐General of the Federation and the Accountant‐ General of the Federation may invest the excess or any part thereof, in Government securities, to be placed to the credit of such account as he may deem fit in the circumstances.
+
+(2) If any part of the money so invested is, in the opinion of the Commission, required to answer any demands in respect of companies' estates, the Commission shall notify to the Accountant‐General of the Federation the amount so required, and the Accountant‐General of the Federation shall thereupon repay to the Commission such sum as may be required to the credit of the companies liquidation account, and for that purpose may direct the sale of such part of the securities as may be necessary.
+
+(3) The dividends on investments under this section shall be paid to such account as the Accountant‐General of the Federation may direct, and regard shall be had to the amount thus derived in fixing the fees payable in respect of proceedings in the winding up of companies.

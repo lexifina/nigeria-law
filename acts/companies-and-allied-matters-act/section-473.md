@@ -1,0 +1,7 @@
+473. Appointment of liquidator and cesser of directors' powers
+
+(1) The creditors and the company at their respective meetings mentioned in section 472 of this Act may nominate a person to be liquidator for the purpose of winding up the affairs and distributing the assets of the company, and if the creditors and the company nominate different persons, the person nominated by the creditors shall be liquidator, and if no person is nominated by the creditors the person if any, nominated by the company, shall be liquidator:
+
+Provided that in the case of different persons being nominated, any director, member or creditor of the company may, within seven days after the date on which the nomination was made by the creditors, apply to the court for an order directing that the persons nominated as liquidator by the company shall be liquidator instead of or jointly with the person nominated by the creditors, or appointing some other person to be liquidator instead of the person appointed by the creditors.
+
+(2) On the appointment of a liquidator, all the powers of the directors shall cease, except so far as the committee of inspection, or if there is no such committee, the creditors, sanction the continuance thereof.

@@ -1,0 +1,3 @@
+460. Effect of voluntary winding up on business, etc., of company In case of voluntary winding up, the company shall, from the commencement of the winding up, cease to carry on its business, except so far as may be required for the beneficial winding up thereof:
+
+Provided that the corporate state and corporate powers of the company shall, notwithstanding anything to the contrary in its articles, continue until it is dissolved.

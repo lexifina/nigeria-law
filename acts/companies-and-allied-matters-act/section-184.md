@@ -1,0 +1,37 @@
+184. Contents of debenture trust deed
+
+(1) Every debenture trust deed, whether required by section 183 of this Act or not, shall state‐
+
+(a) the maximum sum which the company may raise by issuing debentures of the same class;
+
+(b) the maximum discount which may be allowed on the issue or re‐issue of the debentures, and the maximum premium at which the debentures may be made redeemable;
+
+(c) the nature of any assets over which a mortgage, charge or security is created by the trust deed in favour of the trustee for the benefit of the debenture holders equally, and except where such a charge is a floating charge or a general floating charge, the identity of the assets subject to it;
+
+(d) the nature of any assets over which a mortgage, charge or security has been or will be created in favour of any person other than the trustee for the benefit of the debenture holders equally, and except where such a charge is a floating charge or a general floating charge, the identity of the assets subject to it;
+
+(e) whether the company has created or will create any mortgage, charge or security for the benefit of some, but not all, of the holders of debentures issued under the trust deed;
+
+(f)any prohibition or restriction on the power of the company to issue debentures or to create mortgages, charges or any security on any of its assets ranking in priority to, or equally with the debentures issued under the trust deed;
+
+(g) whether the company shall have power to acquire debentures issued under the trust deed before the date of their redemption and to re‐issue the debentures;
+
+(h) the rate of and the dates on which interest on the debentures issued under the trust deed shall be paid and the manner in which payment may be made;
+
+(i) the date or dates on which the principal or the debentures issued under the trust deed shall be repaid, and unless the whole principal is to be repaid to all the debenture holders at the same time, the manner in which redemption shall be effected, whether by the payment of equal instalments of principal in respect of each debenture, or by the selection of debentures for redemption by the company, or by drawing, ballot, or otherwise;
+
+(j)in the case of convertible debentures, the dates and terms on which the debentures may be converted into shares and the amounts which may be credited as paid up on those shares in right of the debentures held by them;
+
+(k) the circumstances in which the debenture holders shall be entitled to realise any mortgage, charge or security invested in the trustee or any other person for their benefit (other than the circumstances in which they are entitled to do so by this Act);
+
+(I) the powers of the company and the trustee to call meetings of the debenture holders and the rights of debenture holders to require the company or the trustee to call such meetings;
+
+(m) whether the rights of debenture holders may be altered or abrogated and if so, the conditions which must be fulfilled, and the procedure which must be followed, to effect such an alteration or abrogation; and
+
+(n) the amount or rate of remuneration to be paid to the trustee and the period for which it shall be paid, and whether it shall be paid in priority to the principal, interest and costs in respect of debentures issued under the trust deed.
+
+(2) If debentures are issued without a covering debenture trust deed being executed, the statements required by subsection (1) of his section shall be included in each debenture or in a note forming part of the same document or endorsed thereon, and in applying that subsection references therein to "the debenture trust deed" shall be construed as references to all or any of the debentures of the same class.
+
+(3) Subsection (2) of this section shall not apply if the debenture is the only debenture of the class to which it belongs which has been or may be issued, and the rights of the debenture holder may not be altered or abrogated without his consent.
+
+(4) Any director who issues a debenture in violation of the provisions of this section shall be guilty of an offence.

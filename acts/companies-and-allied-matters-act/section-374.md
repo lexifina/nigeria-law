@@ -1,0 +1,1 @@
+374. Time for completion of annual return The annual return shall be completed within 42 days after the annual general meeting for the year, whether or not that meeting is the first or only ordinary general meeting of the company in that year, and the company shall forthwith forward to the Commission a copy signed both by a director and by the secretary of the company.

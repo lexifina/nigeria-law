@@ -1,0 +1,9 @@
+362. Removal of auditors
+
+(1) A company may by ordinary resolution remove an auditor before the expiration of his term of office, notwithstanding anything in any agreement between it and him.
+
+(2) Where a resolution removing an auditor is passed at a general meeting of a company, the company shall within
+
+14 days give notice of that fact in the prescribed form to the Commission and if a company fails to give the notice required by this subsection, the company and every officer of it who is in default shall be guilty of an offence and liable to a daily default fine of N100.
+
+(3) Nothing in this section shall be taken as depriving a person removed under it of compensation or damages payable to him in respect of the termination of his appointment as auditor or of any appointment terminating with that as auditor.

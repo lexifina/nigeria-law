@@ -1,0 +1,3 @@
+11. Service in the Commission to be pensionable Service in the Commission shall be approved service for the purpose of the Pensions Act and accordingly, officers and other persons employed in the Commission shall in respect of their service in the Commission be entitled to pensions, gratuities and other retirement benefits enjoyed by persons holding equivalent grades in the public service of the Federation, so however that nothing in this Act shall prevent the appointment of a person to any office on terms which preclude the grant of a pension and gratuity in respect of that office.
+
+[Cap. P4.]

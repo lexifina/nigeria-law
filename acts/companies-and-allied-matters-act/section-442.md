@@ -1,0 +1,5 @@
+442. Power of court to make calls
+
+(1) The court may, at any time after making a winding‐up order, and either before or after it has ascertained the sufficiency of the assets of the company, make calls on all or any of the contributories for the time being settled on the list of the contributories to the extent of their liability, for payment of any money which the court considers necessary to satisfy the debts and liabilities of the company, and the costs, charges and expenses of winding up, and for the adjustment of the rights of the contributories among themselves, and make an order for payment of any calls so made.
+
+(2) In making a call under this section, the court shall take into consideration the probability that some of the contributories may fail, wholly or partially to pay the call.

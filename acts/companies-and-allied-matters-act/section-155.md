@@ -1,0 +1,13 @@
+155. Transmission of shares
+
+(1) In case of the death of a member, the survivor or survivors where the deceased was a joint holder, or the legal personal representative of the deceased where he was a sole holder, shall be the only persons recognised by the company as having any title to his interest in the shares; but nothing in this section shall release the estate of a deceased joint holder from any liability in respect of any share which had been jointly held by him with other persons.
+
+(2) Any person becoming entitled to a share in consequence of the death or bankruptcy of a member may, upon such evidence being produced as may, from time to time, properly be required by the directors and subject as hereafter provided in this section, elect either to be registered himself as holder of the share, or to have some person nominated by him registered as the transferee of the share; but the company shall, in either case, have the same right to decline or suspend registration as they would have had in the case of a transfer of the share by that member before his death or bankruptcy, as the case may be.
+
+(3) If the person so becoming entitled elects to be registered himself, he shall deliver or send to the company a notice in writing signed by him stating that he so elects and if he elects to have another person registered, he shall testify his election by executing to that person a transfer of the share.
+
+(4) All the limitations, restrictions and provisions of this Act and the company's articles relating to the rights to transfer and the registration of transfers of share, shall be applicable to any such notice or transfer as mentioned in subsection (3) of this section as if the death or bankruptcy of the member had not occurred and the notice or transfer were a transfer signed by that member.
+
+(5) A person becoming entitled to a share by reason of the death or bankruptcy of the holder, shall be entitled to the same dividends and other advantages to which he would be entitled if he were the registered holder of the share, except that he shall not, unless the articles otherwise provide, before being registered as a member in respect of the share, be entitled in respect of it to exercise any right conferred by membership in relation to meetings of the company:
+
+Provided that the directors may at any time give notice requiring any such person to elect either to be registered himself or to transfer the share, and if the notice is not complied with within 90 days the directors may thereafter withhold payment of all dividends, bonuses or other moneys payable in respect of the share until the requirements of the notice have been complied with.

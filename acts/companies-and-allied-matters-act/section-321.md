@@ -1,0 +1,5 @@
+321. Power to bring civil proceedings on company's behalf
+
+(1) If, from any report made under section 320 of this Act it appears to the Commission that any civil proceedings ought in the public interest to be brought by the company or any body corporate, the Commission may itself bring such proceedings in the name and on behalf of the company or the body corporate.
+
+(2) The Commission shall indemnify the body corporate against any costs or expenses incurred by it in or in connection with proceedings brought under this section; and any costs or expenses so incurred shall, if not otherwise recoverable, be defrayed out of the Consolidated Revenue Fund.

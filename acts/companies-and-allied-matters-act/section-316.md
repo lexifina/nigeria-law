@@ -1,0 +1,5 @@
+316. Inspectors' powers during investigation
+
+(1) If an inspector appointed under section 314 or 315 of this Act to investigate the affairs of a company thinks it necessary for the purposes of his investigation to investigate also the affairs of another body corporate which is or at any relevant time has been the company's subsidiary or holding company, or a subsidiary of its holding company or a holding company of its subsidiary, he shall report on the affairs of the other body corporate so far as he thinks that the results of his investigation of its affairs are relevant to the investigation of the affairs of the company first mentioned above.
+
+(2) An inspector appointed under either section 314 or 315 of this Act may at any time in the course of his investigation, without the necessity of making an interim report, inform the Commission of matters coming to his knowledge as a result of the investigation tending to show that an offence has been committed.

@@ -1,0 +1,7 @@
+348. Penalty for laying or delivering defective financial statements
+
+(1) If any financial statements of a company (other than its group financial statement) of which a copy is laid before the shareholders in general meeting or delivered to the Commission do not comply with the requirement of this Act as to the matters to be included in, or in a note to, those financial statements, every person who at the time when the copy is laid or delivered is a director of the company shall be guilty of an offence and in respect of each offence, liable to a fine of N100.
+
+(2) If any group financial statements of which a copy is laid before a company in a general meeting or delivered to the Commission do not comply with section 345 (4) and (5) or section 346 of this Act and with the other requirements of this Act as to the matters to be included in or in a note to those financial statements, every person who at the time when the copy was so laid or delivered was a director of the company shall be guilty of an offence and liable to a fine of N250.
+
+(3) In proceedings against a person for an offence under this section, it shall be a defence for him to prove that he took all reasonable steps for securing compliance with the requirements in question.

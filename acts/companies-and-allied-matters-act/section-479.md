@@ -1,0 +1,1 @@
+479. Provisions applicable to every voluntary winding up The provisions following, that is to say, sections 480 to 485 of this Act, shall apply to every voluntary winding up, whether a members' or a creditors' winding up.

@@ -1,0 +1,1 @@
+463. Provisions applicable to a members' voluntary winding‐up The provisions following, that is to say, sections 464 to 470 of this Act, shall, subject to the alternative provision in section 469 of this Act, apply in relation to a members' voluntary winding up.

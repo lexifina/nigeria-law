@@ -1,0 +1,1 @@
+482. Power of court to appoint, etc., liquidator If, in any voluntary winding up, there is no liquidator acting, the court may appoint a liquidator and in any case the court may, on cause shown, remove a liquidator and appoint another liquidator.

@@ -1,0 +1,1 @@
+281. Multiple directorships The fact that a person holds more than one directorship shall not derogate from his fiduciary duties to each company, including a duty not to use the property, opportunity or information obtained in the course of the management of one company for the benefit of the other company, or to his own or other person's advantage.

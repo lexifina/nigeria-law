@@ -1,0 +1,7 @@
+283. Legal position of directors
+
+(1) Directors are trustees of the company's moneys, properties and their powers and as such must account for all the moneys over which they exercise control and shall refund any moneys improperly paid away, and shall exercise their powers honestly in the interest of the company and all the shareholders, and not in their own or sectional interests.
+
+(2) A director may, when acting within his authority and the powers of the company, be regarded as agents of the company under Part III of this Act.
+
+Property transactions by directors

@@ -1,0 +1,1 @@
+600. Changes in contravention of certain provisions of this Part of this Act Any change or alterations purported to be made in contravention of section 597, 598 or 599 of this Part of this Act shall be void.

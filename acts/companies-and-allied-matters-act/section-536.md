@@ -1,0 +1,3 @@
+536. Provisions of this Part to be cumulative The provisions of this Part of this Act with respect to unregistered companies shall be in addition to and not in restriction of any provisions hereinbefore in this Act contained with respect to winding up companies by the court, and the court or liquidator may exercise any powers to do any act in the case of unregistered companies which might be exercised or done by it or him in winding up companies formed and registered under this Act; but an unregistered company shall not, except in the event of its being wound up, be deemed to be a company under this Act, and then only to the extent provided by this Part of this Act.
+
+PART XVI Arrangements and compromise

@@ -1,0 +1,5 @@
+289. Special resolution of limited company making liability of directors unlimited
+
+(1) A limited company, if so authorised by its articles, may, by special resolution, alter its memorandum so as to render unlimited the liability of its directors or managers, or of any managing director.
+
+(2) Upon the passing of any such special resolution, the provisions of it shall be as valid as if they had been originally contained in the memorandum.

@@ -1,0 +1,11 @@
+67. When provision exempting, etc., officer from liability to the company is void
+
+(1) Any provision, whether contained in the articles of the company or in any contract with a company or otherwise, for exempting any officer of the company or any person (whether an officer of the company or not) employed by the company as auditor from, or indemnifying him against any liability which by virtue of any rule of law would otherwise attach to him in respect of any negligence, default, or breach of trust of which he may be guilty in relation to the company, shall be void.
+
+(2) Notwithstanding the provisions of subsection (1) of this section‐
+
+(a) a person shall not be deprived of any exemption or right to be indemnified in respect of anything done or omitted to be done by him while any such provision as mentioned in that subsection was in force; and
+
+(b) a company may, in pursuance of any such provision as mentioned in subsection (1) of this section, indemnify any such officer or auditor against any liability incurred by him in defending any proceedings, whether civil or criminal, in which judgment is given in his favour or in which he is acquitted or in connection with any application under section 641 of this Act in which relief is granted to him by the court.
+
+Constructive notice of registered documents

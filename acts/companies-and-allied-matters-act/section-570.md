@@ -1,0 +1,1 @@
+570. Establishment of business names' registry in each State There shall be established in each State of the Federation, a register office of business names where there shall be kept a register in the prescribed form in which shall be entered such matters as are required by this Act or any regulation made thereunder to be entered in it.

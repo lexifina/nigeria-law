@@ -1,0 +1,1 @@
+12. Fund of the Commission The Commission shall establish a fund which shall consist of such sums as may be allocated to it by the Federal Government and such other funds as may accrue to it in the discharge of its functions.

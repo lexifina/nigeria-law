@@ -1,0 +1,3 @@
+70. Liability of company not affected by fraud or forgery of officer Where, in accordance with sections 65 to 69 of this Act, a company would be liable to a third party for the acts of any officer or agent, the company shall, except where there is collusion between the officer or agent and the third party, be liable notwithstanding that the officer or agent has acted fraudulently or forged a document purporting to be sealed by or signed on behalf of the company.
+
+Company's contracts

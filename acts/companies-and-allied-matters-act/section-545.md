@@ -1,0 +1,3 @@
+545. Application of Act to unlimited companies registered under former enactments This Act shall apply to every unlimited company registered as a limited company in pursuance of section 52 of the Companies Act, 1968 or of any enactment replaced by that section, as the case may be, in the same manner as it applies to an unlimited company registered in pursuance of this Act as a limited company:
+
+[1968 No. 51.] Provided that reference, express or implied, to the date of registration shall be construed as a reference to the date at which the company was registered as a limited company under the said section 52 or any enactment replaced by that section, as the case may be.

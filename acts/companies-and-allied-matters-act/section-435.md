@@ -1,0 +1,1 @@
+435. Powers where no committee of inspection is appointed Where, in the case of winding up, there is no committee of inspection, the Commission may, on the application of the liquidator, if he thinks fit, do any act or thing or give any direction or permission which is by this Act authorised or required to be done or given by the committee.

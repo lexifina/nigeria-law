@@ -1,0 +1,1 @@
+602. Exercise of powers of trustee The powers vested in the trustees by or under this Act shall be exercised subject to the directions of the association, or of the councilor governing body appointed under section 601 of this Part of this Act, as the case may be.

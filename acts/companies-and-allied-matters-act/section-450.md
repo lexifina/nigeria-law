@@ -1,0 +1,23 @@
+450. Power to order public examination of promoters, etc.
+
+(1) Where an order is made for winding up a company by the court and the official receiver makes a further report under this Act stating that in his opinion a fraud has been committed by any person in the promotion or formation of the company, or by any director or other officer of the company in relation to the company since its formation, the court may, after consideration of the report, direct that any person who has taken any part in the promotion or formation of the company, or has been a director or officer of the company, shall attend before the court on a day appointed by the court for that purpose, and be publicly examined as to the promotion or formation or the conduct of the business of the company, or as to his conduct and dealing as director or officer thereof.
+
+(2) The official receiver shall take part in the examination, and for that purpose may, if specially authorised by the Commission in that behalf, employ a legal practitioner.
+
+(3) The liquidator, where the official receiver is not the liquidator, and any creditor or contributory, may also take part in the examination, either personally or by a legal practitioner.
+
+(4) The court may put such questions to the person examined as the court thinks fit.
+
+(5) The person examined shall be examined on oath, and shall answer all such questions as the court may put or allow to be put to him.
+
+(6) A person ordered to be examined under this section shall at his own cost, before his examination, be furnished with a copy of the official receiver's report, and may at his own cost employ a legal practitioner who shall be at liberty to put to him such questions as the court may deem just for the purpose of enabling him to explain or qualify any answers given by him:
+
+Provided that if any such person applies to the court to be exculpated from any charges made or suggested against him, it shall be the duty of the official receiver to appear on the hearing of the application and call the attention of the court to any matters which appear to the official receiver to be relevant, and if the court after hearing any evidence given or witnesses called by the official receiver, grants the application, the court may allow the applicant such costs as in its discretion it may think fit.
+
+(7) Notes of the examination shall be taken down in writing, and shall be read over to or by, and signed by, the person examined, and may thereafter be used in evidence against him, and shall be open to the inspection of any creditor or contributory at all reasonable times.
+
+(8) The Court may, if it thinks fit, adjourn the examination from time to time.
+
+(9) An examination under this section may, if the court so directs, and subject to general rules made under section
+
+453 of this Act, be held before any magistrate, and the powers of the court under this section as to the conduct of the examination but not as to costs, may be exercised by the magistrate before whom the examination is held.

@@ -1,0 +1,1 @@
+4. Remuneration and allowance Members of the Commission appointed under section 2 (a), (b), (c), (d), (e), (f), (g) and (h) shall be paid such remuneration and allowances as the President may, from time to time, direct.
