@@ -1,23 +1,47 @@
-24. Dissolution of the Nigerian Marketing Association and transfer of certain assets
+24. Establishment of the National Institute of Marketing of Nigeria.
 
-and liabilities
+Members of the Institute.
 
-(1) The body known and referred to as the Nigerian Marketing Association or any
+Election of President and Vice-President of the Institute.
 
-other organisation by whatsoever name called purporting to be performing the same function is hereby consequentially dissolved.
+Council of the Institute.
 
-(2) Accordingly, all the assets and liabilities held or incurred immediately before the
+Power of the Council.
 
-commencement of this Act by or on behalf of the Association or any other related body
+Fund of the Institute.
 
-shall, by virtue of this Act, and without further assurance, vest in the Institute and be held
+Accounts, etc.
 
-by it for the purposes of the Institute.
+Appointment of Registrar, etc. and preparation of the register.
 
-(3) The provisions of the Second Schedule of this Act, shall have effect with respect
+Publication of register and list of corrections.
 
-to matters arising from the transfer by this section to the Institute of the property of the
+Registration of Marketers.
 
-Association and with respect to the other matters mentioned therein.
+Approval of Qualifications.
 
-[Second Schedule.]
+Supervision of Instruc"tions and examinations leading to approved qualifications.
+
+Establishment of Disciplinary Tribunal and Investigating Panel.
+
+Penalties for unprofessional conducts, etc.
+
+Application of the Act to un-enrolled persons.
+
+When persons are deemed to practice as marketers.
+
+Rules as to practices, fees, etc.
+
+Confirmation of rules by the Institute.
+
+Provisions oflibrary facilities, etc.
+
+Offences and Penalties.
+
+The Body of Fellows of the Institute.
+
+Powers of the Minister to give directives to the Council Regulations Dissolution of the Nigerian Marketing Associauon and transfer of certain assets and liabilities.
+
+Interpretano: ~.
+
+Short Title SCHEDUU''''
