@@ -1,0 +1,1 @@
+4. Management of privatised enterprises A privatised enterprise which requires participation by strategic investors may be managed by the strategic investors as from the effective date of the privatisation on such terms and conditions as may be agreed upon.

@@ -1,0 +1,1 @@
+7. Annual report on privatisation and commercialisation of public enterprises The Council shall prepare and submit to the President not later than 30 June in each year, a report in such form as the President may direct on the privatisation and commer- cialisation of public enterprises during the immediately preceding year.
