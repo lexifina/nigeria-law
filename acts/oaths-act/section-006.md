@@ -1,0 +1,1 @@
+6. Place and date of oath Every commissioner for oaths or notary public before whom any oath or affidavit is taken or made under this Act shall state truly in the jurat or attestation at which place and on what date the oath or affidavit is taken or made.

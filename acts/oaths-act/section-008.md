@@ -1,0 +1,3 @@
+8. Affirmations Any person who objects to the taking of an oath and desires to make an affirmation in lieu thereof, may do so without being questioned as to the grounds of such objection or desire, or otherwise, and in any such case the form of the required oath shall be varied by the substitution for the words or swearing, the words, "I solemnly, sincerely, and truth- fully affirm that .... "; and such other consequential variations of form as may be neces- sary shall thereupon be made:
+
+Provided that in any case where the Oath of Allegiance is to be taken, for the words "truthfully affirm" in this section there shall be substituted the words "truly declare and affirm, and the words "So help me God," shall be omitted.

@@ -1,0 +1,1 @@
+16. Short title and application This Act may be cited as the Oaths Act, and shall in so far as other provisions to the contrary are not made by any State acting within the scope of its legislative authority, apply throughout the Federation.

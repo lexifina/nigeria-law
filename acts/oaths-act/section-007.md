@@ -1,0 +1,1 @@
+7. Absence of religious belief Where an oath has been duly administered and taken the fact that the person to whom the same was administered had, at the time of taking the oath, no religious belief, shall not for any purpose affect the validity of the oath.
