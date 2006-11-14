@@ -1,1 +1,0 @@
-15. In exercising and performing the powers, functions and duties conferred on it under this Act, the Authority may appoint, contract, liaise or co-operate with experts, including specialised agencies, resource persons, academic and technical institutes, advisory committees, in order to assist it in carrying out any of its functions or duties.

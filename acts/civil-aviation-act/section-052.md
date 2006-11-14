@@ -1,1 +1,0 @@
-52. In exercising and performing powers and duties under this Act, the Authority shall act consistently with any obligation assumed by the Government of Nigeria under any international treaty, convention and agreement that may be in force between the Government of Nigeria and any foreign country.

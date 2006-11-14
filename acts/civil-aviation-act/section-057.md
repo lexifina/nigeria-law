@@ -1,9 +1,0 @@
-57.—(1) Any lawful entry into Nigeria or any lawful transit across Nigeria, with or without landings, of an aircraft to which this subsection applies, shall not entail any seizure or detention of the aircraft or any proceedings against the owner or operator of the aircraft or any other interference with the aircraft by or on behalf of any person in Nigeria on the ground that the construction, mechanism, parts, accessories, or operation of the aircraft is an infringement of any patent, design or model.
-
-(2) The importation into and storage in Nigeria of spare parts and spare equipment for an aircraft to which this subsection applies and the use and installation of it in repair of such an aircraft, shall not entail any seizure or detention of the aircraft or of the spare parts or spare equipment or any proceedings against the owner or operator of the aircraft or the owner of the spare parts or spare equipment or any other interference with the aircraft by or on behalf of any person in Nigeria, on the ground that the spare parts or spare equipment or their installation is an infringement of any patent, design or model, provided that, this subsection shall not apply in relation to any spare parts or spare equipment which is sold or distributed in Nigeria or is exported from Nigeria for sale or distribution.
-
-(3) Subsections (1) and (2) shall apply to—
-
-(a) any aircraft other than an aircraft used in military, customs or police services registered in a country or territory in the case of which there is for the time being in force a declaration made by the Minister, with a view to the fulfillment of the relevant provisions of the Convention mentioned in section 55 (2) of this Act, that the benefits of the subsections extend to that country or territory ; and
-
-(b) such other aircraft as the Minister may by order specify.

@@ -1,3 +1,0 @@
-34.—(1) The Authority in consultation with other relevant government agencies may make regulations for the prevention of danger arising to public health by the introduction or spread of any infectious or contagious disease from aircraft arriving at or being at any aerodrome and for the prevention of the conveyance of infection or contagion by means of any aircraft leaving an aerodrome.
-
-(2) The Authority may, by regulation provide that a person who breaches any regulation made under subsection (1), commits an offence and is liable on conviction to a fine of at least N200,000 or imprisonment for a term of at least one month or both.
