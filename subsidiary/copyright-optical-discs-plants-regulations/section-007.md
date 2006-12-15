@@ -1,0 +1,1 @@
+7. The Nigerian Copyright Commission may, after giving due notice, require the application of Source Identification (SID) Codes or any other prescribed anti-piracy device on every optical disc produced.
