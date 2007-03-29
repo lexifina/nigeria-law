@@ -1,7 +1,3 @@
 64. Discovery of additional minerals.
 
-PART V
-
-Mining
-
-SECTION
+PART V Mining SECTION

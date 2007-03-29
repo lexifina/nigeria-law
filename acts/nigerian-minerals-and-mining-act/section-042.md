@@ -1,5 +1,3 @@
 42. Annual reports.
 
-PART IV
-
-Minerals Exploration
+PART IV Minerals Exploration
