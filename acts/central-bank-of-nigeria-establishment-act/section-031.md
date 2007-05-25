@@ -1,0 +1,3 @@
+31. Developmental function
+
+The Bank may subscribe to, hold and sell shares of any corporation or company or debentures thereof set up with the approval of or under the authority of the Federal Government for the purpose of promoting the development of money or capital markets in Nigeria or of stimulating financial economic development so however that in any such case, the total value of the holdings of shares or, as the case may be, debentures to which this paragraph applies shall not at any time exceed ten times the aggregate of the Bank's paid-up capital and the general reserve fund of the Bank.

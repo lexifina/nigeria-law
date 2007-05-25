@@ -1,0 +1,5 @@
+32. Incidental powers
+
+(1) The Bank may, subject as is expressly provided in this Act generally conduct business as a bank, and do all such things as are incidental to or consequential upon the exercise of its power or the discharge of its duties under this Act.
+
+(2) The Governor may, at any time in his discretion and by previous notice in writing lodged with the Board, decide that the powers conferred by sections 28(d), (g), (h), 29(1) (b) and 30 of this Act be extended to the treasury bills and treasury certificates or the securities, as the case may be, of any State Government with which the Bank appears substantially to have established the relationship of banker, or to any specified treasury bills and treasury certificates or securities of such a State Government subject to the same conditions as specified in those paragraphs and subject to limitations specified in section 28 (g) which limitations shall then apply to the aggregate value of the Federal and State Government securities so dealt with.
