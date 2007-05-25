@@ -1,119 +1,55 @@
-THIRD SCHEDULE
+SECOND SCHEDULE [Section 5 (3).] Supplementary Provisions relating to the Board of the Agency Proceedings of the Board
 
-[Section 9 (1) (f).]
+(1) Subject to the provisions of this Act and section 27 of the Interpretation Act, the Board may make standing orders regulating its proceedings or that of any of its committees.
 
-Conflict of Interest
+(2) The Chairman shall preside at every meeting of the Board and in his absence, the members present at that meeting shall appoint one of them to preside at the meeting and the minutes shall be taken for each meeting of the Board and any committee by the Secretary.
 
-(1) Subject to further provisions of this Schedule, a Director or member of staff of the
+(3) The quorum for any meeting of the Board shall be at least 5 Directors.
 
-Agency shall not have a direct or indirect financial or investment in any shipping, stevedoring,
+(4) The Board shall meet to transact its business pursuant to this Act whenever it is summoned by the Chairman on at least 7 days' written notice and the Chairman shall, if so required by notice given to him by not less than 4 other members of the Board specifying amongst others, an agenda for the meeting, summon a meeting of the Board which shall be held no later than 14 days from the date on which the notice is served on him to discuss the items specified in the notice and the Board shall for the purposes of this Act meet not less than
 
-pilotage, terminal operation or any other service by or for the Agency, or receive therefrom
+4 times in each calendar year.
 
-any loan, remuneration or other right or have any personal interest in any contract made or
+(5) A member of the Board who directly or indirectly has an interest of a personal nature (including but not limited to financial interests in any contract made or proposed to be made by the Agency) shall, so soon after the facts of the matter of his interests have come to his knowledge, disclose his interest and the nature thereof at a meeting of the Board.
 
-proposed to be made by the Agency, throughout the tenure of his Office or employment with
+(6) A disclosure under paragraph (5) of this Schedule shall be recorded in the minutes of the Board meeting and the member concerned shall-
 
-the Agency.
+(a) not, after the disclosure, take part in any deliberation or decision of the Board or vote on the matter; and
 
-(2) Subject to paragraphs (3) and (4) of this Schedule, each Director or member of staff
+(b) be excluded for the purpose of constituting a quorum of any meeting of the Board for any deliberation or decision with regard to the subject-matter in respect of which his interest is so disclosed.
 
-of the Agency shall, on an annual basis, present a written declaration, no later than the third
+(7) The decisions at a meeting of the Board shall be taken by a majority save that decisions on matters relating to the establishment of any subsidiary or participation in a joint ven- ture or partnership of any description shall require a majority of at least 75%.
 
-month of each year, affirming the non-existence of any such interest as is specified in paragraph (1)
+(8) In the case of an equality of votes the Chairman of the meeting shall have a second or casting vote.
 
-arising or likely to arise during his tenure of employment with the Agency.
+Committees
 
-(3) The Directors and members of staff of the Agency, as from the commencement of
+(9) Subject to its standing orders, the Board may appoint such number of standing or ad hoc committees as it thinks fit to consider and report on any matter with which the Agency is concerned.
 
-this Act, shall be entitled to a maximum of 6 months within which to divest themselves of
+(10) A committee appointed under paragraph (9) shall-
 
-their direct or indirect financial interests or investment in any shipping, stevedoring, pilotage
+(a) consist of such number of persons who may not necessarily be members of the Board as may be determined by the Board; provided that the appointment of a non-Board member as a committee member shall be subject to such terms as would be indicated in his letter of appointment; and
 
-or terminal operation or any similar or any similar engagement, if any.
+(b) be presided over by a member of the Board.
 
-(4) All newly appointed Directors and members of staff of the Agency, after the commencement
+(11) The quorum of any committee set up by the Board shall be as may be determined from time to time by the Board.
 
-of this Act, shall be entitled to a maximum of 3 months from their direct or indirect financial interests
+(12) A decision of a committee of the Board shall be of no effect until it is confirmed by the Board.
 
-or investment in any shipping, stevedoring, or any similar engagement,if any.
+Miscellaneous ( 13) The fixing of the seal of the Agency shall be authenticated by the signature of the Secretary and that of the Chairman or any other Board member generally or specifically authorised by the Board to act for that purpose.
 
-(5) Each Director or staff of the Agency shall declare on appointment or at the commencement of
+( 14) A contact or instrument which, if made by a person not being a body corporate, would not be required to be under seal may be made or executed on behalf of the Agency by any person generally or specially authorised by the Board to act for that purpose.
 
-employment and annually thereafter for as long as he serves the Agency, any
+(15) A document purporting to be a contract, instrument or other document duly signed or sealed on behalf of the Agency shall be received in evidence and shall, unless the contrary is proved, be presumed without further proof to have been so signed or sealed.
 
-interest or investment that he-
+(16) Subject to the other provisions of this Act, the validity of any proceedings, act or decision of the Board or of any of its committees shall not be affected by-
 
-(a) knowingly has; or
+(a) any vacancy in the membership of the Board or committee; or
 
-(b) knows any member of his immediate family to have in any aspect of the shipping industry.
+(b) any defect or irregularity in the appointment of a member of the Board or committee; or
 
-(6) If a Director or member of staff of the Agency contravenes the provisions of paragraphs (1) and (2)
+(c) reason that any person not entitled to do so took part in the proceeding to the Board or committee.
 
-of this Schedule, or gives false information under paragraph (5) of this Schedule, he shall be liable, on
+(17) A member of the Board or a committee shall not be personally liable for any act or omission done or made in good faith while engaged on the business of the Agency.
 
-conviction, to the payment of a fine not exceeding N1,000,000.00 or
-
-imprisonment of a term not exceeding 1 year or to both.
-
-(7) Subject to paragraph (8) of this Schedule, the Board may, from time to time, waive
-
-the application of the prohibitions specified in paragraphs (1) and (2) of this Schedule to any
-
-Director or member of staff of the Agency if the Board determines that the financial interest of
-
-the relevant person is not of a material nature or is minimal.
-
-(8) The Board in determining whether or not the interest of a Director or member of
-
-staff of an Agency is minimal or not of a material nature shall consider factors including but
-
-not limited to-
-
-(a) the revenues, investments, profits and managerial efforts of the relevant company or other
-
-entity in regard to its port activities compared with other aspects
-
-of the Agency's or such entity's businesses;
-
-(b) the extent to which the Agency regulates and oversees the activity of such company or entity;
-
-(c) the degree to which the economic interests of such company or other entity
-
-may be affected by an action of the Agency; and
-
-(d) the perceptions held or likely to be held by the public regarding the relevant
-
-person's financial interest or investment in that company or other entity.
-
-(9) The Board may, at any time, review and reverse its determination under paragraph (7)
-
-of this Schedule and direct the application of the prohibitions contained in this Schedule to the
-
-affected Director or member of staff of the Agency and the Board shall not be under an obligation to disclose the reason
-
-or basis for its review to the affected Director or staff member.
-
-(10) In any case in which the Board exercises the waiver or the review as specified in
-
-paragraphs (7) and (9) of this Schedule, the Board shall publish the details thereof and such
-
-publication shall, include information regarding the identity of the person who has been
-
-granted the waiver or whose waiver grant has been reviewed, the position held by such person
-
-and the nature of the financial interests which are the subject of the waiver or the review
-
-thereof.
-
-(11) For the purpose of this Schedule-
-
-(a) "company" shall include partnerships and undertakings howsoever defined;
-
-and
-
-(b) "immediate family" shall mean a person's spouse, a partner living with that
-
-person as if they were married to each other and children who are under the age
-
-of 18.
+(18) A person shall not by reason only of his membership of the Board be treated as holding an Office of emolument under the Government of the Federation or the State.
