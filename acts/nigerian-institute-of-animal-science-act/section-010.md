@@ -1,5 +1,1 @@
-10. Investment
-
-The Institute may from time to time subject to such terms and conditions as the Council
-
-may approve, invest any part of its funds in any securities and may at any time dispose of such securities.
+10. Investment The Institute may from time to time subject to such terms and conditions as the Council may approve, invest any part of its funds in any securities and may at any time dispose of such securities.

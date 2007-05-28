@@ -1,10 +1,6 @@
 4. Establishment of Council
 
-(1) There shall be established for the Institute a Governing Council to be known as
-
-the Council of the Nigerian Institute of Animal Science (in this Act referred to as the
-
-"Council").
+(1) There shall be established for the Institute a Governing Council to be known as the Council of the Nigerian Institute of Animal Science (in this Act referred to as the "Council").
 
 (2) The Council shall consist of-
 
@@ -14,9 +10,7 @@ the Council of the Nigerian Institute of Animal Science (in this Act referred to
 
 (c) the Registrar; and
 
-(d) fourteen persons who shall be elected by the Institute, respectively to represent
-
-each of the following disciplines of Animal Science studies:
+(d) fourteen persons who shall be elected by the Institute, respectively to represent each of the following disciplines of Animal Science studies:
 
 (i) Animal Bio-technology;
 
@@ -56,12 +50,8 @@ each of the following disciplines of Animal Science studies:
 
 (i) the Minister of Water Resources or his representative;
 
-(j) one representative of the Nigerian Chamber of Commerce, Industry, Mines
-
-and Agriculture to be elected by the Chamber;
+(j) one representative of the Nigerian Chamber of Commerce, Industry, Mines and Agriculture to be elected by the Chamber;
 
 (k) one person to be elected by the Institute to represent agro-allied industries;
 
-(l) three persons to be elected by the Institute to represent the various faculties,
-
-colleges and universities of Agriculture in Nigeria.
+(l) three persons to be elected by the Institute to represent the various faculties, colleges and universities of Agriculture in Nigeria.

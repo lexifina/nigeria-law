@@ -2,11 +2,7 @@ NIGERIAN INSTITUTE OF ANIMAL SCIENCE ACT
 
 ARRANGEMENT OF SECTIONS
 
-PART I
-
-Establishment of Institute
-
-SECTION
+PART I Establishment of Institute SECTION
 
 1. Establishment of Institute and incorporation.
 
@@ -14,9 +10,7 @@ SECTION
 
 3. Powers of Institute.
 
-PART II
-
-Establishment and Functions of Council
+PART II Establishment and Functions of Council
 
 4. Establishment of Council.
 
@@ -36,9 +30,7 @@ Establishment and Functions of Council
 
 12. Accounts of Institute.
 
-PART III
-
-Registrar and Registration
+PART III Registrar and Registration
 
 13. Appointment of Registrar.
 
@@ -56,15 +48,11 @@ Registrar and Registration
 
 20. Certificate and honours.
 
-PART IV
-
-Accreditation of Animal Science Institutions
+PART IV Accreditation of Animal Science Institutions
 
 21. Accreditation.
 
-PART V
-
-Professional Discipline
+PART V Professional Discipline
 
 22. Professional misconduct.
 
@@ -76,9 +64,7 @@ Professional Discipline
 
 26. Penalties.
 
-PART VI
-
-Meetings
+PART VI Meetings
 
 27. Convening of Council meetings.
 
@@ -90,9 +76,7 @@ Meetings
 
 31. Annual general meeting of Institute.
 
-PART VII
-
-Miscellaneous
+PART VII Miscellaneous
 
 32. Regulations.
 
@@ -100,26 +84,10 @@ Miscellaneous
 
 34. Short title.
 
-SCHEDULE
+SCHEDULE Nigerian Institute of Animal Science Disciplinary Tribunal Rules
 
-Nigerian Institute of Animal Science Disciplinary Tribunal Rules
+NIGERIAN INSTITUTE OF ANIMAL SCIENCE ACT An Act to regulate the profession of Animal Science and to make provisions for the establishment, functions and administration of the Nigerian Institute of Animal Science; and for related matters.
 
-NIGERIAN INSTITUTE OF ANIMAL SCIENCE ACT
+[2007 No. 70.] [28th May, 2007] [Commencement.] ENACTED by the National Assembly of the Federal Republic of Nigeria.
 
-An Act to regulate the profession of Animal Science and to make provisions for the
-
-establishment, functions and administration of the Nigerian Institute of Animal
-
-Science; and for related matters.
-
-[2007 No. 70.]
-
-[28th May, 2007]
-
-[Commencement.]
-
-ENACTED by the National Assembly of the Federal Republic of Nigeria.
-
-PART I
-
-Establishment and Functions of Institute
+PART I Establishment and Functions of Institute

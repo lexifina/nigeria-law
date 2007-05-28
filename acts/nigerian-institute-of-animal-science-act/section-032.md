@@ -6,12 +6,8 @@
 
 (a) prescribe the fees, dues and subscriptions payable by the members;
 
-(b) prescribe the forms of the licences and certificates, to be issued to Animal
+(b) prescribe the forms of the licences and certificates, to be issued to Animal Scientists;
 
-Scientists;
-
-(c) prescribe the date, procedure and agenda of the annual general meeting of the
-
-Institute; and
+(c) prescribe the date, procedure and agenda of the annual general meeting of the Institute; and
 
 (d) specify the Offices and duties of the officers of the Institute.

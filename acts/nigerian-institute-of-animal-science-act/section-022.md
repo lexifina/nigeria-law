@@ -1,9 +1,1 @@
-22. Professional misconduct
-
-In this Part, "professional misconduct" means any conduct considered by the Council
-
-to be professional misconduct and includes professional indiscipline, unjust enrichment
-
-of any person, abuse of office and corrupt practice in the conduct of a member in
-
-the public service.
+22. Professional misconduct In this Part, "professional misconduct" means any conduct considered by the Council to be professional misconduct and includes professional indiscipline, unjust enrichment of any person, abuse of office and corrupt practice in the conduct of a member in the public service.

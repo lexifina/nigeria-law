@@ -1,11 +1,1 @@
-28. President at Council meetings
-
-The President shall preside at any meeting of the Council, and in the absence of the
-
-President, the First Vice-President shall preside and in the absence of both the President
-
-and the First Vice-President, the Second Vice-President shall preside and where he is
-
-also not available, members of the Council present shall elect one of their number to pre-
-
-side at such a meeting.
+28. President at Council meetings The President shall preside at any meeting of the Council, and in the absence of the President, the First Vice-President shall preside and in the absence of both the President and the First Vice-President, the Second Vice-President shall preside and where he is also not available, members of the Council present shall elect one of their number to pre- side at such a meeting.

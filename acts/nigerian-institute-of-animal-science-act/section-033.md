@@ -1,16 +1,10 @@
-33. Interpretation
-
-In this Act-
-
-"Council" means Council established by section 4;
+33. Interpretation In this Act- "Council" means Council established by section 4;
 
 "Institute" means Nigerian Institute of Animal Science established by section 1;
 
 "Institution" means Faculty, College or University of Agriculture;
 
-"Member" means member of the Institute and includes an Associate and a Fellow of
-
-the Institute;
+"Member" means member of the Institute and includes an Associate and a Fellow of the Institute;
 
 "President" means President of the Institute;
 

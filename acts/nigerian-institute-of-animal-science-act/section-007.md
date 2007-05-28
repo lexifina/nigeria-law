@@ -1,6 +1,4 @@
-7. Functions of the Council
-
-The functions of the Council shall be to-
+7. Functions of the Council The functions of the Council shall be to-
 
 (a) carry into effect the functions and powers of the Institute;
 
@@ -8,6 +6,4 @@ The functions of the Council shall be to-
 
 (c) effect proper management of the Institute; and
 
-(d) do other acts and things as the Council may consider necessary for carrying
-
-out the functions and powers of the Institute.
+(d) do other acts and things as the Council may consider necessary for carrying out the functions and powers of the Institute.
