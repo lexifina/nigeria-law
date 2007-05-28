@@ -1,0 +1,1 @@
+33. Subject to the provisions of any rules made under this Act, every customary court shall have power to summon before it for the purpose of giving evidence any person within the area of jurisdiction of the court or any person outside such area but within Nigeria.

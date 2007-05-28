@@ -1,0 +1,1 @@
+30. Every person sentenced by a customary court to imprisonment or taken in execution of the process of such court may be detained in a Nigerian Prison in the Federal Capital Territory or in the State nearest to the area of jurisdiction or sitting of the court.

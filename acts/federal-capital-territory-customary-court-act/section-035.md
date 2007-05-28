@@ -1,0 +1,1 @@
+35. Subject to the provisions of any rules made under this Act, any judgment or order given or made by a customary court in a civil case or matter may be enforced by seizure and sale of the movable property of the defendant, or by such other methods of enforcing judgments and orders as may be prescribed by the rules.
