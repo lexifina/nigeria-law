@@ -1,0 +1,1 @@
+18. The Agency shall prepare and submit to the Federal Executive Council, through the Minister, not later than 30th June in each year, a report on the activities of the Agency during the immediate preceding year, and shall include in such report, a copy of the audited accounts of the Agency for that year and the auditor’s report.

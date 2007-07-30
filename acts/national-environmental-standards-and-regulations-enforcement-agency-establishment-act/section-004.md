@@ -1,0 +1,1 @@
+4. A member of the Council appointed, otherwise than by office and the Director- General, shall hold office for a term of four years and shall be eligible for reappointment for only one further term of four years.

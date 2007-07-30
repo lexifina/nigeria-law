@@ -1,0 +1,1 @@
+35. Every other requirement, certificate, notice, direction, decision, authorization, consent, application, request, agreement or thing made, issued, given or done under any enactment repealed by this Act shall, if in force at the commencement of this Act, continue to be in force and have effect as if made, issued, given or done under the corresponding provisions of this Act.
