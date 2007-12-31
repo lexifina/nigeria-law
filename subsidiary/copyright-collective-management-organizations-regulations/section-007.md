@@ -1,0 +1,1 @@
+7. Withdrawal of Membership A member shall, upon reasonable notice of his/her intention to do so, have the right to withdraw his membership of a Collective Management Organisation or the rights assigned to the Organisation in respect of any of his works.
