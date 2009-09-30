@@ -1,0 +1,1 @@
+52. Each Facility and Organization that demonstrates environmental leadership, adopt environmentally responsible practices, demonstrate commitment to environmental quality and maintain exemplary environmental compliance records shall be recognized and encouraged by the Agency.
