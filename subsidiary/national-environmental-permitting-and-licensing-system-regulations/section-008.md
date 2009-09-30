@@ -1,0 +1,1 @@
+8. The period between the acknowledgement of receipt of the application as specified in regulation 5 of these Regulations and the date on which the Agency notifies the applicant of its decision to approve or refuse the issuance of permit as the case may be, shall not exceed thirty working days.

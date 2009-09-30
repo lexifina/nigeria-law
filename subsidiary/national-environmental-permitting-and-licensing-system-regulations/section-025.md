@@ -1,0 +1,1 @@
+25. The Agency may, within twenty one working days after the imposition of the suspension order, review such order and either cancel the permit in accordance with provisions of these Regulations or lift the suspension of the permit and restore the undertaking to the permit holder.

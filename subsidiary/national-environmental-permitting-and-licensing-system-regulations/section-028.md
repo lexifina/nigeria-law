@@ -1,0 +1,1 @@
+28. The Agency, if satisfied that enough grounds exists for the cancellation of the permit, shall give notice of proceedings for the cancellation to the permit holder and to such other persons, group of persons or body as it may consider necessary.

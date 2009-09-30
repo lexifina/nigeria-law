@@ -1,0 +1,1 @@
+22. Where the permit holder chooses to make a representation or rectification of the grounds that gave rise to the suspension of the permit; it shall make its representation or rectification within twenty one working days from the date of tits receipt of the Agency’s letter informing it of the grounds upon which the Agency has suspended its permit.
