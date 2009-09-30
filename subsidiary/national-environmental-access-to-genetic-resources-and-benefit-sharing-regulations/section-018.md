@@ -1,0 +1,3 @@
+18.—(1) Without prejudice to the generality of the foregoing, the Agency shall ensure that the holder of an access permit facilitates the active involvement of Nigerian citizens and institutions in the execution of the activities under the permit.
+
+(2) The facilitation by the holder of an access permit shall include the enjoyment of negotiated monetary and non-monetary benefits arising from the right of access granted and the use of genetic resources and traditional knowledge in accordance with the guidelines on monetary and non-monetary benefits for Material Transfer Agreement specified in the Third Schedule to these Regulations.

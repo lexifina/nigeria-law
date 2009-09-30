@@ -1,0 +1,1 @@
+6. The application shall be accompanied by evidence of Prior Informed Consent, as prescribed in the Second Schedule to these Regulations, from interested persons, including local communities and other stakeholders and relevant agencies as well as a research clearance certificate from relevant agencies.

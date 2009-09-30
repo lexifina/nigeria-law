@@ -1,0 +1,1 @@
+7. Notwithstanding any provision contained in these Regulations, no person shall transfer any genetic resources outside Nigeria unless such person has executed a Material Transfer Agreement, as prescribed in the Third Schedule to these Regulations.

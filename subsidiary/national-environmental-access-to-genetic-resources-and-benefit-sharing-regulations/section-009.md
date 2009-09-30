@@ -1,0 +1,1 @@
+9. The applicant shall submit to the Agency all the information, documents or matcrials requested by the Agency for the purpose of technical examination, failing which shall cause the application to be rejected.

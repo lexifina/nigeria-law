@@ -1,0 +1,1 @@
+5. Any person who intends to access genetic resources in Nigeria shall apply to the Agency for an access permit in the form set out in the First Schedule to these Regulations and such application shall be accompanied by the fees as shall be prescribed by the Agency.

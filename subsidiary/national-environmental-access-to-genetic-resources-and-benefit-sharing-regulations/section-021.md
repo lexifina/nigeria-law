@@ -1,0 +1,1 @@
+21. Any person carrying out any activity involving access to genetic resources prior to the coming into force of these Regulations, shall within six months from the coming into force thereof, take all necessary measures to ensure full compliance with these Regulations
