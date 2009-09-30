@@ -1,0 +1,1 @@
+32. Operators shall ensure that their activities do not impact on ambient and indoor air, beyond regulatory limits for safe levels of air pollutants for specific substances in the air as specified in Schedule 11 to these Regulations.

@@ -1,0 +1,1 @@
+25. Failure to comply with such notice within the specified number of days as specified under regulation 24(2)(c:) of these Regulations, second notice shall be s.erved with a shorter time frnme before comir1encc111ent of appropriate legal action.
