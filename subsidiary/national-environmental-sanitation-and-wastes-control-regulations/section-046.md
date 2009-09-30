@@ -1,0 +1,1 @@
+46. Every generator of hazardous waste as classified in regulation 45 of these Regulations shall ensure that every container or package for storing such waste is secured, marked and labeled as prescribed in Schedule 15 to these Regulations.

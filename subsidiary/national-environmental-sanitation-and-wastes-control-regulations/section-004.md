@@ -1,0 +1,1 @@
+4. Without prejudice to the foregoing, any person whose activities generate waste shall ensure that the waste is handled by a person licensed to transport and dispose of the wastes in designated waste management facility.

@@ -1,0 +1,1 @@
+40. Every owner or operator of a trade or industrial undertaking issued with a license by an appropriate authority to discharge effluent into any existing sewerage systems shall comply with the standards set out in Schedule 10 to these Regulations.

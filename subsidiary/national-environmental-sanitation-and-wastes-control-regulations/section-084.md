@@ -1,0 +1,1 @@
+84. It shall be an offence for any generator of waste which has been characterized as toxic or hazardous under these Regulations, not to subscribe to an insurance policy, upon written instructions from the Agency, to cover the risks caused by the wastes.

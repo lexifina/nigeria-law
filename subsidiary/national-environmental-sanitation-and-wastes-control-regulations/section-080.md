@@ -1,0 +1,1 @@
+80. It shall be an offence for any person who generates toxic or hazardous waste not to treat or cause to be treated such hazardous waste using methods acceptable to the conditions approved by the Agency.

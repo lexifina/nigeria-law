@@ -1,0 +1,1 @@
+30. A license to operate a waste management facility shall be valid on such terms and conditions including revocation of such license when it has already been issued, as contained in the National Environmental (Licensing and Permitting Systems) Regulations, 2009.

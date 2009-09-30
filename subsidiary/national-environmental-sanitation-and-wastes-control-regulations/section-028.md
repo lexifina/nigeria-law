@@ -1,0 +1,1 @@
+28. The Agency shall grant license to persons qualified to offer services and shall have the power to revoke such license, as contained in the National Environmental (Licensing and Permitting Systems) Regulations, 2009.

@@ -1,0 +1,1 @@
+61. Within six months of the commencement of these Regulations, existing operators of HCW management facility, shall submit Environmental Audit Reports and thereafter submit such Reports, every three years to the Agency.

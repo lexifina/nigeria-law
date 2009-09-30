@@ -1,0 +1,1 @@
+95. Any person who violates the provision of regulation 71 paragraphs (k) to (r) of these Regulations shall be guilty of an offence and shall on conviction be liable to a fine of N200,000:00 or imprisonment for one (1) year or to both such fine and imprisonment.

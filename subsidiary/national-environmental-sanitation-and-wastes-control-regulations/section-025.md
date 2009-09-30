@@ -1,0 +1,1 @@
+25. A licensed waste manager shall undertake waste collection at the designated points at scheduled time or period following the waste collection and transportation guidelines in Schedule 7 to these Regulations.

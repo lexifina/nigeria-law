@@ -1,0 +1,1 @@
+29. Any person who before the commencement of these Regulations was carrying on the business of operating a waste management facility shall apply to the Agency for a license as contained in the National Environmental (Licensing and Permitting Systems) Regulations, 2009.

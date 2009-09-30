@@ -1,0 +1,1 @@
+67. The enforcement power of all the provisions relating to meeting the requirements and standards on environmental sanitation and waste control provided in these Regulations is vested on the Agency and on the basis of any information available to it, the Agency may take any enforcement action at any time as may be appropriate.

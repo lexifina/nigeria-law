@@ -1,0 +1,1 @@
+31. Every licensed owner or operator of a waste management facility shall carry out environmental audit every three (3) years, pursuant to the provisions of the National Environmental (Licensing and Permitting Systems) Regulations 2009.

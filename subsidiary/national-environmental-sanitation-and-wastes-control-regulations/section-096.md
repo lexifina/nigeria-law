@@ -1,0 +1,1 @@
+96. Any person who violates regulation 72 of these Regulations shall be guilty of an offence and shall on conviction be liable to a fine of N50,000:00 or imprisonment for eight (8) months or to both such fine and imprisonment.

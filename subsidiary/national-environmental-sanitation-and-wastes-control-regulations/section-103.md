@@ -1,0 +1,1 @@
+103. Any person who violates regulations 78 to 85 of these Regulations shall be guilty of an offence and shall on conviction be liable to a fine of N5,000,000:00 or to imprisonment for five (5) years or to both such fine and imprisonment.

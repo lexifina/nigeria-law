@@ -1,0 +1,1 @@
+101. Any person who violates regulation 77 of these Regulations shall be guilty of an offence and shall on conviction be liable to a fine of not exceeding N500,000:00 or imprisonment for two (2) years or to both such fine and imprisonment.

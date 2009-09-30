@@ -1,0 +1,1 @@
+41. Every person or Industry who generates and discharges effluent into the environment under a permit issued under the National Environmental (Permitting and Licensing Systems) Regulations, 2009 shall carry out effluent discharge quality and quantity monitoring as prescribed in Schedules 11 and 12 to the Regulations.

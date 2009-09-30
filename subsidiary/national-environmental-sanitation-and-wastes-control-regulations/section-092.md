@@ -1,0 +1,1 @@
+92. It shall be an offence for existing operators of HCW management facility within six (6) months of the commencement of these Regulations, not to submit Environmental Audit Reports and thereafter submit such reports every three years to the Agency.

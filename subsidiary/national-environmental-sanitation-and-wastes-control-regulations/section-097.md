@@ -1,0 +1,1 @@
+97. Any person who violates regulation 73 of these Regulations shall be guilty of an offence and shall on conviction be liable to a fine of N100,000:00 or imprisonment for one (1) year or to both such fine and imprisonment.
