@@ -1,0 +1,1 @@
+11. Use of Banned or Restricted chemicals must be with a permit from the Agency in accordance with the provisions of relevant international conventions such as the Rotterdam, Vienna, Stockholm Conventions, etc as specified in Schedule VII to these Regulations.

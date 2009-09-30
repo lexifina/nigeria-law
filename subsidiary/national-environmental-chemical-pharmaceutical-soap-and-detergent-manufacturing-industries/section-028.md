@@ -1,0 +1,1 @@
+28. For the purposes of determining license classification and licence classification and licence compliance, the facility shall analyse samples according to standard analytical methods in a laboratory accredited by NESREA, Federal Ministry of Environment.

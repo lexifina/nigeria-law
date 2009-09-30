@@ -1,0 +1,3 @@
+32. (1) If full laboratory facilities do not exist on the site or in the absence of a calibrated Dissolved Oxygen (DO) meter, the oxygen in the sample may be “fixed” at the time of sampling by adding any of the following reagents; 1 ml of manganese (II) sulphate followed by 1 ml of alkali-iodide- azide solution, or any other approved scientific method, Provided that – a) the stopper of the sample container shall be replaced and the solution shall be well mixed by shaking; and b) the remaining steps shall be carried out later in the laboratory.
+
+(2) The sample volume per ml of manganese (II) sulphate should be between 500ml to 1 litre.

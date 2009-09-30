@@ -1,0 +1,1 @@
+36. Procedures for application for permit including revocation of such permit when it had already been issued, are as contained in the National Environmental (Permitting and Licensing System) Regulations 2009.
