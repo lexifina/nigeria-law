@@ -1,0 +1,3 @@
+4. Safe and satisfactory access to the quarters of the crew;
+
+to the machinery space and to all other parts used in the necessary work of the ship shall be available at all times. Deck cargo in way of openings which give access to such parts shall be so stowed that theopenings can be properly closed and secured against the admission of water. Efficient protection for the crews in the form of guard rails or life lines, spaced not more than 30.4 centimetres apart vertically, shall be provided on each side of the timber deck cargo to a height of at least 1.2 metres above the cargo. The timber deck cargo shall be so stowed as to be sufficiently level for gangway purposes.

@@ -1,0 +1,3 @@
+3.—(1) The timber deck cargo shall be compactly stowed, lashed and secured. It shall not interfere in any way with the navigation and necessary work of the ship, or with the provision of a safe margin of stability at all stages of the voyage, regard being given to additions of weight such as those due to absorption of water, and to losses of weight such as those due to consumption of fuel and stores.
+
+(2) In the case of a ship within any of the areas set out in the second column of the Schedule to these Rules, during the periods set out respectively opposite to such areas in the third column of the said Schedule, the height of the timber deck cargo above the freeboard deck shall not exceed one-third of the extreme breadth of the ship.

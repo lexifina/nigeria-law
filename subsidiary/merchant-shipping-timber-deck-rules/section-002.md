@@ -1,0 +1,1 @@
+2. Openings to spaces below the freeboard deck shall be securely closed and all fittings such as hatchway beams, fore-and-after and covers shall be in place. Where hold ventilation is needed, the ventilators shall be sufficiently protected.
