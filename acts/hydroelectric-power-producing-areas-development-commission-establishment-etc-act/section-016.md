@@ -1,0 +1,1 @@
+16. The Commission may accept gifts of land, money or other property on such terms and conditions, if any, as may be specified by the person or organisation making the girt provided that such condition is in accordance with the laws or Nigeria.
