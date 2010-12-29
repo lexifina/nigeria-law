@@ -1,0 +1,1 @@
+28. Section 122 of the Principal Act is amended by substituting for subsection (2), a new subsection "(2)"- " (2) Any person who commits the offence of impersonation or who aids, abets, counsels or procures the commission of that offence, shall be liable on conviction to a maximum fine of -N500,000 or imprisonment for 12 months or both."

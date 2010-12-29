@@ -1,0 +1,1 @@
+13. Section 47 of the Principal Act is substituted for a new section "47"- Hour of Polls "47 Voting in any particular election under this Act shall take place on the date and time appointed by the Commission throughout the Federation".
