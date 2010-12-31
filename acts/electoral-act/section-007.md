@@ -1,11 +1,7 @@
-7. -(1) The Commission may appoint one or more committees to carry out any of its functions under this Act.
+7. The Commission may appoint one or more committees to carry out any of its functions under this Act.
 
-Committees of the Commission
+Electoral Act
 
-PART II - STAFF OF THE COMMISSION - (1) There shall be a Secretary to the Commission who shall-
+2010 No.6
 
-(a) be appointed by the Commission;
-
-Secretary to the Commission
-
-3 | P a g e
+PART Il-STAFF oF THE CoMMISSION

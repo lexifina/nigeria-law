@@ -1,3 +1,1 @@
-17. Each electoral officer shall take custody of the voters register for his Local Government Area under the general supervision of the Resident Electoral Commissioner.
-
-Custody of voters’ register
+17. Each Electoral Officer shall take custody of the voters register for his Local Government Area under the general supervisi on of the Resident Electoral Commissioner.

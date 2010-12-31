@@ -1,3 +1,1 @@
-71. The Commission shall cause to be posted on its notice board and website, a notice showing the candidates at the election and their scores; and the person declared as elected or returned at the election.
-
-Posting of Results
+71. The Conl'lnission shall cause to be posted on its notice board and website a notice showing the candidates at the election and their scores; and the person declared as elected or returned at the election.

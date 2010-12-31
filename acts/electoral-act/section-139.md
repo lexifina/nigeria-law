@@ -1,5 +1,0 @@
-139. -(1) An Election shall not be liable to be invalidated by reason of non compliance with the provisions of this Act if it appears to the Election Tribunal or Court that the election was conducted substantially in accordance with the principles of this Act and that the non compliance did not affect substantially the result of the election.
-
-(2) An election shall not be liable to be questioned by reason of a defect in the title, or want of title of the person conducting the election or acting in the office provided such a person has the right or authority of the Commission to conduct the election.
-
-Certain defects not to invalidate election

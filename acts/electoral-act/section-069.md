@@ -1,3 +1,1 @@
-69. In an election to the office of the President or Governor whether or not contested and in any contested election to any other elective office, the result shall be ascertained by counting the votes cast for each candidate and subject to the provisions of sections 133, 134 and 179 of the Constitution, the candidate that receives the highest number of votes shall be declared elected by the appropriate Returning Officer.
-
-Declaration of Result
+69. I n an election to the office of the President or Governor, whether or not contested and in any contested election to any other elective office, the result shall be ascertained by counting the votes cast for each candidate and subject to the provisions of sections 1 33, 1 34 and 1 79 of the Constitution, the candidate that recei ves the highest number of votes shall be declared elected by the appropriate Returning Officer.

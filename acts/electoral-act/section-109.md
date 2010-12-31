@@ -1,3 +1,0 @@
-109. The procedure for filing nominations and the casting and counting of votes for Area Council elections shall be the same as is applicable to other elections under this Act.
-
-Procedure for Area Council Elections

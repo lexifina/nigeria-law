@@ -1,5 +1,3 @@
-62. -(1) At the prescribed hour for the close of poll, the Presiding Officer shall declare the poll closed and no more person(s) shall be admitted into the Polling unit and only those already inside the Polling unit shall be allowed to vote.
+62.--( I ) A t the prescri bed hour for the close of pol l , the Presiding Officer shall declare the poll closed and no person shal l be admitted into the pol ling unit and only those already inside the Pol ling unit shal l be allowed to vote.
 
-(2) After the declaration of the close of polls, no voter already inside the polling unit shall be permitted to remain in the polling unit unless otherwise authorized under this Act.
-
-Closing of Poll
+(2) A fter the declarat ion of the close of pol l s, no voter already inside the pol l i ng unit shall he permitted to remain in the pol ling unit unless otherwise authorized un(ier this Act.

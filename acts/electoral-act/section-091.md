@@ -1,51 +1,59 @@
-91. -(1) Election expenses shall not exceed the sum stipulated in subsection (2) –
+91.-( I ) Election expenses shall not exceed the sum stipulated i n subsections
 
-(7) of this section.
+(2)-(7) of this section.
 
-(2) The maximum election expenses to be incurred by a candidate at a Presidential election shall be one billion naira (N1,000,000,000).
+(2) The maximum e lection expenses to be incurred by a candidate at a Presidential election shall be N I ,000,000,000.00.
 
-(3) The maximum election expenses to be incurred by a candidate at a Governorship election shall be two hundred million naira (N200,000,000).
+(3) The maxi mum election expenses to be incurred by a candidate at a Governorship election shall he N200,000,000.00.
 
-(4) The maximum amount of election expenses to be incurred in respect of Senatorial seat by a candidate at an election to the National Assembly shall be forty million naira (N40,000,000) while the seat for House of Representatives shall be twenty million naira (N20,000,000)
+(4) The maximum amount of election expenses to be incurred in respect of Senatorial seat hy a candidate at an election to the National Assembly shall be N40,000,000 . 00 whi le the seat for House of Representat i ves shal l be N20,000,000.00.
 
-(5) In the case of State Assembly election, the maximum amount of election expenses to be incurred shall be ten million naira (N10,000,000).
+(5) In the case of State Assembly election, the maximum amount of election expenses to be incurred shall be NIO,OOO,OOO.OO.
 
-(6) In the case of a chairmanship election to an Area Council, the maximum amount of election expresses to be incurred shall be ten million naira (N10,000,000).
+A 1 133 Offences in relation to tinanccs of a political party.
 
-(7) In the case of councillorship election to an Area Council, the maximum amount of election expenses to be incurred shall be one million naira (N1,000, 000).
+Period to he cnvcrcd hy annutd statement.
 
-(8) In determining the total expenditure incurred in relation to the candidature of any person at any election no account shall be taken of:-
+Power to limit Contribution to a Political Party.
 
-(a) any deposit made by the candidate on his/her nomination in compliance with the law ;
+Limitation on Ekction Expenses.
 
-(b) any expenditure incurred before the notification of the date fixed for the election with respect to services rendered or material supplied before such notification.
+A 1 134
 
-(c) Political party expenses in respect of the candidate standing for a particular election.
+2010 No. 6 Electoral Act
 
-(9) No individual or other entity shall donate more than one million naira (N1,
+(6) In the case of a Chairmanship election to an Area Council, the maximum amount of election e xpresses to be incurred shal l be ten m i ll ion nai ra NI 0,000,000.00.
 
-000,000) to any candidate.
+(7) In the case of Councillorship election to an Area Council, the maximum amount of election expenses to be incurred shall be one million naira N I ,000,000.00.
 
-(10) A candidate who knowingly acts in contravention of this section commits an offence and on conviction shall be liable –
+( X ) I n determin ing the total expenditure incurred in relation to the candidature of any person at any election no account shall be taken of- ( a) any deposit made by the candidate on his nomination in compliance with the law ;
 
-(a) in case of presidential election to a maximum fine of N1,000,000.00 or imprisonment of 12 months or both;
+(b) any expenditure incurred before the notification of the date fixed for the election with respect to services rendered or materials supplied before such notification ; or
 
-(b) in the case of a governorship election to a fine of N800,000.00 or imprisonment for 9 months or both;
+(c) political party expenses in respect of the candidate standing for a panicular election.
 
-(c) in case of senatorial seat election in the National Assembly election to a fine of N600,000.00 or imprisonment for 6 months or both;
+(9) An individual or other entity shall not donate more than N I ,000,000.00 to any candidate.
 
-(d) in the case of House of Representatives seat election in the National Assembly election to a fine of N500,000.00 or imprisonment for 5 months or both;
+( I 0) A candidate who knowingly acts i n contravention of this section commits an offence and on conviction is liable in the case ·of-
 
-Limitation on election expenses
+(a) Presidential election, to a maximum fine of N 1 ,000,000.00 or imprisonment for a term of 1 2 months or both ;
 
-27 | P a g e
+(h) a Governorship election to a fine of N-800,000.00 or imprisonment for a term of 9 months or both ;
 
-(e) in the case of a State House of Assembly election to a fine of N300,000.00 or 3 months imprisonment or both;
+(c) Senatorial election in the National Assembly election to a fine of N-600,000.00 or imprisonment for a term of 6 months or both ;
 
-(f) in the case of Chairmanship election to a fine of N300,000.00 or 3 months imprisonment or both; and
+. (d) House of Representatives election in the National Assembly election, to a fine of N-500,000.00 or i mprisonment for a term of 5 months or both ;
 
-(g) in the case of Councillorship election to a fine of N100,000.00 or 1 month imprisonment or both.
+(e) a State House of Assembly election to a fine ofN-300,000.00 or imprisonment for a term of 3 months or both ;
 
-(11) Any individual who knowingly acts in contravention of subsection (9) shall on conviction be liable to a maximum fine of N500,000.00 or 9 months imprisonment or both.
+(f) in the case of Chairmanship election, to a fine of N300,000.00 or imprisonment for a term of 3 months or both ; and
 
-(12) Any Accountant who falsifies or conspires or aids a candidate to forge or falsify a document relating to his expenditure at an election or receipt or donation for the election or in any way aids and abets the breach of the provision of this section of this Act commits an offence and on conviction is liable to 10 years imprisonment.
+(g) Councillorship election, to a fine ofNlOO,OOO.OO or i mprisonment for a term of one month or both.
+
+( 1 1 ) An individual who knowingly acts in contravention of subsection (9) shall. on conviction, be liable to a maximum fine of N500,000.00 or i mprisonment for a tcnn of 9 months or both.
+
+( 1 2) An accountant who falsifies, conspires or aids a candidate to forge or falsi fy a document relating to his expenditure at an election or receipt or donation for the election or in any way aids and abets the breach of the provision of this section of this Act commits an offence and is liable on conviction for imprisonment for a term of 1 0 years:
+
+Electoral Act
+
+2010 No. 6

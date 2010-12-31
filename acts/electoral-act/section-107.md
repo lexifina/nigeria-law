@@ -1,47 +1,37 @@
-107. -(1) A person shall not be qualified to contest an Area Council election under this Act if-
+107.-( I ) A person shall not be qualified to contest an Area Council election Disqualitica- under this Act if- tion.
 
-(a) subject to the provisions of section 28 of the Constitution, he has voluntarily acquired the citizenship of a country other than Nigeria or, except in such cases as may be prescribed by the National Assembly, has made a declaration of allegiance to such a country;
+(a) subject to the provisions of section 28 of the Constitution, he has voluntarily acquired the citizenshi p of a country other than N igeria or, except in such cases as may be prescribed by the National Assembly, has made a declaration of allegiance to such a country ;
 
-(b) he is adjudged to be a lunatic or otherwise declared to be of unsound mind under any law in force in any part of Nigeria ;
+A 1 1 40 Date of Area Council Elections and method of Voting.
 
-(c) he is under a sentence of death imposed on him by any competent court of law or tribunal in Nigeria.
+2010 No. 6 Electoral Act
 
-(d) within a period of less than ten years before the date of an election to the Area Council, he has been convicted and sentenced for an offence involving dishonesty or he has been found guilty of contravention of the Code of Conduct;
+(b) he is adjudged to be a l unatic or otherwise decl ared to be of unsound mind under any l aw in force in any part of Nigeria ;
 
-(e) he is an undischarged bankrupt, having been adjudged or otherwise declared bankrupt under any law in force in any part of Nigeria;
+(c) he i s under a sentence of death imposed on h i m by any competent court of law or tribunal in Nigeria.
 
-(f) he is a person employed in the public service of the Federation or of any State or Area Council (other than a person holding elective office) and he has not resigned, withdrawn or retired from such employment 30 days before the date of election;
+(d) within a period ofless than 1 0 years before the date of an election to the Area Council, he has been convicted and sentenced for an offence involving dishonesty or he has been found guilty of contravention of the Code of Conduct ;
 
-(g) he is a member of any secret society;
+(c) he is an undischarged bankmpt, havi ng been adjudged or otherwise declared bankrupt under any law in force in any part of N igeria ;
 
-(h) he has within the preceding period of 10 years presented a forged certificate to the Commission;
+(/) he is a person employed in the public service of the Federation or of any State or Area Counci l (other than a person holding elective office) and he has not resigned. withdrawn or retired from such employment 30 days before the date of e fection ;
 
-(i) he has been dismissed from the public service of the Federation, State, Local Government or Area council; or
+(g) he is. a member of any secret society ;
 
-(j) he has been elected to such office at any two previous elections in the case of Chairman
+(h) he has, within the preceding period of ro years presented a forged certificate to the Commission ;
 
-(2) Where in respect of any person who has been- Disqualification
+(i) he has been dismissed from the publ ic service of the Federation, State, Loca l Government or Area council ; or
 
-33 | P a g e
+(j) he has been elected to such office at any two previous elections in the case of Chairman.
 
-(a) adjudged to be a lunatic;
+·
 
-(b) declared to be of unsound mind;
+(2) Where i n respect of any person who has been­ ( a) adjudged to be a lunatic ;
 
-(c) sentenced to death or imprisonment; or
+(b) declared to be of unsound mind ;
 
-(d) adjudged or declared bankrupt, any appeal against the decision is pending in any court of law in accordance with any law in force in Nigeria, subsection (1) of this section shall not apply during a period beginning from the date when such appeal is lodged and ending on the date when the appeal is finally determined or as the case may be, the appeal lapses or is abandoned, whichever is earlier.
+(c) sentenced to death or i mprisonment ; or
 
-(3) For the purpose of subsection (2) of this section, an ―appeal‖ includes any application for an injunction or an order of certiorari, mandamus, prohibition, or habeas corpus, or any appeal from any such application.
+(d) adjudged or declared bankrupt, any appeal against the decision is pending i n any court of taw in accordance with any l aw in force in N igeria, subsection ( I ) of this section sha l l not apply during a period beginning from the date when such appeal i s lodged and ending on the date w hen the appeal is finally determi ned or as the case may be, the appeal lapses or is abandoned, whichever is earlier.
 
-185. -(1) Election into all the Area Councils shall be held on the same date and day throughout the Federal Capital Territory.
-
-(2) Bye-elections to fill vacancies that occur in Area Councils shall be held within 30 days from the date the vacancy occurred.
-
-(3) The date mentioned in subsection (1) of this section shall not be earlier than one hundred and fifty days before and not later than ninety days before the expiration of the term of office of the last holder of that office.
-
-(4) Where a vacancy occurs more than three months before the day the Area Council stands dissolved there shall be a bye-election to fill the vacancy not later than 30 days from the date the vacancy occurred.
-
-(5) Voting shall be by open-secret ballot.
-
-Date of Area Council Elections and method of voting
+(3) For the purpose of subsection (2) of this section, an "appeal" incl udes any application for an injunction or an order of certiorari, mandamus, prohibition, habeas corpus, or any appeal from any such appl ication.

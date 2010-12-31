@@ -1,7 +1,0 @@
-11. - (1) For the purpose of maintaining and updating the Voters’ Register, the Commission shall appoint such registration, revision or update officers as it may require, provided that such officers shall not be members of any political party.
-
-(2) Any person may raise an objection against any officer during the registration or updating exercise provided that failure to raise such objection shall not vitiate the register.
-
-(3) The officers appointed under subsection (1) of this section shall exercise such functions and duties as may be specified by the Commission, in accordance with the provisions of this Act, and shall not be subject to the direction or control of any person or authority other than the Commission in the performance of their functions and duties.
-
-Appointment of officers

@@ -1,3 +1,1 @@
 55. A voter who by accident deals with his ballot paper in such a manner that it may not be conveniently used for voting, may deliver it to the Presiding Officer and if the Presiding Officer is satisfied that the ballot paper is spoilt he shall issue another ballot paper to the voter in place of the ballot paper delivered up, and the spoilt ballot paper shall be immediately marked cancelled by the Presiding Officer.
-
-Accidental destruction or marking of Ballot Papers
