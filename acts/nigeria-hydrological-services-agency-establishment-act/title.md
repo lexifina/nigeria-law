@@ -1,0 +1,15 @@
+NIGEIUA HYDROLOGICAL
+
+SERVICES AGENCY (ESTABLISHMENT) ACT, 2010.
+
+EXPLANATORY MEMORANDUM This Act establishes the Nigeria Hydrological Services Agency charged with the responsibility for, among other things, providing hydrological services in Nigeria.
+
+NIGERIA HYDROLOGICAL
+
+SERVICES AGENCY (ESTABLISHMENT) ACT, 2010.
+
+ARRANGEMENT D.F SECTIONS Section:
+
+PART 1 - ESTABLISHMENT
+
+OF THE NIGERIA HYDROLOGICAL SERVICES AGENCY
