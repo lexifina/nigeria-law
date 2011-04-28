@@ -1,0 +1,1 @@
+12. These Regulations shail not create lability on the part of the Agency or any other authorized or approving Body or employee thercof for any damages that may result from reliance on these Regulations or any administrative decision lawfully made there under.

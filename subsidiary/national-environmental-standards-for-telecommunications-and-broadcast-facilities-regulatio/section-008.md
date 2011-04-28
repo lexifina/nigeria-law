@@ -1,0 +1,3 @@
+8.-—(1) Radiation levels from telecommunications /broadcasting base stations shall be monitored to ensure that the base stations do not transmit electromagnetic waves with potential adverse effects on people and the environment,
+
+(2)Permissible radiation level for occupational staff on site and for the gencral public shall conform with all extant standards, regulations and the permissible limits approved for telecommunications/broadcasting facilitics by the World Health Organisation (WHO) and the International Commission on Non-lonising Radiation Protection (ICNIRP) and any amendments thereof.
