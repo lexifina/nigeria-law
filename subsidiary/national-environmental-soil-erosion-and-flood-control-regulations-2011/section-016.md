@@ -1,0 +1,1 @@
+16. Where base flood elevation data or roomate have not been provided, the Agency shall obtain, review and ly utilize any base flood elevation or floodway data available from Federal, relevant State or other source in order to enforce these regulations.
