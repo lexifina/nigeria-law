@@ -1,0 +1,1 @@
+9. In Telecommunication industry or body corporate/organizations deploying EMF in their operations shall employ best practices as stipulated in the National Environmental (Standards for Telecommunications/ Broadcasting Facilities) Regulations 2011 in addition to Schedule VI to these Regulations.
