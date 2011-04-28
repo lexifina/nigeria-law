@@ -1,0 +1,1 @@
+18. The provisions of regu \ation 17 of 1hese Regulations sha~l only apply to a molor vehicle intended to be uscci on the road. with or without body, having at least two wheels and a designed maximum speed exceeding 25 kik..neters per hour.

@@ -1,0 +1,1 @@
+26. The owner or the person operating the motor verucle shall ensure that the prohibition order is not in any way obscured, rendered illegible or removed except with the written approval of the Agency.

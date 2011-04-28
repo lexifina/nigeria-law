@@ -1,0 +1,1 @@
+20. With effect from 28th April, 201 l, any assembler, manufacturer, or importer shall not manufacture, assemble or import ar,y vehicle with a diesel engine withoul a certified emission reduction technology for the control of emissions from sc:r vehicles.

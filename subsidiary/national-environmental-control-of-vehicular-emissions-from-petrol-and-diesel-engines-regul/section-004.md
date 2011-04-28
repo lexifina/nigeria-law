@@ -1,0 +1,1 @@
+4. The provisions of regulation 3 of these Regulations shall only apply to a motor vehicle intended tO be used on the road, with or without body, having at least two wheels but shall not apply to a motor vehicle used for racing purposes in designated racing circuits or in approved racing events.
