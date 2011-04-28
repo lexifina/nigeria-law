@@ -1,0 +1,1 @@
+8. Every facility, corporation or organisation shall prepare a voluntary action programme for global warming control measures and such measures shall take into account energy-saving and best available technology in their production processes.

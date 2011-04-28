@@ -1,0 +1,3 @@
+18.—(1) A facility shall not discharge effivent onto land, into 2 ‘watercourse Or into a water body unless the facility ensures that the parameters of the effluent do not exceed the permissible limits set out in Schedules | and TV to these Regulations.
+
+(2) Notwithstanding sub-regulation ! of this regulation, any facility using an influent, the limits of concentration or value of any of the parameters of which exceeds the permissible limit for that parameter set out in Schedules I and TV to these Regulations, shall ensure that the concentration or value of the parameters of the effluent conforms to the prescribed standard.

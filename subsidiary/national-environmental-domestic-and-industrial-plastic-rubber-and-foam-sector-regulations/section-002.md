@@ -1,0 +1,1 @@
+2. The principal thrust of these Regulations is to prevent and minimize pollution from all opcrations and ancillary activities of the Domestic and Industrial Plastic, Rubber and Foam Scctor to the Nigerian environment.
