@@ -1,0 +1,3 @@
+18. Withdrawal of Permit.
+
+PART III-OFFENCES AND PENALTIES
