@@ -1,0 +1,1 @@
+10. It is a criminal offence punishable on conviction by the Court with a minimum of 1 year imprisonment for any officer or head of any government or public institution to which this Act applies to willfully destroy any records kept in his custody or attempt to doctor or otherwise alter same before they are released to any person, entity or community applying for it.

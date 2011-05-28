@@ -1,0 +1,1 @@
+18. Notwithstanding any other provision of this Act, where an application is made to a public institution for information which is exempted from disclosure by virtue of this Act, the institution shall disclose any part of the information that virtue does not contain such exempted information.

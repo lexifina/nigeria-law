@@ -1,0 +1,1 @@
+24. In any proceeding before the Court arising from an application under Section 20, the burden of establishing that the public institution is authorized to deny an application for information or part thereof shall be on the public institution concerned.

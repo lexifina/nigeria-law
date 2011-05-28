@@ -1,0 +1,1 @@
+20. Any applicant who has been denied access to information, or a apart thereof, may apply to the Court for a review of the matter within 30 days after the public institution denies or is deemed to have denied the application, or within such further time as the Court may either before or after the expiration of the 30 days fix or allow.

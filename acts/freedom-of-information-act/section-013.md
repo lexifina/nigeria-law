@@ -1,0 +1,1 @@
+13. Every government or public institution must ensure the provision of appropriate training for its officials on the public's right to access information or records held by government or public institutions, as provided for in this Act and for the effective implementation of this Act.
