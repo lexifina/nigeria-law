@@ -1,3 +1,11 @@
-54. Judgment conclusive of facts forming ground of judgment Every judgment is conclusive proof, as against parties and privies, of facts directly in issue in the case, actually decided by the court, and appearing from the judgment itself to be the ground on which it was based;
+54. When the court has to form an opinion as to the existence of any fact of a public nature, any statement of it. made in a recital contained in any enactment or in any proclamation or speech of the President in opening the National Assembly, or in any proclamation or speech.
 
-unless evidence was admitted in the action in which the judgment was delivered which is excluded in the action in which that judgment is intended to be proved.
+or in any statement made in a Government or public notice appearing in the Federal Gazette or in a State notice or a State public notice appearing in a State Gazette or the Government Gazeue of any other country is admissible.
+
+When snncmcnr made under ,IllY crunuml procedure legi.~I<llioll mav be used in evidence Statement uf defendant at prcliminarv mvesugnuun coroner's inq ucst Admission of \\"rilll:n starcnu ..'nls {ll investigating police officers in certain cases.
+
+Absence of public officers Statements ruadc in spccin! eireullbWnccs entries in book, (If" account
+
+1:n[I".1 ill flubii •...rcccurl-, made ill pcrtnr.nancc of duty Sraremcms in maps.
+
+charts and plnn-, SllIlclllenl as 10 I,]C] 01 public nature contained in ccn.uu acts or nouficatinnx Certificates ofSpecified Government Officers

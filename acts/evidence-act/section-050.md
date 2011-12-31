@@ -1,13 +1,3 @@
-50. Relevancy of certain judgments in certain jurisdiction
+50. In the case or a person employed in the public service of the Federation or of a State who is required to give evidence for any purpose connected with a judicial proceeding, it shall be sufficient to account for his non-attendance at the hearing of the said judicial proceeding if there is produced to the court either a Federal or State Gazette or a telegram, an email or letter purporting to emanate from the head of his department.
 
-(1) A final judgment, order or decree of a competent court, in the exercise of probate, matrimonial, admiralty or insolvency jurisdiction, which confers upon or takes away from any person any legal character, or which declares any person to be entitled to any such character, or to be entitled to any specific thing, not as against any specified person but absolutely, is relevant when the existence of any such legal character, or the title of any such persons to any such thing, is relevant.
-
-(2) Such judgment, order or decree is conclusive proof‐
-
-(a) that any legal character which it confers accrued at the time when such judgment, order or decree came into operation;
-
-(b) that any legal character, to which it declares any such person to be entitled, accrued to that person at the time when such judgment, order or decree declares it to have accrued to that person;
-
-(c) that any legal character which it takes away from any such person ceased at the time from which such judgment, order or decree declared that it had ceased or should cease; and
-
-(d) that anything to which it declares any person to be so entitled was the property of that person at the time from which such judgment, order or decree declares that it had been or should be his property.
+sufficiently explaining to the satisfaction of the court his apparent default.

@@ -1,1 +1,0 @@
-122. Presumption as to due execution of documents not produced The court shall presume that every document, called for and not produced after notice to produce given under section 98 of this Act, was attested, stamped and executed in the manner required by law.

@@ -1,13 +1,13 @@
-98. Rules as to notice to produce Secondary evidence of the contents of the documents referred to in paragraph (a) of subsection (1) of section 97 of this Act, shall not be given unless the party proposing to give such secondary evidence has previously given to the party in whose possession or power the document is, or to a legal practitioner employed by such party, such notice to produce it as is prescribed by law; and if no notice is prescribed by law, then such notice as the court considers reasonable in the circumstances of the case:
+98. (I) A person seeking to prove the due execution of a document is 110tbound to call the party who executed the document or to prove the handwriting of such party or of an attesting witness in any case where the person against whom the document is sought to be proved ----
 
-Provided that such notice shall not be required in order to render secondary evidence admissible in any of the following cases, or in any other case in which the court thinks fit to dispense with it‐
+(a) produces such document and claims ail interest under it in reference Lu the suhic.:
 
-(a) when the document to be proved is itself a notice;
+matter of the suit: or
 
-(b) when, from the nature of the case, the adverse party must know that he will be required to produce it;
+(b) is a public officer bound by law to procure its due execution, and he has dealt with it as a document duly executed.
 
-(c) when it appears or is proved that the adverse party has obtained possession of the original by fraud or force;
+(2) Nothing contained in this section shall prejudice the right of a person to put in evidence any document in the manner mentioned in sections
 
-(d) when the adverse party or his agent has the original in court;
+89 and 90, or under section
 
-(e) when the adverse party or his agent has admitted the loss of the document.
+155 of this AcL

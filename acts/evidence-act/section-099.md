@@ -1,3 +1,5 @@
-99. Proof that bank is incorporated under law The fact of any bank having duly made a return to the Board of Inland Revenue in Nigeria, may be proved in any legal proceedings by production of a copy of its return verified by the affidavit of a partner or officer of the bank, or by the production of a copy of a newspaper purporting to contain a copy of such return published by the said Board of Inland Revenue; the fact that any savings bank is established under the Federal Savings Bank Act, may be proved by a certificate purporting to be under the hand of the managing director in charge of such savings bank; the fact of any banking company having been incorporated under any charter hereafter or here before granted may be proved by the production of a certificate of a partner or officer of the bank that it has been duly incorporated under such charter.
+99. Ifthe attesting witness denies or does not recollect the execution of the document.
 
-[Cap. F20.] Proof of execution of documents
+its execution may be proved by other evidence.
+
+100, All attested document not required by law to be attested may be proved as if it was unattested.

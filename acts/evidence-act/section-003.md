@@ -1,1 +1,5 @@
-3. Relation of relevant facts One fact is said to be relevant to another when the one is connected with the other in any of the ways referred to in the provisions of this Act relating to the relevancy of facts.
+3. Nothing in this Act shall prejudice the admissibility of any evidence that is made admissible by any other legislation validly in force in Nigeria.
+
+PART II,- RELEVANCY Relevance of Facts Commencement Evidence may be given of facts in issue and relevant facts Evidence In accordance with section I gencratf admissible.
+
+Admissibility of evidence under other legislation

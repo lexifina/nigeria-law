@@ -1,1 +1,3 @@
-38. Entries in books of account, when relevant Entries in books of account, regularly kept in the course of business, are relevant whenever they refer to a matter into which the court has to inquire, but such statements shall not alone be sufficient evidence to charge any person with liability.
+38. Hearsay evidence is not admissible except as provided in this Part or by or under any Hearsay rule other provision of this or any other Act.
+
+Statements made by Persons who cannot be called as Witnesses

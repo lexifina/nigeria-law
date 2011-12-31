@@ -1,537 +1,511 @@
-EVIDENCE ACT
+EVIDENCE ACT, 2011
 
-ARRANGEMENT OF SECTIONS
+EXPLANATORY MEMORANDUM This Act repeals the Evidence Act, Cap. E14, Laws of the Federation of Nigeria, and enacts a new Evidence Act, 2011 which applies to all judicial proceedings in or before Courts in Nigeria.
 
-PART I Preliminary Short title and interpretation SECTION
+EVIDENCE ACT, 2011 ARRANGEMENT OF SECTIONS SECTION:
 
-1. Short title and application.
+PART I- GENERAL Evidence may be given of facts in issue and relevant facts.
 
-2. Interpretation.
+o Evidence in accordance with section I generally admissible.
 
-3. Relation of relevant facts.
+Admissibility of evidence under other legislation.
 
-4. Presumptions.
+PART JI- RELEVANCY Relevance of facts forming part of same transaction.
 
-5. Savings as to certain evidence.
+Facts which are the occasion, cause or effect or facts in issue.
 
-PART II Relevancy Relevance of facts
+Motive, preparation and previous or sub-sequent conduct.
 
-6. Evidence may be given of facts in issue and relevant facts.
+Facts necessary to explain or introduce relevant facts.
 
-7. Relevancy of facts forming part of same transaction.
+Things said or done by conspirator in reference to common intention.
 
-8. Facts which are the occasion, cause or effect of facts in issue.
+When facts not otherwise relevant become relevant.
 
-9. Motive, preparation and previous or subsequent conduct.
+]0 Certain facts relevant in proceedings for damages.
 
-10. Facts necessary to explain or introduce relevant facts.
+II Facts showing existence of state of mind, body or bodily feeling.
 
-11. Things said or done by conspirator in reference to common intention.
+I:::
 
-12. When facts not otherwise relevant become relevant.
+Facts bearing on question whether act was accidental or intentional.
 
-13. Certain facts relevant in proceedings for damages.
+jJ Existence of course ofbus.ness.
 
-14. What customs admissible.
+when relevant.
 
-15. Relevant facts as to how matter alleged to be custom understood.
+PART HI·- RELEVANO:
 
-16. Facts showing existence of state of mind, or of body, or bodily feeling.
+AND ADMISSlIllLITY OF C~;j{TA{N EVJnPWE Discretion to exclude improperly obtained evidence.
 
-17. Facts bearing on question whether act was accidental or intentional.
+]5 Matters court to take into account under section ]4.
 
-18. Existence of course of business when relevant.
+What customs admissible.
+
+Judicial notice of custom.
+
+[8 Evidence of customs.
+
+Relevant facts as to how matter alleged to be custom understood ..
+
+Admission defined.
+
+Admission by privies.
+
+Admissions by persons whose position must be proved as against party to suit.
+
+Admissions by persons expressly referred to by party to suit.
+
+Proof of admissions against persons making them, and by or on their behal C When oral admissions as to contents of documents are relevant.
+
+Admissions in civil cases, when relevant.
 
 Admissions
 
-19. "Admission" defined.
+110t conclusive proof; but may be stop.
 
-20. Admissions by party to proceeding or his agent.
+Confession defined.
 
-21. Admissions by persons whose position must be proved as against party to suit.
+When confession is relevant.
 
-22. Admissions by persons expressly referred to by party to suit.
+Facts discovered in consequence of information given by defendant.
 
-23. Proof of admissions against persons making them, and by or on their behalf.
+3I Confession otherwise relevant not to become irrelevant because of promise of secrecy, etc.
 
-24. When oral admissions as to contents of documents are relevant.
+Evidence in other proceedings amounting to a confession is admissible.
 
-25. Admissions in civil cases when relevant.
+What evidence to be given when statement forms part of a conversation, document, book or series of letters or papers.
 
-26. Admissions not conclusive proof, but may estop.
+Weight to be attached to admissible statements.
 
-Confessions
+Acts of possession and enjoyment of land may be evidence.
 
-27. Definition of "confession".
+Evidence of scienter upon charge of receiving stolen property.
 
-28. Confession caused by inducement, threat or promise when irrelevant in criminal proceedings.
+I'ART IV - HEARSAY, OPINION AN]} CHARACTER EVIDENCE:
 
-29. Facts discovered in consequence of information given by accused.
+RICLEVANCE AN]} ADMISSIBILITY Hearsay defined.
 
-30. Confession made after removal of duress, relevant.
+Hearsay rule.
 
-31. Confession otherwise relevant not to become irrelevant because of promise of secrecy.
+Statements by persons who cannot be called as witnesses.
 
-32. Evidence in other proceedings amounting to a confession is admissible.
+Statements relating to cause of death.
 
-Statements by person who cannot be called as witnesses
+Statements made in the course of business.
 
-33. Cases in which statement of relevant fact by person who is dead is relevant dying declaration.
+Statement against interest of maker with special knowledge.
 
-34. Relevancy of certain evidence for proving, in subsequent proceeding, the truth of facts therein stated.
+Statements of opinions as to public right or custom and matters of general interest.
 
-35. When statement may be used in evidence.
+Statements relating to rile existence of a relationship.
 
-36. Admission of written statements of investigating police officers in certain cases.
+Declarations by testators.
 
-37. Statement of accused at preliminary investigation.
+Admissibility of certain evidence for proving, in subsequent proceeding, the truth of facts stated in it.
 
-Statements made in special circumstances
+When statement made under any criminal procedure legislation may be used in evidence.
 
-38. Entries in books of account, when relevant.
+Statement of defendant at preliminary investigation or coroner's inquest.
 
-39. Relevancy of entry in public records made in performance of duty.
+Admission ofwritten statements of investigating police officers in certain cases.
 
-40. Relevancy of statements in maps, charts and plans.
+Absence of public officers.
 
-41. Relevancy of statement as to fact of public nature contained in certain Acts or notifications.
+Statements made in special circumstances entries in books of account.
 
-42. Certificates of specified government officers to be sufficient evidence in all criminal cases.
+Entry in public records made in performance of duty.
 
-43. Service of certificates on other party before hearing.
+Statements in maps, charts and plans.
 
-44. Genuineness of certificates to be presumed.
+Statement as to fact of public nature contained in certain acts or notifications.
 
-Facts relevant in special circumstances
+Certificates of specified government officers to be sufficient evidence in all criminal cases.
 
-45. Family or communal tradition in land cases.
+Certificates of Central Bank officers as evidence in criminal cases.
 
-46. Acts of possession and enjoyment of land.
+Service of certificates on other party before hearing, Genuineness of certificates to be presumed, Previous judgments admissible to bar a second suit or trial.
 
-47. Evidence of scienter upon charge of receiving stolen property.
+Admissibility of certain Judgments in certain jurisdictions, Admissibility and effect ofjudgments other than those mentioned in section
 
-How much of a statement is to be proved
+60, Judgment, etc, other than those mentioned in sections
 
-48. What evidence is to be given when statement forms part of a conversation, document, book or series of letters or papers.
+59 to 61, when admissible, Conviction as evidence in civil proceedings, Fraud or collusion in obtaining judgment, or non-jurisdiction of court, may be proved, Judgment conclusive in favour of judge, Family or communal tradition admissible in land cases, Opinion inadmissible except as provided in this Act.
 
-Judgements of courts of justice when relevant
+Opinions of experts, when admissible, Opinions as to foreign law, Opinions as to customary law and custom,
 
-49. Previous judgments relevant to bar a second suit or trial.
+7] Facts bearing upon opinions of experts, Opinion as to handwriting, when admissible, Opinion as to existence of "general custom or right" when admissible, Opinions as to usages and tenets, when admissible,
 
-50. Relevancy of certain judgments in certain jurisdiction.
+7S Opinion on relationship, when admissible, Grounds of opinion when admissible, Character defined, In civil cases, evidence of character generally inadmissible.
 
-51. Relevancy and effect of judgments other than those mentioned in section 50.
+Character as affecting damages, In libel and slander, notice must be given of evidence of character, In criminal cases evidence of good character admissible, Evidence of character of the accused in criminal proceedings, PAHT V -- DOCUMENTAHY EVIDENCE Admissibil ity of documentary evidence as to facts in issue, Admissibility of statement in document produced by computers, Proof of contents of documents.
 
-52. Judgments, etc., other than those mentioned in sections 49 to 51, when relevant.
+Primary evidence.
 
-53. Fraud or collusion in obtaining judgment or incompetency of court, may be proved.
+Secondary evidence, Proof of documents by primary evidence, Cases in which secondary evidence relating to document.
 
-54. Judgment conclusive of facts forming ground of judgment.
+Nature of secondary evidence admissible under section
 
-55. Effect of judgment not pleaded as estoppel.
+89, Rules as to notice to produce.
 
-56. Judgment conclusive in favour of judge.
+Proof that bank has made returns or been duly licensed, Proof of signature and handwriting and electronic signature.
 
-Opinions of third persons when relevant
+Identification of person signing a document.
 
-57. Opinions of experts.
+9S Evidence of sealing and delivery of a document.
 
-58. Opinions as to foreign law.
+Proof of instrument to the validity of which attestation is necessary.
 
-59. Opinions as to native law and custom.
+Admission of execution by part to attested document.
 
-60. Facts bearing upon opinions of experts.
+Cases in which proof of execution or of handwriting unnecessary.
 
-61. Opinion as to handwriting, when relevant.
+Proof when attesting witness denies the execution.
 
-62. Opinion as to existence of "general custom or right", when relevant.
+Proof of document not required by law to be attested.
 
-63. Opinions as to usages, tenets, when relevant.
+Comparison of signature, writing, seal or finger impressions with others admitted or proved.
 
-64. Opinions on relationship, when relevant.
+Public documents.
 
-65. Grounds of opinion, when relevant.
+Private documents.
 
-66. Opinions generally irrelevant.
+Certified copies of public documents.
 
-Character, when relevant
+Proof of documents by production of certified copies.
 
-67. In civil cases, character to prove conduct imputed irrelevant.
+Proof of other official documents.
 
-68. In criminal cases, previous good character relevant.
+COUltmay order proof by affidavit.
 
-69. Evidence of character of the accused in criminal proceedings.
+Affidavit to be filled.
 
-70. Character as affecting damages.
+Affidavit sworn in Nigeria.
 
-71. In libel and slander notice must be given of evidence of character.
+Proof of document not required by law to be attested.
 
-72. Meaning of word "character".
+J 1J Proof of seal and signature.
 
-PART III Proof Facts which need not be proved
+Affidavit not to be sworn before certain persons.
 
-73. Fact judicially noticeable need not be proved.
+Affidavit defective in form.
 
-74. Facts of which court must take judicial notice.
+I )4 Amendment and re-swearing of affidavit.
 
-75. Facts admitted need not be proved.
+Contents of affidavits.
 
-PART IV Oral evidence and the inspection of real evidence
+J J 6 Conflicting affidavits, ] ]7 Form of affidavits.
 
-76. Proof of fact by oral evidence.
+1] 8 Provisions as to altered affidavit.
 
-77. Oral evidence must be direct.
+Jurat.
 
-PART V Documentary evidence Affidavits
+Declaration without oath may be taken.
 
-78. Court may order proof by affidavit.
+PART VI -PROOF Proofoffacts.
 
-79. Affidavits to be filed.
+Facts of which COUltmust take judicial notice need not to proved.
 
-80. Before whom sworn.
+Facts admitted need to be proved.
 
-81. Sworn in foreign parts.
+Facts of common knowledge need not be proved.
 
-82. Proof of seal and signature.
+PART VII -
 
-83. Affidavit not to be sworn before certain persons.
+ORAL EVIDENCE AND THE INSPECTION OF REAL EVIDENCE Proof of facts by oral evidence.
 
-84. Defective in form.
+Oral evidence must be direct.
 
-85. Amendment and re‐swearing.
+Inspection when oral evidence refers to real evidence.
 
-86. Contents of affidavits.
+PART VIII .- EXCLlJSION
 
-87. No extraneous matter.
+OF ORAL BY DOCUMENTAHV EVJl)ENCE ]32 ]34 ]38 ]39 ]40 ]41 ]42 ]44 ]45 i-17 ]50 ]51 ]53 Evidence of terms of judgments, contracts, grants and other dispositions of property reduced to a documentary form.
 
-88. Grounds of belief to be stated.
+Evidence as to interpretation of documents.
 
-89. Informant to be named.
+Application of this Part.
 
-90. Provisions in taking affidavits.
+PART IX - PRODUCTION AND EFFECT os EVll)ENCE Burden of proof.
 
-Admissibility of documentary evidence
+On whom burden of proof lies.
 
-91. Admissibility of documentary evidence as to facts in issue.
+Burden of proof in civil cases.
 
-92. Weight to be attached to evidence.
+Standard of proof in civil cases.
 
-Primary and secondary documentary evidence
+Standard of proof where comm ission of crime in issue and burden where guilt of crime, etc. asserted.
 
-93. Proof of contents of documents.
+Burden of proof as to particular fact.
 
-94. Primary evidence.
+Standard of proof where burden of proving fact, etc. placed on defendant by law.
 
-95. Secondary evidence.
+Burden of proving fact necessary to be proved to make evidence admissible.
 
-96. Proof of documents by primary evidence.
+Burden of proof in criminal cases.
 
-97. Cases in which secondary evidence relating to documents may be given.
+Proof of facts especially within knowledge.
 
-98. Rules as to notice to produce.
+Exceptions need not be proved by prosecution.
 
-99. Proof that bank is incorporated under law.
+Burden of proof as to relationship in the case of partners, landlord and tenant, principal and agent.
 
-Proof of execution of documents
+Burden of proof as to ownership.
 
-100. Proof of signature and handwriting of person alleged to have signed or written document produced.
+Proof' ofgood faith in transactions where one party is in relation of active confidence.
 
-101. Identification of person signing a document.
+PART X --
 
-102. Evidence of sealing and delivery of a document.
+PRESUMPTIONS
 
-103. Proof of instrument to validity of which attestation is necessary.
+AND ESTOPPEL Rules as to presumptions by the court.
 
-104. Admission of execution by party to attested document.
+Presumption as to genuineness of certified copies.
 
-105. Cases in which proof of execution or of handwriting unnecessary.
+Presumption as to documents produced as record 0 f evidence.
 
-106. Proof when attesting witness denies the execution.
+Presumption as to gazettes, newspapers, Acts of the National Assembly and other documents.
 
-107. Proof of document not required by law to be attested.
+Presumption as to document admissible in other countries without proof or seal or signature.
 
-108. Comparison of signature, writing, seal or finger impressions with others admitted or proved.
+Presumption as to powers of attorney.
 
-Public and private documents
+Presumption as to public maps and charts.
 
-109. Public documents.
+Presumption as to books.
 
-110. Private documents.
+Presumption as to telegraphic and electronic messages.
 
-111. Certified copies of public documents.
+Presumption as to due execution of documents not produced.
 
-112. Proof of documents by production of certified copies.
+Presumption as to handwriting, etc. in documents twenty years old.
 
-113. Proof of other official documents.
+Proper custody defined.
 
-Presumption as to documents
+Presumption as to date of documents.
 
-114. Presumption as to genuineness of certified copies.
+Presumption as to stamp of a document.
 
-115. Presumption as to documents produced as record of evidence.
+in Presumption as to sealing and delivery.
 
-116. Presumption as to gazettes, newspapers, private Acts of the National Assembly and other official documents.
+Presumption as to alternative.
 
-117. Presumption as to document admissible in United Kingdom without proof of seal or signature.
+Presumption as to age of parties to a conveyance or instrument.
 
-118. Presumption as to powers of attorney.
+Presumption as to statements in documents twenty years old.
 
-119. Presumptions as to public maps and charts.
+Presumption as to deeds of corporation.
 
-120. Presumption as to books.
+Presumption of death fr0111seven years absence and other facts.
 
-121. Presumption as to telegraphic messages.
+Presumption of legitimacy.
 
-122. Presumption as to due execution of documents not produced.
+Presumption of marriage.
 
-123. Presumption as to documents twenty years old.
+Court may presume existence of certain facts.
 
-124. Meaning of expression "proper custody".
+Presumptions of regularity and of deeds to complete title.
 
-125. Presumption as to date of documents.
+Estoppel.
 
-126. Presumption as to stamp of a document.
+Estoppel of tenant; and of licensee of person in possession.
 
-127. Presumption as to sealing and delivery.
+Estoppel of bailee, agent and licensee.
 
-128. Presumption as to alterations.
+Estoppel of person signing Act of lading.
 
-129. Presumption as to age of parties to a document.
+Judgment conclusive of facts forming ground of judgment.
 
-130. Presumption as to statements in documents twenty years old.
+Effect of j udgment not pleaded as estoppel.
 
-131. Presumptions as to deeds of corporations.
+PART XI - WITNESSES Who may testify.
 
-PART VI The exclusion of oral by documentary evidence
+Dumb witnesses.
 
-132. Evidence of terms of judgments, contracts, grants and other dispositions of property reduced to a documentary form.
+Cases in which banker or officers representing other financial institutions not compellable to produce books.
 
-133. Evidence as to the interpretation of documents.
+Parties to civil suits and their wives or husbands.
 
-134. Application of this Part.
+Competence in criminal cases.
 
-PART VII Production and effect of evidence Of the burden of proof
+Competence of person charged to give evidence Comment on failure by defendant to give evidence.
 
-135. Burden of proof.
+Evidence by husband or wife, when compellable.
 
-136. On whom burden of proof lies.
+Witness not to be compellable to incriminate himself.
 
-137. Burden of proof in civil cases.
+Production of title deeds or other documents of witness not a party.
 
-138. Burden of proof beyond reasonable doubt.
+Production of documents which another person could refuse to produce.
 
-139. Burden of proof as to particular fact.
+Evidence by spouse as to adultery.
 
-140. Burden of proving fact to be proved to make evidence admissible.
+Communications during marriage.
 
-141. Burden of proof in criminal cases.
+Compellability, of justices etc. or the persons before whom the proceeding is being held.
 
-142. Proof of facts especially within knowledge.
+Restriction on disclosure as to source of information in respect of commission of offences.
 
-143. Exceptions need not be proved by prosecution.
+Evidence as to affairs of State.
 
-144. Presumption of death from seven years' absence and other facts.
+Official communication.
 
-145. Burden of proof as to relationship in the case of partners, landlord and tenant, principal and agent.
+Professional communication between client and Icgal practitioner.
 
-146. Burden of proof as to ownership.
+Section 192 to apply to interpreters and clerks.
 
-147. Proof of good faith in transactions where one party is in relation of active confidence.
+Privilege not waived by volunteering evidence.
 
-148. Birth during marriage usually conclusive proof of legitimacy.
+20J
 
-149. Court may presume existence of certain facts.
+2JO
 
-150. Presumptions of regularity and of deeds to complete title.
+2 J I
 
-PART VIII Estoppel
+2J2 ::16 Confidential communication with legal advisers.
 
-151. Estoppel.
+Statements in documents marked "without prejudice".
 
-152. Estoppel of tenant; and of licensee of person in possession.
+Corroboration in actions for breach of promise of marriage.
 
-153. Estoppel of bailee, agent and licensee.
+Accomplice.
 
-154. Estoppel of person signing bill of lading.
+Co-defendant not an accomplice.
 
-PART IX Witnesses Competence of witnesses generally
+Number of witnesses.
 
-155. Who may testify.
+Treason and treasonable offences.
 
-156. Dumb witnesses.
+Evidence on charge of perjury.
 
-157. Case in which banker not compellable to produce books.
+Exceeding speed limit.
 
-158. Parties to civil suit, and their wives or husbands.
+Sedition.
 
-159. Competency in criminal cases.
+PART XII -TAKING
 
-160. Competency of person charged to give evidence.
+OF ORAL EVIDENCE AND EXAMINATION OF WITNESSES Oral evidence to be on oath or affirmation.
 
-161. Evidence by husband or wife: when compellable.
+Witness to be cautioned before giving oral evidence.
 
-162. Communications during Islamic marriage privileged.
+Absence of religious belief does not invalidate oath.
 
-Competency in proceedings relating to adultery
+Cases in which evidence not given upon oath may be received.
 
-163. Evidence by spouse as to adultery.
+Unsworn evidence of a child.
 
-Communications during marriage
+Order of production and examination of witnesses.
 
-164. Communications during marriage.
+Court to decide as to admission of evidence.
 
-Official and privileged communications
+Ordering witnesses out of court, Preventing communication with witnesses.
 
-165. Judges and magistrates.
+Examination-in-chief, cross-examination and re-examination.
 
-166. Information as to commission of offences.
+Order and direction of examination.
 
-167. Evidence as to affairs of State.
+Cross-examination by co-defendant ofprosecution witness.
 
-168. Official communications.
+Cross-examination by-co-defendant of witness called by a defendant.
 
-169. Communications between jurors.
+Production of documents without giving evidence.
 
-170. Professional communication.
+Cross-examination of person called to produce a document.
 
-171. Section 170 to apply to interpreters and clerks.
+Witnesses to character.
 
-172. Privilege not waived by volunteering evidence.
+Leading question.
 
-173. Confidential communication with legal advisers.
+Evidence as to matters in writing.
 
-174. Production of title‐deeds of witness not a party.
+Question lawful in cross-examination.
 
-175. Production of documents which another person could refuse to produce.
+Court to decide whether question shall be asked and when a witness may be compelled to answer.
 
-176. Witness not to be compelled to incriminate himself.
+Question not to be asked without reasonable grounds.
 
-Corroboration
+Procedure of court in case of question being asked without reasonable grounds.
 
-177. In actions for breach of promise.
+Indecent and scandalous questions.
 
-178. Accomplice.
+Questions intended to insult or annoy.
 
-179. Number of witnesses.
+Exclusion of evidence to contradict answers to questions testing veracity.
 
-PART X Taking oral evidence and the examination of witnesses The taking of oral evidence
+How far a party may discredit his own witness.
 
-180. Oral evidence to be on oath or affirmation.
+Proof of contradictory statement of hostile witness.
 
-181. Absence of religious belief does not invalidate oath.
+Cross-examination as to previous statements in writing.
 
-182. Cases in which evidence not given upon oath may be received.
+Impeaching credit of witness.
 
-183. Unsworn evidence of child.
+Special restrictions in respect of permissible evidence in trial for sexual offences.
 
-184. Evidence of first and second class chiefs.
+Evidence of witness impeaching credit.
 
-The examination of witnesses
+Questions tending to render evidence of relevant fact more probable, admissible.
 
-185. Order of production and examination of witnesses.
+Former statements of witness may be proved to show consistency.
 
-186. Judge to decide as to admissibility of evidence.
+What matters may be proved in connection with proved statement relevant under sections 40 t050.
 
-187. Ordering witnesses out of court.
+Refreshing memory.
 
-188. Examination‐in‐chief.
+Testimony to facts stated in document mentioned in section 239.
 
-189. Order of examinations.
+Right of adverse party as to writing used to refresh memory.
 
-190. Cross‐examination by co‐accused of prosecution witness.
+Production of documents.
 
-191. Cross‐examination by co‐accused of witness called by an accused.
+Exclusion of evidence on grounds of public interest.
 
-192. Production of documents without giving evidence.
+Giving as evidence document called for and produced on notice.
 
-193. Cross‐examination of person called to produce a document.
+Using, as evidence a, of document production of which was refused on notice.
 
-194. Witnesses to character.
+Judge's power to put questions or order production of documents, etc.
 
-195. Leading questions.
+Power of assessors to put questions.
 
-196. When they must not be asked.
+PART XII] -- EVIDENCE OF PREVIOUS CONVICTION Proof of previous conviction.
 
-197. When they may be asked.
+Proof of previous conviction outside Nigeria.
 
-198. Evidence as to matters in writing.
+Additional mode of proof in criminal proceedings of a previous conviction.
 
-199. Cross‐examination as to previous statements in writing.
+PART XIV - WRONGFUL ADMISSION
 
-200. Questions lawful in cross‐examination.
+AND REJECTION OF EVIDENCE Wrongful admission or exclusion of evidence.
 
-201. Court to decide whether question shall be asked and when witness compelled to answer.
+PART XV - SERVICE AND EXECUTION THROUGH-OUT NIGERIA OF PROCESS TO COMPEL
 
-202. Question not to be asked without reasonable grounds.
+THE ATTENDANCE
 
-203. Procedure of court in case of question being asked without reasonable grounds.
+OF WITNESSES BEFORE COlJRTS
 
-204. Indecent and scandalous questions.
+OF THE STATES
 
-205. Questions intended to insult or annoy.
+AND THE FEDERAL CAPITAL TEHRITORY, ABU.IA AND TilE FEDERAL HIGH COURT Interpretation of "Court" in this part.
 
-206. Exclusion of evidence to contradict answers to questions testing veracity.
+Subpoena or witness summons may be served in another state.
 
-207. How far a party may discredit his own witness.
+Orders for production ofprisoners.
 
-208. Proof of contradictory statement of hostile witness.
+PART XVI -
 
-209. Cross‐examination as to previous statements in writing.
+MISCELLANEOUS
 
-210. Impeaching credit of witness.
+AND SUPPLEMENTAL Regulations.
 
-211. Cross‐examination of prosecutrix in certain cases.
+Application.
 
-212. Evidence of witness impeaching credit.
+Repeal.
 
-213. Questions tending to corroborate evidence of relevant fact, admissible.
+Interpretation.
 
-214. Former statements of witness may be proved to corroborate later testimony as to same fact.
+Citation.
 
-215. What matters may be proved in connection with proved statement relevant under section 33 or 34.
+EVIDENCE ACT, 2011 A Bill For An Act to repeal the Evidence Act, Cap. E14, Laws of the Federation of Nigeria, and enact a new Evidence Act which shall apply to all judicial proceedings in or before Courts in Nigeria; and for related matters [oNAl'TED by the National Assembly of the Federal Republic of Nigeria .
 
-216. Refreshing memory.
-
-217. Testimony to facts stated in document mentioned in section 216.
-
-218. Right of adverse party as to writing used to refresh memory.
-
-219. Production of documents.
-
-220. Exclusion of evidence on grounds of public interest.
-
-221. Giving as evidence of document called for and produced on notice.
-
-222. Using, as evidence, of document production of which was refused on notice.
-
-223. Judge's power to put questions or order production.
-
-224. Power of jury or assessors to put questions.
-
-PART XI Evidence of previous conviction
-
-225. Proof of previous conviction.
-
-226. Additional mode of proof in criminal proceedings of previous conviction.
-
-PART XII Wrongful admission and rejection of evidence
-
-227. Wrongful admission or exclusion of evidence.
-
-PART XIII Service and execution throughout Nigeria of process to compel the attendance of witnesses before courts of the States and the Federal Capital Territory, Abuja and the Federal High Court
-
-228. Interpretation.
-
-229. Subpoena or witness summons may be served in another State.
-
-230. Orders for production of prisoners.
-
-____________________
-
-EVIDENCE ACT An Act to provide for the law of evidence to be applied in all judicial proceedings in or before courts in Nigeria.
-
-[27 of 1943.46 of 1945.20 of 1950.6 of 1955.21 of 1955.52 of 1958. Order 47 of 1951.
-
-L.N. 131 of 1954.47 of 1955. 1991 No. 61.] [1st June, 1945] [Commencement.]
-
-PART I Preliminary Short title and interpretation
+PART I - GENERAL Relevant Evidence in Suits and Proceedings

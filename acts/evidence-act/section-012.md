@@ -1,5 +1,7 @@
-12. When facts not otherwise relevant become relevant Facts not otherwise relevant are relevant‐
+12. When there is a question whether an act was accidental or intentional.
 
-(a) if they are inconsistent with any fact in issue or relevant fact;
+or done with a particular knowledge or intention or to rebut any defence that may otherwise be open to the defendant, the fact that such act formed part of a series of similar occurrences.
 
-(b) if by themselves or in connection with other facts they make the existence or non‐ existence of any fact in issue or relevant fact probable or improbable.
+in each ol which the person doing the act was concerned.
+
+is relevant.

@@ -1,5 +1,17 @@
-102. Evidence of sealing and delivery of a document
+102. The following documents are public documents-
 
-(1) Evidence that a person signed a document containing a declaration that a seal was his seal, is admissible to prove that he sealed it.
+(a) documents forming the official acts or records of the official acts of-----
 
-(2) Evidence that the grantor on executing any document requiring delivery expressed an intention that it should operate at once, is admissible to prove delivery.
+(i) the sovereign authority,
+
+(ii) official bodies and tribunals, or
+
+(iii) public officers.
+
+legislative, judicial and executive.
+
+whether of Nigeria or elsewhere:
+
+and
+
+(b) public records kept in Nigeria of private documents.

@@ -1,1 +1,0 @@
-89. Informant to be named When such belief is derived from information received from another person, the name of his informant shall be stated, and reasonable particulars shall be given respecting the informant, and the time, place and circumstances of the information.

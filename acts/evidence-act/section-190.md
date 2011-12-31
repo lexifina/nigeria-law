@@ -1,1 +1,0 @@
-190. Cross‐examination by co‐accused of prosecution witness In criminal proceedings where more than one accused are charged at the same time, each accused shall be allowed to cross‐examine a witness called by the prosecution before the witness is re‐examined.

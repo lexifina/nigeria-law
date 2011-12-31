@@ -1,1 +1,3 @@
-76. Proof of fact by oral evidence All facts, except the contents of documents, may be proved by oral evidence.
+76. Whenever the opinion of any living person is admissible, the grounds on which such opinion is based arc also admissible.
+
+Character Evidence

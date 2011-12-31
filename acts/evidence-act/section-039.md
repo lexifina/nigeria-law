@@ -1,1 +1,13 @@
-39. Relevancy of entry in public records made in performance of duty An entry in any public or other official book, register or record, stating a fact in issue or relevant fact and made by a public servant in the discharge of his official duty, or by any other person in performance of a duty specially enjoined by the law of the country in which such book, register or record is kept, is itself a relevant fact.
+39. Statements.
+
+whether written or oral of facts in issue or relevant facts made by a person
+
+(a) who is dead:
+
+(b) who cannot be found:
+
+(c) who has become incapable of giving evidence;
+
+or
+
+(d) whose attendance cannot be procured without an amount of delay or expense which under the circumstances of the case appears to the court unreasonable, are admissible under section 40 to 50.

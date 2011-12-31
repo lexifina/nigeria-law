@@ -1,1 +1,0 @@
-222. Using, as evidence, of document production of which was refused on notice When a party refuses to produce a document which he has had notice to produce, he cannot afterwards use the document as evidence without the consent of the other party or the order of the court.

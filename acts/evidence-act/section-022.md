@@ -1,1 +1,0 @@
-22. Admissions by persons expressly referred to by party to suit Statements made by persons to whom a party to the suit has expressly referred for information in reference to a matter in dispute, are admissions.

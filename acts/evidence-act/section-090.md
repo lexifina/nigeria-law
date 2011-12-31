@@ -1,37 +1,33 @@
-90. Provisions in taking affidavits The following provisions shall be observed by persons before whom affidavits are taken‐
+90. (I) Tne secondary evidence admissible in respect of the original documents referred to in tile several paragraph, of section 89 is as follows->-
 
-(a) every affidavit taken in a cause or matter shall be headed in the court and in the cause or matter;
+(a) in paragraphs
 
-(b) it shall state the full name, trade or profession, residence, and nationality of the deponent;
+(3). (c) and (d). any secondary evidence of the contents of the document is admissible:
 
-(c) it shall be in the first person, and divided into convenient paragraphs, numbered consecutively;
+(b) in paragraph (b), the written admission is admissible:
 
-(d) any erasure, interlineation or alteration made before the affidavit is sworn, shall be attested by the person before whom it is taken, who shall affix his signature or initial in the margin immediately opposite to the interlineation, alteration or erasure;
+(c) in paragraph
 
-(e) where an affidavit proposed to be sworn is illegible or difficult to read, or is in the judgment of the person before whom it is taken so written as to facilitate fraudulent alteration, he may refuse to swear the deponent, and require the affidavit to be rewritten in an unobjectionable manner;
+(c) or (f), a certified copy of the document, but no other secondary evidence, is admissible;
 
-(f) the affidavit when sworn shall be signed by the witness or, if he cannot write, marked by him with his mark, in the presence of the person before whom it is taken;
+1''''0101 documents ,,, primM) evidence Cases ill which sccol1d'lI~ evidence relating IIIdocument Nature or se\;ol1d<lr~ evidence ndnuxsib!c under xcctinn 8lj
 
-(g)
+(d) in paragraph
 
-(i) the jurat shall be written without interlineation, alteration or erasure immediately at the foot of the affidavit, and towards the left side of the paper, and shall be signed by the person before whom it is taken;
+(g), evidence may he given as to the general result of the documents by any person who has examined them and who is skilled in the examination of such documents;
 
-(ii) it shall state the date of the swearing and the place where it is sworn;
+and
 
-(iii) it shall state that the affidavit was sworn before the person taking the same;
+(c) in paragraph
 
-(iv) where the deponent is illiterate or blind it shall state the fact, and that the affidavit was read over (or translated into his own language in the case of a witness not having sufficient knowledge of English), and that the witness appeared to understand it;
+(h), the copies cannot he received as evidence unless it is first be proved that+-
 
-(v) where the deponent makes a mark instead of signing, the jurat shall state that fact, and that the mark was made in the presence of the person before whom it is taken;
+(i) the book in which the entries copied were made was at the time of making one of the ordinary books of the bank,
 
-(vi) where two or more persons join in making an affidavit their several names shall be written in the jurat and it shall appear by the jurat that each of them has been sworn to the truth of the several matters stated by him in the affidavit;
+(ii) the entry was made in the usual and ordinary course of business,
 
-(h) the person before whom it is taken shall not allow an affidavit, when sworn, to be altered in any manner without being re‐sworn;
+(iii) the book is in the control and custody of the bank, which proof may be given orally or by affidavit by an officer of the bank, and
 
-(i) if the jurat has been added and signed the person before whom it is taken shall add a new jurat on the affidavit being re‐sworn; and in the new jurat he shall mention the alteration;
+(iv) the copy has been examined with the original entry and is correct, which proof must be given by some person who has examined the copy with the original entry, and may be given orally or by affidavit.
 
-(j) the person before whom it is taken may refuse to allow the affidavit to be re‐ sworn, and may require a fresh affidavit;
-
-(k) the person before whom an affidavit may be taken may take without oath the declaration of any person affirming that the taking of any oath whatsoever is, according to his religious belief, unlawful, or who, by reason of immature age or want of religious belief, ought not, in the opinion of the person taking the declaration, to be admitted to make a sworn affidavit and the person taking the declaration shall record in the attestation the reason of such declaration being taken without oath.
-
-Admissibility of documentary evidence
+(2) "When a seaman sues for his wages he may give secondary evidence or tile ship's articles and of any agreement supporting his case, without notice to produce the originals.

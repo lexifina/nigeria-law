@@ -1,5 +1,7 @@
-75. Facts admitted need not be proved No fact need be proved in any civil proceedings which the parties thereto or their agents agree to admit at the hearing, or which, before the hearing, they agree to admit by any writing under their hands, or which by any rule or pleading in force at the time they are deemed to have admitted by their pleadings:
+75. When the court has to form an opinion as to the relationship of one person to another, the opinion expressed by conduct.
 
-Provided that the court may, in its discretion, require the facts admitted to be proved otherwise than by such admissions.
+as to the existence of such relationship of any person "":\10, as a member of the family or otherwise, has special means of knowledge on the subject.
 
-PART IV Oral evidence and the inspection of real evidence
+is admissible:
+
+Provided that such opinion shall not be sufficient to prove a marriage in proceeding for a divorce or in a petition for damages against an adulterer or in a prosecution for bigamy.

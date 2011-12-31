@@ -1,3 +1,5 @@
-41. Relevancy of statement as to fact of public nature contained in certain Acts or notifications When the court has to form an opinion as to the existence of any fact of a public nature, any statement of it, made in a recital contained in any enactment or in any proclamation or speech of the President in opening the National Assembly or any legislation of the United Kingdom still applicable to Nigeria or in any proclamation or speech, or in any statement made in a Government or public notice appearing in the Federal Gazette or in a State notice or a State public notice appearing in a State Gazette or in any printed paper purporting to be the London Gazette or the Government Gazette of any part of the Commonwealth, is a relevant fact.
+41. A statement is admissible when made by a person in the ordinary course of business.
 
-[Order 47 of 1951. L.N. 112 of 1964.]
+and in particular when il consists of any entry or memorandum made by him in books, electronic device kept in the ordinary course of business, or in the discharge of a professional duty, or of an acknowledgment written or signed by him of the receipt of money, goods, securities or property of any kind. or of a document used in commerce written or signed by him. or or the date of a letter or other document usually dated. written or signed by him:
+
+Provided that the maker made the statement contemporaneously with the transaction recorded or su SOOI1 thereafter that the court considers it likely that the transaction was at that time still fresh in his memory,

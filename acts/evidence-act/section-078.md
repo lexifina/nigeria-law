@@ -1,1 +1,3 @@
-78. Court may order proof by affidavit A court may in any civil proceeding make an order at any stage of such proceeding directing that specified facts may be proved at the trial by affidavit with or without the attendance of the deponent for cross‐examination, notwithstanding that a party desires his attendance for cross‐examination and that he can be produced for that purpose.
+78. In civil cases evidence of the fact that the character of any person concerned is such as h:
+
+render probable or improbable any conduct imputed to him is inadmissible except in so far as such character appears from facts otherwise relevant.

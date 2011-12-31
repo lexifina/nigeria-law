@@ -1,1 +1,3 @@
-51. Relevancy and effect of judgments other than those mentioned in section 50 Judgments, orders or decrees other than those mentioned in section 50 of this Act are relevant if they relate to matters of a public nature relevant to the inquiry; but such judgments, orders or decrees are not conclusive proof of that which they state.
+51. Entries in books of accounts or electronic records regularly kept in the course of business arc admissible whenever they refer to a matter into which the COUli has to inquire.
+
+but such statements shall not alone be sufficient evidence to charge any person with liability.

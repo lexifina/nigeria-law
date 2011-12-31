@@ -1,1 +1,3 @@
-43. Service of certificates on other party before hearing Where any such certificate is intended to be produced by either party to the proceedings, a copy thereof shall be sent to the other party at least ten clear days before the day appointed for the hearing and if it is not so sent the court may, if it thinks fit, adjourn the hearing on such terms as may seem proper.
+43. (I) A statement is admissible when such statement gives the opinion of a person as to the existence of any public right or custom or matter of general interest, the existence of which, if it existed, the maker would have been likely to be aware.
+
+(~) /\ statement referred to in subsection (I,l of this section shall not be admissible unless il was made before any controversy as to such right. custom or matter. had arisen.

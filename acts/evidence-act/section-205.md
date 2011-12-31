@@ -1,1 +1,0 @@
-205. Questions intended to insult or annoy The court shall forbid any question which appears to it to be intended to insult or annoy, or which, though proper in itself, appears to the court needlessly offensive in form.

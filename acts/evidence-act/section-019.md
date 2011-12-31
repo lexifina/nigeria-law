@@ -1,1 +1,3 @@
-19. "Admission" defined An admission is a statement, oral or documentary, which suggests any inference as to any fact in issue or relevant fact, and which is made by any of the persons, and in the circumstances, hereinafter mentioned.
+19. l.~vcry fact is deemed to be relevant which tends to show how in particular instances a matter alleged to be a custom was understood and acted upon by persons then interested.
+
+Admissions

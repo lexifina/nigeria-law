@@ -1,9 +1,9 @@
-94. Primary evidence
+94. (L) Evidence that a person exists having the same name.
 
-(1) Primary evidence means the document itself produced for the inspection of the court.
+address, business or occupation as the maker of a document purports to have. is admissible to show that such document was written or signed by that person.
 
-(2) Where a document has been executed in several parts, each part shall be primary evidence of the document.
+(2) Evidence that a document exists to which the document the making of which is in issue purports to be a reply. together wilh evidence of the making and delivery to a person of such earlier document.
 
-(3) Where a document has been executed in counterpart, each counterpart being executed by one or some of the parties only, each counterpart shall be primary evidence as against the parties executing it.
+is admissible to show the identity of the maker of the disputed document with the person to whom the earlier document was delivered.
 
-(4) Where a number of documents have all been made by one uniform process, as in the case of printing, lithography, or photography, each shall be primary evidence of the contents of the rest; but where they are all copies of a common original, they shall not be primary evidence of the contents of the original.
+Proof that bank hll!- made returns or been dlll~ licensed Cap,l~l I.Fl'. 2()Oij Proof of signaltlrr nnd hant\wrilin!-, :U1d clecuonic signarurc ldcntificauon person signlllg it doc limen I

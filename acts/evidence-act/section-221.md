@@ -1,1 +1,0 @@
-221. Giving as evidence of document called for and produced on notice When a party calls for a document which he has given the other party notice to produce, and such document is produced and inspected by the party calling for its production, he is bound to give it as evidence if the party producing it requires him to do so.

@@ -1,1 +1,0 @@
-177. In actions for breach of promise No plaintiff in any action for breach of promise of marriage can recover a verdict, unless his or her testimony is corroborated by some other material evidence in support of such promise; and the fact that the defendant did not answer letters affirming that he had promised to marry the plaintiff is not such corroboration.

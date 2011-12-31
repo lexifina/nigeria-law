@@ -1,17 +1,15 @@
-34. Relevancy of certain evidence for proving, in subsequent proceeding, the truth of facts therein stated
+34. \1) III estimating the weight, if any. to be attached to a statement rendered admissible as evidence by this ACL regard shall be had to ali the circumstances from which any inference call reasonably be drawn as to the accuracy or otherwise of the statement, and in particular--
 
-(1) Evidence given by a witness in a judicial proceeding, or before any person authorised by law to take it, is relevant for the purpose of proving, in a subsequent judicial proceeding, or in a later stage of the same judicial proceeding, the truth of the facts which it states, when the witness is dead or cannot be found, or is incapable of giving evidence, or is kept out of the way by the adverse party, or when his presence cannot be obtained without an amount of delay or expense which, in the circumstances of the case, the court considers unreasonable:
+(a) to the question whether or not the statement was made contemporaneously with the occurrence or existence of the facts stated, and to the question whether or not the maker of the statement had any incentive to conceal or misrepresent facts; and
 
-Provided‐
+(b) in the case ora statement contained in a document produced by a computer-
 
-(a) that the proceeding was between the same parties or their representatives in interest;
+(i) the question whether or not the information which the statement contained, reproduces or is derived from, was supplied to it, contemporaneously with the occurrence or existence ofthe facts dealt with in that information, and
 
-(b) that the adverse party in the first proceeding had the right and opportunity to cross‐examine; and
+(ii) the question whether or not any person concerned with the supply of information to that computer or with the operation of that computer or any equipment by means of which the document containing the statement was produced by it, had any incentive to conceal or misrepresent facts.
 
-(c) that the questions in issue were substantially the same in the first as in the second proceeding.
+(2 I For the purpose of any rule of law or practice requiring evidence to be corroborated or regulating the manner in which uncorroborated evidence is to be treated, a statement rendered admissible as evidence by this Act shall not be treated as corroboration of evidence given by the maker of the statement Acts in Relation to Land.
 
-(2) A criminal trial or inquiry shall be deemed to be a proceeding between the prosecutor and the accused within the meaning of this section.
+35, Acts of possession and enjoymeru of land may be evidence of ownership or of a right or occupancy not only of the particular piece or quantity of land with reference to which such acts are done. but also of other land so situated or connected with it by locality or similarny that what is true as to the one piece of land is likely to be true of the other piece of land.
 
-Absence of public officers
-
-(3) In the case of a person employed in the public service of the Federation or of a State who is required to give evidence for any purpose connected with a judicial proceeding, it shall be sufficient to account for his non‐ attendance at the hearing of the said judicial proceedings if there is produced to the court, either a Federal Gazette, or a telegram or letter purporting to emanate from the head of his department, sufficiently explaining to the satisfaction of the court his apparent default.
+Scienter

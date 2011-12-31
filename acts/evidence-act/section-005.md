@@ -1,7 +1,3 @@
-5. Savings as to certain evidence Nothing in this Act shall‐
+5. Facts which arc the occasion, cause or effect. immediate or otherwise, ofrelevant facts. or facts in issue. or which constitute the state of things under which they happened, or which afforded an opportunity for their occurrence or transaction.
 
-(a) prejudice the admissibility of any evidence which would, apart from the provisions of this Act, be admissible; or
-
-(b) enable documentary evidence to be given as to any declaration relating to a matter of pedigree, if that declaration would not have been admissible as evidence if this Act had not been passed.
-
-PART II Relevancy Relevance of facts
+arc relevant.

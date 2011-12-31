@@ -1,3 +1,0 @@
-131. Presumptions as to deeds of corporations In favour of a purchaser a deed shall be deemed to have been duly executed by a corporation aggregate if its seal be affixed thereto in the presence of and attested by its clerk, secretary, or other permanent officer or his deputy, and a member of the board of directors, council, or other governing body of the corporation; and where a seal purporting to be the seal of a corporation has been affixed to a deed, attested by persons purporting to be persons holding such offices as aforesaid, the deed shall be deemed to have been executed in accordance with the requirements of this section, and to have taken effect accordingly.
-
-PART VI The exclusion of oral by documentary evidence

@@ -1,1 +1,1 @@
-17. Facts bearing on question whether act was accidental or intentional When there is a question whether an act was accidental or intentional, or done with a particular knowledge or intention, the fact that such act formed part of a series of similar occurrences, in each of which the person doing the act was concerned, is relevant.
+17. A custom may be judicially noticed when it has been adjudicated upon once by a superior court of record.

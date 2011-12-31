@@ -1,11 +1,3 @@
-95. Secondary evidence Secondary evidence includes‐
+95. (l ) Evidence that a person signed a document containing a declaration that a seal was his seal is admissible to prove that he sealed it.
 
-(a) certified copies given under the provisions hereinafter contained;
-
-(b) copies made from the original by mechanical processes which in themselves ensure the accuracy of the copy, and copies compared with such copies;
-
-(c) copies made from or compared with the original;
-
-(d) counterparts of documents as against the parties who did not execute them;
-
-(e) oral accounts of the contents of a document given by some person who has himself seen it.
+(2) Evidence that the grantor on executing any document requiring delivery expressed an intention that it should operate at once is admissible to prove delivery.

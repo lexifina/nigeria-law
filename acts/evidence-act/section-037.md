@@ -1,3 +1,11 @@
-37. Statement of accused at preliminary investigation Any statements made by an accused person at a preliminary investigation or at a coroner's inquest may be given in evidence.
+37. Hearsay means a statement ---
 
-Statements made in special circumstances
+(a) oral or written made otherwise than by a witness in a proceeding;
+
+or
+
+(b) contained or recorded in a book, document or any record whatever.
+
+proof of which is not admissible under any provision of this Act, which is tendered in evidence for the purpose of proving the truth of the matter stated in it.
+
+J Icursay defined

@@ -1,3 +1,9 @@
-49. Previous judgments relevant to bar a second suit or trial The existence of any judgment, order or decree which by law prevents any court from taking cognisance of a suit or holding a trial, is a relevant fact when the question is whether such court ought to take cognisance of such suit or to hold such trial.
+49. Notwithstanding anything contained in this Act or any other law but subject to this section, where in the course of any criminal trial, the court is satisfied that for any sufficient reason, the attendance of the investigating police officer cannot be procured.
 
-______________________________ * See section 16.
+the written and signed statement of such officer may be admitted in evidence by the court if·,
+
+(a) the defence does 110tobject to the statement being admitted;
+
+and
+
+(b) the court consents to the admission of the statement.

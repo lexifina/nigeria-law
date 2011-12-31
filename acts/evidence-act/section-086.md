@@ -1,1 +1,0 @@
-86. Contents of affidavits Every affidavit used in the court shall contain only a statement of facts and circumstances to which the witness deposes, either of his own personal knowledge or from information which he believes to be true.

@@ -1,3 +1,11 @@
-64. Opinion on relationship, when relevant When the court has to form an opinion as to the relationship of one person to another, the opinion, expressed by conduct, as to the existence of such relationship, of any person who, as a member of the family or otherwise, has special means of knowledge on the subject, is a relevant fact:
+64. 1\ pan, to" suit or other proceeding may shov, that aI'Y judgment.
 
-Provided that such opinion shall not be sufficient to prove a marriage in proceedings for a divorce or in a petition for damages against an adulterer or in a prosecution for bigamy.
+order or decree which is admissible under section
+
+59,60 or 6] and which has been proved by the adverse party.
+
+\1',--<).";
+
+delivered by a coun without jurisdiction.
+
+or was obtained by fraud or collusion.

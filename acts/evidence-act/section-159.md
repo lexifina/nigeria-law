@@ -1,1 +1,0 @@
-159. Competency in criminal cases Subject to the provisions of this Part of this Act, in criminal cases the accused person, and his or her wife or husband, and any person and the wife or husband of any person jointly charged with him and tried at the same time, is competent to testify.

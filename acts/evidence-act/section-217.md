@@ -1,1 +1,0 @@
-217. Testimony to facts stated in document mentioned in section 216 A witness may also testify to facts mentioned in any such document as is mentioned in section 216, although he has no specific recollection of the facts themselves, if he is sure that the facts were correctly recorded in the document.
