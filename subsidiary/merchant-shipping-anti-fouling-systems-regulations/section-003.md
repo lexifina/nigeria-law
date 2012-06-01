@@ -1,0 +1,1 @@
+3. Persons in charge of shipyards or ship repair facilities are required to ensure that any waste from the application or removal of an anti-fouling system specified in the First Schedule to these Regulations is collected, handled, treated and disposed of in a safe and environmentally sound manner to protect human health and the environment.
