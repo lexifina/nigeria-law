@@ -1,0 +1,3 @@
+4. —(1) At the request of the Agency, another Party may cause a ship to be surveyed and, if satisfied that the provisions of the Convention are complied with, shall issue or authorize the issuance of a Certificate to the ship, and where appropriate, endorse or authorize the endorsement of that Certificate on the ship, in accordance with these Regulations.
+
+(2) A Certificate issued in accordance with provision of sub-regulation (1) of this regulation shall contain a statement to the effect that it has been issued at the request of the Agency and it shall have the same force and receive the same recognition as a Certificate issued by the Agency.

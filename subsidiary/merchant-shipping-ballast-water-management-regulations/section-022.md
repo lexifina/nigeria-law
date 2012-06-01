@@ -1,0 +1,1 @@
+22. In accordance with the requirement of the Convention, the Agency shall cooperate with a maritime administration of another Party in relation to proceedings against a vessel for a breach of the Convention in the jurisdiction of that Party.
