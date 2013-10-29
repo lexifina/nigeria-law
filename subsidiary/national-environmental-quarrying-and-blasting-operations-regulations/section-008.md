@@ -1,0 +1,3 @@
+8. Mitigation Measures.
+
+PART Ill-GUIDELINES FOR QUARRYING OPERATION
