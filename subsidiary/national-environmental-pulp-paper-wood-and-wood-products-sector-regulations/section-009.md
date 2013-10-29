@@ -1,0 +1,1 @@
+9. A facility, body corporate or organization shall ensure the adoption of integrated waste management practices and waste disposal in an environmentally sound manner as prescribed in Schedule VI to these Regulations.

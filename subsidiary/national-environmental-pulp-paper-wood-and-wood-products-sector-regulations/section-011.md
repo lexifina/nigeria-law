@@ -1,0 +1,1 @@
+11. A facility, body corporate or organisation shall prepare a voluntary action programme for mitigation and adaptation, and such measures shall take into account energy-saving and Best Available Technology (BAT) in their production processes.
