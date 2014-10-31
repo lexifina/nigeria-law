@@ -1,0 +1,1 @@
+27. A health worker or any health care provider that has access to the health records of a user may disclose such personal information to any other person, health care provider or health establishment as is necessary for any legitimate purpose within the ordinary course and scope of his or her duties where such access or disclosure is in the interest of the user.

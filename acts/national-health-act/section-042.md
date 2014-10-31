@@ -1,0 +1,1 @@
+42. The Minister, with the concurrence of the National Council, shall determine guidelines that will enable the State Ministries and Local Governments to implement programmes for the appropriate distribution of health care providers and health workers.

@@ -1,0 +1,1 @@
+14. Any person, entity, government or organisation who performs any act stated under section 13(1) without a Certificate of Standards required by that section commits an offence and shall be liable on conviction to a fine of not less than N500,000.00 or, in the case of an individual, to imprisonment for a period not exceeding 2 years or both.

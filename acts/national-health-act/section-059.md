@@ -1,0 +1,1 @@
+59. The Minister, in consultation with the National Council, may make regulations with regard to any other matter which is reasonably necessary or expedient to prescribe in the implementation of this Act.

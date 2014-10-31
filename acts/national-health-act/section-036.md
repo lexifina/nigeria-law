@@ -1,0 +1,1 @@
+36. The Secretary responsible for Health shall by this Act establish a Committee for the FCT to maintain, facilitate and implement the health information system under section 35(1) of this Act, at FCT and Area Council levels.
