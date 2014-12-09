@@ -1,0 +1,1 @@
+18. A facility with any source or potential source of emission shal I measure the emission of every priority air pollutant emitted, develop and implement a plan to control such emission in accordance with the standards as prescribed in Schedule 1 to these Regulations.

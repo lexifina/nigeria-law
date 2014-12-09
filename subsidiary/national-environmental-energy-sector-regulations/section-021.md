@@ -1,0 +1,1 @@
+21. All operators, importers, exporters, manufacturers, assemblers and distributors of various brands of electrical power products or equipment shall subscribe to the extended producer responsibility programme for end-of-life, discarded electrical power products as prescribed in Schedule VI to these Regulations.

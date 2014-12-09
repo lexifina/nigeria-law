@@ -1,0 +1,1 @@
+12. Every facility shall ensure that there is no contamination arising from leakage of surface or underground, oil or fuel, or chemicals storage tank likely to cause pollution of the environment including surface water and groundwater.
