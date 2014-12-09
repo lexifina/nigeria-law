@@ -1,0 +1,1 @@
+16. Dredging of a facility shall be carried out with a permit issued by the appropriate authority in accordance with extant Regulations and also as specified in the National Environmental (Permit and Licensing System) Regulations, 2009.
