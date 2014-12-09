@@ -1,0 +1,3 @@
+17.-( l) Where a permit holder who had been served with an enforcement notice. fails to comply with tile provisions of these Regulations within the time specified in the notice, a reminder may be served on him.
+
+(2) Where a permit holder fails to comply with the notice served under sub--regutation (I) of this regulation within the time specified in the notice or reminder issued thereof, the facility or premises used by the permit holder in pursuance of the activities covered by the -permit, may be sealed by the Enforcement Authority and the Enforcement Authority may take any other • punitive action which it deems appropriate in the circumstance.

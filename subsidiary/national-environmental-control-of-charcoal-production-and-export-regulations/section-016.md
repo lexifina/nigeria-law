@@ -1,0 +1,1 @@
+16. An Enforcement notice may be delivered by hand, registered post.or courier~ electronic transmission, newspaper publication, pasted at the facility or registered premises of the permit holder or any other means recognised by law.
