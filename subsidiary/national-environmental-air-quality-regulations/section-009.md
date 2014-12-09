@@ -1,0 +1,1 @@
+9. A person operating an industrial ·plant or facility shall forward to the Agency information related to its point source emissions for criteria pollutants annually, within 3 months o.fthe end of the calendar year.

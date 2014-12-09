@@ -1,0 +1,1 @@
+11. A person operating an industrial infrastructure emitting pollutants into the atmosphere shall channel each point of discharge into the atmosphere through stacks that meet Good Engineering Practice (GEP) stack height and complies with stack specification prescribed under Schedule VII to these Regulations.

@@ -1,0 +1,1 @@
+6. A person shall not discharge contaminants into the air from an industrial source, fuel-burning equ-ipment arid others higher than the concentrations· prescribed in Schedules Ill, IV, V and VI to these Regulations.

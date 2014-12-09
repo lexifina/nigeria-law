@@ -1,0 +1,1 @@
+10. A person shall install air pollution control device to new equipment, installations or retrofit an existing facility with technology or technologies that enable that facility to meet the nati-onal air quality emissions standards.

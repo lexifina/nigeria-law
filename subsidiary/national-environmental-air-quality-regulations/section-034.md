@@ -1,0 +1,1 @@
+34. A person shall not emit or allow the emission of noxious and foul odourous substances to reach nuisance threshold levels within its neighbourhood such that not more than 5% of the population will experience annoyance greater than 5% of the time per month up to three continuous months.

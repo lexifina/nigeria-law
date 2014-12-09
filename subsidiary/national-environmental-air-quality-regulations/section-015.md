@@ -1,0 +1,1 @@
+15. Emissions fr9m road veh'icles shall be in accordance with the provisions of the National Environmental (Control of Vehicular Em'issions from Petroland Diese1 Engines) J{egufations, 201 I, other extant Regulations and as provided in ·schedule,s IX and X to these Regulations.

@@ -1,0 +1,1 @@
+30. A person engaged in quarrying operations shall carry out such operation in accordance with the National Environmental (Quarrying and Blasting Operations) Regulations, 2013 and other extant Regulations.
