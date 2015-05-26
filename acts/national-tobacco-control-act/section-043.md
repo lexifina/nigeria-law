@@ -1,0 +1,1 @@
+43. The Governments of the Federation and their Ministries, Departments and Agencies shall implement tax policies, strategies, programmes, or other Øscal measures which promotes the objectives of this Act and in accordance with Framework Convention for Tobacco Control, its implementing guidelines, and protocols, Repeal

@@ -1,0 +1,3 @@
+41. No person, business or entity, or any other person shall take any retaliatory action or discriminate against any employee, applicant, contractor or other person on the ground that such person made a complaint, reported, disclosed, or opposed any conduct, activity, or practice that reasonably could be construed to be a violation of any provision of a policy or any provision of this Act or regulations made under this Act or against any agency or any person who brought a legal action, testiØed in any proceeding or hearing, or assisted or participated in any way in any investigation brought by virtue of the provisions of this Act.
+
+Application of penalties for non-compliance

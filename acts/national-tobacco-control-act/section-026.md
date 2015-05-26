@@ -1,0 +1,3 @@
+26. The Minister shall ensure that a responsible authority of government is made aware of, at a minimum, the addictive and harmful nature of tobacco or tobacco products, the need to protect tobacco control policies from the commercial and other vested interests of the tobacco or tobacco products industry, and of the strategies, tactics, and front groups and other surrogates used, openly or covertly, by the tobacco or tobacco products industry to undermine and subvert the development and implementation of effective tobacco or tobacco products control policies, including by making philanthropic contributions to public and private organizations.
+
+Prohibition on voluntary contributions from the tobacco industry
