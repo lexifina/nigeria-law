@@ -1,0 +1,1 @@
+45. The Director-General or any other officer of the Organisation designated in that behalf shall have power to make purchases of goods as may appear expedient for the purpose of determining whether or not the provisions of th is Act are complied with.

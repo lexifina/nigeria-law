@@ -1,0 +1,1 @@
+38. Every member, agent, auditor or employee for the time being of the Organisation shall be indemnified out of the funds or assets of the Organisation against any liability incurred by him in defending any proceeding whether civil oreriminal in whiehjudgment is given against him in his capacity as a member, agent, auditor or employee.

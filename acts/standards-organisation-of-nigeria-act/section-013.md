@@ -1,1 +1,3 @@
-13. Standards to be known as Nigerian Industrial Standards.
+13.-( l) Service in the Organisation sh al I be approved for the purpose of the Pension Reform Act, and al I persons employed in the Organisation sh al I be entitled to pensions, gratuities and other retirement benefits as are prescribed thereunder, and nothing in this Act shall prevent the appointment of a person to any office on terms which preclude the grant of a pension, gratuity or other retirement benefit in respect of that office.
+
+(2) For the purposes of the application of the provisions of the Pension Reform Act, and power exercisable by a Minister or other authority of the Government of the Federation, other than the power to make regulations under section 23 of that Act is vested in and shall be exercisable by the Council.

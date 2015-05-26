@@ -1,0 +1,1 @@
+41. Where in any proceeding under this Act a person is summoned or otherwise dealt with as the manufacturer, importer or seller, and such person alleges that he is not as alleged, the burden of proof shall be upon such person.

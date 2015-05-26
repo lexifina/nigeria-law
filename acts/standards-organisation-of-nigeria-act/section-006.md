@@ -1,1 +1,1 @@
-6. Standards library.
+6. The Organisation shall assemble, maintain and extend a collection of books and publications and such other matters as it considers appropriate for a standard library of the highest standing and may make the facilities of the library available to such categories of persons as it thinks fit and upon such terms and conditions as it considers necessary.

@@ -1,1 +1,1 @@
-9. Director-General to be administrative head of Organisation.
+9. The Director-General shall be the Chief Executive of the Organisation and, subject to the Council's directives on financial, operational and administrative programmes, he shall be free to manage the Organisation in accordance with this Act, and the Council shall not interfere with his methods or with the manner in which he employs the material and human resources of the Organisation in order to obtain results in accordance with this Act.

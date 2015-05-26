@@ -1,1 +1,1 @@
-19. Offences.
+19. The Organisation shall prepare and submit to the Minister, not later than 30th June, in each year a report on the activities of the Organisation during the immediately preceding year, and shall include in such report a copy of the audited accounts of the Organisation for that year and the auditor's repo1t therein.
