@@ -1,0 +1,1 @@
+26. The Director-General may, with the approval of the Council, engage persons with knowledge or experience in drought, desertification and deforestation control, and environmental matters or in any other area pertaining to the functions of the Agency !O assist the Agency otherwise than on the basis of full time employment.

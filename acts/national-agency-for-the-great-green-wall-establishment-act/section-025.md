@@ -1,0 +1,1 @@
+25. A member of the Council, the Director-General and Officers of the Agency shall be indemnified against any proceeding, whether civil or criminal, in which judgment is given in his favour, or in which he is acquitted, if any such proceeding is brought against him in his capacity as member of the Council, the Director-General, Officer or employee of the Agency.
