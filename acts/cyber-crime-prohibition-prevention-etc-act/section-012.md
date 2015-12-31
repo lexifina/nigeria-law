@@ -1,0 +1,11 @@
+12. 13.
+
+(1) Any person, who intentionally and without authorization, intercepts by technical means, non-­‐public transmissions of computer data, content, or traffic data, including electromagnetic emissions or signals from a computer, computer system or network carrying or emitting signals, to or from a computer, computer system or connected system or network; commits an offence and shall be liable on conviction to imprisonment for a term of not more than 2 years or to a fine of not more than N5,000,000.00 or to both such fine and imprisonment.
+
+(2) Any person or organization who by means of false pretense induces any person employed by or under the government of the federal, state or local government of Nigeria or any person in charge of electronic devices to deliver to him any electronic messages which includes but is not limited to E-­‐mail, credit and debit cards information, facsimile messages which is not specifically meant for him or his organization (in the latter case except he is authorized to receive such messages for and on behalf of his organization) commits an offence and shall be liable on conviction to imprisonment for a term of Two Years or a fine of not more than N1,000,000 or to both such fine and imprisonment.
+
+(3) Any person who, being employed by or under the authorities of the Local, State, Federal Government of Nigeria or private organization who intentionally hides or detains any electronic mails, messages, electronic payment, credit and debit card which was found by him or delivered to him in error and which to his knowledge ought to be delivered to another person, commits an offence and shall be liable on conviction to imprisonment for 1 Year or a fine of N250,000 Naira or to both fine and imprisonment.
+
+A person who knowingly accesses any computer or network and inputs, alters, deletes or suppresses any data resulting in inauthentic data with the intention that such inauthentic data will be considered or acted upon as if it were authentic or genuine, regardless of whether or not such data is directly readable or intelligible, commits an offence and is liable on conviction to imprisonment for a term of not less than 3 years or to a fine of not less than 7,000,000.00 or both Unlawful interceptions.
+
+Computer Related Forgery.

@@ -1,0 +1,3 @@
+CYBERCRIMES (PROHIBITION, PREVENTION, ETC) ACT, 2015 Explanatory Memorandum The Act provides an effective, unified and comprehensive legal, regulatory and institutional framework for the prohibition, prevention, detection, prosecution and punishment of cybercrimes in Nigeria. This act also ensures the protection of critical national information infrastructure, and promotes cybersecurity and the protection of computer systems and networks, electronic communications, data and computer programs, intellectual property and privacy rights.
+
+CYBERCRIMES (PROHIBITION, PREVENTION, ETC) ACT, 2015 Arrangement of Sections Section: PART I-­‐OBJECT AND APPLICATION
