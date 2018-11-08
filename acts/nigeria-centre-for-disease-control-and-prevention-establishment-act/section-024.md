@@ -1,0 +1,1 @@
+24. Subject to the provisions of this Act, the Minister may give the Board such directives of a general or special nature Telating to the performance by the Centre of any or all of its functions under this Act, and the Board shall comply with such directives.
