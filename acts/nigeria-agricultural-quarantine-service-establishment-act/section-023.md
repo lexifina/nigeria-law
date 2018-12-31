@@ -1,0 +1,1 @@
+23. A member, the Director-General or any employee of the Service shall be indemnified out of the Indemnity. asset of the Service against any liability incurred by him in defending any proceeding, whether civil or criminal, if such proceeding is brought against him in his capacity as a member, Director General or employee of the Service.
