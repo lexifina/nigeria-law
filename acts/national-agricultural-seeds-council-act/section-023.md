@@ -1,0 +1,1 @@
+23. The Minister may, on the advice of the Council. recognise any seed certification agency estabiished in any foreign country, provided that such agency implements rules and regulations that meet the requirements under this Act and such recognition shall be published in the Federal Government Gazette.
