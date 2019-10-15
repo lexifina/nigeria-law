@@ -1,0 +1,1 @@
+10. A person engaged in the sale, distribution, transportation of fertilizer or who keeps custody of fertilizer shall not, without lawful authority, divert or convert the fertilizer to his own use or the use of another person.

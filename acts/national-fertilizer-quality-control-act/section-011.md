@@ -1,0 +1,1 @@
+11. A person shall not obstruct, hinder or prevent a duly authorized officer of the Prescribed Authority from carrying out the duties and responsibilities assigned to such officer under this Act or regulations made pursuant to this Act.

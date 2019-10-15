@@ -1,0 +1,1 @@
+15. Where the Minister has reasonable cause to believe that fertilizer is being sold in violation of any provision of this Act, the Minister shall issue a written order to stop the sale or disposal of the fertilizer until the Minister or court revokes the order or upon the expiration of the time stated in the order prohibiting the sale or distribution of the fertilizer

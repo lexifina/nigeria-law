@@ -1,0 +1,1 @@
+21. Aperson who contravenes the provisions of section 9 or 10 commits an offence and is liable on conviction to a fine of at least N1 ,000,000.00 or to aterm of” imprisonment of at least six months or both.
