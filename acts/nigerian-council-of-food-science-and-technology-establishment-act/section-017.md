@@ -1,0 +1,1 @@
+17. The Council shall keep proper accounts of its finances and the records of those accounts and cause the account to be audited, immediately after the end of the financial year to which the accounts relate, by a firm of auditors approved by the Council from the list of auditors provided by the Auditor-General for the Federation.
