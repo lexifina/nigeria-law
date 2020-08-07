@@ -1,0 +1,6 @@
+# 755. Registered office of limited liability partnership and change therein
+(1) Every limited liability partnership shall have a registered office to which all communications and notices may be addressed and where they shall be received.
+(2) A document may be served on a limited liability partnership, partner or designated partner of the partnership by sending it by post under a certificate of posting, registered post or by any other manner as may be prescribed, at the registered office or any other address specifically declared by the limited liability partnership for the purpose in such form and manner as may be prescribed.
+(3) A limited liability partnership may by resolution change the place of its registered office.
+(4) Where a limited liability partnership changes the place of its registered address, the change shall not take effect unless notice of the change has been delivered to the Commission not later than 14 days after the passing of the resolution.
+(5) Where a limited liability partnership makes default in complying with the provisions of this section, the limited liability partnership and each partner shall each be liable to a penalty for every day that the default continues and the penalty shall be in the amount as the Commission shall specify in the regulations.

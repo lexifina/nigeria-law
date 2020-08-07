@@ -1,0 +1,9 @@
+# 817. Certificate of registration
+(1) On the registration of any individual, firm or corporation under this Act, the Registrar shall issue a certificate in the prescribed form containing the business name of the individual, firm or corporation.
+(2) On the registration of any change in the particulars registered in respect of any firm, corporation or individual, the Registrar may in his discretion either amend the certificate previously issued or issue a fresh certificate.
+(3) A certificate issued under this section shall be sent by registered post or delivered to an individual, firm or corporation registering, who shall thereupon exhibit and thereafter maintain the same in a conspicuous position at the principal place of the business so registered:
+Provided that—
+(a) where a fresh certificate has been issued under subsection (2), the provisions of this subsection shall apply to such fresh certificate; and
+(b) where any certificate has been lost or destroyed or rendered illegible, a copy of such certificate certified by the Registrar may be exhibited in place of the original.
+(4) Where an individual, firm or corporation registered under this Act has more than one place of business, the original certificate shall be exhibited and maintained as required by subsection (3) at the principal place of business and a copy of the certificate certified by the Registrar shall be exhibited and thereafter maintained in a conspicuous position in each of the other places of business.
+(5) If an individual, firm or company makes default in complying with the provisions of subsection (3) or subsection (4), the individual, corporation or every partner in the firm is liable to a penalty for every day during which the default continues, the penalty shall be determined in accordance with regulations made by the Commission from time to time.

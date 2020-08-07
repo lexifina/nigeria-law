@@ -1,0 +1,2 @@
+# 648. Saving of rights of creditors and contributories
+The voluntary winding-up of a company shall not bar the right of any creditor or contributory to have it wound up by the Court, but where the applicant for winding-up is a contributory, an order shall not be made unless the Court is satisfied that the rights of contributories shall be prejudiced by the members' or creditors' voluntary winding-up, as the case may be.

@@ -1,0 +1,2 @@
+# 736. Costs in actions by certain limited companies
+Where a limited company is the plaintiff in an action or other legal proceedings, a judge having jurisdiction in the matter may, if it appears by credible testimony that there is reason to believe that the company may be unable to pay the costs of the defendant if successful in his defence, require sufficient security to be given for those costs and may stay all proceedings until the security is given.

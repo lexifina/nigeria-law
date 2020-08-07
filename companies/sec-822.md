@@ -1,0 +1,5 @@
+# 822. Annual returns
+(1) Every individual, firm or corporation carrying on business under a registered business name shall, not later than the 30th day of June in each year, except the calendar year in which the business name is registered, deliver to the Commission a return in a prescribed form showing the particulars of the individual, firm or corporation and the nature of the business carried on.
+(2) The returns shall be accompanied by the financial statement of the individual, firm or corporation in the business during the preceding period of January 1 to December 31.
+(3) The returns and the accompanying financial statement shall be signed, in the case of an individual or firm consisting only of individuals, by the individuals and in the case of a corporation or a partner who is a corporation, by a director and the secretary.
+(4) Every individual, firm or corporation that fails to comply with any of the provisions of this section is liable to a penalty and a daily default penalty prescribed in the Commission's regulations.

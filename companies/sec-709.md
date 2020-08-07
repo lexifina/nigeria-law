@@ -1,0 +1,3 @@
+# 709. Review of Commission's decision
+(1) Where the Commission refuses an application or withdraws an authorisation it shall within seven days notify the party in writing stating the reasons for the refusal or withdrawal of the authorisation, and the party affected within 21 days of the receipt of the notification may apply by summons on notice to the Court having jurisdiction in insolvency matter, for a review of the decision of the Commission and the Court, upon hearing the summons, may refuse or grant the summons on such terms as it deems fit.
+(2) An appeal from the decision of the Court shall lie to the Court of Appeal and the decision of the Court of Appeal is final.

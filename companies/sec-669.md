@@ -1,0 +1,2 @@
+# 669. Falsification of books
+An officer or contributory of any company being wound up who destroys, mutilates, alters or falsifies books, papers or securities, or makes or is privy to the making of any false or fraudulent entry in any register, book of account or document belonging to the company with intent to defraud or deceive any person, commits an offence and is liable on conviction to imprisonment for a term of two years or a fine as the Court deems fit.

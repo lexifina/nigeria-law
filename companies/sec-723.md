@@ -1,0 +1,5 @@
+# 723. Act to override memorandum and articles
+(1) Except as otherwise expressly provided in this Act—
+(a) the provisions of this Act shall have effect notwithstanding anything to the contrary contained in the memorandum or articles of a company, or in any agreement executed, by it, or in any resolution passed by the company in general meeting or by its board of directors whether the same be registered, executed or passed, as the case may be, before or after the commencement of this Act; and
+(b) any provision contained in the memorandum or articles, agreement or resolution as in paragraph (a) shall, to the extent to which it is repugnant to the provisions of this Act, become or be void, as the case may be.
+(2) Any provision of this Act overriding or interpreting a company's articles shall, except as provided by this Act, apply in relation to articles in force at the commencement of this Act, as well as to articles coming into force thereafter, and shall apply also in relation to a company's memorandum as it applies in relation to its articles.

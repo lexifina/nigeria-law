@@ -1,0 +1,4 @@
+# 818. Registration of changes
+(1) Whenever a change is made or occurs in the particulars required by section 815 of this Act to be furnished in respect of any individual, firm or corporation registered under that section, other than particulars as to the age of an individual, the individual, firm or corporation shall within 28 days after such change notify the change to the registrar.
+(2) The notice required under subsection (1) shall be in writing signed as provided in section 815 of this Act.
+(3) If an individual, firm or corporation makes default in complying with the provisions of this section, the individual, corporation or every partner in the firm is liable to a penalty for every day during which the default continues, the penalty shall be determined in accordance with regulations made by the Commission from time to time.

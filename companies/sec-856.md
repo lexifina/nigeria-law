@@ -1,0 +1,5 @@
+# 856. Misleading indication of activities
+(1) If, in the opinion of the Commission, the name by which a company, limited liability partnership, business name or incorporated trustee is registered is misleading as to the nature of its activities as to be likely to cause harm to the public, the Commission may direct the company, limited liability partnership, business name or incorporated trustee in writing to change its name.
+(2) The direction must be complied with within six weeks from the date of the direction or such longer period as the Commission may deem fit.
+(3) Where a company, limited liability partnership, business name or incorporated trustee fails to comply with a direction of the Commission under this section, the company, limited liability partnership or incorporated trustees together with every of its officers or each partner, in the case of a business, shall each be liable to a penalty for every day the failure continues in such amount as the Commission shall specify in its regulations.
+(4) In this section, "officer" of the company or incorporated trustees means the directors (including a shadow director) or trustees.

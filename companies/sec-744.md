@@ -1,0 +1,4 @@
+# 744. Enforcement of duty of company to make returns to Commission
+(1) If a company, having made default in complying with any provision of this Act requiring it to file with, deliver or send to the Commission any return, account or other document, or to give notice to it of any matter, fails to make good the default within 14 days after the service of a notice on the company requiring it to do so, the Court may, on the application of any member or creditor of the company or of the Commission, order the company and any officer to make good the default within the time as may be specified in the order.
+(2) Any order under this section may provide that all costs of or incidental to the application shall be borne by the company or by any officer of the company responsible for the default.
+(3) Nothing in this section shall be taken to prejudice the operation of any enactment imposing penalties on a company or its officers in respect of any such default.

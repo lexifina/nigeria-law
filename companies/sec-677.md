@@ -1,0 +1,2 @@
+# 677. Corrupt inducement affecting appointment as liquidator
+Any person who gives, agrees or offers to give to any member or creditor of a company any valuable consideration with a view to securing his own appointment or nomination, or to securing or preventing the appointment or nomination of a person other than himself as the company's liquidator, commits an offence and is liable to a fine as the Court deems fit.

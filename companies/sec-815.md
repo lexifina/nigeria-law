@@ -1,0 +1,24 @@
+# 815. Procedure for registration
+(1) Every individual, firm or company required under this Act to be registered shall, within 28 days after the individual, firm or corporation commences the business in respect of which registration is required, furnish to the Registrar at the registry in the State in which the principal place of business of the individual, firm or company is situated, a statement in writing in the prescribed form, signed as required by this section and containing the following particulars—
+(a) the business name or, if the business is carried on under two or more business names, each of those business names;
+(b) the general nature of the business;
+(c) the full postal address of the principal place of business;
+(d) the full postal address of every other place of business;
+(e) where the registration to be effected is that of a firm—
+(i) the present forenames and surname, any former forenames or surname, the nationality and, if that nationality is not the nationality of origin, the nationality of origin, the age, the sex, the usual residence and any other business occupation of each of the individuals who are partners; and
+(ii) the corporate name and registered office of such company which is a partner;
+(f) where the registration to be effected is that of an individual, the present forenames and surname, any former forenames or surnames, the nationality and, if that nationality is not the nationality of origin, the nationality of origin, the age, the sex, the usual residence and any other business occupation of the individual;
+(g) where the registration to be effected is that of a company, the name and registered office of the company; and
+(h) the date of commencement of the business, whether before or after the coming into operation of this Act.
+(2) Where the registration to be effected is that of an individual or a firm, some or all of whose partners are individuals, there shall be submitted to the Registrar copies of the passport photographs of the individual certified in a manner required by the Registrar.
+(3) Where the registration to be effected is that of a firm or individual carrying on business on behalf of another individual, firm or corporation whether as nominee or trustee, the statement required by subsection (1) to be furnished shall contain the following particulars in addition to the particulars required by that subsection—
+(a) the present forenames and surname, any former forenames or surname, the nationality and, if that nationality is not the nationality of origin, the nationality of origin and the usual residence of each individual on whose behalf the business is carried on; and
+(b) the name of each firm or corporation on whose behalf the business is carried on.
+(4) Where the registration to be effected is that of a firm or individual carrying on business as general agent for any concern carrying on business outside Nigeria and not having a place of business in Nigeria, the statement required by subsection (1) to be furnished shall, in addition to the particulars required by that subsection, state the name and full postal address of each such concern, provided that in the case of a firm or individual carrying on business as general agent for three or more such concerns, it shall be sufficient to state the fact that the business is so carried on and the countries in which the concerns carry on business.
+(5) A statement furnished in accordance with subsections (1) - (4) shall in the case of a—
+(a) statement furnished by an individual, be signed by him;
+(b) statement furnished by a firm, be signed by each individual who is a partner and by a director or the secretary of each Corporation which is partner; and
+(c) corporation, be signed by a director or the secretary:
+Provided that, if the statement is accompanied by a statutory declaration made by any person to the effect that he is a partner of the firm or is a director or the secretary of a corporation which is a partner of the firm, the statement may be signed by that person alone.
+(6) A statement furnished in accordance with subsections (1) - (4) by an individual who is a minor or by a firm of which one of the partners is a minor shall, in addition to the requirements of subsection (1), be signed by a magistrate, legal practitioner or police officer of, or above the rank of Assistant Superintendent of Police.
+(7) If an individual, firm or corporation makes default in complying with the provisions of this section, the individual, corporation or every partner in the firm commits an offence and is liable on conviction to a fine prescribed in the Commission's regulations for every day during which the default continues, and the Court shall order a statement of the required particulars to be furnished to the Registrar within such time as may be specified in the order.

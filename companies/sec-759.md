@@ -1,0 +1,2 @@
+# 759. Penalty for improper use of words, limited liability partnership or LLP
+Where a person carries on business under a name or title of which the words "Limited Liability Partnership" or "LLP" or any contraction or imitation is or are the last word or words, that person or each of those persons shall, unless duly incorporated as limited liability partnership, be liable to a penalty in the amount as the Commission shall specify in the regulation.

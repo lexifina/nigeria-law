@@ -1,0 +1,2 @@
+# 793. Power of Commission to strike defunct limited liability partnership off register
+Where the Commission has reasonable cause to believe that a limited liability partnership is not carrying on business or operation, in accordance with the provisions of this Act, the name of limited liability partnership may be struck off the register of limited liability partnerships in accordance with the procedures provided under section 692 of this Act. Power of Commission to strike defunct limited liability partnership off register.

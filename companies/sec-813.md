@@ -1,0 +1,4 @@
+# 813. Functions of the head of office
+(1) The Registrar shall cause business names to be registered in accordance with the provisions of this part of this Act.
+(2) For the purpose of the registration under this Part, of the business names of a firm, individual or corporation at any of the offices for business names, any head of office may, subject to any direction that the Commission may give, perform any act or discharge any duty which the Registrar may lawfully perform or discharge or is required by this Act to perform or discharge, and, subject to that, any reference in this Part to the Registrar, unless the context otherwise admits, shall accordingly be deemed to include a reference to a head of office.
+(3) Without prejudice to the generality of the foregoing provisions of subsection (1), a head of office may be assigned to the Business Names Registry in a State for the purpose of registering business names and keeping a register of business names.

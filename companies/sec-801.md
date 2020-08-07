@@ -1,0 +1,4 @@
+# 801. Notice of change in status of general partner or assignment of share of limited partner
+(1) Notice of any arrangement or transaction under which a person will cease to be a general partner in a firm and will become a limited partner in that firm or under which the share of a limited partner in a firm will be assigned to any person shall, be filed with the Commission within five days of such change.
+(2) Until the notice of the arrangement or transaction referred to in subsection (1) is filed with the Commission, the arrangement or transaction shall for the purposes of this Part, be deemed to be of no effect.
+(3) If default is made in compliance with the requirements of subsection (1), each of the general partners is liable to a fine as shall be prescribed by the Commission in its Regulations.
