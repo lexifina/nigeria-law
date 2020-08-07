@@ -1,9 +1,3 @@
-177. Meetings of debenture holders
-
-(1) The terms of any debentures or trust deed may provide for the convening of general meetings of the debenture holders and for the passing, at such meetings, of a resolution binding on all the holders of the debentures of the same class.
-
-(2) Whether or not the debentures or trust deed contain such provisions as are referred to in subsection (1) of this section, the Commission may at any time direct a meeting of the debenture holders of any class to be held and conducted in such manner as the Commission thinks fit to consider ancillary or consequential direction as it shall think fit.
-
-(3) Notwithstanding anything contained in a debenture trust deed, or in any debenture or contract or instrument, the trustee of a debenture deed shall, on the requisition of persons holding, at the date of the deposit of the acquisition debentures covered by the trust deed which carry not less than one tenth of the total voting rights attached to all the issued and outstanding debentures of that class, forthwith, proceed duly to convene a meeting of that class of debenture holders.
-
-Fixed and floating charges
+# 177. Notice of refusal to register
+(1) If a company refuses to register a transfer of any share, it shall, within two months after the date on which the transfer was lodged with it, send notice of the refusal to the transferee.
+(2) If default is made in complying with this section, the company and each officer of the company is liable to such penalty as the Commission shall specify in the regulation.

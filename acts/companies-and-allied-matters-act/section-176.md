@@ -1,19 +1,8 @@
-176. Rights of debenture holders
-
-(1) The trustee of a debenture trust deed shall hold all contracts, stipulations and undertakings given to him and all mortgages, charges and securities vested in him in connection with the debentures covered by the deed, or some of those debentures, exclusively for the benefit of the debenture holders concerned (except in so far as the deed otherwise provides) and the trustee shall exercise due diligence in respect of the enforcement of those contracts, stipulations, undertakings, mortgages, charges and securities and the fulfillment of his functions generally.
-
-(2) A debenture holder may sue‐
-
-(a) the company which issued the debentures he holds for payment of any amount payable to him in respect of the debentures; or
-
-(b) the trustee of the debenture trust deed covering the debentures he holds for compensation for any breach of the duties which the trustee owes him, and in any such action, it shall not be necessary for any other debenture holders of the same class, or if the action is brought against the company, the trustee of the covering trust deed, to be joined as a party.
-
-(3) This section shall apply notwithstanding anything contained in a debenture or trust deed or other instrument, but a provision in a debenture or trust deed shall be valid and binding on all the debenture holders of the class concerned in so far as it enables a meeting of the debenture holders by a resolution supported by the votes of the holders of at least three quarters in value of the debentures of that class in respect of which votes are cast on the resolution to‐
-
-(a) release any trustee from liability for any breach of his duties to the debenture holders which he has already committed, or generally from liability for all such breaches (without necessarily specifying them) upon his ceasing to be trustee;
-
-(b) consent to the alteration or abrogation of any of the rights, powers or remedies of the debenture holders and the trustee of the debenture trust deed covering their debentures (except the powers and remedies under section
-
-209 of this Act); or
-
-(c) consent to the substitution for the debentures of a different class issued by the company or any other company or corporation, or the cancellation of the debentures in consideration of the issue to the debenture holders of shares credited as fully paid in the company or any other company.
+# 176. Entry in register of transfers
+(1) On the application of the transferor of any share or interest in a company, the company shall enter, in its register of members, the name of the transferee in the same conditions as if the application for the entry were made by the transferee, and register of transfer includes electronic register of transfer.
+(2) Until the name of the transferee is entered in the register of members in respect of the transferred shares, the transferor is, so far as it concerns the company, deemed to remain the holder of the shares.
+(3) The company may refuse to register the transfer of a share (not being a fully paid share) to a person of whom they do not approve, and may also refuse to register the transfer of a share on which the company has a lien.
+(4) The company may refuse to recognise any instrument of transfer unless—
+(a) a fee, as the company may determine, is paid to the company in respect of the instrument;
+(b) the instrument of transfer is accompanied by the certificate of the shares to which it relates and such other evidence as the directors may reasonably require to show the right of the transferor to make the transfer; and
+(c) the instrument of transfer is in respect of only one class of shares.

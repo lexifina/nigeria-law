@@ -1,25 +1,14 @@
-2. Membership of the Commission The Commission shall consist of the following members, that is‐
-
-(a) a chairman who shall be appointed by the President on the recommendation of the Minister, being a person who by reason of his ability, experience or specialised knowledge of corporate, industrial, commercial, financial or economic matters or of business or professional attainments would in his opinion be capable of making outstanding contributions to the work of the Commission;
-
-(b) one representative of the business community, appointed by the Minister on the recommendation of the Nigerian Association of Chambers of Commerce, Industries, Mines and Agriculture;
-
-(c) one representative of the legal profession, appointed by the Minister on the recommendation of the Nigerian Bar Association;
-
-(d) one representative of the accountancy profession, appointed by the Minister on the recommendation of the Institute of Chartered Accountants of Nigeria;
-
-(e) one representative of the Manufacturers Association of Nigeria, appointed by the Minister on the recommendation of the Association;
-
-(f) one representative of the Securities and Exchange Commission not below the grade of Director or its equivalent;
-
-(g) one representative of each of the following Federal Ministries, that is‐
-
-(i) Commerce;
-
-(ii) Justice;
-
-(iii) Industry, and
-
-(h) the Registrar‐General of the Commission.
-
-[1992 No. 40.]
+# 2. Establishment of Governing Board of the Commission
+(1) There is established for the Commission, a Governing Board (in this Act referred to as "the Board") which shall be responsible for performing the functions of the Commission.
+(2) The Board shall consist of—
+(a) a chairman who is appointed by the President on the recommendation of the Minister, and who, by reason of his ability, experience or specialised knowledge of corporate, industrial, commercial, financial or economic matters, business or professional attainment, is capable of making outstanding contributions to the work of the Commission;
+(b) one representative of the—
+(i) business community, appointed by the Minister on the recommendation of the Nigerian Association of Chambers of Commerce, Industries, Mines and Agriculture,
+(ii) legal profession, appointed by the Minister on the recommendation of the Nigerian Bar Association,
+(iii) accountancy profession, appointed by the Minister after consultation with professional bodies of accountants as are established by Acts of the National Assembly,
+(iv) Institute of Chartered Secretaries and Administrators of Nigeria, appointed by the Minister on the recommendation of the Institute,
+(v) Nigerian Association of Small and Medium Enterprises, appointed by the Minister on the recommendation of the Association,
+(vi) Manufacturers Association of Nigeria, appointed by the Minister on the recommendation of the Association,
+(vii) Securities and Exchange Commission not below the rank of a Director or its equivalent, and
+(viii) each of the Federal Ministries of Industry, Trade and Investment, Justice and Finance who shall not be below the rank of Director; and
+(c) the Registrar-General of the Commission.

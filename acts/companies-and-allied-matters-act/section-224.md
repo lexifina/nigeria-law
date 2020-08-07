@@ -1,13 +1,4 @@
-224. Procedure of voting
-
-(1) At any general meeting, a resolution put to the vote shall be decided on a show of hands, unless a poll is (before or on the declaration of the result of the show of hands) demanded by‐
-
-(a) the chairman, where he is a shareholder or a proxy;
-
-(b) at least three members present in person or by proxy;
-
-(c) any member or members present in person or by proxy and representing not less than one tenth of the total voting rights of all the members having the right to vote at the meeting; or
-
-(d) any member or members holding shares in the company conferring a right to vote at the meeting being shares on which an aggregate sum has been paid up equal to not less than one tenth of the total sum paid up on all the shares conferring that right.
-
-(2) Unless a poll is so demanded, a declaration by the chairman that a resolution has on a show of hands been carried or carried unanimously, or by a particular majority, or lost, and an entry to that effect in the book containing the minutes of the proceedings of the company, shall be conclusive evidence of the fact, without proof of the number or proportion of the votes recorded in favour of, or against, the resolution.
+# 224. Duty of company to register charges
+(1) It is the duty of a company to send to the Commission for registration, the particulars of every charge created by the company and of the issues of debentures of a series requiring registration under section 222, but registration of any such charge may be effected on the application of any person interested therein.
+(2) Where registration is effected on the application of a person other than the company, that person is entitled to recover from the company the amount of any fees properly paid by him to the Commission on the registration.
+(3) If any company defaults in sending to the Commission for registration, the particulars of any charge created by the company or of the issues of debentures of a series requiring registration, unless the registration has been effected on the application of some other person, the company and each officer of the company who is in default commits an offence and are liable to such penalty as may be prescribed by the Commission.

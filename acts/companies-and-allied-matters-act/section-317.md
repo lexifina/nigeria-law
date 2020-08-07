@@ -1,17 +1,14 @@
-317. Production of documents and evidence to inspectors
-
-(1) When an inspector is appointed under section 314 or 315 of this Act, it shall be the duty of all officers and agents of the company, and of all officers and agents of any other body corporate whose affairs are investigated under section 316 of this Act‐
-
-(a) to produce to the inspector all books and documents of or relating to the company or, as the case may be, the other body corporate which are in their custody or power;
-
-(b) to attend before the inspector when required to do so; and
-
-(c) otherwise to give the inspector all assistance in connection with the investigation which he is reasonably able to give.
-
-(2) If the inspector considers that a person other than an officer or agent of the company or other body corporate is or may be in possession of information concerning its affairs, he may require that person to produce to him any books or documents in his custody or power relating to the company or other body corporate, to attend before him and otherwise to give him all assistance in connection with the investigation which he is reasonably able to give; and it is that person's duty to comply with the requirement.
-
-(3) An inspector may examine on oath the officers and agents of the company or other body corporate, and any such person as is mentioned in subsection (2) of this section in relation to the affairs of the company or other body, and administer an oath accordingly.
-
-(4) In this section, a reference to officers or to agents includes past, as well as present, officers or agents (as the case may be); and "agent" in relation to a company or other body corporate, includes its bankers and solicitors and persons employed by it as auditors, whether these persons are or are not officers of the company or other body corporate.
-
-(5) An answer given by a person to a question put to him in exercise of powers conferred by this section (whether as it has effect in relation to an investigation under any of sections 314 to 316 of this Act as applied by any other section in this Act) may be used in evidence against him.
+# 317. Director's contract of employment for more than five years
+(1) The provisions of this section apply in respect of any term of an agreement where a director's employment with the company of which he is a director or, where he is the director of a holding company, his employment within the group, is to continue or may be continued, than at the instance of the company (whether under the original agreement entered into in pursuance of it or not), for more than five years during which the employment—
+(a) cannot be terminated by the company by notice; or
+(b) can be so terminated only in specified circumstances.
+(2) References in subsection (1) to employment being continued (or its potential to be continued) are references to its being continued (or its potential to be continued) whether under the original agreement concerned or under a new agreement entered into in pursuance of the original agreement concerned prior to the expiration of the original agreement or within 6 months of the expiration of the original agreement.
+(3) A company shall not incorporate, in an agreement, such a term as is mentioned in subsection (1) unless the term is first approved by a resolution of the company in general meeting and in the case of a director of a holding company, by a resolution of that company in general meeting.
+(4) No approval is required to be given under this section by anybody corporate unless it is a company within the meaning of this Act, or if it is a wholly-owned subsidiary of any body corporate.
+(5) A resolution of a company approving such a term as is mentioned in subsection (1), shall not be passed at a general meeting of the company unless a written memorandum setting out the proposed agreement incorporating the term is available for inspection by members of the company both—
+(a) at the company's registered office for at least 15 days ending with the date of the meeting; and
+(b) at the meeting itself.
+(6) A term incorporated in an agreement in contravention of this section is to the extent that it contravenes the section, void, and that agreement and in a case where subsection (2) applies, the original agreements is deemed each to contain a term entitling the company to terminate it at any time by the giving of reasonable notice.
+(7) In this section—
+(a) "employment" includes employment under a contract for services; and
+(b) "group" in relation to a director of a holding company, means the group which consists of that company and its subsidiaries and for purposes of this section, a shadow director shall be treated as a director.

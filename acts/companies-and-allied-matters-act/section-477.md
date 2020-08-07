@@ -1,5 +1,6 @@
-477. Liquidator to call meetings of company and others at the end of each year
-
-(1) In the event of the winding up continuing for more than one year, the liquidator shall summon a general meeting of the company and a meeting of the creditors at the end of the first year from the commencement of the winding up, and of each succeeding year, or at the first convenient date within three months from the end of year, or such longer period as the Commission may allow, and shall lay before the meetings an account of his acts and dealings and of the conduct of the winding up during the preceding year.
-
-(2) If the liquidator fails to comply with the provisions of this section, he shall be guilty of an offence and liable to a fine of N50.
+# 477. Dismissal of pending winding-up petition
+(1) A petition for the winding-up of a company shall be—
+(a) dismissed on the making of an administration order in respect of the company; and
+(b) suspended while the company is in administration following an appointment under section 475 of this Act.
+(2) The provision of subsection (1)(b) does not apply to a petition presented under grounds of public interest as may be prescribed from time to time by the Chief Judge or under an enactment.
+(3) Except with the leave of the Court, subsection (1) (a) and (b) does not apply to a petition presented under special banking provisions of the Banks and Other Financial Institutions Act, Nigerian Deposit Insurance Corporation Act or any law or rule by a financial services and markets regulator.

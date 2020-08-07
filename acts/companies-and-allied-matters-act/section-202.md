@@ -1,7 +1,5 @@
-202. Charges to secure fluctuating amounts Where a charge, particulars of which require registration under section 197 of this Act, is expressed to secure all sums due or to become due or some other uncertain or fluctuating amount, the particulars required under paragraph (a) of subsection (9) of section 197 of this Act shall state the maximum sum deemed to be secured by such charge (being the maximum sum covered by the stamp duty paid thereon) and such charge shall be void, so far as any security on the company's property is thereby conferred, as respects any excess over the stated maximum:
-
-Provided that, if‐
-
-(a) additional stamp duty is subsequently paid on such charge; and
-
-(b) at any time thereafter prior to the commencement of the winding up of the company, amended particulars of the said charge stating the increased maximum sum deemed to be secured thereby (together with the original instrument by which the charge was created or evidenced) are delivered to the Commission for registration, then, as from the date of such delivery, the charge, if otherwise valid, shall be effective to the extent of such increased maximum sum except as regards any person who, prior to the date of such delivery, has acquired any proprietary rights in, or a fixed or floating charge on, the property subject to the charge.
+# 202. Meetings of debenture holders
+(1) The terms of any debenture or trust deed may provide for the convening of general meetings of the debenture holders and for the passing, at such meetings, of a resolution binding on all the holders of the debentures of the same class.
+(2) Whether or not the debenture or trust deed contain such provisions as are referred to in subsection (1), the Commission may at any time direct a meeting of the debenture holders of any class to be held and conducted in such manner as the Commission deems fit to consider ancillary or consequential direction as it shall deems fit.
+(3) Notwithstanding anything contained in a debenture trust deed, or in any debenture, contract or instrument, the trustee of a debenture deed shall, on the requisition of persons holding, at the date of the deposit of the acquisition debentures covered by the trust deed which carry at least one-tenth of the total voting rights attached to all the issued and outstanding debentures of that class, proceed to convene a meeting of that class of debenture holders.
+FIXED AND FLOATING CHARGES

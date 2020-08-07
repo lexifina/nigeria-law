@@ -1,5 +1,4 @@
-105. Restriction on reduction of issued share capital
-
-(1) Except as authorised by this Act, a company having a share capital shall not reduce its issued share capital.
-
-(2) For the purposes of this and other sections relating to reduction of share capital, any issue of share capital shall include the share premium account and any capital redemption reserve account of a company, and "issued share capital" shall be construed accordingly.
+# 105. Definition of member
+(1) A subscriber of the memorandum of a company shall be deemed to have agreed to become a member of the company, and on its registration shall be entered as the member in its register of members.
+(2) Every other person who agrees in writing to become a member of a company, and whose name is entered in its register of members, is a member of the company.
+(3) In the case of a company having a share capital, each member is a shareholder of the company and shall hold at least one share, except in relation to a company that has only one shareholder.

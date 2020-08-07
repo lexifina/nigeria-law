@@ -1,5 +1,7 @@
-332. Place and duration of records
-
-(1) The accounting records of a company shall be kept at its registered office or such other place in Nigeria as the directors think fit, and shall at all times be open to inspection by the officers of the company.
-
-(2) Subject to any direction with respect to the disposal of records given under winding up rules made under section 552 of this Act, accounting records which a company is required by section 331 of this Act to keep shall be preserved by it for a period of six years from the date on which they were made.
+# 332. Qualification of a secretary
+It is the duty of a director of a company to take all reasonable steps to ensure that the secretary of the company is a person who appears to have the requisite knowledge and experience to discharge the functions of a secretary of a company, and in the case of a public company, he shall be—
+(a) a member of the Institute of Chartered Secretaries and Administrators;
+(b) a legal practitioner within the meaning of the Legal Practitioners Act;
+(c) a member of any professional body of accountants established from time to time by an Act of the National Assembly;
+(d) any person who has held the office of the secretary of a public company for at least three years of the five years immediately preceding his appointment in a public company; or
+(e) a body corporate or firm consisting of members each of whom is qualified under paragraph (a), (b), or (c).

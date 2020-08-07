@@ -1,15 +1,11 @@
-508. Prosecution of delinquent officers and members of a company
-
-(1) If it appears to the court, in the course of winding up by, or subject to the supervision of the court, that any past or present officer, or any member of the company has been guilty of any offence in relation to the company for which he is criminally liable, the court may, either on the application of any person interested in the winding up or of its own motion direct the liquidator to refer the matter to the Attorney‐General of the Federation.
-
-(2) If it appears to the liquidator in the course of a voluntary winding up that any past or present officer, or any member of the company has been guilty of any offence in relation to the company for which he is criminally liable, he shall forthwith report the matter to the Attorney‐General of the Federation and shall furnish him such information and give to him such access to and facilities for inspecting and taking copies of any documents, being information or documents in the possession or under the control of the liquidator and relating to the matter in question, as he may require.
-
-(3) Where any report is made under subsection (2) of this section to the Attorney‐General of the Federation he may, if he thinks fit, apply to the court for an order conferring on him or any person designated by him for the purpose with respect to the company concerned, all such powers of investigating the affairs of the company as are provided by this Act in the case of a winding up by the court.
-
-(4) If it appears to the court in the course of a voluntary winding up that any past or present officer, or any member of the company has been guilty as aforesaid, and that no report with respect to the matter has been made by the liquidator to the Attorney‐General of the Federation under subsection (2) of this section, the court may on the application of any person interested in the winding up or of its own motion, direct the liquidator to make such a report, and on a report being made accordingly, the provisions of this section shall have effect as though the report had been made in pursuance of the provisions of subsection (2) of this section.
-
-(5) If, where any matter is reported or referred to the Attorney‐General of the Federation under this section, he considers that the case is one in which a prosecution ought to be instituted, he shall institute proceedings accordingly, and it shall be the duty of the liquidator and of every other officer and agent of the company past and present (other than the defendant in the proceedings) to give him all assistance in connection with the prosecution which he is reasonably able to give and it is hereby declared for the purposes of this subsection, that the expression "agent" in relation to a company includes any banker or solicitor of the company and any person employed by the company as auditor, whether that person is or is not an officer of the company.
-
-(6) If any person fails or neglects to give assistance in the manner required by subsection (3) of this section, the court may, on the application of the Attorney‐General of the Federation, direct that person to comply with the requirements of the said subsection, and where any such application is made with respect to a liquidator, the court, may, unless it appears that the failure or neglect to comply was due to the liquidator not having in his hands sufficient assets of the company to enable him so to do, direct that the costs of the application shall be borne by the liquidator personally.
-
-Supplementary provisions as to winding up
+# 508. Charged property: non-floating charge
+(1) The Court may by order enable the administrator of a company to dispose of property which is subject to a security other than a floating charge as if it were not subject to the security.
+(2) An order under subsection (1) may be made only—
+(a) on the application of the administrator; and
+(b) where the Court considers that disposal of the property would likely promote the purpose of administration in respect of the company.
+(3) An order under this section is subject to the condition that there shall be applied towards discharging the sums secured by the security—
+(a) the net proceeds of disposal of the property; and
+(b) any additional money required to be added to the net proceeds so as to produce the amount determined by the Court as the net amount which would be realised on a sale of the property at market value.
+(4) If an order under this section relates to more than one security, application of money under subsection (3) shall be in the order of the priorities of the securities.
+(5) An administrator who makes a successful application for an order under this section shall send a copy of the order to the Commission before the end of 14 days starting with the date of the order.
+(6) An administrator commits an offence if he fails, without reasonable excuse, to comply with subsection (5).

@@ -1,9 +1,5 @@
-454. Dissolution of company
-
-(1) If the affairs of a company have been fully wound up and the liquidator makes an application in that behalf, the court shall order the dissolution of the company and the company shall be dissolved accordingly from the date of the order.
-
-(2) A copy of the order shall, within 14 days from the date when made, be forwarded by the liquidator to the Commission who shall make in its books a minute of the dissolution of the company.
-
-(3) If the liquidator makes default in complying with the requirements of this section, he shall be guilty of an offence and liable to a fine of N25 for every day during which he is in default.
-
-Enforcement of and appeals from orders
+# 454. When not to appoint administrator
+An administrator shall not be appointed under section 452 of this Act if —
+(a) a floating charge on which the appointment relies is not enforceable, a holder of the unenforceable charge may apply or join as a mere creditor in an administration application under section 450 of this Act;
+(b) a provisional liquidator of the company has been appointed under section 585 of this Act; or
+(c) prior to the commencement of this Act and the coming into effect of this Chapter, a receiver or manager of the company is in office.

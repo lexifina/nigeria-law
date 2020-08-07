@@ -1,7 +1,6 @@
-495. Fraudulent preference
-
-(1) Any conveyance, mortgage, delivery of goods, payment, execution or other act relating to property which would, if made or done by or against an individual, be deemed in his bankruptcy a fraudulent preference, shall, if made or done by or against a company, be deemed, in the event of its being wound up, a fraudulent preference of its creditors, and be invalid accordingly.
-
-(2) Any conveyance or assignment by a company of all its property to trustees for the benefit of all its creditors shall be void.
-
-(3) For the purposes of this section, the presentation of a petition for winding up in the case of a winding up by or subject to the supervision of the court, and a resolution for winding up in the case of a voluntary winding up, shall be deemed to correspond with the act of bankruptcy in the case of an individual.
+# 495. Correspondence instead of creditors' meeting
+(1) Anything which is required or permitted by or under this Chapter to be done at a creditors' meeting may be done by correspondence between the administrator and creditors—
+(a) in accordance with the prescribed rules; and
+(b) subject to any prescribed condition.
+(2) A reference in this Chapter to anything done at a creditors' meeting includes a reference to anything done in the course of correspondence in accordance with subsection (1).
+(3) A requirement to hold a creditors' meeting is satisfied by correspondence in accordance with this section.

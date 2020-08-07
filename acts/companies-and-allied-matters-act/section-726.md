@@ -1,0 +1,3 @@
+# 726. Application of Act to unlimited companies registered under former enactments
+This Act applies to every unlimited company registered as a limited company under section 52 of the Companies and Allied Matters Act, 1990 or of any enactment replaced by that section, as the case may be, in the same manner as it applies to an unlimited company registered under this Act as a limited company:
+Provided that reference, express or implied, to the date of registration shall be construed as a reference to the date at which the company was registered as a limited company under section 52 of the 1990 Act or any enactment replaced by that section, as the case may be.

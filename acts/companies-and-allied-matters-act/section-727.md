@@ -1,0 +1,7 @@
+# 727. Restricted in this Schedule application of Act to unregistered companies
+(1) The provisions of this Act specified in the Second Column of the Thirteenth Schedule to this Act (which respectively related to all bodies corporate, incorporated in and having a principal place of business in Nigeria, other than those mentioned in subsection (2) as if they were companies registered under this Act, but subject to any limitations mentioned in relation to those provisions respectively in the Third Column of that Schedule and to such adaptation and modifications (if any) as may be specified by order made by the Minister and published in the Federal Government Gazette.
+(2) The provisions of subsection (1) shall not apply by virtue of this section to any body—
+(a) incorporated under any enactment other than this Act;
+(b) not formed for the purpose of carrying on a business which has for its objects the acquisition of gain by the body or by the individual members thereof; and
+(c) for the time being exempted by the direction of the Minister.
+(3) This section does not repeal or revoke in whole or in part any enactment or other instrument constituting or regulating any body in relation to which the said provisions are applied by virtue of this section, but in relation to any such body, the operation of any such enactment or instrument shall be suspended in so far as it is inconsistent with any of the said provisions as they apply for the time being to that body.

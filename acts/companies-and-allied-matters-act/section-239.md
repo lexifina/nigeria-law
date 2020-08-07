@@ -1,9 +1,9 @@
-239. Adjournment
-
-(1) The chairman may, with the consent of any meeting at which a quorum is present (and shall if so directed by the meeting), adjourn the meeting from time to time and from place to place, but no business shall be transacted at any adjourned meeting other than the business left unfinished at the meeting from which the adjournment took place.
-
-(2) When a meeting is adjourned for 30 days or more, notice of the adjourned meeting shall be given as in the case of an original meeting; but otherwise it shall not be necessary to give any notice of an adjournment or of the business to be transacted at an adjourned meeting.
-
-(3) If within one hour from the time appointed for the meeting a quorum is not present, the meeting if convened upon the requisition of members shall be dissolved, but in any other case, it shall stand adjourned to the same day in the next week, at the same time and place or to such other day and at such other time and place as the chairman, and in his absence the directors, may direct.
-
-(4) If a meeting stands adjourned under subsection (3) of this section any two or more members present at the place and time to which it so stands adjourned shall form a quorum and their decision shall bind all shareholders, and where only one member is present, he may seek the direction of the court to take a decision.
+# 239. Extraordinary general meeting
+(1) The board of directors may convene an extraordinary general meeting whenever they deem fit, and if at any time they are not within Nigeria, sufficient directors capable of acting to form a quorum, any director may convene an extraordinary general meeting.
+(2) An extraordinary general meeting of a company may be requisitioned by any member or members of the company holding at the date of the requisition not less than one-tenth of the paid up capital of the company as at the date of the deposit carrying the right of voting, or in the case of a company not having a share capital, members of the company representing not less than one tenth of the total voting rights of all the members having at the said date a right to vote at general meetings of the company, and the directors shall on receipt of the requisition immediately proceed to convene an extraordinary general meeting of the company, notwithstanding anything in its articles.
+(3) The requisition shall state the objects of the meeting, and be signed by the requisitionists and deposited at the registered office of the company, and the requisition may consist of several documents in like form each signed by one or more requisitionists.
+(4) If the directors do not within 21 days from the date of the deposit of the requisition proceed to convene a meeting, the requisitionists, or any one or more of them representing more than one half of the total voting rights of all of them, may themselves convene a meeting but any meeting so convened shall not be held after the expiration of three months from that date.
+(5) A meeting convened under this section by a requisitionist or requisitionists shall be convened in the same manner, as nearly as possible, as that in which meetings are to be convened by directors.
+(6) Any reasonable expenses incurred by the requisitionist or requisitionists by reason of the failure of the directors to convene a meeting, shall be repaid to the requisitionists by the company.
+(7) For the purpose of this section, the directors are, in the case of a meeting at which a resolution is to be proposed as a special resolution, deemed not to have duly convened the meeting if they do not give such notice as is required by section 241 of this Act.
+(8) All businesses transacted at an extraordinary general meeting are deemed special.

@@ -1,0 +1,2 @@
+# 804. Penalty for improper use of words "limited partnership" or "LP"
+Where any person or persons carry on business under any name or title of which the words "Limited Partnership" or "LP" or any contraction or imitation thereof is or are the last word or words, that person or each of those persons shall, unless duly registered as limited partnership, be liable to a penalty in such amount as the Commission shall specify in its regulations.

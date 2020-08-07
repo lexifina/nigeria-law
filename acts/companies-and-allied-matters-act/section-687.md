@@ -1,0 +1,2 @@
+# 687. Judicial notice of signatures of officers of Court
+In all proceedings under this Part of this Act, all Courts, Judges, and persons judicially acting, and all officers, judicial or ministerial, of any Court or employed in enforcing the process of any Court, shall take judicial notice of the signature of any officer of Court and also of the official seal or stamp of a Court appended to or impressed on any document made, issued or signed under this Part of this Act, or on any official copy of any such document.

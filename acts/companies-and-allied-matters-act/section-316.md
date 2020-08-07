@@ -1,5 +1,5 @@
-316. Inspectors' powers during investigation
-
-(1) If an inspector appointed under section 314 or 315 of this Act to investigate the affairs of a company thinks it necessary for the purposes of his investigation to investigate also the affairs of another body corporate which is or at any relevant time has been the company's subsidiary or holding company, or a subsidiary of its holding company or a holding company of its subsidiary, he shall report on the affairs of the other body corporate so far as he thinks that the results of his investigation of its affairs are relevant to the investigation of the affairs of the company first mentioned above.
-
-(2) An inspector appointed under either section 314 or 315 of this Act may at any time in the course of his investigation, without the necessity of making an interim report, inform the Commission of matters coming to his knowledge as a result of the investigation tending to show that an offence has been committed.
+# 316. Personal liability of directors and officers
+Where a company—
+(a) receives money by way of loan for specific purpose;
+(b) receives money or other property by way of advance payment for the execution of a contract or project; or
+(c) with intent to defraud, fails to apply the money or other property for the purpose for which it was received, every director or other officer of the company who is in default is personally liable to the party from whom the money or property was received for a refund of the money or property so received and not applied for the purpose for which it was received and nothing in this section affects the liability of the company itself.

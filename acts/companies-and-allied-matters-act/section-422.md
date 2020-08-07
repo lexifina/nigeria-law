@@ -1,31 +1,6 @@
-422. Appointment, remuneration and title of liquidators
-
-(1) The court may appoint a liquidator or liquidators for the purpose of conducting the proceedings in winding up a company and performing such duties in reference thereto as the court may impose and where there is a vacancy, the official receiver shall by virtue of his office, act as liquidator until such time as the vacancy is filled.
-
-(2) At any time after the presentation of a petition and before the making of a winding‐up order, the appointment shall be provisional and the court making the appointment may limit and restrict the powers of the liquidator by the order appointing him.
-
-(3) In the application of the foregoing provisions of this section‐
-
-(a) if a provisional liquidator is to be appointed before the making of a winding‐up order, the official receiver, or any other fit person, may be so appointed;
-
-(b) on the making of a winding‐up order, if no liquidator is appointed, the official receiver shall by virtue of his office become the liquidator;
-
-(c) the official receiver in his capacity as provisional liquidator shall, and in any other case may, summon meetings of creditors and contributories of the company to be held separately for the purpose of determining whether or not an application is to be made to the court for appointing a liquidator in place of the official receiver;
-
-(d) if a person other than the official receiver is appointed liquidator, he shall not be capable of acting in that capacity until he has notified his appointment to the Commission and given security in the prescribed manner to the satisfaction of the court.
-
-(4) If more than one liquidator of a company is appointed by the court, the court shall declare whether anything by this Act required or authorised to be done by a liquidator is to be done by all or anyone or more of them.
-
-(5) A liquidator appointed by the court may resign, or, on cause shown, be removed by the court; and any vacancy in the office of a liquidator so appointed shall be filled by the court.
-
-(6) Where a person other than the official receiver is appointed a liquidator, he shall receive salary in an amount, or remuneration by way of percentage or otherwise, as the court may direct; and, if more such persons than one are appointed liquidators, their remuneration shall be distributed among them in such proportions as the court directs.
-
-(7) Where a liquidator of a company is appointed, he shall, after his individual name‐
-
-(a) if he is the official receiver, be described as "official receiver and liquidator of (add here name of the company)"; and
-
-(b) in any other case be described as "liquidator of (add here name of the company)".
-
-(8) The acts of a liquidator shall be valid notwithstanding any defects that may afterwards be discovered in his appointment or qualification.
-
-(9) If a liquidator is appointed under this section, all the powers of the directors shall cease, except so far as the court may by order sanction the continuance thereof.
+# 422. Documents to be annexed to annual return
+(1) Subject to the provisions of section 424 of this Act, there shall be annexed to the annual return—
+(a) a written copy, certified both by a director and the Secretary of the company to be a true copy, of every balance sheet and profit and loss account laid before the company in general meeting held in the year to which the return relates (including every document required by law to be annexed to the balance sheet); and
+(b) a copy, certified in accordance with paragraph (a), of the report of the auditors on, and of the report of the directors accompanying, each such balance sheet.
+(2) If any such balance sheet as mentioned in subsection (1), or document required by law to be annexed does not comply with the requirement of the law in force at the date of the audit with respect to the form of balance sheet or the documents, there shall be made such additions to and corrections in the copy as would have been required to be made in the balance sheet or document in order to comply with the requirements, and the fact that the copy has been amended shall be stated on it.
+(3) Any document required to be annexed to the annual return may be delivered to the Commission either in hard copy or through electronic communications.

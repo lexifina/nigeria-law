@@ -1,1 +1,6 @@
-33. Articles for regulating companies There shall be registered, with the memorandum of association, articles of association signed by the subscribers to the memorandum of association, and prescribing regulations for the company.
+# 33. Power of Minister to prescribe model articles
+(1) The Minister may by regulations prescribe model articles of association for companies.
+(2) Different model articles may be prescribed for different descriptions of companies.
+(3) A company may adopt all or any of the provisions of model articles.
+(4) Any amendment of model articles by regulations does not affect a company registered before the amendment takes effect.
+(5) In this section, "amendment" includes addition, alteration or repeal.

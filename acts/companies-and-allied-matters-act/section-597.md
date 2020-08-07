@@ -1,15 +1,10 @@
-597. Changes of names or objects
-
-(1) Where the association is desirous of changing or altering its name or objects or any of them, the trustees shall apply to the Commission in the prescribed form setting out the alterations desired and attaching a copy of the resolution approving the change and duly certified by the trustees.
-
-(2) The Commission on receipt of the application shall consider it and, if satisfied that the change or alteration is prima facie lawful shall‐
-
-(a) cause the application to be published in two daily newspapers in the manner specified in subsection (1) of section 593 of this Act; and
-
-(b) direct the corporation to display for at least 28 days a notice of the proposed change or alteration conspicuously mounted at the corporation headquarters, or at any branch offices, or any such places where a majority of the members are likely to see it, as the Commission may require,
-
-(3) The publication and notices shall call for objections which, if any, shall state the grounds of objection and be forwarded to reach the Commission not later than 28 days after the last of the publications in the newspapers.
-
-(4) The provisions of section 593 and of subsection (1) of section 594 of this Part of this Act shall apply to this section as they apply to an application for registration.
-
-(5) If the Commission assents to the application, the alterations shall be made and in the case of a change of name, the Commission shall issue a new certificate in the new name in place of the former certificate.
+# 597. Powers, etc. of committee of inspection
+(1) A Committee of Inspection appointed under this Act shall consist of creditors and contributories of the company or persons holding general powers of attorney from creditors or contributories in the proportions as may be agreed on by the meetings of creditors and contributories or as, in case of difference, may be determined by the Court.
+(2) A Committee of Inspection shall meet at the time appointed, and there shall be a meeting at least once in every month during its existence, but the liquidator or any member of the Committee may convene a meeting as and when necessary.
+(3) A meeting of a Committee of Inspection shall be deemed convened if a majority of members are present, and at the meeting of the Committee of Inspection may act by a majority of the members present.
+(4) A member of the Committee of Inspection may resign by notice in writing signed by him and delivered to the liquidator.
+(5) If a member of the Committee of Inspection becomes bankrupt, compounds or arranges with his creditors, is absent from five consecutive meetings of the Committee of Inspection without leave of those members who, together with himself, represent the creditors or contributories, as the case may be, his office shall thereupon become vacant.
+(6) A member of the Committee of Inspection may be removed by an ordinary resolution at a meeting of creditors if he represents creditors, or of contributories if he represents contributories, of which seven days' notice has been given, stating the object of the meeting.
+(7) On a vacancy occurring in the Committee of Inspection, the liquidator shall immediately summon a meeting of creditors or contributories, as the case may require, to fill the vacancy, and the meeting may, by resolution, reappoint the same or appoint another creditor or contributory to fill the vacancy:
+Provided that if the liquidator, having regard to the position in the winding-up, is of the opinion that it is unnecessary for the vacancy to be filled he may apply to the court and the Court may make an order that the vacancy shall not be filled, or shall be filled in the circumstances as may be specified in the order.
+(8) The continuing members of the Committee of Inspection, if not less than two, may act notwithstanding any vacancy in the Committee of Inspection.

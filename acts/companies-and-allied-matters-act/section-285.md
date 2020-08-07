@@ -1,11 +1,5 @@
-285. Exceptions from section 284
-
-(1) No approval shall be required to be given under section 284 of this Act by any body corporate unless it is a company within the meaning of this Act, or if it is a wholly‐owned subsidiary of any body corporate.
-
-(2) Section 283 of this Act shall not apply to an arrangement for the acquisition of a non‐cash asset if‐
-
-(a) the asset is to be acquired by a holding company from any of its wholly‐owned subsidiaries or from a holding company by any of its wholly‐owned subsidiary of a holding company from another wholly‐owned subsidiary of that same holding company; or
-
-(b) the arrangement is entered into by a company which is being wound up, unless the winding up is a member's voluntary winding up.
-
-(3) Subsection (1) (a) of section 284 of this Act shall not apply to an arrangement whereby a person is to acquire an asset from a company of which he is a member, if the arrangement is made with that person in his character as a member.
+# 285. Rotation of directors
+(1) Unless the articles provide, at the first annual general meeting of the company all the directors shall retire from office, and at the annual general meeting in every subsequent year one third of the directors or if their number is not three or a multiple of three, then the number nearest one-third shall retire from office.
+(2) The directors to retire in every year are those who have been longest in office since their last election, but as between persons who became directors on the same day those to retire are (unless they agree among themselves) determined by lot.
+(3) The company at the meeting at which a director retires in the manner mentioned in subsections (1) and (2), may fill the vacated office by electing a person to that office and in default, the retiring director is, if offering himself for re-election, deemed to have been re-elected, unless at such meeting it is expressly resolved not to fill such vacated office or unless a resolution for the re-election of such director have been put to the meeting and lost.
+(4) No person other than a director retiring at the meeting is, unless recommended by the directors, eligible for election to the office of director at any general meeting unless not less than three nor more than 21 days before the date appointed for the meeting there shall have been left at the registered office or head office of the company notice in writing, signed by a member duly qualified to attend and vote at the meeting for which such notice is given, of his intention to propose such person for election, and also notice in writing signed by that person of his willingness to be elected.

@@ -1,17 +1,10 @@
-360. Auditors' duties and powers
-
-(1) It shall be the duty of the company's auditors, in preparing their report to carry out such investigations as may enable them to form an opinion as to the following matters whether‐
-
-(a) proper accounting records have been kept by the company and proper returns adequate for their audit have been received from branches not visited by them;
-
-(b) the company's balance sheet and (if not consolidated) its profit and loss account are in agreement with the accounting records and returns.
-
-(2) If the auditors are of opinion that proper accounting records have not been received from branches not visited by them, or if the balance sheet and (if not consolidated) the profit and loss account are not in agreement with the accounting records and returns, the auditors shall state that fact in their report.
-
-(3) Every auditor of a company shall have a right of access at all times to the company's books, accounts and vouchers, and be entitled to require from the company's office such information and explanations as he thinks necessary for the performance of the auditor's duties.
-
-(4) If the requirements of Part V and VI of the Third Schedule and Parts I to III of the Fourth Schedule to this Act are not complied with in the accounts, it shall be the auditors' duty to include in their report, so far as they are reasonably able to do so, a statement giving the required particulars.
-
-[Third Schedule. Fourth Schedule.]
-
-(5) It shall be the auditors' duty to consider whether the information given in the directors' report for the year for which the accounts are prepared is consistent with those accounts; and if they are of opinion that it is not, they shall state that fact in their report.
+# 360. Production of documents and evidence to inspectors
+(1) When an inspector is appointed under section 357 or 358, it is the duty of both past and present officers and agents of the company, and all past and present officers and agents of any other body corporate whose affairs are investigated under section 359, to—
+(a) produce to the inspector all information, books and documents of or relating to the company or, as the case may be, the other body corporate, which are at their disposal, in their custody or power;
+(b) appear before the inspector when required to do so; and
+(c) give the inspector all assistance in connection with the investigation which he is reasonably able to give.
+(2) If the inspector considers that a person other than an officer or agent of the company or other body corporate is or may be in possession of information concerning its affairs, he may require that person to produce to him such information, books or documents at his disposal, under his custody or power relating to the company or other body corporate, to appear before him and give him all assistance in connection with the investigation which he is reasonably able to give, and it is that person's duty to comply with the requirement.
+(3) An inspector may examine on oath the officers and agents of the company or other body corporate, and any such person as is mentioned in subsection (2) in relation to the affairs of the company or other body, and administer an oath accordingly.
+(4) In this section, a reference to officers or to agents includes past and present officers or agents, as the case may be, and "agent" in relation to a company or other body corporate, includes its bankers and solicitors and persons employed by it as auditors, whether these persons are or are not officers of the company.
+(5) An answer given by a person to a question put to him in exercise of powers conferred by this section (whether as it has effect in relation to an investigation under any of sections 357-359 as applied by any other section in this Act) may be used in evidence against him.
+(6) Where any officer or agent of the company, or any other person refuses to answer any question put to him by the inspector, or provide any information, books or documents at his disposal, under his custody or power with respect to the affairs of the company, or other body corporate, the inspector may apply to Court for contempt proceedings against the officer, agent or person.

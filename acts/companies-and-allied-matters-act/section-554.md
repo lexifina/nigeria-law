@@ -1,5 +1,2 @@
-554. Prosecution of offences
-
-(1) All offences under this Act may be tried by a court of competent jurisdiction in the place where the offence is alleged to have been committed.
-
-(2) Where provision is made in this Act for a criminal sanction to be imposed in case of an act, omission or default without reference therein to the default being an offence, or without reference to conviction thereof in a court, as the case may be, the reference to the act, omission or default shall be construed as referable to an offence, and the expression "offences" as used in this section shall have effect in relation to any such act, omission or default.
+# 554. Power of a receiver or manager appointed out of Court to apply to the Court for directions
+A receiver or manager of the property of a company appointed under a power contained in any instrument, or the persons by whom or on whose behalf a receiver or manager has been so appointed may apply to the Court for directions in relation to any particular matter arising in connection with the performance of his functions, and on any such application the Court may give such directions or make such order declaring the rights of persons before the Court or otherwise, as it deems just.

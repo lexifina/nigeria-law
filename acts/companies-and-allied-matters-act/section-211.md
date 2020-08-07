@@ -1,35 +1,8 @@
-211. Statutory meeting
-
-(1) Every public company shall, within a period of six months from the date of its incorporation, hold a general meeting of the members of the company (in this Act referred to as "the statutory meeting").
-
-(2) The directors shall, at least 21 days before the day on which the statutory meeting is held, forward to every member of the company a copy of the statutory report.
-
-(3) The statutory report shall be certified by not less than two directors or by a director and the secretary of the company and shall state‐
-
-(a) the total number of shares allotted, distinguishing shares allotted as fully or partly paid‐up otherwise than in cash, and stating in the case of shares partly paid‐up, the extent to which they are so paid up, and in either case the consideration for which they have been allotted;
-
-(b) the total amount of cash received by the company in respect of all the shares allotted, distinguished as aforesaid;
-
-(c) the names, addresses and descriptions of the directors, auditors, managers, if any, and secretary of the company;
-
-(d) the particulars of any pre‐incorporation contract together with the particulars of any modification or proposed modification thereon;
-
-(e) any underwriting contract that has not been carried out and the reasons therefore;
-
-(f) the arrears, if any, due on calls from every director;
-
-(g) the particulars of any commission or brokerage paid or to be paid in connection with the issue or sale of shares or debentures to any director or to the manager.
-
-(4) The report shall also contain an abstract of the receipts of the company and of the payments made from them up to a date within seven days of the date of the report, exhibiting under distinctive headings the receipts of the company from shares and debentures and other sources, the payments made from such receipts and particulars concerning the balance remaining in hand, and an account or estimate of the preliminary expenses of the company.
-
-(5) The statutory report shall, so far as it relates to the shares allotted by the company, and to the cash received in respect of such shares, and to the receipts and payments of the company on capital account, be certified as correct by the auditors.
-
-(6) The directors shall cause a copy of the statutory report, certified as required by this section, to be delivered to the Commission for registration forthwith after the sending of copies to the members of the company.
-
-(7) The directors shall cause a list, showing the names, descriptions and addresses of the members of the company and the number of shares held by them respectively, to be produced at the commencement of the meeting and to remain open and accessible to any member of the company during the continuance of the statutory meeting.
-
-(8) The members of the company present at the statutory meeting shall be at liberty to discuss any matter relating to the formation of the company, and its commencement of business or arising out of the statutory report.
-
-(9) Any member who wishes a resolution to be passed on any matter arising out of the statutory report shall give further 21 days notice from the date on which the statutory report was received to the company of his intention to propose such a resolution.
-
-(10) The statutory meeting may adjourn from time to time, and at any adjourned meeting any resolution of which notice has been given in accordance with the articles, either before or subsequently to the former meeting, may be passed, and the adjourned meeting shall have the same powers as an original meeting.
+# 211. Trustees for debenture holders
+(1) Whether or not a debenture is secured by a charge over the company's property, there may be created in relation to such debenture, a trust deed appointing trustees for the debenture holders.
+(2) It is the duty of such trustee to safeguard the rights of the debenture holders and, on behalf of and for the benefit of the debenture holders, exercise the rights, powers and discretions conferred upon him by the trust deed.
+(3) Charges securing the debentures may be created in favour of the debenture holders by vesting them in the trustees.
+(4) Any provision contained in a trust deed or in any contract with the holders of debentures secured by a trust deed is void if it would have the effect of exempting a trustee from, or indemnifying him against, liability for any breach of trust or failure to show the degree of care and diligence required of him as trustee having regard to the powers, authorities or discretions conferred on him by the trust deed.
+(5) In subsection (4), nothing is deemed to invalidate any release otherwise validly given in respect of anything done or omitted to be done by a trustee on the agreement to such release of a majority of at least three quarters in value of the debenture holders present in person, or where proxies are permitted, by proxy at a meeting summoned for the purpose.
+(6) Notwithstanding any provision contained in the debentures or trust deed, the Court may, on the application of any debenture holder or of the Commission, remove any trustee and appoint another in his place if satisfied that such trustee has interests which conflicts or may conflict with those of the debenture holders or that for any reason it is undesirable that such trustee should continue to act:
+Provided that where any such application is made by a debenture holder, the Court if it deems fit, may order the applicant to give security for the payment of the costs of the trustee and may direct that the application be heard in Chambers.

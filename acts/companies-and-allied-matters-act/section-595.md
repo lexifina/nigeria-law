@@ -1,5 +1,3 @@
-595. Registration and certificate
-
-(1) If, after the advertisement, no objection is received within the period specified in section 596 of this Act or, where any objection is received, and the same is rejected, the Commission, having regard to all the circumstances, may assent to the application or withhold its assent.
-
-(2) If the Commission assents to the application, it shall register the trustees and issue a certificate in the prescribed form.
+# 595. Control over liquidators
+(1) The Commission shall take cognisance of the conduct of liquidators of companies which are being wound up by the Court and if a liquidator does not faithfully perform his duties and duly observe all the requirements imposed on him by any enactment, or other- wise with respect to the performance of his duties, or if any complaint is made to the Commission by a creditor or contributory in that regard, the Commission shall inquire into the matter, and may take such action thereon as it deems fit, including the direction of a local investigation of the books and vouchers of the liquidator.
+(2) The Commission may, at any time, require the liquidator of a company being wound up by the Court to answer any inquiry in relation to any winding-up in which he is engaged and if the Commission deems fit, it may apply to the Court to examine the liquidator or any other person on oath concerning the winding-up.

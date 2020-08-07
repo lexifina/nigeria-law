@@ -1,13 +1,5 @@
-303. Commencing derivative action
-
-(1) Subject to the provisions of subsection (2) of this section, an applicant may apply to the court for leave to bring an action in the name or on behalf of a company, or to intervene in an action to which the company is a party, for the purpose of prosecuting, defending or discontinuing the action on behalf of the company.
-
-(2) No action may be brought and no intervention may be made under subsection (1) of this section, unless the court is satisfied that‐
-
-(a) the wrongdoers are the directors who are in control, and will not take necessary action;
-
-(b) the applicant has given reasonable notice to the directors of the company of his intention to apply to the court under subsection (1) of this section if the directors of the company do not bring, diligently prosecute or defend or discontinue the action;
-
-(c) the applicant is acting in good faith; and
-
-(d) it appears to be in the best interest of the company that the action be brought, prosecuted, defended or discontinued.
+# 303. Disclosure by directors of interests in contracts
+(1) Subject to the provisions of this section, it is the duty of a director of a company who is in any way, whether directly or indirectly, interested in a transaction or a proposed transaction with the company, to immediately notify the directors of such company in writing, specifying particulars of the director's interest.
+(2) For the purpose of this section, a general notice given to the directors of a company by a director to the effect that he is a member of a specified company or firm and is to be regarded as interested in any transaction which may, after the date of the notice, be made with that company or firm, shall not be deemed to be a sufficient declaration of interest in relation to any transaction so made unless the particulars of the transaction are also disclosed by that director to the board upon being known to that director, and that the director does all things reasonably necessary to be sure that it is brought up and read at the next meeting of the directors after it is given.
+(3) Any director who fails to comply with the provisions of this section commits an offence and is liable to a fine in such amount as the Commission shall specify in its regulations.
+(4) Nothing in this section shall be taken to prejudice the operation of any rule of law restricting directors of a company from having any interest in contracts with the company.

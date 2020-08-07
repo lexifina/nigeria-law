@@ -1,7 +1,5 @@
-65. Acts of general meeting, board of directors, or of managing directors Any act of the members in general meeting, the board of directors, or of a managing director while carrying on in the usual way the business of the company, shall be treated as the act of the company itself and the company shall be criminally and civilly liable therefore to the same extent as if it were a natural person:
-
-Provided that‐
-
-(a) the company shall not incur civil liability to any person if that person had actual knowledge at the time of the transaction in question that the general meeting, board of directors, or managing director, as the case may be, had no power to act in the matter or had acted in an irregular manner or if, having regard to his position with or relationship to the company, he ought to have known of the absence of such power or of the irregularity;
-
-(b) if in fact a business is being carried on by the company, the company shall not escape liability for acts undertaken in connection with that business merely because the business in question was not among the business authorised by the company's memorandum.
+# 65. Notice to Commission of Court application or order
+(1) On making an application to the Court to cancel the resolution, the applicants, or the person making the application on their behalf, shall immediately give notice to the Commission, without prejudice to any provision of rules of court as to service of notice of the application.
+(2) On being served with notice of any such application, the company shall immediately give notice to the Commission.
+(3) Within 15 days of the making of the Court order on the application, or such longer period as the Court may at any time direct, the company shall deliver to the Commission a copy of the order.
+(4) If default is made in complying with subsections (2) and (3), the company and each officer of the company is liable to such penalty as the Commission shall prescribe by regulation for every day during which the default continues.

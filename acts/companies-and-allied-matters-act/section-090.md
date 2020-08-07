@@ -1,13 +1,6 @@
-90. Power of court to rectify register
-
-(1) If‐
-
-(a) the name of any person is, without sufficient cause, entered in or omitted from the register of members of a company; or
-
-(b) default is made or unnecessary delay takes place in entering on the register the fact of any person having ceased to be a member, the person aggrieved, or any member of the company, or the company, may apply to the court for rectification of the register.
-
-(2) The court may refuse the application, or order rectification of the register and payment by the company of any damages sustained by the party aggrieved.
-
-(3) On an application under this section, the court may decide any question relating to the title of any person who is a party to the application to have his name entered in or omitted from the register, whether the question arises between members or alleged members, or between members and alleged members on the one hand and the company on the other hand, and generally may decide any question necessary or expedient to be decided for rectification of the register.
-
-(4) In the case of a company required by this Act to send a list of its members to the Commission, the court, when making an order for rectification of the register shall, by its order, direct notice of the rectification to be given to the Commission.
+# 90. Acts of officers or agents
+(1) Except as provided in section 89 of this Act, the acts of any officer or agent of a company shall not be deemed to be acts of the company, unless—
+(a) the company, acting through its members in general meeting, board of directors, or managing director, shall have expressly or impliedly authorised such officer or agent to act in the matter; or
+(b) the company, acting as mentioned in paragraph (a), shall have represented the officer or agent as having its authority to act in the matter, in which event the company shall be civilly liable to any person who has entered into the transaction in reliance on such representation unless such person had actual knowledge that the officer or agent had no authority or unless having regard to his position with or relationship to the company, he ought to have known of such absence of authority.
+(2) The authority of an officer or agent of the company may be conferred prior to any action by him or by subsequent ratification, and knowledge of such action by the officer or agent and acquiescence by all the members of the company or by the directors or by the managing director for the time being, shall be equivalent to ratification by the members in general meeting, board of directors, or managing director, as the case may be.
+(3) Nothing in this section shall derogate from the vicarious liability of the company for the acts of its servants while acting within the scope of their employment.

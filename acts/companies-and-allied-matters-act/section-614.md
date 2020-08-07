@@ -1,0 +1,2 @@
+# 614. Power to arrest absconding contributory
+The Court, at any time either before or after making a winding-up order, on proof of probable cause for believing that a contributory is about to quit Nigeria or otherwise abscond, remove or conceal any of his property for the purpose of evading payment of calls, or of avoiding examination with respect to the affairs of the company, may cause the contributory to be arrested, and his books, papers and movable personal property, to be seized, and him and them to be kept safely until the time which the Court may order.

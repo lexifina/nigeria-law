@@ -1,7 +1,3 @@
-368. Liability of auditors for negligence
-
-(1) A company's auditor shall in the performance of his duties, exercise all such care, diligence and skill as is reasonably necessary in each particular circumstance.
-
-(2) Where a company suffers loss or damage as a result of the failure of its auditor to discharge the fiduciary duty imposed on him by subsection (1) of this section, the auditor shall be liable for negligence and the directors may institute an action for negligence against him in the court.
-
-(3) If the directors fail to institute an action against the auditor under subsection (2) of this section, any member may do so after the expiration of 30 days' notice to the company of his intention to institute such action.
+# 368. Inspectors' report to be used as evidence in legal proceedings
+(1) A copy of any report of an inspector appointed under sections 357 and 358, certified by the Commission to be a true copy, is admissible in any legal proceedings as evidence of the opinion of the inspector in relation to any matter contained in the report.
+(2) A document purporting to be such a certificate as mentioned in subsection (1) shall be received in evidence and be deemed to be such a certificate, unless the contrary is proved.

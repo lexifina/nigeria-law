@@ -1,13 +1,6 @@
-592. Qualification of trustees
-
-(1) A person shall not be qualified to be appointed as a trustee if‐
-
-(a) he is an infant; or
-
-(b) he is a person of unsound mind having been so found by a court;
-
-(c) he is an undischarged bankrupt; or
-
-(d) he has been convicted of an offence involving fraud or dishonesty within five years of his proposed appointment.
-
-(2) If a person disqualified under paragraph (c) or (d) of subsection (1) of this section acts as a trustee, he shall be liable to a fine of N50 for every day during which he so acts.
+# 592. Audit of liquidator's account
+(1) Every liquidator of a company being wound up by the Court shall, at such times as may be prescribed, but not less than twice in each year during his tenure of office, send to the Commission an account of his receipts and payments as liquidator.
+(2) The account shall be in duplicate in the prescribed form, and shall be verified by a statutory declaration in the prescribed form.
+(3) The Commission shall cause the account to be audited, and for the purpose of the audit, the liquidator shall furnish the Commission with such vouchers and information as the Commission may require, and the Commission may at any time require the production of, and may inspect, any book or account kept by the liquidator.
+(4) When the account has been audited, one copy shall be filed and kept by the Commission, and the other copy shall be with the Court and each shall be open to inspection by any creditor or other person interested, on payment of the prescribed fee.
+(5) The Commission shall cause the account when audited, or a summary of it, to be printed, and shall send a printed copy of the account or summary by post to every creditor and contributory.

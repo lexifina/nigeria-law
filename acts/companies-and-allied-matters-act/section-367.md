@@ -1,9 +1,7 @@
-367. Powers of auditors in relation to subsidiaries
-
-(1) Where a company has a subsidiary, then‐
-
-(a) if the subsidiary is a body corporate incorporated in Nigeria it shall be the duty of the subsidiaries and its auditors to give the auditors of the holding company such information and explanation as those auditors may reasonably require for the purposes of their duties as auditors of the holding company;
-
-(b) in any other case, it shall be the duty of the holding company, if required by its auditors to do so, to take all such steps as are reasonably open to it to obtain from the subsidiary such information and explanation as are mentioned above.
-
-(2) If a subsidiary or holding company fails to comply with the provisions of subsection (1) of this section, the subsidiary or holding company, and every officer of it who is in default, shall be guilty of an offence and liable to a fine; and if an auditor fails without reasonable excuse to comply with paragraph (a) of the subsection, he shall be guilty of an offence and so liable.
+# 367. Expenses of investigation
+(1) The expenses of, and incidental to, an investigation by an inspector appointed by the Commission under the provisions of this Act, are defrayed in the first instance out of the Consolidated Revenue Fund, but the following persons are, to the extent mentioned, liable to make repayment,—
+(a) any person who is convicted on a prosecution instituted, as a result of the investigation by the Attorney-General of the Federation, or who is ordered to pay damages or restore any property in proceedings brought under section 365 (3), may, in the same proceedings, be ordered to pay the said expenses to such extent as are specified in the order;
+(b) any body corporate in whose name proceedings are brought under section 365 (3) is liable to the extent of the amount or value of any sums or property recovered by it as a result of those proceedings; or
+(c) unless, as the result of the investigation, a prosecution is instituted by the Attorney-General of the Federation, the applicants for the investigation, where the inspector was appointed under section 357, are liable to such extent, if any, as the Commission may direct, and any amount for which a body corporate is liable under paragraph (b), shall be a first charge on the sums or property mentioned in that paragraph.
+(2) For the purposes of this section, any costs or expenses incurred by the Commission in or in connection with proceedings brought by virtue of section 364 (2), is treated as expenses of the investigation giving rise to the proceedings.
+(3) Expenses to be defrayed by the Commission under this section are, so far as not recoverable are to be paid out of the Consolidated Revenue Fund.

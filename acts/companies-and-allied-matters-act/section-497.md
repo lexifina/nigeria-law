@@ -1,1 +1,2 @@
-497. Avoidance of attachments, etc., on winding up subject to supervision of the court Where a company is being wound up subject to the supervision of the court, any attachment, sequestration or execution put in force against the estate or effects of the company after the commencement of the winding up, shall be void.
+# 497. Additional powers of administrator
+The Administrator of a company shall exercise the additional powers specified in Eleventh Schedule to this Act.

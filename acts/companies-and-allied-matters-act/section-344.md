@@ -1,23 +1,7 @@
-344. Persons entitled to receive financial statements as of right
-
-(1) In the case of every company, a copy of the company's financial statements for the year shall, not less than 21 days before the date of the meeting at which they are to be laid in accordance with section 345 of this Act be sent to each of the following persons‐
-
-(a) every member of the company (whether or not entitled to receive notice of general meetings);
-
-(b) every holder of the company's debentures, (whether or not so entitled); and
-
-(c) all persons other than members and debenture holders, being persons so entitled.
-
-(2) In the case of a company not having a share capital, subsection (1) of this section shall not require a copy of the financial statements to be sent to a member of the company who is not entitled to receive notices of general meetings of the company, or to a holder of the company's debenture who is not so entitled.
-
-(3) Subsection (1) of this section shall not require copies of the financial statements to be sent to‐
-
-(a) a member of the company or a debenture holder, being in either case a person who is not entitled to receive notices of general meetings, and of whose address the company is unaware; or
-
-(b) more than one of the joint holders of any shares or debentures none of whom are entitled to receive such notices; or
-
-(c) those who are not so entitled in the case of joint holders of shares or debentures, some of whom are not entitled to receive such notices.
-
-(4) If copies of the financial statements are sent less than 21 days before the date of the meeting, it shall, notwithstanding that fact, be deemed to have been duly sent if it is so agreed by all the members entitled to attend and vote at the meeting.
-
-(5) If default is made in complying with subsection (1) of this section, the company and every officer of it who is in default shall be guilty of an offence and is liable to a fine of N250.
+# 344. Personal and representative action
+(1) Where a member institutes a personal action to enforce a right due to him personally, or a representative action on behalf of himself and other affected members to enforce any right due to them, he or they are subject to subsection (2), entitled to—
+(a) damages for any loss incurred on account of the breach of that right; or
+(b) declaration or injunction to restrain the company or the directors from doing a particular act.
+(2) Where, in proceedings brought under this section, the Court finds the directors or any of them liable for any wrongdoing, the erring director is personally liable in damages to the aggrieved member.
+(3) Where any member institutes an action under this section, the Court may award costs to him personally whether or not his action succeeds.
+(4) In any proceeding by a member under section 343 of this Act, the Court may, if it deems fit, order that the member shall give security for costs.

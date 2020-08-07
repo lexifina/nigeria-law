@@ -1,5 +1,5 @@
-465. Power to fill vacancy in office of liquidators
-
-(1) If a vacancy occurs by death, resignation or otherwise in the office of a liquidator appointed by the company, the company in general meeting may, subject to any arrangement with its creditors, fill the vacancy; and for that purpose a general meeting may be convened by any contributory or, if there were more liquidators than one, by the continuing liquidators.
-
-(2) The general meeting shall be held in the manner provided by this Act or by the articles, or in such manner as may, on application by any contributory or by the continuing liquidators, be determined by the court.
+# 465. Requirements of sections 463 and 464 to be complied with
+(1) An appointment shall not be made under section 459 of this Act unless the person who makes the appointment has complied with any requirement of sections 462 and 463 of this Act—
+(a) the period of notice specified in section 463 (1) of this Act has expired; or
+(b) each person to whom notice has been given under section 463 (1) of this Act has consented in writing to the making of the appointment.
+(2) An appointment shall not be made under section 460 after the period of 10 working days beginning with the date on which the notice of intention to appoint is filed under section 463 (1) of this Act.

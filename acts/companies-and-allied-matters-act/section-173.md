@@ -1,9 +1,2 @@
-173. Secured or naked debentures
-
-(1) Debentures may either be secured by a charge over the company's property or may be unsecured by any charge.
-
-(2) Debentures may be secured by a fixed charge on certain of the company's property or a floating charge over the whole or a specified part of the company's undertaking and assets, or by both a fixed charge on certain property and a floating charge.
-
-(3) A charge securing debentures shall become enforceable on the occurrence of the events specified in the debentures or the deed securing the same.
-
-(4) Where any legal proceedings are brought by a debenture holder to enforce the security of a series of debentures of which he holds part, the debenture holder shall sue in a representative capacity on behalf of himself and all other debenture holders of that series.
+# 173. Probate, etc., as evidence of grant
+The production to a company of any document which is by law sufficient evidence of probate of the will, or letters of administration of the estate, or confirmation as executor, of a deceased person having been granted to some person, shall be accepted by the company as sufficient evidence of the grant, notwithstanding anything in its articles to the contrary.

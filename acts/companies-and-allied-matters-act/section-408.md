@@ -1,11 +1,5 @@
-408. Circumstances in which companies may be wound up by court A company may be wound up by the court if‐
-
-(a) the company has by special resolution resolved that the company be wound up by the court;
-
-(b) default is made in delivering the statutory report to the Commission or in holding the statutory meeting;
-
-(c) the number of members is reduced below two;
-
-(d) the company is unable to pay its debts;
-
-(e) the court is of opinion that it is just and equitable that the company should be wound up.
+# 408. Remuneration of auditors
+(1) The remuneration of the auditors of a company—
+(a) in the case of an auditor appointed by the directors, may be fixed by the directors; or
+(b) shall, subject to paragraph (a), be fixed by the company in general meeting or in such manner as the company in general meeting may determine.
+(2) For the purposes of subsection (1), "remuneration" includes sums paid by the company in respect of the auditors' expenses.

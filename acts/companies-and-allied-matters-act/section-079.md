@@ -1,7 +1,2 @@
-79. Definition of member
-
-(1) The subscribers of the memorandum of a company shall be deemed to have agreed to become members of the company, and on its registration shall be entered as members in its register of members.
-
-(2) Every other person who agrees in writing to become a member of a company, and whose name is entered in its register of members, shall be a member of the company.
-
-(3) In the case of a company having a share capital, each member shall be a shareholder of the company and shall hold at least one share.
+# 79. Penalties
+If any foreign company fails to comply with the requirements of section 80 of this Act in so far as they may apply to the company, the company commits an offence and is, in addition to being liable to prosecution, also liable to such penalty as the Commission shall specify by regulation, and every officer or agent of the company who authorises or permits the default or failure to comply is, whether or not the company is also convicted of any offence, liable on conviction to such penalty as the Commission shall specify by regulation, and where the offence is a continuing one, the company and every officer or agent of the company are liable to a further penalty as the Commission shall specify by regulation for every day during which the default continues.

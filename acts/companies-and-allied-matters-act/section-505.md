@@ -1,5 +1,11 @@
-505. Liability where proper accounts not kept
-
-(1) If, where a company is wound up, it is shown that proper books of account were not kept by the company throughout the period of two years immediately preceding the commencement of the winding up or the period between the incorporation of this company and the commencement of the winding up, whichever is the shorter, every officer of the company who is in default shall, unless he shows that he acted honestly and that in the circumstances in which the business of the company was carried on the default was excusable, be guilty of an offence and be liable on conviction in the court to a fine of N250.
-
-(2) For the purposes of this section, proper books of account shall be deemed not to have been kept in the case of any company if there have not been kept such books of accounts as are necessary to exhibit and explain the transactions and financial position of the trade or business of the company, including books containing entries from day to day in sufficient detail of all cash received and cash paid; and, where the trade or business has involved dealing in goods, statements of the annual stocktakings and (except in case of goods sold by way of ordinary retail trade) of all goods sold and purchased, showing the goods and the buyers and sellers thereof in sufficient details to enable those goods and those buyers and sellers to be identified.
+# 505. Management of affairs of company
+(1) Subject to subsection (2), the administrator of a company shall manage its affairs, business and property in accordance with any—
+(a) proposal approved under section 491;
+(b) revision of those proposals which is made by him and which he does not consider substantial; and
+(c) revision of those proposals approved under section 489.
+(2) If the Court gives directions to the administrator of a company in connection with any aspect of his management of the company's affairs, business or property, the administrator shall comply with the directions.
+(3) The Court may give directions under subsection (2) only if—
+(a) no proposal has been approved under section 492 of this Act;
+(b) the directions are consistent with any proposal or revision approved under section 486 or 491 of this Act;
+(c) the Court considers that the directions are required in order to reflect a change in circumstances since the approval of proposals or a revision under section 486 or 491 of this Act; or
+(d) the Court considers that the directions are desirable because of a misunderstanding about proposals or a revision approved under section 486 or 491 of this Act.

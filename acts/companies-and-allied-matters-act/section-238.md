@@ -1,9 +1,3 @@
-238. Effect of resolutions passed at adjourned meetings Where a resolution is passed at an adjourned meeting of‐
-
-(a) a company;
-
-(b) the holders of any class of shares in a company; or
-
-(c) the directors of a company, the resolution shall for all purposes be treated as having been passed on the date on which it was in fact passed, and shall not be deemed to have been passed on any earlier date.
-
-Miscellaneous matters relating to meetings and proceedings
+# 238. Businesses transacted at annual general meeting
+All businesses transacted at annual general meetings are deemed special business, except declaring a dividend, presentation of the financial statements and the reports of the directors and auditors, election of directors in the place of those retiring, the appointment, fixing of the remuneration of the auditors, appointment of members of the audit committee and disclosure of remuneration of managers of a company, which are ordinary business.
+EXTRAORDINARY GENERAL MEETING

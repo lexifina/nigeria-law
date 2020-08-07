@@ -1,13 +1,9 @@
-343. Signing of balance sheet and documents to be annexed thereto
-
-(1) A company's balance sheet and every copy of it which is laid before the company in general meeting or delivered to the Commission shall be signed on behalf of the board by two of the directors of the company.
-
-(2) If a copy of the balance sheet‐
-
-(a) is laid before the company or delivered to the Commission without being signed as required by this section; or
-
-(b) not being a copy so laid or delivered, is issued, circulated or published in a case where the balance sheet has not been signed as so required or where (the balance sheet having been so signed) the copy does not include a copy of the signature as the case may be, the company and every officer of it who is in default shall be guilty of an offence and liable on conviction to a fine of N300.
-
-(3) A company's profit and loss account and, so far as not incorporated in its individual balance sheet or profit and loss account, any group accounts of a holding company, shall be annexed to the balance sheet, and the auditors' report and the directors' report shall also be attached to the balance sheet.
-
-(4) The balance sheet and the profit and loss account annexed to it shall be approved by the board of directors and signed on their behalf by two directors authorised to do so.
+# 343. Protection of minority: injunction and declaration in certain cases
+Without prejudice to the rights of members under sections 346-351 and sections 353-355 of this Act or any other provisions of this Act, the Court, on the application of any member, may by injunction or declaration restrain the company or its officers from—
+(a) entering into any transaction which is illegal or ultra vires;
+(b) purporting to do by ordinary resolution any act which by its articles or this Act required to be done by special resolution;
+(c) any act or omission affecting the applicant's individual rights as a member;
+(d) committing fraud on either the company or the minority shareholders where the directors fail to take appropriate action to redress the wrong done;
+(e) where a company meeting cannot be called in time to be of practical use in redressing a wrong done to the company or to minority shareholders;
+(f) where the directors are likely to derive a profit or benefit, or have profited or benefited from their negligence or from their breach of duty; and
+(g) any other act or omission, where the interest of justice so demands.

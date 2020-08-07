@@ -1,9 +1,2 @@
-16. Regulations The Minister may, with the approval of the President, make regulations generally for the purpose of this Act and in particular, without prejudice to the generality of the foregoing provisions, make regulations‐
-
-(a) prescribing the forms and returns and other information required under this Act;
-
-(b) prescribing the procedure for obtaining any information required under this Act;
-
-(c) requiring returns to be made within the period specified therein by any company or enterprise to which this Act applies; and
-
-(d) prescribing any fees payable under this Part, that is, Part A of this Act.
+# 16. Annual report
+The Commission shall, not later than 30th June in each year, submit to the Minister a report on the activities of the Commission during the immediate preceding year, in such form as may be prescribed by the Minister and shall include in such report the audited accounts of the Commission.

@@ -1,13 +1,20 @@
-326. Appointment, etc., of inspectors to investigate ownership of a company
-
-(1) Where it appears to the Commission that there is good reason so to do, it may appoint one or more competent inspectors to investigate and report on the membership of any company, and otherwise with respect to the company, for the purpose of determining the true persons who are or have been financially interested in the success or failure (real or apparent) of the company or able to control or materially to influence the policy of the company.
-
-(2) The appointment of an inspector under this section may define the scope of his investigation, whether as respects the matter or the period to which it is to extend or otherwise, and in particular may limit investigation to matters connected with particular shares or debentures.
-
-(3) Where an application for an investigation under this section with respect to particular shares or debentures of a company is made to the Commission by members of the company, and the number of applicants or the amount of the shares held by them is not less than that required for an application for the appointment of an inspector under paragraphs (a) and (b) of subsection (2) of section 314 of this Act‐
-
-(a) the Commission shall appoint an inspector to conduct that investigation, unless it is satisfied that the application is vexatious; and
-
-(b) the inspector's appointment shall not exclude from the scope of his investigation any matter which the application seeks to include, except in so far as the Commission is satisfied that it is reasonable for the matter to be investigated.
-
-(4) Subject to the terms of an inspector's appointment, his powers shall extend to the investigation of any circumstances suggesting the existence of an arrangement or understanding which, though not legally binding, is or was observed or likely to be observed in practice and which is relevant to the purposes of his investigation.
+# 326. Permitted use or disclosure by the Commission
+(1) The Commission may use protected information for communicating with the director in question.
+(2) The Commission may disclose protected information—
+(a) to a public authority specified for the purposes of this section by regulations made by the Minister; or
+(b) to a credit reference agency.
+(3) The Minister may make provision by regulations—
+(a) specifying conditions for the disclosure of protected information in accordance with this section; and
+(b) providing for the charging of fees.
+(4) The Minister may make provision by regulations requiring the Commission, on application, to refrain from disclosing protected information relating to a director to a credit reference agency.
+(5) Regulations under subsection (4) may make provision as to—
+(a) who may make an application;
+(b) the grounds on which an application may be made;
+(c) the information to be included in and documents to accompany an application; and
+(d) how an application is to be determined.
+(6) Provision under subsection (5) (d) may in particular—
+(a) confer a discretion on the Commission; and
+(b) provide for a question to be referred to a person other than the Commission for the purposes of determining the application.
+(7) In this section—
+(a) "credit reference agency" means a person carrying on a business comprising the furnishing of information relevant to the financial standing of individuals, being information collected by the agency for that purpose; and
+(b) "public authority" includes any person or body having functions of a public nature.

@@ -1,1 +1,2 @@
-445. Power to exclude creditors not proving in time The court may fix a time or times within which creditors are to prove their debts or claims, or be excluded from the benefit of any distribution made before those debts are proved.
+# 445. Standard of performance of administrator
+The administrator of a company shall perform his functions as quickly and efficiently as is reasonably practicable.

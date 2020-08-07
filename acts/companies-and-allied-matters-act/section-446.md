@@ -1,1 +1,2 @@
-446. Adjustment of rights of contributories The court shall adjust the rights of the contributories among themselves, and distribute any surplus among the persons entitled thereto.
+# 446. Status of administrator
+An Administrator is an officer of the Court, whether or not he is appointed by the Court.

@@ -1,25 +1,9 @@
-237. Registration and copies of certain resolutions
-
-(1) Subject to subsection (7) (b) of section 46 of this Act, a printed copy of every resolution or agreement to which this section applies shall, within 15 days after the passing or making of the resolution or agreement, as the case may be, be forwarded to the Commission.
-
-(2) Where, pursuant to the provisions of sections 44 to 47 of this Act, a company by special resolution alters the provisions of its memorandum and the Commission is satisfied that the alteration is not in compliance with the applicable provisions of those sections, it may refuse to file a copy of the resolution in its records and shall notify the company accordingly and any person aggrieved by the refusal may appeal to the court within 21 days from the receipt of the notification.
-
-(3) A copy of every such resolution or agreement for the time being in force shall be embodied in or annexed to every copy of the articles issued after the passing of the resolution or the making of the agreement.
-
-(4) This section shall apply to‐
-
-(a) special resolutions;
-
-(b) resolutions which have been agreed to by all the members of a company, but which, if not so agreed to, would not have been effective for their purpose, unless, as the case may be, they had been passed as special resolution; or
-
-(c) resolutions or agreements which have been agreed to by all the members of any class of shareholders but which, if not so agreed to, would not have been effective for their purpose, unless they had been passed by some particular majority or otherwise in some particular manner, and all resolutions or agreements which effectively bind all the members of any class of shareholders though not agreed to by all those members;
-
-and
-
-(d) resolutions requiring a company to be wound up voluntarily, passed under paragraph (a) of section 457 of this Act.
-
-(5) If a company fails to comply with subsection (1) of this section, the company and every officer of the company who is in default shall be guilty of an offence and liable to a fine of N50.
-
-(6) If a company fails to comply with subsection (3) of this section, the company and every officer of the company who is in default shall be guilty of an offence and liable to a fine of N5 for each copy in respect of which default is made.
-
-(7) For the purposes of subsections (5) and (6) of this section, a liquidator of the company shall be deemed to be an officer of the company.
+# 237. Annual general meeting
+(1) Except in the case of a small company or any company having a single shareholder, every company shall in each year hold a general meeting as its annual general meeting in addition to any other meeting in that year, and specify the meeting as such in the notices calling it; and not more than 15 months shall elapse between the date of one annual general meeting of a company and the next:
+Provided that—
+(a) so long as a company holds its first annual general meeting within 18 months of its incorporation it need not hold it in that year or in the following year; or
+(b) except for the first annual general meeting, the Commission shall have power to extend the time within which any annual general meeting shall be held, by a period not exceeding three months so that not more than 18 months shall elapse between the date of the last annual general meeting and the date of any meeting so extended.
+(2) If default is made in holding a meeting of a company in accordance with subsection (1), the Commission, may, on its own or on the application of any member of the company call, or direct the calling of a general meeting of the company and give such ancillary or consequential directions as the Commission considers expedient, including directions modifying or supplementing, in relation to the calling, holding, conducting of the meeting, the operation of the company's articles, and that the directions that may be given under this subsection shall include a direction that one member of the company present in person or by proxy may apply to the court for an order to take a decision which binds all the members.
+(3) A general meeting held in pursuance of subsection (2) is, subject to any direction of the Commission, deemed to be an annual general meeting of the company, but, where a meeting so held is not held in the year in which the default in holding the company's annual general meeting occurred, the meeting so held shall not be treated as the annual general meeting for the year in which it is held unless, at that meeting, the company resolves that it shall be so treated.
+(4) Where a company resolves that a meeting shall be treated as its annual general meeting, a copy of the resolution shall, within 15 days after the passing, be filed with the Commission.
+(5) If default is made in holding a meeting of the company in accordance with subsection (1), or in complying with any direction of the Commission under subsections (2) and (3), or in complying with this subsection, the company and every officer of the company are liable to a penalty in such amount as the Commission shall specify in its regulations.

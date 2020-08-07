@@ -1,23 +1,14 @@
-319. Obstruction of inspectors to be treated as contempt of court
-
-(1) When an inspector is appointed under section 314 or 315 of this Act to investigate the affairs of a company, the following applies in the case of‐
-
-(a) any officer or agent of the company;
-
-(b) any officer or agent of another body corporate whose affairs are investigated under section 316 of this Act; and
-
-(c) any such person as is mentioned in section 317 (2) of this Act.
-
-(2) Subsection (4) of section 317 of this Act shall apply with regards to references in subsection (1) of this section to an officer or agent.
-
-(3) If that person‐
-
-(a) refuses to produce any book or document which it is his duty under section 317 or 318 of this Act to produce;
-
-or
-
-(b) refuses to attend before the inspector when required to do so; or
-
-(c) refuses to answer any question put to him by the inspector with respect to the affairs of the company or other body corporate (as the case may be), the inspector may certify the refusal in writing to the court.
-
-(4) The court may thereupon enquire into the case; and after hearing any witnesses who may be produced against or on behalf of the alleged offender and after hearing any statement which may be offered in defence, the court may punish the offender in like manner as if he had been guilty of contempt of the court.
+# 319. Particulars of directors to be registered
+(1) A company's register of directors shall contain, in the case of an individual—
+(a) full name and any former name or names;
+(b) service address;
+(c) nationality;
+(d) business occupation (if any);
+(e) date of birth;
+(f) phone number; and
+(g) email address.
+(2) For the purposes of this section a "former name" means a name by which the individual was formerly known.
+(3) The register contain particulars of a former name where the former name—
+(a) was changed or disused before the person attained the age of 18 years, or
+(b) has been changed or disused for 20 years or more.
+(4) A person's service address may be stated to be the company's registered office.

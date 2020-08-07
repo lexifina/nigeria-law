@@ -1,11 +1,2 @@
-542. Act to over‐ride memorandum, articles, etc.
-
-(1) Except as otherwise expressly provided in this Act‐
-
-(a) the provisions of this Act shall have effect notwithstanding anything to the contrary contained in the memorandum or articles of a company, or in any agreement executed, by it, or in any resolution passed by the company in general meeting or by its board of directors whether the same be registered, executed or passed, as the case may be, before or after the commencement of this Act; and
-
-(b) any provision contained in the memorandum or articles, agreement or resolution as in paragraph (a) of this subsection shall, to the extent to which it is repugnant to the provisions of this Act, become or be void, as the case may be.
-
-(2) Any provision of this Act overriding or interpreting a company's articles as if a re‐enacted provision of the Companies Act, 1968 shall, except as provided by this Act, apply in relation to articles in force at the commencement of this Act, as well as to articles coming into force thereafter, and shall apply also in relation to a company's memorandum as it applies in relation to its articles.
-
-[1968 No. 51.]
+# 542. Presumption of validity
+An act of the administrator of a company is valid in spite of a defect in his appointment or qualification.

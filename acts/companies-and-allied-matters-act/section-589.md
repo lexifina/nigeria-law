@@ -1,5 +1,2 @@
-589. Repeal of 1961 No. 17 The Registration of Business Names Act 1961 is hereby repealed.
-
-[1961 No. 17.]
-
-PART C Incorporated trustees
+# 589. Liquidator to give information, to official receiver
+If during the winding-up of a company by the court a person other than the official receiver is appointed liquidator, he shall give the official receiver such information and access to and facilities for inspecting the books and documents of the company, and generally any aid requisite or necessary for enabling that officer to perform his duties under this Act.

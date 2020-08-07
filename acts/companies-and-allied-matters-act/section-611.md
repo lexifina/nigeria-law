@@ -1,3 +1,2 @@
-611. Repeal of Cap. 98 of 1958 Edition The Land (Perpetual Succession) Act, is hereby repealed.
-
-[Cap. 98 of 1958 Edition.]
+# 611. Power to order costs of winding-up to be paid out of assets
+The Court may, in the event of the assets being insufficient to satisfy the liabilities, make an order as to the payment out of the assets of the costs, charges and expenses incurred in the winding-up in such order of priority as the Court deems just.

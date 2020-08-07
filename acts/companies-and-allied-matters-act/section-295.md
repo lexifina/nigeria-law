@@ -1,13 +1,4 @@
-295. Qualification of a secretary It shall be the duty of a director of a company to take all reasonable steps to ensure that the secretary of the company is a person who appears to have the requisite knowledge and experience to discharge the functions of a secretary of a company, and in the case of a public company, he shall be‐
-
-(a) a member of the Institute of Chartered Secretaries and Administrators; or
-
-(b) a legal practitioner within the meaning of the Legal Practitioners Act; or [Cap. L11.]
-
-(c) a member of the Institute of the Chartered Accountants of Nigeria or such other bodies of accountants as are established from time to time by an Act; or
-
-(d) any person who has held the office of the secretary of a public company for at least three years of the five years immediately preceding his appointment in a public company; or
-
-(e) a body corporate or firm consisting of members each of whom is qualified under paragraphs (a),
-
-(b), (c), or (d) of this section.
+# 295. Prohibition of tax- free payments to directors
+(1) It is not lawful for a company to pay a director remuneration (whether as director or otherwise) free of income tax, or calculated by reference to or varying with the amount of his income tax, or at or with the rate or standard rate of income tax, except under a contract which was in effect at the commencement of this Act, and provides expressly, and not by reference to the articles, for payment or remuneration.
+(2) Any provision contained in a company's articles or in any contract other than such a contract as mentioned in subsection (1), or in any resolution of a company or of a company's directors for payment to a director of remuneration as mentioned in subsection (1), shall have effect as if it provided for payment, as a gross sum subject to income tax, of the net sum for which it actually provides.
+(3) This section does not apply to remuneration due before this Act comes into effect or in respect of a period before it comes into effect.

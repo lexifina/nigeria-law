@@ -1,5 +1,3 @@
-606. Documents and inspection
-
-(1) The Commission shall preserve all documents delivered to it under this Part of this Act.
-
-(2) Any person may on application to the Commission be permitted to inspect the documents kept under subsection (1) of this section on payment of a prescribed fee and may require a copy or extract of any such document to be certified by the Commission on payment of a prescribed fee.
+# 606. Power to order payment into companies' liquidation account
+(1) The Court may order any contributory, purchaser or other person from whom money is due to the company to pay it into the company's liquidation account referred to in section 591 of this Act to the account of the liquidator instead of directly to the liquidator and the order may be enforced in the same manner as if it had directed payment to the liquidator.
+(2) Moneys and securities paid or delivered into the company's liquidation account in the event of a winding-up by the Court shall be subject in all respects to any relevant order of the Court.

@@ -1,11 +1,2 @@
-220. Service of notice
-
-(1) A notice may be given by the company to any member either personally or by sending it by post to him or to his registered address, or (if he has no registered address within Nigeria) to the address, if any, supplied by him to the company for the giving of notice to him.
-
-(2) Where a notice is sent by post, service of the notice shall be deemed to be effected by properly addressing, prepaying, and posting a letter containing the notice, and to have been effected in the case of a notice of a meeting at the expiration of seven days after the letter containing the same is posted, and in any other case at the time at which the letter would be delivered in the ordinary course of post.
-
-(3) A notice may be given by the company to the joint holders of a share by giving the notice to the joint holder first named in the register of members in respect of the share.
-
-(4) A notice may be given by the company to the persons entitled to a share in consequence of the death or bankruptcy of a member by sending it through the post in a prepaid letter addressed to them by name, or by the title of representatives of the deceased, or trustee of the bankrupt, or by any like description, at the address, if any, within Nigeria supplied for the purpose by the person claiming to be so entitled, or (until such an address has been so supplied) by giving the notice in any manner in which the same might have been given if the death or bankruptcy had not occurred.
-
-(5) "Registered address" means, in the case of a member, any address supplied by him to the company for the giving of notice to him.
+# 220. Entry in register of transfer
+On the application of the transferor of any debenture in a company, the company shall enter in its register of debenture holders the name of the transferee in the same manner and subject to the same conditions as if the application for the entry were made by the transferee.

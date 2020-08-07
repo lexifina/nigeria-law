@@ -1,15 +1,17 @@
-233. Resolutions
-
-(1) A resolution shall be an ordinary resolution when it has been passed by a simple majority of votes cast by such members of the company as, being entitled to do so, vote in person or by proxy at a general meeting.
-
-(2) A resolution shall be a special resolution when it has been passed by not less than three fourths of the votes cast by such members of the company as, being entitled to do so, vote in person or by proxy at a general meeting of which 21 days' notice, specifying the intention to propose the resolution as a special resolution, has been duly given:
-
-Provided that, if it is so agreed by majority in number of the members having the right to attend and vote at any such meeting, being a majority together holding not less than 95 per cent in nominal value of the shares giving that right or, in the case of a company not having a share capital, together representing not less than 95 per cent of the total voting rights at that meeting of all the members, a resolution may be proposed and passed as a special resolution at a meeting of which less than 21 days' notice has been given.
-
-(3) At any meeting at which a special resolution is submitted to be passed, a declaration of the chairman that the resolution is carried shall, unless a poll is demanded, be conclusive evidence of the fact without proof of the number or proportion of the votes recorded in favour of or against the resolution.
-
-(4) In computing the majority of a poll demanded on the question that a special resolution be passed, reference shall be had to the number of votes cast for and against the resolution.
-
-(5) For the purposes of this section, notice of a meeting shall be deemed to be duly given and the meeting to be duly held when the notice is given and the meeting held in the manner provided by this Act or the articles.
-
-(6) A company may, by its articles, provide that any matter not required by the articles or by this Act to be passed by a special resolution, shall be passed by an ordinary resolution.
+# 233. Remedies available to debenture holders
+(1) At any time after a debenture holder or a class of debenture holders, becomes entitled to realise his or their security, a receiver of any asset subject to a mortgage, charge or security in favour of the class of debenture holders or the trustee of the covering trust deed, or any other person, may be appointed by—
+(a) that trustee;
+(b) the holders of debentures of the same class containing power to appoint;
+(c) debenture holders having more than one half of the total amount owing in respect of all the debentures of the same class; or
+(d) the court on the application of the trustee.
+(2) Subject to any condition imposed in the debenture or debenture trust deed, a debenture holder, or a trustee in the case of a trust deed, may—
+(a) bring an action in a representative capacity against the company for payment and enforcement of the security; or
+(b) realise his security by—
+(i) bringing a foreclosure action, or
+(ii) commencing a winding-up proceeding.
+(3) A receiver appointed under this section has, subject to the order made by the court, power to take possession of the assets subject to the mortgage, charge or security and sell those assets and, if the mortgage, charge or security extends to such property collect debts owed to the property enforce claims vested in the company, compromise, settle and enter into arrangements in respect of claims by or against the company, on the company's business with a view to selling it on the most favourable terms, grant or accept leases of land and licences in respect of patents, designs, copyright or trademarks and recover any instalment unpaid on the company's issued shares.
+(4) Where a representative action is being brought under subsection
+(2) (a), the approval of the court shall be obtained where the company is being wound up.
+(5) The remedies given by this section are in addition to, and not in substitution for, any other powers and remedies conferred on the trustee of the debenture trust deed or on the debenture holders, by the debentures or debenture trust deed, and any power or remedy which is expressed in any instrument to be exercisable if the debenture holders become entitled to realise their security, is exercisable on the occurrence of any of the events specified under section 232 (1) of this Act or, in the case of a floating charge in section 203 of this Act, but a manager of the business or of any of the assets of a company may not be appointed for the benefit of debenture holders unless a receiver has also been appointed and has not ceased to act.
+(6) The provisions of sections 550-563 of this Act shall apply to receivers and managers under this Part.
+(7) No provision in any instrument which purports to exclude or restrict the remedies given by this section is valid.

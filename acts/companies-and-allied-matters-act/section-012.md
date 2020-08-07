@@ -1,1 +1,3 @@
-12. Fund of the Commission The Commission shall establish a fund which shall consist of such sums as may be allocated to it by the Federal Government and such other funds as may accrue to it in the discharge of its functions.
+# 12. Service in the Commission to be pensionable
+(1) Service in the Commission shall be approved service for the purpose of the Pensions Reform Act (or any amendment thereto or re-enactment thereof) and accordingly, officers and other persons employed in the Commission are, in respect of their service in the Commission entitled to pensions, gratuities and other retirement benefits as determined in the Commission's conditions of service.
+(2) Nothing in this Act shall prevent the appointment of a person to any office on terms in the Commission which preclude the grant of pension contributions or gratuity.

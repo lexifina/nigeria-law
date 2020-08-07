@@ -1,17 +1,3 @@
-421. Report by official receiver
-
-(1) If a winding‐up order is made, the official receiver shall as soon as practicable after receipt of the statement to be submitted under section 420 of this Act or where the court orders that no statement shall be submitted, as soon as practicable after the date of the order, submit a preliminary report to the court‐
-
-(a) as to the amount of capital issued, subscribed and paid up, and the estimated amount of assets and liabilities;
-
-and
-
-(b) if the company has failed, as to the causes of the failure; and
-
-(c) whether, in his opinion, further inquiry is desirable as to any matter relating to the promotion, formation or failure of the company.
-
-(2) The official receiver may if he thinks fit, make further reports, stating the manner in which the company was formed and whether in his opinion fraud has been committed by any person in its promotion or formation, or by any officer of the company in relation to the company since its formation and the reports may include any other matters which, in his opinion, it is desirable to bring to the notice of the court.
-
-(3) If any further report under this section indicates the commission of fraud, the court shall have the further powers provided in section 450 of this Act (which confers authority to order public examination of certain officials).
-
-Liquidators
+# 421. Time for completion and delivery of annual return
+(1) The annual return shall be completed, signed by a director and the secretary, and delivered to the Commission not later than 42 days after the annual general meeting for the year, whether or not that meeting is the first or only general meeting of the company in that year, but the company may apply to the Commission for extension of time within which to file its annual return for any given calendar year.
+(2) This section does not apply to companies with only one member.

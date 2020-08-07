@@ -1,7 +1,7 @@
-14. Annual accounts, audit and estimates
-
-(1) The Commission shall keep proper accounts and proper records in relation thereto and shall prepare in respect of each year a statement of accounts in such form as the President may direct.
-
-(2) The accounts of the Commission shall be audited not later than six months after the end of the year by auditors appointed by the Commission from the list and in accordance with guidelines supplied by the Auditor‐General for the Federation; and the fees of the auditors and the expenses of the audit generally shall be paid from the funds of the Commission.
-
-(3) The Commission shall cause to be prepared, not later than 30 September in each year, an estimate of the expenditure and income of the Commission during the next succeeding year and when prepared they shall be submitted through the Minister to the President.
+# 14. Expenditure of the Commission
+The Commission may apply the proceeds of the Fund—
+(a) to the cost of administration of the Commission;
+(b) for re-imbursing members of the Board or any Committee set up by the Board for such expenses as may be authorised or approved by the Board, in accordance with the rate approved in that behalf by the Minister;
+(c) to the payment of salaries, fees or other remuneration or allowances, pensions and gratuities payable to the employees of the Commission;
+(d) for the maintenance of any property acquired or vested in the Commission; and
+(e) for any purpose related to the functions of the Commission under this Act.

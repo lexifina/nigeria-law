@@ -1,0 +1,3 @@
+# 690. Affidavits in Nigeria and elsewhere
+An affidavit required to be sworn under the provisions or for the purposes of this Part of this Act may be sworn in Nigeria or elsewhere in accordance with the provisions of the Oaths Act or under any other enactment or law providing for the administration of oaths and all Courts, Judges, commissioners, and persons acting judicially shall take judicial notice of the seal or stamp or signatures, as the case may be, of any Court, Judge, person, consul, or vice-consul, attached, appended, or subscribed to any such affidavit, or to any other document to be used for the purposes of this Part of this Act.
+PROVISIONS AS TO DISSOLUTION

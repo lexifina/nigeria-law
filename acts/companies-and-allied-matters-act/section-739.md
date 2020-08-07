@@ -1,0 +1,2 @@
+# 739. Penalty for improper use of certain words
+Where a person trades or carries on business under any name or title of which the last word or words are "Unlimited", "Limited", "Public Limited Company" or "Limited by Guarantee" or their abbreviations, he is, unless duly incorporated as an unlimited company, a private company limited by shares, a public company limited by shares, or a company limited by guarantee, respectively, liable to a penalty prescribed in the Regulation for every day during which the name or title is used.

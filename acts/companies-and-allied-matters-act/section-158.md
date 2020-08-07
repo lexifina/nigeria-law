@@ -1,23 +1,8 @@
-158. Redemption of redeemable preference shares
-
-(1) The provisions of this section shall apply with respect to the redemption by a company of any redeemable preference shares issued by it under section 122 of this Act.
-
-(2) The shares shall not be redeemed unless they are fully paid, and redemption shall be made only out of‐
-
-(a) profits of the company which would otherwise be available for dividend; or
-
-(b) the proceeds of a fresh issue of shares made for the purposes of the redemption.
-
-(3) Before the shares are redeemed, the premium, if any, payable on redemption, shall be provided for out of the profits of the company or out of the company's share premium account.
-
-(4) Where shares are redeemed otherwise than out of the proceeds of a fresh issue, there shall, out of profits which would otherwise have been available for dividend, be transferred to a reserve fund, to be called "the capital redemption reserve fund", a sum equal to the nominal amount of the shares redeemed, and the provisions of this Act relating to the reduction of the share capital of a company shall, except as provided in this section, apply as if the capital redemption reserve fund were paid‐up share capital of the company.
-
-(5) Subject to the provisions of this section, the redemption of preference shares thereunder may be effected on such terms and in such manner as are provided by the articles of the company.
-
-(6) The redemption of preference shares under this section by a company shall not be taken as reducing the amount of the company's authorised share capital.
-
-(7) Where, in pursuance of this section, a company has redeemed or is about to redeem any preference shares, it shall have power to issue shares up to the nominal amount of the shares redeemed or to be redeemed as if those shares had never been issued, and accordingly, the share capital of the company shall not, for the purposes of any enactments relating to stamp duty, be deemed to be increased by the issue of shares in pursuance of this subsection:
-
-Provided that, where new shares are issued before the redemption of the old shares, the new shares shall not, so far as relates to stamp duty, be deemed to have been issued in pursuance of this subsection, unless the old shares are redeemed within one month after the issue of the new shares.
-
-(8) The capital redemption reserve fund may, notwithstanding anything in this section, be applied by the company in paying up unissued shares of the company to be issued to members of the company as fully paid bonus shares.
+# 158. Call on shares
+(1) Subject to the terms of the issue of the shares and of the articles, the directors may make calls upon the members in respect of any money unpaid on their shares (whether on account of the nominal value of the shares or by way of premium) and not by the conditions of allotment of the shares made payable at fixed times:
+Provided that no call shall exceed one fourth of the nominal value of the share or be payable at less than one month from the date fixed for the payment of the last preceding call, and each member shall (subject to receiving at least 14 days' notice specifying the time or times and place of payment) pay to the company at the time or times and place so specified the amount called on his shares, so however that a call may be revoked or postponed as the directors may determine.
+(2) A call is deemed to have been made at the time when the resolution of the directors authorising the call was passed, and may be required to be paid by instalments.
+(3) The joint holders of a share are jointly liable to pay all calls in respect of the share.
+(4) If a sum called in respect of a share is not paid before or on the day appointed for payment, the person from whom the sum is due shall pay interest on the sum from the day appointed for payment to the time of actual payment at such rate not exceeding the current bank rate per annum, as the directors may determine, but the directors are at liberty to waive payment of such interest wholly or in part.
+(5) A sum which by the terms of issue of a share becomes payable on allotment or at any fixed date, whether on account of the nominal value of the shares or by way of premium shall, for the purposes of these provisions, is deemed to be a call duly made and payable on the date on which by the terms of issue the same becomes payable, and in case of non- payment, all the relevant provisions of this Act as to payment of interest and expenses, forfeiture or otherwise apply as if such sum had become payable by virtue of a call duly made and notified.
+(6) The directors may, if they think fit, receive from any member willing to advance the same, all or any part of the money uncalled and unpaid upon any share held by him, and upon all or any of the money so advanced may (until the same would, but for such advance, become payable) pay interest at such rate not exceeding the current bank rate per annum as may be agreed upon between the directors and the member paying such sum in advance (unless the company in general meeting otherwise directs).

@@ -1,31 +1,22 @@
-312. Powers of the court
-
-(1) If the court is satisfied that a petition under sections 310 and 311 of this Act is well founded, it may make such order or orders as it thinks fit for giving relief in respect of the matter complained of.
-
-(2) Without prejudice to the generality of subsection (1) of this section, the court may make one or more of the following orders that is, an order—
-
-(a) that the company be wound up;
-
-(b) for regulating the conduct of the affairs of the company in future;
-
-(c) for the purchase of the shares of any member by other members of the company;
-
-(d) for the purchase of the shares of any member by the company and for the reduction accordingly of the company’s capital;
-
-(e ) directing the company to institute, prosecute, defend or discontinue specific proceedings, or authorising a member or the company to institute, prosecute, defend or discontinue specific proceedings in the name or on behalf of the company;
-
-(f ) varying or setting aside a transaction or contract to which the company is a party and compensating the company or any other party to the transaction or contract;
-
-(g) directing an investigation to be made by the Commission;
-
-(h) appointing a receiver or a receiver and manager of property of the company;
-
-(i) restraining a person from engaging in specific conduct or from doing a specific act or thing;
-
-(j) requiring a person to do a specific act or thing.
-
-(3) Where an order that a company be wound up is made under this section, the provisions of this Act relating to winding up of companies shall apply, with such adaptations as are necessary, as if the order had been made upon an application duly filed in the court by the company.
-
-(4) Where an order under this section makes any alteration or addition to the memorandum or articles of a company, then, notwithstanding anything in any other provision of this Act but subject to the provisions of the order, the company shall not have power, without the leave of the court, to make any further alteration or addition to the memorandum and articles inconsistent with the provisions of the order but, subject to the foregoing provisions of this subsection, the alteration or addition shall have effect as if it had been duly made by a resolution of the company.
-
-(5) A certified true copy of an order made under this section altering or giving leave to alter a company’s memorandum or articles shall, within 14 days from the making of the order or such longer period as the court may allow, be delivered by the company to the Commission for registration; and if the company makes default in complying with the provisions of this subsection, the company and every officer of it who is in default shall be guilty of an offence and liable to a fine of N50 and, for continued contravention, to a daily default fine of N25.
+# 312. Liabilities arising from contravention of section 310
+(1) An arrangement entered into by a company in contravention of section 310 of this Act and any transaction entered into in pursuance of the arrangement (whether by the company or any other person), is voidable at the instance of the company or voidable by a court on its decision on a claim by members, unless one or more of the conditions specified in subsection (2) is satisfied.
+(2) The conditions are that—
+(a) restitution of any money or other asset which is the subject-matter of the arrangement or transaction is no longer possible or the company has been indemnified in pursuance of this section by any other person for the loss or damage suffered by it;
+(b) any right acquired bona fide for value and without actual notice of the contravention by any person who is a party to the arrangement or transaction would be affected by its avoidance; or
+(c) the arrangement is, within a reasonable period, ratified and affirmed in full accordance with the requirements for advance approval set out in section 311 of this Act.
+(3) If an arrangement is entered into with a company by a director of the company or its holding company or a person connected with him in contravention of section 310 of this Act, that director, controlling member and person so connected, and any other director of the company who authorises the arrangement or any transaction entered into in pursuance of such an arrangement, commits an offence and liable—
+(a) to account to the company for any gain which he has made and any loss or damage suffered by the company, directly or indirectly by the arrangement or transaction,
+(b) directly and derivatively to members of the company for any loss or damage suffered by them,
+(c) jointly and severally with any other person liable under this subsection, to indemnify the company for any loss or damage resulting from the arrangement or transaction,where found guilty and convicted of an offence guilty of the office, disqualified to serve as a director of the company.
+(4) In any action referred to in this section the plaintiff has the right to obtain any relevant documents from the defendant and the witnesses at trial, and may request categories of documents from such person without identifying specific documents.
+(5) This section is without prejudice to any liability imposed than by this section, and is subject to subsections (6)-(7) and the liability under subsection
+(3) arises whether or not the arrangement or transaction entered into has been avoided under subsection (1) of this section.
+(6) If an arrangement is entered into by a company and a person connected with a director of the company or its holding company in contravention of section 310 of this Act, that director is not liable under subsection (3) if he shows that he took all reasonable steps to secure the company's compliance with that section.
+(7) This section has effect with respect to references in sections 310, 311 and 312 of this Act to a person being "connected" with a director of a company, and to a director being "associated with" or "controlling" a body corporate.
+(8) A person is connected with another person if he is—
+(a) that other person's spouse, child or step-child, including illegitimate child;
+(b) a body corporate with which the person is associated; or
+(c) a person acting in his capacity as trustee of any trust, the beneficiaries of which include—
+(i) the director, his spouse, any children or step-children, or
+(ii) a body corporate with which he is associated, or of a trust whose terms confer a power on the trustees that may be exercised for the benefit of the person, his spouse or any children or step-children of his, or any such body corporate; or
+(d) a person acting in his capacity as partner of that director or of any person who, by virtue of paragraphs (a), (b) or (c), is connected with that director.

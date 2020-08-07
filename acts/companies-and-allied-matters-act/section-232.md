@@ -1,15 +1,12 @@
-232. Quorum
-
-(1) Unless otherwise provided in the articles, no business shall be transacted at any general meeting unless a quorum of members is present at the time when the meeting proceeds to business and throughout the meeting.
-
-(2) Unless otherwise provided in the articles, the quorum for the meeting of a company shall be one third of the total number of members of the company or 25 members (whichever is less) present in person or by proxy:
-
-Provided that where the number of members is not a multiple of three, then the number nearest to one third, and where the number of members is six or less, the quorum, shall be two members.
-
-(3) For the purpose of determining a quorum, all members or their proxies shall be counted.
-
-(4) Where a member or members withdraw from the meeting for what appears to the chairman to be insufficient reasons and for the purpose of reducing the quorum, and in fact the quorum is no longer present, the meeting may continue with the number present, and their decision shall bind all the shareholders and where there is only one member, he may seek direction of the court to take a decision.
-
-(5) Where there is a quorum at the beginning, but no quorum later due to some share‐holders leaving for what appears to the chairman to be sufficient reasons, the meeting shall be adjourned to the same place, and time, in a week's time, and if there is no quorum still at the adjourned meeting, the members present shall then be the quorum and their decision shall bind all shareholders and where only one member is present, he may seek direction of the court to take a decision.
-
-Resolutions
+# 232. Realisation of debenture holder's security
+(1) A debenture holder is entitled to realise any security vested in him or in any other person for his benefit if—
+(a) the company fails to pay any instalment of interest, or the whole, part of the principal or any premium, owing under the debenture or the debenture trust deed covering the debenture, within one month after it becomes due;
+(b) the company fails to fulfil any of the obligations imposed on it by the debentures or the debenture trust deed;
+(c) the circumstance occur whereby the terms of the debentures or debenture trust deed entitled the holder of the debenture to realise his security; or
+(d) the company is wound up.
+(2) A debenture holder whose debenture is secured by a floating charge vested in him or the trustee of the covering debenture trust deed, or any other person, is additionally, entitled to realise his security if—
+(a) any creditor of the company issues a process of execution against any of its assets or commences proceedings for winding-up of the company by order of any court of competent jurisdiction;
+(b) the company ceases to pay its debts as they fall due; or
+(c) the company ceases to carry on business;
+(d) the company suffers, after the issue of debentures of the class concerned, losses or diminutions in the value of its assets which in the aggregate amount to more than one half of the total amount owing in respect of debentures of the class held by the debenture holder who seeks to enforce his security and debentures whose holder ranks before him for payment of principal or interest; or
+(e) the circumstances occur which entitle a debenture holder who ranks for payment of principal or interest in priority to the debentures secured by the floating charges to realise his security.

@@ -1,9 +1,8 @@
-149. Abolition of share warrants
-
-(1) As from the date of commencement of this Act, no company shall have the power to issue warrants.
-
-(2) Every company shall within a period of 30 days from the date of commencement of this Act, cancel any share warrants previously issued by it which are still valid on that date and enter in its register of members the names and relevant particulars of the bearers of the share warrants.
-
-(3) A person whose name is entered in a company's register of members by virtue of subsection (2) of this section, shall be deemed to be a member of the company with effect from the date on which the share warrant thereby cancelled, was issued.
-
-Conversion of shares into stock
+# 149. Authority to allot shares
+(1) The power to allot shares is vested in the company, and, in relation to a private company, this power may be delegated to the directors, subject to any condition or direction that may be imposed in the articles or by the company in general meeting.
+(2) The power to allot shares of a public company is subject to the provisions of the Investment and Securities Act.
+(3) The powers to allot the shares of a company are not exercised by the directors of a company unless express authority to do so has been vested in the board of directors by—
+(a) the company in a general meeting; or
+(b) the company's articles.
+(4) In this section, the reference to shares includes any right to subscribe for, or to convert any security into, shares in the company other than shares so allotted.
+(5) The authorisation to the directors under this section may be given to be exercised in a particular instance, or to be exercised generally, and may be unconditional or subject to conditions.

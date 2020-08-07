@@ -1,21 +1,9 @@
-296. Appointment and removal of a secretary
-
-(1) A secretary shall be appointed by the directors and, subject to the provisions of this section, may be removed by them.
-
-(2) Where it is intended to remove the secretary of a public company, the board of directors shall give him notice‐
-
-(a) stating that it is intended to remove him;
-
-(b) setting out the grounds on which it is intended to remove him;
-
-(c) giving him a period not less than seven working days within which to make his defence; and
-
-(d) giving him an option to resign his office within a period of seven working days.
-
-(3) Where, following the notice prescribed in subsection (2) of this section, the secretary does not within the given period resign his office or make a defence, the board may remove him from office and shall make a report to the next general meeting; but where the secretary, without resigning his office, makes a defence and the board does not consider it sufficient, if the ground‐
-
-(a) on which it is intended to remove him is that of fraud or serious misconduct, the board may remove him from office and shall report to the next general meeting; and
-
-(b) is other than of fraud or serious misconduct, the board shall not remove him without the approval of the general meeting, but may suspend him and shall report to the next general meeting.
-
-(4) Notwithstanding any rule of law, where a secretary suspended under paragraph (b) of subsection (3) of this section is removed with the approval of the general meeting, the removal may take effect from such time as the general meeting may determine.
+# 296. Prohibition of loans to directors in certain circumstances
+(1) It is not lawful for a company to make a loan to any person who is its director or a director of its holding company, or to enter into any guarantee or provide any security in connection with a loan made to such a person as earlier mentioned by any other person:
+Provided that nothing in this section applies—
+(a) subject to subsection (2), to anything done to provide any such person as mentioned in this subsection with funds to meet expenditure incurred or to be incurred by him for the purposes of the company or for the purpose of enabling him to properly discharge his duties as an officer of the company; or
+(b) in the case of a company whose ordinary business includes the lending of money or the giving of guarantees in connection with loans made by other persons, to anything done by the company in the ordinary course of that business.
+(2) Subsection (1) (a) does not authorise the making of any loan, or the entering into any guarantee, or the provision of any security except—
+(a) with the prior approval of the company given at a general meeting at which the purposes of the expenditure, the amount of the loan or the extent of the guarantee or security, are disclosed; or
+(b) on condition that, if the approval of the company is not given as in subsection (2)(a) at or before the next annual general meeting, the loan shall be repaid or the liability under the guarantee or security shall be discharged, within six months from the conclusion of that meeting.
+(3) Where the approval of the company is not given as required by any such condition, the directors authorising the making of the loan, the entering into the guarantee or the provision of the security, are jointly and severally liable to indemnify the company against any loss arising from it.

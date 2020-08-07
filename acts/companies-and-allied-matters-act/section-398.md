@@ -1,7 +1,7 @@
-398. Delivery to Commission of accounts of receivers and managers
-
-(1) Except where section 396 (2) of this Act applies, every receiver or manager of the property of a company who has been appointed under the powers contained in any instrument shall, within one month or such longer periods as the Commission may allow, after the expiration of the period of six months from the date of his appointment, and of every subsequent period of six months, and within one month after he ceases to act as receiver or manager, deliver to the Commission for registration an abstract in the prescribed form showing his receipts and his payments during that period of six months, or where he ceases to act as aforesaid, during the period from the end of the period to which the last preceding abstract relates, up to the date of his ceasing, and the aggregate amount of his receipts and of his payments during all preceding periods since his appointment.
-
-(2) Every receiver or manager who makes default in complying with the provisions of this section shall be guilty of an offence and liable to a fine of N25 for every day during which the default continues.
-
-Duty as to returns
+# 398. Publication by a company of full individual or group financial statements
+(1) This section applies to the publication by a company of full individual or group financial statements, required by section 388 to be laid before the company in general meeting and delivered to the Commission, including the directors' report, unless dispensed with under paragraph 3 of the Fourth Schedule to this Act, but does not apply to interim financial statements.
+(2) If a company publishes individual financial statements (modified or otherwise) for a year, it shall publish with them the relevant auditors' report.
+(3) If a company required by section 379 to this Act to prepare group financial statements for a year, publishes individual financial statements for that year, it shall also publish with them its group financial statements (which may be modified financial statements but only if the individual financial statements are modified).
+(4) If a company publishes group financial statements (modified or not) without its individual financial statements, it shall publish with them the relevant auditors' report.
+(5) References in this section to the relevant auditor's report are to the auditors' report under section 404 or, in the case of modified financial statements (individual or group), the auditors' special report under paragraph 10 of the Sixth Schedule to this Act.
+(6) If default is made in complying with any provision of this section, the company and each officer of the company are liable to a penalty as the Commission shall specify in its regulations.

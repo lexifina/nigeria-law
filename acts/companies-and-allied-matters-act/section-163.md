@@ -1,5 +1,5 @@
-163. Enforceability of contract to acquire shares
-
-(1) A contract with a company providing for the acquisition by the company of shares in the company is specifically enforceable against the company, except to the extent that the company cannot perform the contract without thereby being a breach of the provisions of section 160 of this Act.
-
-(2) In any action brought on a contract referred to in subsection (1) of this section, the company shall have the burden of proving that performance of the contract is prevented by the provisions of section 160 of this Act.
+# 163. Power to pay different amounts on shares
+Where it is authorised by its articles, a company may—
+(a) make arrangements on the issue of shares for a difference between the shareholders in the amounts and times of payment of calls on their shares;
+(b) accept from any member the whole or a part of the amount remaining unpaid on any shares held by him, although no part of that amount has been called up; or
+(c) pay dividends in proportion to the amount paid up on each share where a larger amount is paid up on some shares than on others.

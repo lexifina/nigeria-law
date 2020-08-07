@@ -1,7 +1,11 @@
-60. Application of certain sections to foreign companies For the avoidance of doubt, it is hereby declared that‐
-
-(a) save as provided in sections 55, 56, 57 and 58 of this Act, nothing in this Act shall be construed as authorising the disregard by any exempted foreign company of any enactment or rule of law; and
-
-(b) nothing in this Chapter shall be construed as affecting the rights or liability of a foreign company to sue or be sued in its name or in the name of its agent.
-
-CHAPTER 4 Promoters
+# 60. Application for re-registration as a public company
+(1) An application for re-registration as a public company shall contain—
+(a) a statement of the company's proposed name on re-registration; and
+(b) in the case of a company without a secretary, a statement of the company's proposed secretary.
+(2) The application shall be accompanied by—
+(a) a copy of the special resolution that the company should re-register as a public company;
+(b) a copy of the company's memorandum and articles as proposed to be amended;
+(c) a copy of the balance sheet and other documents referred to in section 58 (1); and
+(d) if section 59 applies, a copy of the valuation report (if any) under subsection (2) (a) of that section.
+(3) The statement of compliance required to be delivered together with the application is a statement that the requirements of this Part as to re-registration as a public company have been complied with.
+(4) The Commission may accept the statement of compliance as sufficient evidence that the company is entitled to be re-registered as a public company.

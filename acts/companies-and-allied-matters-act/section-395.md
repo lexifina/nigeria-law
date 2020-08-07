@@ -1,21 +1,19 @@
-395. Power of court to fix remuneration on application of liquidator
-
-(1) The court may, on the application of the company or the liquidator of a company, by order fix the amount to be paid by way of remuneration to any person who, under the powers contained in any instrument, has been appointed as receiver or manager of the property of the company.
-
-(2) The powers of the court under subsection (1) of this section shall, where no previous order has been made with respect thereto under that subsection‐
-
-(a) extend to fixing the remuneration for any period before the making of the order or the application therefore;
-
-and
-
-(b) be exercisable notwithstanding that the receiver or manager has died or ceased to act before the making of the order or the application therefore; and
-
-(c) extend, where the receiver or manager has been paid or has retained for his remuneration for any period before the making of the order any amount in excess of that so fixed for that period, to requiring him or his personal representatives to account for the excess or such part thereof as may be specified in the order:
-
-Provided that the power conferred by paragraph (c) of this subsection shall not be exercised as respects any period before the making of the application for the order unless in the opinion of the court there are special circumstances making it proper for the power to be so exercised.
-
-(3) The court may, from time to time, on an application made either by the company or the liquidator or by the receiver or manager, vary or amend an order made under subsection (1) of this section.
-
-(4) This section shall apply whether the receiver or manager has been appointed before or after the commencement of this Act, and to periods before, as well as to periods after, the commencement of this Act.
-
-Procedure after appointment
+# 395. Companies qualifying as small: parent companies
+(1) A parent company qualifies as a small company in relation to a financial year only if the group headed by it qualifies as a small group.
+(2) A group qualifies as small in relation to the parent company's first financial year if the qualifying conditions are met in that year.
+(3) A group qualifies as small in relation to a subsequent financial year of the parent company if the qualifying conditions—
+(a) are met in that year and the preceding financial year;
+(b) are met in that year and the group qualified as small in relation to the preceding financial year; or
+(c) were met in the preceding financial year and the group qualified as small in relation to that year.
+(4) The qualifying conditions are met by a group in a year in which it satisfies the following requirements—
+(a) it is a private company;
+(b) its turnover is not more than N120,000,000 or such amount as may be fixed by the Commission from time to time;
+(c) its net assets value is not more than N60,000,000 or such amount as may be fixed by the Commission;
+(d) none of its members is an alien;
+(e) none of its members is a government or government corporation or agency or its nominee; and
+(f) in the case of a company having share capital, the directors between themselves hold at least 51% of its equity share capital.
+(5) The aggregate figures are ascertained by aggregating the relevant figures determined in accordance with section 394 for each member of the group.
+(6) The figures for each subsidiary undertaking are those included in its individual accounts for the relevant financial year, if—
+(a) its financial year ends with that of the parent company, that financial year;
+(b) not, its financial year ending last before the end of the financial year of the parent company; and
+(c) those figures cannot be obtained without disproportionate expense or undue delay, the latest available figures shall be taken.

@@ -1,5 +1,2 @@
-272. Payment to director for loss of office, etc., or transfer of property illegal
-
-(1) If in connection with the transfer of the whole or any part of the undertaking or property of a company, it is proposed to make any payment to a director of the company by way of compensation for loss of office, or as consideration for or in connection with his retirement from office, the payment shall be unlawful unless particulars with respect to the proposal and the amount have been disclosed to members of the company and the proposal is approved by the company.
-
-(2) Where a payment declared by this section to be illegal is made to a director of a company, the amount received shall be deemed to have been received by him in trust for the company.
+# 272. Appointment of first directors
+Subject to section 271 of this Act, the number of directors and the names of the first directors shall be determined in writing by the subscribers of the memorandum of association or a majority of them or the directors may be named in the articles.

@@ -1,27 +1,9 @@
-357. Appointment of auditors
-
-(1) Every company shall at each annual general meeting appoint an auditor or auditors to audit the financial statements of the company, and to hold office from the conclusion of that, until the conclusion of the next, annual general meeting.
-
-(2) At any annual general meeting a retiring auditor, however appointed, shall be re‐appointed without any resolution being passed unless‐
-
-(a) he is not qualified for re‐appointment; or
-
-(b) a resolution has been passed at that meeting appointing some other person instead of him or providing expressly that he shall not be re‐appointed; or
-
-(c) he has given the company notice in writing of his unwillingness to be re‐appointed:
-
-Provided that where notice is given of an intended resolution to appoint some person or persons in place of a retiring auditor, and by reason of the death, incapacity or disqualification of that person or of all those persons, as the case may be, the resolution cannot be proceeded with, the retiring auditor shall not be automatically re‐ appointed by virtue of this subsection.
-
-(3) Where at an annual general meeting, no auditors are appointed or re‐appointed, the directors may appoint a person to fill the vacancy.
-
-(4) The company shall, within one week of the power of the directors under subsection (3) of this section becoming exercisable, give notice of that fact to the Commission; and if a company fails to give notice as required by this subsection, the company and every officer of the company who is in default shall be guilty of an offence and liable to a fine of N100 for every day during which the default continues.
-
-(5) Subject as hereinafter provided, the first auditors of a company may be appointed by the directors at any time before the company is entitled to commence business and auditors so appointed shall hold office until the conclusion of the next annual general meeting:
-
-Provided that‐
-
-(a) the company may at a general meeting remove any such auditors and appoint in their place any other person who has been nominated for appointment by any member of the company and of whose nomination notice has been given to the members of the company not less than 14 days before the date of the meeting; and
-
-(b) if the directors fail to exercise their powers under this subsection; the company may, in a general meeting convened for that purpose, appoint the first auditors and thereupon the said powers of the directors shall cease.
-
-(6) The directors may fill any casual vacancy in the office of auditor but while any such vacancy continues, the surviving or continuing auditor or auditors, if any, may act.
+# 357. Investigation of a company on its own application or that of its members
+(1) The Commission may appoint one or more competent inspectors to investigate the affairs of a company and to report on them in such manner as it may direct.
+(2) The appointment may be made—
+(a) in the case of a company having a share capital, on the application of members holding at least one-tenth of the class of shares issued;
+(b) in the case of a company not having a share capital, on the application of at least one-tenth in number of the persons on the company's register of members; and
+(c) in any other case, on the application of the company.
+(3) The application shall be supported by such evidence as the Commission may require for the purpose of showing that the applicant or applicants have good reason for requiring the investigation.
+(4) Where a company's employee, in compliance with an inspector's request, provides the inspector with any information concerning the company's affairs, the company shall protect the employee from any form of discrimination or other unfair treatment.
+(5) Any employee relieved of his employment without any just cause, other than for reason of disclosure made pursuant to the provision of this section, is entitled to a compensation which is calculated as if he had attained the maximum age of retirement or had served the maximum period of service, in accordance with his terms of employment or conditions of service to the company.

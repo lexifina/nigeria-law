@@ -1,7 +1,7 @@
-162. Limit on number of shares acquired No transaction shall be entered into by or on behalf of a company whereby the total number of its shares, or of its shares of anyone class, held by persons other than the company or its nominees becomes less than 85 per cent of the total number of shares, or of shares of that class, which have been issued:
-
-Provided that‐
-
-(a) redeemable shares shall be disregarded for the purposes of this section; and
-
-(b) where, after shares of any class have been issued, the number of such shares has been reduced, this section shall apply as if the number originally issued (including shares of that class cancelled before the reduction took effect) has been the number as so reduced.
+# 162. Payment for shares of public companies other than in cash
+(1) Where a public company agrees to accept payment for its shares otherwise than wholly in cash, it shall appoint an independent valuer who shall determine the true value of the consideration other than cash and prepare and submit to the company a report on the value of the consideration.
+(2) The valuer is entitled to require from the officers of the company such information and explanation as he thinks necessary to enable him to carry out the valuation or make the report under subsection (1).
+(3) The company shall, not more than three days after it receives the valuer's report, send a copy of the report to the proposed purchaser of shares, and indicate to the proposed purchaser whether or not it intends to accept the consideration as payment or part payment for its shares.
+(4) A public company shall not accept as payment or part payment for its shares consideration other than cash unless the cash value of the consideration as determined by the valuer is worth at least as much as may be credited as paid up in respect of the shares allowed to the proposed purchaser.
+(5) A valuer who, in his report or otherwise, knowingly or recklessly makes a statement which is misleading, false or deceptive in a material particular, commits an offence and is liable to imprisonment for a term of 12 months or a fine as shall be imposed by the court, or both.
+(6) For the purposes of this section, "valuer" means an auditor, a valuer, surveyor, an engineer or accountant not being a person in the employment of the company nor an agent or associate of the company or any of its directors or officers.

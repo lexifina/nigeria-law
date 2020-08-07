@@ -1,1 +1,2 @@
-281. Multiple directorships The fact that a person holds more than one directorship shall not derogate from his fiduciary duties to each company, including a duty not to use the property, opportunity or information obtained in the course of the management of one company for the benefit of the other company, or to his own or other person's advantage.
+# 281. Appointment of director for life
+A person may be appointed a director for life provided that he shall be removable under section 288 of this Act.

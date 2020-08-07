@@ -1,3 +1,4 @@
-61. Persons promoting a company Any person who undertakes to take part in forming a company with reference to a given project and to set it going and who takes the necessary steps to accomplish that purpose, or who, with regard to a proposed or newly formed company, undertakes a part in raising capital for it, shall prima facie be deemed a promoter of the company:
-
-Provided that a person acting in a professional capacity for persons engaged in pro‐curing the formation of the company shall not thereby be deemed to be a promoter.
+# 61. Statement of proposed secretary
+(1) The statement of the company's proposed secretary shall contain the required particulars of the person or persons who is or are to be the secretary or joint secretaries of the company.
+(2) The required particulars are those required to be stated in the company's register of secretaries.
+(3) The statement shall also contain consent by the person named as secretary, or each of the persons named as joint secretaries, to act in the relevant capacity and if all the partners in a firm are to be joint secretaries, consent may be given by one partner on behalf of all of them.

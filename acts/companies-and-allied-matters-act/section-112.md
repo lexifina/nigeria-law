@@ -1,11 +1,6 @@
-112. Duty of directors on serious loss of capital
-
-(1) Where the net assets of a public company are half or less of its called‐up share capital, the directors shall, not later than 30 days from the earliest day on which that fact is known to a director of the company, duly convene an extraordinary general meeting of the company, for a day not later than 60 days from that day for the purpose of considering whether any, and if so, what steps should be taken to deal with the situation.
-
-(2) If there is a failure to convene an extraordinary general meeting as required by subsection (1) of this section, each of the directors of the company who‐
-
-(a) knowingly and wilfully authorises or permits the failure; or
-
-(b) after the expiry of the period during which that meeting should have been convened, knowingly and wilfully authorises or permits the failure to continue, shall be liable to a fine of N500
-
-(3) Nothing in this section shall authorise the consideration, at a meeting convened in pursuance of subsection (1) of this section, of any matter which could have been considered at that meeting apart from this section.
+# 112. Inspection of register and index
+(1) Except when the register of members is closed under the provisions of this Act, the register and the index of members' names shall be open during business hours (subject to such reasonable restrictions as the company in general meeting may impose, that not less than two hours in each day shall be allowed for inspection) to the inspection of any member of the company without charge.
+(2) A member or any person may, with the permission of the company which permission shall not be unreasonably withheld require a copy of the register, or of any part, on payment of such amount the Commission may prescribe or such lesser amount the company may prescribe for every page required to be copied, and the company shall cause any copy required by any person to be duly endorsed by an officer of the company and sent to that person within a period of 10 days commencing on the day after the day on which the requirement is received by the company:
+Provided that the Commission may require such copy without any restriction or charge.
+(3) If any inspection required under this section is refused, or if any copy required under this section is not sent within the prescribed period, the company and every officer of the company is liable in respect of each default to such penalties as the Commission shall specify by regulation.
+(4) Notwithstanding the provisions of subsection (3), the Court may by order compel an immediate inspection of the register and index or direct that the copies required shall be sent to the persons requiring them.

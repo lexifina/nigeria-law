@@ -1,11 +1,5 @@
-429. Audit, etc., of liquidator's account
-
-(1) Every liquidator of a company being wound up by the court shall, at such times as may be prescribed, but not less than twice in each year during his tenure of office, send to the Commission an account of his receipts and payments as liquidator.
-
-(2) The account shall be in duplicate in the prescribed form, and shall be verified by a statutory declaration in the prescribed form.
-
-(3) The Commission shall cause the account to be audited, and for the purpose of the audit the liquidator shall furnish the Commission with such vouchers and information as the Commission may require, and the Commission may at any time require the production of, and may inspect, any books or accounts kept by the liquidator.
-
-(4) When the account has been audited, one copy shall be filed and kept by the Commission, and the other copy shall be with the court and each shall be open to inspection by any creditor or other person interested, on payment of the prescribed fee.
-
-(5) The Commission shall cause the account when audited, or a summary thereof, to be printed, and shall send a printed copy of the account or summary by post to every creditor and contributory.
+# 429. Unclaimed dividends
+(1) Where dividends paid by a company remain unclaimed, the company shall publish in two national newspapers, a list of the unclaimed dividends and the names of the persons entitled to the dividends, and attach the list, as published in the national newspapers, to the notice that is sent to the members of the company for each subsequent annual general meeting of the company.
+(2) After the expiration of three months of the publication and notice referred to in subsection (1), the company may invest the unclaimed dividend for its own benefit in investments outside the company and no interest shall accrue on the dividends against the company.
+(3) Where dividends have been sent to members and there is an omission to send to some members due to the fault of the company, the dividends shall earn interest at the current bank rate from three months after the date on which they ought to have been posted.
+(4) For the purpose of liability, the date of posting the dividend warrant is deemed to be the date of payment and proof of whether it has been sent is a question of fact.

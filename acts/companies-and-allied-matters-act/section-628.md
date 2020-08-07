@@ -1,0 +1,3 @@
+# 628. Power to fill vacancy in office of liquidators
+(1) If a vacancy occurs by death, resignation or otherwise in the office of a liquidator appointed by the company, the company in general meeting may, subject to any arrangement with its creditors, fill the vacancy and for that purpose a general meeting may be convened by a contributory or, if there were more liquidators than one, by the continuing liquidators.
+(2) The general meeting shall be held in the manner provided by this Act or by the articles, or in such manner as may, on application by a contributory or by the continuing liquidators, be determined by the Court.

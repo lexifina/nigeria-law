@@ -1,33 +1,24 @@
-183. Execution of debenture trust deed
-
-(1) Every company which offers debentures to the public for subscription or purchase shall, before issuing any of the debentures, execute a debenture trust deed in respect of them and procure the execution of the deed by the trustee for the debenture holders appointed by the deed.
-
-(2) No debenture trust deed shall cover more than one class of debentures, whether or not the trust deed is required by this section to be executed.
-
-(3) Where a trust deed is required to be executed by this section but has not been executed, the court, on the application of a debenture holder concerned, may‐
-
-(a) order the company to execute a trust deed;
-
-(b) direct that a person nominated by the court shall be appointed to be trustee; and
-
-(c) give such consequential directions as it thinks fit, as to the contents of the trust deed and its execution by the trustee thereof.
-
-(4) For the purposes of this Act, debentures shall belong to different classes if different rights attach to them in respect of‐
-
-(a) the rate of, or dates for payment of interest;
-
-(b) the dates when, or the instalments by which, the principal of the debenture shall be repaid, unless the difference is solely that the class of debentures shall be repaid during a stated period of time and particular debentures may be repaid at different dates during that period according to selections made by the company or by drawings, ballot or otherwise;
-
-(c) any right to subscribe for or convert the debentures into shares in, or other debentures of, the company or any other company; or
-
-(d) the powers of the debenture holders to realise any security.
-
-(5) Debentures further belong to different classes, if they do not rank equally for payment when any security invested in the debenture holders under any trust deed is realised or when the company is wound up, that is to say, if, in the circumstances mentioned in subsection (4) of this section the subject matter of any such security or the proceeds thereof, or any assets available to satisfy the debentures, is or are not to be applied in satisfying the debentures strictly in proportion to the amount of principal, premiums and arrears of interest to which the holders of them are respectively entitled.
-
-(6) A debenture is covered by a trust deed if‐
-
-(a) the holder of the debenture is entitled to participate in any money payable by the company under the deed; or
-
-(b) is entitled to the benefit of any mortgage, charge or security created by the deed, whether alone or together with other persons.
-
-(7) If a company issues debentures in circumstances in which this section requires a debenture trust deed to be executed, without such a deed having been executed in compliance with this section, or if the company issues debentures under a trust deed which covers two or more classes of debentures, the directors of the company who are in default are guilty of an offence and liable on conviction to a fine of N5,000 jointly or severally.
+# 183. Prohibition of financial assistance by company for acquisition of its shares
+(1) In this section—
+(a) "financial assistance" means a gift, guarantee, any form of security or indemnity, a loan or any form of credit or any other financial assistance given by a company, the net assets of which are thereby reduced by up to 50%, or which has no net assets;
+(b) "net assets" means the aggregate of the company's assets, less the aggregate of its liabilities ("liabilities" to include any charges or provision for liabilities in accordance with the applicable accounting standards applied by the company in relation to its accounts).
+(2) Subject to the provisions of this section—
+(a) where a person is acquiring or is proposing to acquire shares in a company, it shall not be lawful for the company or any of its subsidiaries to give financial assistance directly or indirectly for the purpose of that acquisition before or at the same time as the acquisition takes place; and
+(b) where a person has acquired shares in a company and any liability has been incurred (by that or any other person), for the purpose of this acquisition, it shall not be lawful for the company or any of its subsidiaries to give financial assistance directly or indirectly for the purpose of reducing or discharging the liability so incurred.
+(3) Nothing in subsection (1) of this section shall be taken to prohibit—
+(a) the lending of money by the company in the ordinary course of its business, where the lending of money is part of the ordinary business of a company;
+(b) the provision by a company, in accordance with any scheme for the time being in force, of money for the purchase of, or subscription for, fully-paid shares in the company or its holding company, being a purchase or subscription by trustees of or for shares to be held by or for the benefit of employees of the company, including any director holding a salaried employment or office in the company;
+(c) the making by a company of loans to persons, other than directors, bona fide in the employment of the company with a view to enabling those persons to purchase or subscribe for fully-paid shares in the company or its holding company, to be held themselves by way of beneficial ownership;
+(d) any act or transaction otherwise authorised by law including—
+(i) a distribution of a company's assets by way of dividend lawfully made or a distribution made in the course of the company's winding-up,
+(ii) the allotment of bonus shares,
+(iii) a reduction of capital confirmed by order of the court under this Act, and
+(iv) a redemption or purchase of shares;
+(e) anything done in pursuance of an order of the court under a scheme of arrangement; a scheme of merger or any other scheme or restructuring of a company done with the sanction of the Court; or
+(f) an assistance given by a company where its principal purpose in giving the assistance is not to reduce or discharge any liability incurred by a person for the purpose of the acquisition of shares in the company or its holding company, or the reduction or discharge of any such liability, but an incidental part of some larger purpose of the company, and the assistance is given in good faith in the interests of the company.
+(4) This section does not prohibit a private company from giving financial assistance in a case where the acquisition of shares in question is or was an acquisition of shares in the company or, if it is a subsidiary of another private company, in that other company, provided that—
+(a) the financial assistance may only be given if the company has net assets which are not thereby reduced or to the extent that they are reduced, if the assistance is provided out of distributable profits;
+(b) the giving of assistance under this section must be approved by special resolution of the company in general meeting; and
+(c) the directors of the company proposing to give the financial assistance and, where the shares acquired or to be acquired are shares in its holding company, the directors of that holding company shall, before the financial assistance is given, make a statutory declaration in a form prescribed by the Commission.
+(5) If a company acts in contravention of this section, the company and every officer of the company who is in default shall be liable to such penalty as the Commission shall specify by regulation.
+(6) A Company may accept from any shareholder, a share in the Company, surrendered to it as a gift, but may not extinguish or reduce a liability in respect of an amount unpaid on any such share, except in accordance with section 131 of this Act.

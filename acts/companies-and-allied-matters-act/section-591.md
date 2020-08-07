@@ -1,21 +1,7 @@
-591. Method of application
-
-(1) Application under section 596 of this Act shall be in the form prescribed by the Commission and shall state‐
-
-(a) the name of the proposed corporate body which must contain the words "Incorporated Trustees of”;
-
-(b) the aims and objects of the association which must be for the advancement of any religious, educational, literary, scientific, social, development, cultural, sporting or charitable purpose, and must be lawful;
-
-(c) the names, addresses and occupations of the secretary of the association, if any.
-
-(2) There shall be attached to the application‐
-
-(a) two printed copies of the constitution of the association; (b) duly signed copies of the minutes of the meeting appointing the trustees and authorising the application, showing the people present and the votes scored;
-
-(c) the impression or drawing of the proposed common seal.
-
-(3) The application shall be signed by the person making it.
-
-(4) The Commission may require such declaration or other evidence in verification of the statements and particulars in the application, and such other particulars, information, and evidence, if any, as it may think fit.
-
-(5) If any person knowingly makes any false statement or gives any false information for the purpose of incorporating trustees under this Part of this Act, he shall be guilty of an offence and liable on conviction to imprisonment for one year or to a fine of N100
+# 591. Payments by liquidator into companies' liquidation account
+(1) Every liquidator of a company being wound up by the Court shall, in such manner and at such times as the Commission directs, pay moneys received by him into the public fund of the Federation kept by the Commission for the purposes of this Act known as "the Companies Liquidation Account", and the Accountant-General of the Federation shall furnish him with a certificate of receipt for the money so paid.
+(2) If the Committee of Inspection satisfies the Commission that for the purpose of carrying on the business of the company or of obtaining advances, or for any other reason, it is for the advantage of the creditors or contributories that the liquidator should have an account with any bank, the Commission shall, on the application of the Committee of Inspection, authorise the liquidator to make his payments into and out of such bank in Nigeria as the committee may select, and thereupon those payments shall be made in the prescribed manner.
+(3) If the liquidator of a company being wound up, at any time retains for more than 10 days an amount in excess of either N50,000 or such other amount as the Commission may approve, and fails to satisfy the Commission as to the need for the retention of that amount beyond that time, the liquidator shall pay interest on the amount so retained in excess, at the rate of 20% per annum, and shall be liable to—
+(a) disallowance of the whole or such part of his remuneration as the Commission deems fit; and
+(b) removal from office, and in addition, he shall be liable to pay any expenses occasioned by the retention.
+(4) A liquidator of a company which is being wound up by the Court shall not pay any sums received by him as liquidator into his private banking account.

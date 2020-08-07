@@ -1,5 +1,3 @@
-48. Alteration of articles
-
-(1) Subject to the provisions of this Act and to the conditions or other provisions contained in its memorandum, a company may by special resolution alter or add to its articles.
-
-(2) Any alteration or addition so made in the articles shall, subject to the provisions of this Act, be as valid as if originally contained therein and be subject, in like manner, to alteration by special resolution.
+# 48. Copies of memorandum issued to embody alterations
+(1) Where an alteration is made in the memorandum of a company, every copy of the memorandum issued after the date of the alteration shall be in accordance with the alteration.
+(2) Where any such alteration has been made, the company at any time after the date of the alteration issues any copy of the memorandum which is not in accordance with the alteration, it shall be liable to such penalty as the Commission shall prescribe by regulation for each copy so issued, and every officer of the company who is in default is liable to the like penalty.

@@ -1,0 +1,7 @@
+# 780. Seizure of documents by inspector
+(1) Where in the course of investigation, the inspector has reasonable ground to believe that the books and papers of, or relating to, the limited liability partnership, other entity, partner or designated partner of such limited liability partnership may be destroyed, mutilated, altered, falsified or secreted, the inspector may make an application to the Court having jurisdiction, for an order for the seizure of such books and papers.
+(2) After considering the application and hearing the inspector, if necessary, the court may, by order, authorise the inspector to—
+(a) enter, with such assistance, as may be required, the place or places where such books and papers are kept;
+(b) search that place or those places in the manner specified in the order; and
+(c) seize books and papers which the inspector considers necessary for the purposes of his investigation.
+(3) The inspector shall keep in his custody the books and papers seized under this section for such period not later than the conclusion of the investigation as he considers necessary and thereafter shall return the same to the concerned entity or person from whose custody or power they were seized and inform the court of such return, provided the books and papers shall not be seized for a continuous period of more than six months and the inspector may, before returning the books and papers as, place identification marks on them or any part thereof.

@@ -1,7 +1,10 @@
-519. Meetings to ascertain wishes of creditors and others
-
-(1) The court may, as to all matters relating to the winding up of a company, have regard to the wishes of the creditors or contributories of the company, as proved to it by any sufficient evidence, and may, if it thinks fit, for the purposes of ascertaining those wishes, direct meetings of the creditors or contributories to be called, held and conducted in such manner as the court directs and may appoint a person to act as chairman of any such meeting and to report the result thereof to the court.
-
-(2) In the case of creditors, regard shall be had to the value of each creditor's debt.
-
-(3) In the case of contributories, regard shall be had to the number of votes conferred on each contributory by this Act or the articles.
+# 519. Cessation of administration by Court on application of creditors
+(1) On the application of a creditor of a company, the Court may provide for the appointment of an administrator of the company to cease to have effect at a specified time.
+(2) An application under this section shall allege an improper motive—
+(a) in the case of an administrator appointed by administration order, on the part of the applicant for the order; or
+(b) in any other case, on the part of the person who appointed the administrator.
+(3) On an application under this section, the Court may—
+(a) adjourn the hearing conditionally or unconditionally;
+(b) dismiss the application;
+(c) make an interim order; or
+(d) make any order it considers appropriate, whether in addition to, in consequence of or instead of the order applied for.

@@ -1,1 +1,5 @@
-493. Application of bankruptcy rules in certain cases In the winding up of an insolvent company registered in Nigeria the same rules shall prevail and be observed with regard to the respective rights of secured and unsecured creditors and to debts provable and to the valuation of annuities and future and contingent liabilities as are in force for the time being under the law of bankruptcy in Nigeria with respect to the estates of persons adjudged bankrupt, and all persons who in any such case would be entitled to prove for and receive dividends out of the assets of the company may come in under the winding up and make such claims against the company as they respectively are entitled to by virtue of this section.
+# 493. Further creditors' meetings
+(1) The administrator shall summon further creditors' meeting if—
+(a) it is requested in the prescribed manner by creditors of the company whose debts amount to at least 10% of the total debts of the company; or
+(b) he is directed by the Court to summon a creditors' meeting.
+(2) An administrator commits an offence if he fails, without reasonable excuse, to summon a creditors' meeting as required by this section.

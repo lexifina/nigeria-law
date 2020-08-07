@@ -1,3 +1,2 @@
-469. Alternative provisions as to annual and final meetings in insolvency cases Where section 466 of this Act has effect, sections 477 and 478 thereof shall apply to the winding up to the exclusion of the two last foregoing sections, as if the winding up were a creditors' voluntary winding up and not a members' voluntary winding up:
-
-Provided that the liquidator shall not be required to summon a meeting of creditors under section 477 of this Act at the end of the first year from the commencement of the winding up, unless the meeting held under section 466 of this Act is held more than three months before the end of that year.
+# 469. Commencement of appointment under section 459
+The appointment of an administrator under section 459 of this Act takes effect when the requirements of section 464 of this Act are satisfied.

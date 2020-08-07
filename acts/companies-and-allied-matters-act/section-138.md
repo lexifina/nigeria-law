@@ -1,9 +1,4 @@
-138. Power to pay different amounts on shares To the extent to which it is so authorised by its articles, a company may‐
-
-(a) make arrangements on the issue of shares for a difference between the shareholders in the amounts and times of payment of calls on their shares;
-
-(b) accept from any member the whole or a part of the amount remaining unpaid on any shares held by him, although no part of that amount has been called up;
-
-(c) pay dividend in proportion to the amount paid up on each share where a larger amount is paid up on some shares than on others.
-
-Lien and forfeiture of shares
+# 138. Rights and liabilities attached to shares
+Subject to the provisions of this Act, the rights and liabilities attaching to the shares of a company or any class thereof shall—
+(a) be dependent on the terms of issue or the company's articles; and
+(b) notwithstanding anything to the contrary in the terms or the articles, include the right to attend any general meeting of the company and vote at such a meeting.

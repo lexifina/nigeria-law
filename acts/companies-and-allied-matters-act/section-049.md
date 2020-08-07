@@ -1,9 +1,3 @@
-49. Limitation of liability to contribute to share capital if memorandum, etc., altered Save to the extent to which a member of a company agrees in writing at any time to be bound thereby, and anything to the contrary in the memorandum or articles notwithstanding, the member shall not be bound by any alteration made in the memorandum or articles of the company requiring him on or after the date of the alteration to‐
-
-(a) take or subscribe for more shares than he held at the date on which he became a member; or
-
-(b) increase his liability to contribute to the share capital of the company; or
-
-(c) pay money by any other means to the company.
-
-CHAPTER 2 Conversion and re‐registration of companies
+# 49. Restriction on alteration of memorandum
+(1) A company may not alter the conditions contained in its memorandum except in the cases and in the manner and to the extent for which express provision is made in this Act.
+(2) Only those provisions which are required by section 27 or by any other specific provision contained in this Act, to be stated in the memorandum of the company concerned, are deemed to be conditions contained in its memorandum.

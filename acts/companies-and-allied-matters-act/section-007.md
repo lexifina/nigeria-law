@@ -1,17 +1,5 @@
-7. Functions
-
-(1) The functions of the Commission shall be to‐
-
-(a) subject to section 541 of this Act, administer this Act including the regulation and supervision of the formation, incorporation, registration, management, and winding up of companies under or pursuant to this Act;
-
-(b) establish and maintain a company’s registry and offices in all the States of the Federation suitably and adequately equipped to discharge its functions under this Act or any other law in respect of which it is charged with responsibility;
-
-(c) arrange or conduct an investigation into the affairs of any company where the interests of the shareholders and the public so demand;
-
-(d) perform such other functions as may be specified by any Act or enactment; and
-
-(e) undertake such other activities as are necessary or expedient for giving full effect to the provisions of this Act.
-
-(2) Nothing in this section shall affect the powers, duties or jurisdiction of the Securities and Exchange Commission under the Investments and Securities Act.
-
-[Cap. 124.]
+# 7. Disclosure of interest
+(1) A member of the Board who is directly interested in any company or enterprise, the affairs of which are being deliberated upon by the Board, or is interested in any contract made or proposed to be made by the Board shall, as soon as possible after the relevant facts have come to his knowledge, disclose the nature of his interest at a meeting of the Board.
+(2) A disclosure, under subsection (1), shall be recorded in the minutes of the Board, and the member shall—
+(a) not take part, after such disclosure, in any deliberation or decision of the Board with regard to the subject matter in respect of which his interest is disclosed; and
+(b) be excluded for the purpose of constituting a quorum of the Board for any such deliberation or decision.

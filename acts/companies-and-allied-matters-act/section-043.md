@@ -1,7 +1,3 @@
-43. Copies of memorandum issued to embody alterations
-
-(1) Where an alteration is made in the memorandum of a company every copy of the memorandum issued after the date of the alteration shall be in accordance with the alteration.
-
-(2) If, where any such alteration has been made, the company at any time after the date of the alteration issues any copies of the memorandum which are not in accordance with the alteration, it shall be liable to a fine not exceeding N25 for each copy so issued, and every officer of the company who is in default shall be liable to the like penalty.
-
-Alteration of memorandum and articles
+# 43. Powers of companies and prohibition of donations for political purpose
+(1) Except to the extent that the company's memorandum or any enactment otherwise provides, every company shall, for the furtherance of its business or objects, have all the powers of a natural person of full capacity.
+(2) A company shall not have or exercise power either directly or indirectly to make a donation or gift of any of its property or funds to a political party or political association, or for any political purpose, and if any company, in breach of this subsection makes any donation or gift of its property to a political party or political association, or for any political purpose, the officers in default and any member who voted for the breach shall be jointly and severally liable to refund to the company the sum or value of the donation or gift and in addition, every such officer or member commits an offence and is liable to a fine equal to the amount or value of the donation or gift.

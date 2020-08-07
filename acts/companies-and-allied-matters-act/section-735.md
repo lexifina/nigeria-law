@@ -1,0 +1,6 @@
+# 735. Production of documents where offences suspected
+(1) If, on application made to a Judge of the Federal High Court in Chambers by the Attorney-General of the Federation, there is shown to be reasonable cause to believe that a person has, while an officer of a company, committed an offence in connection with the management of the company's affairs and that evidence of the commission of the offence is to be found in any document in the possession or under the control of the company, an order may be made—
+(a) authorising any person named in the order to inspect the documents or any of them for the purpose of investigating and obtaining evidence of the offence; or
+(b) requiring the secretary or any other officer of the company as may be named in the order to produce the said documents, to a person and at a place named in the order.
+(2) The provisions of subsection (1) shall apply also in relation to any document of a person carrying on the business of banking if they relate to the company's affairs, as it applies to any document in the possession or under the control of the company, except that no such order as is referred to in subsection (1) (b) shall be made by virtue of this subsection.
+(3) In this section, "document" includes an instrument on which information is recorded by means of letters, figures or marks.

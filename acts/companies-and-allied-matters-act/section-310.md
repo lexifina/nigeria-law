@@ -1,19 +1,7 @@
-310. Application
-
-(1) An application to the court by petition for an order under section 311 of this Act in relation to a company may be made by any of the following persons‐
-
-(a) a member of the company;
-
-(b) a director or officer or former director or officer of the company;
-
-(c) a creditor;
-
-(d) the Commission; or
-
-(e) any other person who, in the discretion of the court, is the proper person to make an application under section 311 of this Act.
-
-(2) In sections 311 to 313 of this Act, "member" includes‐
-
-(a) the personal representative of a deceased member; and
-
-(b) any person to whom shares have been transferred or transmitted by operation of law.
+# 310. Substantial property transactions involving directors, controlling members, etc
+(1) Subject to the exceptions provided by section 311 of this Act, a company shall not enter into an arrangement whereby—
+(a) a director or controlling member of a company or its holding company, or a person connected with such a director or controlling member, acquires or is to acquire one or more non- cash assets of the requisite value from the company; or
+(b) the company acquires or is to acquire one or more non-cash assets of the requisite value from such a director or controlling member or a person so connected, unless the arrangement is first approved by a resolution of the company in general meeting after being informed of all material facts relating to the transaction and if the director, controlling member or connected person is a director of its holding company or a person connected with such a director or controlling member, by a resolution in general meeting of the holding company after being informed of all material facts relating to the transaction.
+(2) For the purpose of subsection (1), a non-cash asset is of the requisite value if, at the time the arrangement in question is entered into, its value is not less than an amount the Commission may by regulation prescribe".
+(3) A person is a controlling member of a company if that person, either alone or in an understanding with other persons, has more than 50% of the voting power to elect or remove directors of the company.
+(4) For the purposes of this section and sections 311 and 312 of this Act, a shadow director is treated as a director.

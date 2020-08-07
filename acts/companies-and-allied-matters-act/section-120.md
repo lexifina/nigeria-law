@@ -1,17 +1,7 @@
-120. Issue of shares at a premium
-
-(1) Shares of a company may be issued at a premium.
-
-(2) Where a company issues shares at a premium, whether for cash or otherwise, a sum equal to the aggregate amount or value of the premium on those shares shall be transferred to an account, to be called "the share premium account", and the provisions of this Act relating to the reduction of the share capital of a company shall, except as provided in this section, apply as if the share premium account were paid‐up share capital of the company.
-
-(3) Notwithstanding, anything to the contrary in subsection (2) of this section, the share premium account may be applied by the company in paying up unissued shares of the company to be issued to members of the company as fully‐paid bonus shares, in writing off‐
-
-(a) the preliminary expenses of the company; or
-
-(b) the expenses of, or the commission paid or discount allowed on, any issue of shares of the company; or in providing for the premium payable on redemption of any redeemable share of the company.
-
-(4) Where a company has before the commencement of this Act issued any shares at a premium, this section shall apply as if the shares had been issued after the commencement of this Act:
-
-Provided that any part of the premium which has been so applied that it does not at the commencement of this Act form an identifiable part of the company's reserves within the meaning of the Second Schedule to this Act, shall be disregarded in determining the sum to be included in the share premium account.
-
-[Second Schedule.]
+# 120. Obligation of disclosure by substantial shareholder in public company
+(1) A person who is a substantial shareholder in a public company shall give notice in writing to the company stating his name, address and full particulars of the shares held by him or his nominee (naming the nominee) by virtue of which he is a substantial shareholder.
+(2) A person is a substantial shareholder in a public company if he holds himself or by his nominee, shares in the company which entitle him to exercise at least 5% of the unrestricted voting rights at any general meeting of the company.
+(3) A person required to give a notice under subsection (1), shall do so within 14 days after that person becomes aware that he is a substantial shareholder.
+(4) The notice shall be given notwithstanding that the person has ceased to be a substantial shareholder before the expiration of the period referred to in subsection (3).
+(5) The company shall, within 14 days of receipt of the notice or of becoming aware that a person is a substantial shareholder give notice in writing to the Commission of this fact.
+(6) If any person or company fails to comply with the provisions of this section, the person or the company is liable to such fines as the Commission may prescribe by regulation for each day the default continues.

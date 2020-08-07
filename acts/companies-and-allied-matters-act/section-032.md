@@ -1,7 +1,7 @@
-32. Reservation of name
-
-(1) The Commission may on written application and on payment of the prescribed fee reserve a name pending registration of a company or a change of name by a company.
-
-(2) Such reservation as is mentioned in subsection (1) of this section shall be for such period as the Commission shall think fit not exceeding 60 days, and during the period of reservation no other company shall be registered under the reserved name or under any other name which in the opinion of the Commission bears too close a resemblance to the reserved name.
-
-Articles of association
+# 32. Articles of association
+(1) A company shall have articles of association prescribing regulations for the company.
+(2) Unless it is a company to which model articles apply by virtue of section 34 it shall register articles of association.
+(3) Articles of association registered by a company shall be—
+(a) contained in a single document, and
+(b) divided into paragraphs numbered consecutively.
+(4) Reference in this Act to a company's "articles" are to its articles of association.

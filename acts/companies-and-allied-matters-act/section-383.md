@@ -1,17 +1,6 @@
-383. Reserve and capitalisation
-
-(1) The directors may, before recommending any dividend, set aside out of the profits of the company such sums as they think proper as a reserve or reserves which shall, at the discretion of the directors, be applicable for any purpose to which the profits of the company may be properly applied, and pending such application may, at the like discretion, either be employed in the business of the company or be invested in such investments (other than shares of the company) as the directors may from time to time think fit; and the directors may also without placing the same to reserve, carry forward any profits which they may think prudent not to distribute.
-
-(2) The company in general meeting may upon the recommendation of the directors resolve that it is desirable to capitalise any part of the amount for the time being standing to the credit of any of the company's reserve accounts or to the credit of the profit and loss account or otherwise available for distribution.
-
-(3) Such sum may be set free for distribution among the members who would have been entitled to dividends in the same proportions on condition that the same be not paid in cash but be applied either on or towards paying up any amounts for the time being unpaid on any shares held by such members respectively or paying up in full unissued shares or debentures of the company to be allotted and distributed to creditors as fully paid up.
-
-(4) The company may decide by a resolution what part is to be distributed in cash or in shares and the directors shall give effect to such resolution.
-
-(5) Share premium account and a capital redemption reserve fund may, for the purposes of this subsection, only be applied in the paying up of unissued shares to be issued to members of the company as fully paid bonus shares.
-
-(6) Where a resolution is under subsections (2) to (5) of this section passed, the directors shall make all appropriations and applications of the undivided profits resolved to be capitalised thereby, and all allotments and issues of fully‐paid shares or debentures, if any, and generally do all acts and things required to give effect to it.
-
-(7) The directors shall have power to make such provision by the issue of fractional certificates or by payment in cash or otherwise as they think fit in the case of shares or debentures becoming distributable in fractions.
-
-(8) Any person may be authorised by the directors to enter on behalf of all the members entitled under this section into an agreement with the company to provide for the allotment to them respectively, credited as fully paid up, of any further shares or debentures to which they may be entitled upon such capitalisation, or (as the case may require) for the payment up by the company on their behalf, of the amounts or any part of the amounts remaining unpaid on their existing shares, and any agreement made under such authority shall be effective and binding on all such members.
+# 383. Disclosure of loans in favour of directors and connected persons
+(1) The group financial statements of a holding company for a year shall comply with Part I of the Third Schedule (so far as applicable) as regards the disclosure of transactions, arrangements and agreements mentioned therein, including loans, quasi loans and other dealings in favour of directors.
+(2) In the case of a company other than a holding company, its individual accounts shall comply with Part I of the Third Schedule (so far as applicable) as regards disclosure matters contained in the Schedule.
+(3) Particulars which are required to be contained in Part I of the Third Schedule in any financial statements are required in respect of shadow directors as well as a director given by way of notes.
+(4) Where by virtue of section 379 (2) or (3), a company does not prepare group financial statements for a year, it shall disclose such matters in its individual statements as would have been disclosed in group financial statements.
+(5) The requirements of this section apply with such modifications as are necessary to bring them in line with Part I of the Third Schedule to this Act, (including with particulars of exceptions in respect of recognised banks it shall disclose).

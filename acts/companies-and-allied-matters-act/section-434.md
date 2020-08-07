@@ -1,19 +1,6 @@
-434. Powers, etc., of committee of inspection
-
-(1) A committee of inspection appointed under this Act shall consist of creditors and contributories of the company or persons holding general powers of attorney from creditors or contributories in such proportions as may be agreed on by the meetings of creditors and contributories or as, in case of difference, may be determined by the court.
-
-(2) A committee of inspection shall meet at the time or times appointed, so however that there shall be a meeting at least once in every month during its existence; but the liquidator or any member of the committee may convene a meeting as and when necessary.
-
-(3) A meeting of a committee of inspection shall be deemed convened if a majority of members are present; but at any such meeting the committee may act by a majority of the members present.
-
-(4) A member of the committee may resign by notice in writing signed by him and delivered to the liquidator.
-
-(5) If a member of the committee becomes bankrupt or compounds or arranges with his creditors or is absent from five consecutive meetings of the committee without leave of those members who together with himself represent the creditors or contributories, as the case may be, his office shall thereupon become vacant.
-
-(6) A member of the committee may be removed by an ordinary resolution at a meeting of creditors, if he represents creditors, or of contributories, if he represents contributories, of which seven days' notice has been given, stating the object of the meeting.
-
-(7) On a vacancy occurring in the committee, the liquidator shall forthwith summon a meeting of creditors or of contributories, as the case may require, to fill the vacancy, and the meeting may, by resolution, reappoint the same or appoint another creditor or contributory to fill the vacancy:
-
-Provided that if the liquidator, having regard to the position in the winding up, is of the opinion that it is unnecessary for the vacancy to be filled he may apply to the court and the court may make an order that the vacancy shall not be filled, or shall not be filled except in such circumstances as may be specified in the order.
-
-(8) The continuing members of the committee, if not less than two, may act notwithstanding any vacancy in the committee.
+# 434. Those who may propose an arrangement
+(1) The directors of a company may make a proposal under this Part to its creditors for a composition in satisfaction of its debts or a scheme of arrangement of its affairs (in this Act referred to in either case, as a "voluntary arrangement").
+(2) A proposal under this Part is one which provides for some person ("the nominee") to act in relation to the voluntary arrangement either as trustee or otherwise for the purpose of supervising its implementation, and the nominee shall be a person who is qualified to act as an insolvency practitioner in relation to the company.
+(3) Such a proposal may be made where—
+(a) an administration order is in force in relation to the company, by the administrator; and
+(b) the company is being wound up, by the liquidator.

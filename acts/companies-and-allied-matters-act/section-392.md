@@ -1,7 +1,3 @@
-392. Notification that a receiver or manager has been appointed
-
-(1) Where a receiver or manager of the property of a company has been appointed, notice shall be given to the Commission within 14 days, indicating the terms of and remuneration for the appointment, and every invoice, order for goods or business letter issued by or on behalf of the company, or the receiver or manager or the liquidator of the company, being a document on or in which the company's name appears, shall contain a statement that a receiver or manager has been appointed.
-
-(2) If default is made in complying with this section, the company and any of the following persons, who knowingly and wilfully authorises or permits the default, namely, any officer of the company, any liquidator of the company and any receiver or manager, shall be guilty of an offence and liable to a fine not exceeding N25 for every day during which the default continues.
-
-Duties, powers and liabilities of receivers and managers
+# 392. Shareholders' right to obtain copies of financial statements
+(1) Any member of a company, whether or not entitled to have copies of the company's financial statements sent to him, and any holder of the company's debentures (whether or not so entitled) is entitled to be furnished on demand and without charge with a copy of the company's last financial statements.
+(2) If, when a person makes a demand for a document with which he is entitled by this section to be furnished, default is made in complying with the demand within seven days after its making, the company and each officer are liable to a penalty as the Commission shall specify in its regulations, unless it is proved that the person has already made a demand for, and been furnished with, a copy of the documents.

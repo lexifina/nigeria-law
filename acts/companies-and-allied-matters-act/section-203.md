@@ -1,7 +1,6 @@
-203. Endorsement of certificate of registration on debentures
-
-(1) The company shall cause a copy of every certificate of registration given under section 198 of this Act to be endorsed on every debenture or certificate of debenture stock which is issued by the company and the payment of which is secured by the charge so registered:
-
-Provided that nothing in this subsection shall be construed as requiring a company to cause a certificate of registration of any charge so given to be enforced on any debenture or certificate of debenture stock issued by the company before the charge was created.
-
-(2) If any person knowingly and wilfully authorises or permits the delivery of any debenture or certificate of debenture stock which under the provisions of this section is required to have endorsed on it a copy of a certificate of registration without the copy being so endorsed upon it, he shall, without prejudice to any other liability, be guilty of an offence and liable to a fine not exceeding N500.
+# 203. Meaning of floating and fixed charges
+(1) A "floating charge" means an equitable charge over the whole or a specified part of the company's undertakings and assets, including cash and uncalled capital of the company both present and future, but so that the charge shall not preclude the company from dealing with such assets until—
+(a) the security becomes enforceable and the holder thereof, pursuant to a power in that behalf in the debenture or the deed securing the same, appoints a receiver or manager or enters into possession of such assets; or
+(b) the Court appoints a receiver or manager of such assets on the application of the holder; or
+(c) the company goes into liquidation.
+(2) On the happening of any of the events mentioned in subsection (1), the charge shall be deemed to crystallise and become a fixed equitable charge on such of the company's assets as are subject to the charge, and if a receiver or manager is withdrawn with the consent of the chargee, or the chargee withdraws from possession before the charge has been fully discharged, the charge shall thereupon be deemed to cease to be a fixed charge and again to become a floating charge.

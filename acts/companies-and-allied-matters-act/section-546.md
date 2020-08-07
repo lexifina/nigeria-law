@@ -1,17 +1,19 @@
-546. Restricted application of Act to unregistered companies
-
-(1) The provisions of this Act specified in column 2 of the Thirteenth Schedule to this Act (which respectively related to all bodies corporate, incorporated in and having a principal place of business in Nigeria, other than those mentioned in subsection (2) of this section as if they were companies registered under this Act, but subject to any limitations mentioned in relation to those provisions respectively in the third column of that Schedule and to such adaptation and modifications (if any) as may be specified by order made by the Minister and published in the Gazette.
-
-[Thirteenth Schedule.]
-
-(2) The provisions of subsection (1) of this section shall not apply by virtue of this section to any of the following, that is to say‐
-
-(a) any body incorporated under any enactment other than this Act;
-
-(b) any body not formed for the purpose of carrying on a business which has for its objects the acquisition of gain by the body or by the individual members thereof; and
-
-(c) any body for the time being exempted by the direction of the President.
-
-(3) This section shall not repeal or revoke in whole or in part any enactment or other instrument constituting or regulating any body in relation to which the said provisions are applied by virtue of this section; but in relation to any such body, the operation of any such enactment or instrument shall be suspended in so far as it is inconsistent with any of the said provisions as they apply for the time being to that body.
-
-Administration
+# 546. Variation of time
+(1) A period specified in sections 483(5), 487 (1)(b), or 488 (2) of this Act may be varied in respect of a company by the administrator with consent.
+(2) In subsection (1), "consent" means consent of—
+(a) each secured creditor of the company; and
+(b) creditors whose debts amount to more than 50% of the company's unsecured debts, if the company has unsecured debts, disregarding debts of any creditor who does not respond to an invitation to give or withhold consent.
+(3) Where the administrator has made a statement under section 486 of this Act—
+"consent" means—
+(a) consent of each secured creditor of the company; or
+(b) if the Administrator thinks that a distribution may be made to preferential creditors, consent of—
+(i) each secured creditor of the company, and
+(ii) preferential creditors whose debts amount to more than 50% of the total preferential debts of the company, disregarding debts of any creditor who does not respond to an invitation to give or withhold consent.
+(4) Consent for the purposes of subsection (1) may be—
+(a) written; or
+(b) signified at a creditors' meeting.
+(5) The power to extend under subsection (1)—
+(a) may be exercised in respect of a period only once;
+(b) shall not be used to extend a period by more than 28 days;
+(c) shall not be used to extend a period which has been extended by the Court; and
+(d) shall not be used to extend a period after expiry.

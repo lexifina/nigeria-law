@@ -1,9 +1,4 @@
-231. Corporation representation at meetings of companies, etc.
-
-(1) A corporation, whether a company within the meaning of this Act or not, may if it is‐
-
-(a) a member of another corporation, being a company within the meaning of this Act, by resolution of its directors or other governing body, authorise such person as it thinks fit to act as its representative at any meeting of the company or at any meeting of any class of members of the company;
-
-(b) a creditor (including a holder of debentures) of another corporation, being a company within the meaning of this Act, by resolution of its directors or other governing body, authorise such person as it thinks fit to act as its representative at any meeting of any creditors of the company held in pursuance of this Act or of any rules made thereunder or in pursuance of the provisions contained in any debenture or trust deed, as the case may be.
-
-(2) A person authorised as provided in subsection (1) of this section, shall be entitled to exercise the same powers on behalf of the corporation which he represents as that corporation might exercise if it were an individual shareholder, creditor or holder of debentures of that other company.
+# 231. Registration of appointment order, etc
+(1) If any person obtains an order for the appointment of a receiver or manager of the property of a company, or appoints such a receiver or manager under any power contained in any instrument, he shall, within seven days from the date of the order or the appointment under the said powers, give notice of the fact to the Commission and the Commission shall, on payment of such fee as may be specified by regulations, enter the fact in the register of charges.
+(2) Where a person appointed receiver or manager of the property of a company under the powers contained in any instrument, ceases to act as such receiver or manager, he shall, on so ceasing, give the Commission notice to that effect, and the Commission shall enter the notice in the register of charges.
+(3) If any person makes default in complying with the requirements of this section, he is liable to such penalty as the Commission shall specify by regulation.

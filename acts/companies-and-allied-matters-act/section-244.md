@@ -1,9 +1,7 @@
-244. Meaning of directors
-
-(1) Directors of a company registered under this Act are persons duly appointed by the company to direct and manage the business of the company.
-
-(2) In favour of any person dealing with the company there shall be a rebuttable presumption that all persons who are described by the company as directors, whether as executive or otherwise, have been duly appointed.
-
-(3) Where a person not duly appointed acts or holds himself out as a director, he shall be guilty of an offence, and on conviction shall be liable to imprisonment for two years or to a fine of N100 for each day he so acts or to a fine of N1000 each day it holds him out, and he and the company may be restrained by any member from so acting unless or until he is duly appointed.
-
-(4) If it is the company that holds him out as a director, it shall be liable to a fine of N1000 each day it holds him out, and he and the company may be restrained by any member from so acting unless or until he is duly appointed.
+# 244. Service of notice
+(1) A notice may be given by the company to any member either personally or by sending it by post to him or to his registered address, or (if he has no registered address within Nigeria) to the address, supplied by him to the company for the giving of notice to him.
+(2) Where a notice is sent by post, service of the notice is deemed to be effected by properly addressing, prepaying, and posting a letter containing the notice, and to have been effected in the case of a notice of a meeting at the expiration of seven days after the letter containing the same is posted, and in any other case at the time at which the letter would be delivered in the ordinary course of post.
+(3) In addition to the notice given personally or by post, notice may also be given by electronic mail to any member who has provided the company an electronic mail address.
+(4) A notice may be given by the company to the joint holders of a share by giving the notice to the joint holder first named in the register of members in respect of the share.
+(5) A notice may be given by the company to the persons entitled to a share in consequence of the death or bankruptcy of a member by sending it through the post in a prepaid letter addressed to them by name, or by the title of representatives of the deceased, or trustee of the bankrupt, or by any like description, at the address, if any, within Nigeria supplied for the purpose by the person claiming to be so entitled, or until such an address has been so supplied by giving the notice in any manner in which the same might have been given if the death or bankruptcy had not occurred.
+(6) In this section, "registered address", means any address whether physical or electronic supplied by a member to the company.

@@ -1,0 +1,7 @@
+# 666. Restriction of rights of creditor as to execution, etc., on winding- up of company
+(1) Where a creditor issues execution against any goods or land of a company, or attaches any debt due to the company, and the company is subsequently wound up, the creditor shall not be entitled to retain the benefit of the execution or attachment against the liquidator in the winding-up of the company, unless he has completed the execution or attachment before the commencement of the winding-up:
+Provided that—
+(a) where any creditor has had notice of a meeting having been called at which a resolution for voluntary winding-up is to be proposed, the date on which the creditor so had notice shall, for the purposes of this subsection, be substituted for the date of the commencement of the winding-up;
+(b) if a person purchases in good faith under a sale by the sheriff any goods of a company on which an execution has been levied, he shall acquire a good title to them against the liquidator; and
+(c) the rights conferred by this subsection on the liquidator may be set aside by the Court in favour of the creditor to such extent and subject to such terms as the court deems fit.
+(2) For the purposes of this section, an execution against goods shall be taken to be completed by seizure and sale, and an attachment of a debt is deemed to be completed by receipt of the debt, and an execution against land is deemed to be completed by seizure and, in the case of an equitable interest, by the appointment of a receiver.

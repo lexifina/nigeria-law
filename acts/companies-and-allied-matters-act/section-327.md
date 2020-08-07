@@ -1,11 +1,9 @@
-327. Provisions applicable to investigation
-
-(1) For the purposes of any investigation under section 326 of this Act, the provisions of sections 316 to
-
-320 of this Act shall apply with the necessary modifications to references to the affairs of the company or those of any body corporate, so however, that‐
-
-(a) the said sections shall apply in relation to all persons who are or have been, or whom the inspector has reasonable cause to believe to be or have been, financially interested in the success or failure or the apparent success or failure of the company or any other body corporate whose membership is investigated with that of the company; or able to control or materially to influence the policy thereof, including persons concerned only on behalf of others, as they apply in relation to officers and agents of the company or of the other body corporate, as the case may be; and
-
-(b) the Commission shall not be bound to furnish the company or any other person with a copy of any report by an inspector appointed under this section or with a complete copy thereof if he is of opinion that there is good reason for not divulging the contents of the reports or of part thereof, but shall keep a copy of any such report, or, as the case may be, the parts of any report, as regards which he is not of that opinion.
-
-(2) The expenses of any investigation under section 326 of this Act shall be defrayed out of the Consolidated Revenue Fund.
+# 327. Disclosure under court order
+(1) The court may make an order for the disclosure of protected information by the company or by the Commission if—
+(a) there is evidence that service of documents at a service address other than the director's usual residential address is not effective to bring them to the notice of the director; or
+(b) it is necessary or expedient for the information to be provided in connection with the enforcement of an order or decree of the Court and the Court is satisfied that it is appropriate to make the order.
+(2) An order for disclosure by the Commission is to be made only if the company—
+(a) does not have the director's usual residential address; or
+(b) has been dissolved.
+(3) The order may be made on the application of a liquidator, creditor or member of the company, or any other person appearing to the court to have a sufficient interest.
+(4) The order shall specify the persons to whom, and purposes for which, disclosure is authorised.

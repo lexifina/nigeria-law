@@ -1,17 +1,13 @@
-213. Annual general meeting
-
-(1) Every company shall in each year hold a general meeting as its annual general meeting in addition to any other meetings in that year, and shall specify the meeting as such in the notices calling it; and not more than 15 months shall elapse between the date of one annual general meeting of a company and that of the next:
-
-Provided that‐
-
-(a) so long as a company holds its first annual general meeting within 18 months of its incorporation it need not hold it in that year or in the following year;
-
-(b) except for the first annual general meeting, the Commission shall have power to extend the time within which any annual general meeting shall be held, by a period not exceeding three months.
-
-(2) If default is made in holding a meeting of a company in accordance with subsection (1) of this section, the Commission, may, on the application of any member of the company call, or direct the calling of, a general meeting of the company and give such ancillary or consequential directions as the Commission thinks expedient, including directions modifying or supplementing, in relation to the calling, holding and conducting of the meeting, the operation of the company's articles; and it is hereby declared that the directions that may be given under this subsection shall include a direction that one member of the company present in person or by proxy may apply to the court for an order to take a decision which shall bind all the members.
-
-(3) A general meeting held in pursuance of subsection (2) of this section shall, subject to any directions of the Commission, be deemed to be an annual general meeting of the company; but, where a meeting so held is not held in the year in which the default in holding the company's annual general meeting occurred, the meeting so held shall not be treated as the annual general meeting for the year in which it is held unless at that meeting the company resolves that it shall be so treated.
-
-(4) Where a company resolves that a meeting shall be treated as its annual general meeting, a copy of the resolution shall, within 15 days after the passing thereof, be filed with the Commission.
-
-(5) If default is made in holding a meeting of the company in accordance with subsection (1) of this section, or in complying with any directions of the Commission under subsection (2) thereof, the company and every officer of the company who is in default, shall be guilty of an offence and be liable to a fine of N500, and if default is made in complying with subsection (4) of this section, the company and every officer of the company who is in default shall be liable to a fine of N25.
+# 213. Liability of trustees for debenture holders
+(1) Subject to the provisions of this section, anything contained in a trust deed for securing an issue of debentures, or in any contract with the holders of debentures secured by a trust deed, is void if it would have the effect of exempting a trustee from or indemnifying him against liability for breach of trust, where he fails to show the degree of care and diligence required of him as trustee, having regard to the provisions of the trust deed conferring on him any power, authorities or discretion.
+(2) Subsection (1) does not invalidate—
+(a) any release validly given in respect of anything done or omitted to be done by a trustee before the giving of the release; or
+(b) any provision enabling such a release to be given—
+(i) on the agreement of a majority of not less than three quarters in value of the debenture holders present and voting in person or, where proxies are permitted, by proxy at a meeting summoned for that purpose, and
+(ii) either with respect to specific acts or omissions or on the trustee dying or ceasing to act.
+(3) Subsection (1) does not operate to—
+(a) invalidate any provision in effect at the commencement of this Act in any such trust deed or contract, provided that any person entitled to the benefit of that provision, or afterwards given the benefit thereof under subsection (4), remains a trustee of the trust deed in question; or
+(b) deprive any person of any exemption or right to be indemnified in respect of anything done or omitted to be done by him, while any such provision was in effect.
+(4) While any trustee of a trust deed remains entitled to the benefit of a provision exempted by subsection (3), the benefit of that provision may be given—
+(a) to all trustees of the deed, present and future; or
+(b) to any named trustee or proposed trustee, by a resolution, passed by a majority of at least three-quarters in value of the debenture holders present in person or, where proxies are permitted by proxy at a meeting summoned for that purpose in accordance with the provisions of the trust deed or, if the trust deed makes no provision for summoning meetings, a meeting summoned for that purpose in any manner approved by the Court.

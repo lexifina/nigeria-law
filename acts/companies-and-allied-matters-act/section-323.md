@@ -1,1 +1,6 @@
-323. Power of the Commission to present winding‐up petition If, in the case of any body corporate liable to be wound up under this Act, it appears to the Commission from a report made by an inspector under section 320 of this Act that it is expedient in the public interest that the body corporate should be wound up, the Commission may (unless the body corporate is already wound up by the court) present a petition for it to be so wound up if the court thinks it just and equitable to do so.
+# 323. Protected information
+(1) This Chapter makes provision for protecting, in the case of a company director who is an individual—
+(a) information as to his usual residential address; and
+(b) the information that his service address is his usual residential address.
+(2) Information in subsection (1) is referred to in this Part as "protected information".
+(3) Information does not cease to be protected information on the individual ceasing to be a director of the company, and references in this Chapter to a director include, to that extent, a former director.

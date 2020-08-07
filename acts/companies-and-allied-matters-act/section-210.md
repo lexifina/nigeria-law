@@ -1,5 +1,7 @@
-210. Application of certain sections Subject to the provisions of this Part of this Act and unless the context otherwise admits, the provisions of sections
-
-146, 147, 151, 153, 156 and 157 of this Act relating to share certificates and transfer of shares shall apply in respect of shares as if "debentures" were substituted for "shares" and "debenture holders" for "shareholders".
-
-PART VIII Meetings and proceedings of companies Statutory meeting
+# 210. Contents of debenture covered by trust deed
+(1) Every debenture covered by a debenture trust deed shall state, either in the body or in a note forming part of the same document or endorsed therein—
+(a) the matters required to be stated in a debenture trust deed by section 209 (1) (a), (b), (f), (h), (i), (j), (l) and (m);
+(b) whether the trustee of the covering debenture trust deed holds the mortgages, charges and securities vested in him by the trust deed in trust for the debenture holders equally, or in trust for some only of the debenture holders, and if so, which debenture holders; and
+(c) whether the debenture is secured by a floating charge vested in the trustee of the covering debenture trust deed or in the debenture holders.
+(2) A debenture issued by a company shall state on its face in legible print, that it is unsecured if no mortgage, charge or security is vested in the holder of the debenture or in any other person for his benefit as security for payment of principal or interest.
+(3) Any director of a company who issues a debenture in violation of the provisions of subsections (1) and (2) is liable to such fines as the Commission shall specify in the regulation.

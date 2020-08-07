@@ -1,0 +1,2 @@
+# 741. Application of fines
+A court imposing a fine under this Act may direct that the whole or any part thereof be applied in or towards payment of the costs of the proceedings, or in or towards rewarding the person on whose information or at whose suit the fine is recovered and subject to the direction, all fines under this Act shall, notwithstanding anything in any other enactment, be paid into the Consolidated Revenue Fund.

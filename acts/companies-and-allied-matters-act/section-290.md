@@ -1,11 +1,3 @@
-290. Personal liability of directors and officers
-
-(1) Where a company‐
-
-(a) receives money by way of loan for specific purpose; or
-
-(b) receives money or other property by way of advance payment for the execution of a contract or project; and
-
-(c) with intent to defraud, fails to apply the money or other property for the purpose for which it was received, every director or other officer of the company who is in default shall be personally liable to the party from whom the money or property was received for a refund of the money or property so received and not applied for the purpose for which it was received:
-
-Provided that nothing in this section shall affect the liability of the company itself.
+# 290. Quorum
+(1) Unless the articles provide otherwise, the quorum necessary for the transaction of the business of directors are two where there are not more than six directors, but where there are more than six directors, the quorum is one-third of the number of directors, and where the number of directors is not a multiple of three, then the quorum is one third to the nearest number.
+(2) Where a committee of directors is appointed by the board of directors, the board shall fix its quorum, but where no quorum is fixed, the whole committee shall meet and act by a majority.

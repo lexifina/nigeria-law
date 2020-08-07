@@ -1,3 +1,5 @@
-250. Liability of a person where not duly appointed Where a person not duly appointed as a director acts as such on behalf of the company, his act shall not bind the company and he shall be personally liable for such action:
-
-Provided that where it is the company which holds him out as director, the company shall be bound by his acts.
+# 250. Voting on a poll
+(1) On a poll taken at a meeting of a company, or a meeting of any class of members of a company, a member entitled to more than one vote, if he votes, need not use all his votes or cast all the votes he uses in the same way.
+(2) Except as provided in subsection (4), if a poll is duly demanded, it shall be taken in such manner as the chairman directs, and the result of the poll is deemed to be the resolution of the meeting at which the poll was demanded.
+(3) In the case of an equality of votes, whether on a show of hands or on a poll, the chairman of the meeting at which the show of hands takes place or at which the poll is demanded, shall be entitled to a second or casting vote.
+(4) A poll demanded on the election of a chairman or on a question of adjournment is taken immediately, and on any other question is taken at such time as the chairman of the meeting directs, and any business other than that upon which a poll has been demanded may be proceeded with pending the taking of the poll.

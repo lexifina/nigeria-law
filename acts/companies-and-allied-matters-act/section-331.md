@@ -1,23 +1,2 @@
-331. Companies to keep accounting records
-
-(1) Every company shall cause accounting records to be kept in accordance with this section.
-
-(2) The accounting records shall be sufficient to show and explain the transactions of the company and shall be such as to‐
-
-(a) disclose with reasonable accuracy, at any time, the financial position of the company; and
-
-(b) enable the directors to ensure that any financial statements prepared under this Part comply with the requirements of this Act as to the form and content of the company's financial statements.
-
-(3) The accounting records shall, in particular, contain‐
-
-(a) entries from day to day of all sums of money received and expended by the company, and the matters in respect of which the receipt and expenditure took place; and
-
-(b) a record of the assets and liabilities of the company.
-
-(4) If the business of the company involves dealing in goods, the accounting records shall contain‐
-
-(a) statements of stocks held by the company at the end of each year of the company;
-
-(b) all statements of stocktakings from which any such statement of stock as is mentioned in paragraph (a) of this subsection has been or is to be prepared; and
-
-(c) except in the case of goods sold by way of ordinary retail trade, statements of all goods sold and purchased, showing the goods and the buyers and sellers in sufficient detail to enable all these to be identified.
+# 331. Avoidance of acts done by a person as director and secretary
+A provision requiring or authorising a thing to be done by or of a director and the secretary is not satisfied by its being done by or of the same person acting both as director and as, or in place of the secretary.

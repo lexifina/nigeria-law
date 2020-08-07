@@ -1,7 +1,2 @@
-349. Shareholders' right to obtain copies of financial statements
-
-(1) Any member of a company, whether or not he is entitled to have sent to him copies of the company's financial statements, and any holder of the company's debentures (whether or not so entitled) shall be entitled to be furnished (on demand and without charge) with a copy of the company's last financial statements.
-
-(2) If, when a person makes a demand for a document with which he is entitled by this section to be furnished, default is made in complying with the demand within seven days after its making, the company and every officer of it who is in default shall be guilty of an offence and liable to a daily default fine of Nl00, unless it is proved that the person has already made a demand for, and been furnished with, a copy of the documents.
-
-Modified financial statements
+# 349. Court's approval to discontinue
+An application made or an action brought or intervened in under section 346 shall not be stayed, discontinued, settled or dismissed for want of prosecution without the approval of the Court given upon such terms as the Court deems fit and, if the Court determines that the rights of any applicant may be substantially affected by such stay, discontinuance, settlement or dismissal, the Court may order any party to the application or action to give notice to the applicant.

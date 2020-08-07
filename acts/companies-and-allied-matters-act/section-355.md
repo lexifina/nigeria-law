@@ -1,21 +1,16 @@
-355. Publication of abridged financial statements
-
-(1) This section shall apply to the publication by a company of abridged financial statements, that is to say, any balance sheet or profit and loss account relating to a year of the company or purporting to deal with any such year, otherwise than as part of full financial statements (individual or group) to which section 354 of this Act applies.
-
-(2) The reference in subsection (1) of this section to a balance sheet or profit and loss account, in relation to financial statements published by a holding company, includes an account in any form purporting to be a balance sheet or profit and loss account for the group consisting of the holding company and its subsidiaries.
-
-(3) If the company publishes abridged financial statements, it shall publish with those statements, a statement indicating‐
-
-(a) that the statements are not full financial statements;
-
-(b) whether full individual or full group financial statements according as the abridged statements deal solely with the company's own affairs or with the affairs of the company and any subsidiaries have been delivered to the Commission or, in the case of an unlimited company exempted under subsection (4) of section 345 of this Act, from the requirement to deliver financial statements, that the company is so exempted;
-
-(c) whether the company's auditors have made a report under section 359 of this Act on the company's financial statements for any year with which the abridged financial statements purport to deal; and
-
-(d) whether any report so made was unqualified (meaning that it was a report, without qualification, to the effect that in the opinion of the person making it, the company's financial statements had been properly prepared).
-
-(4) Where a company publishes abridged financial statements, it shall not publish with those statements any such report of the auditors as is mentioned in subsection (3) (c) of this section.
-
-(5) A company which contravenes any provision of this section and any officers of it who is in default, shall be guilty of an offence and liable to a daily default fine of N100.
-
-Supplementary
+# 355. Powers of the Court to make orders in petitions under sections 353 and 354
+(1) If the Court is satisfied that a petition under sections 353 and 354 is well founded, it may make such order or orders as it deems fit for giving relief in respect of the matter complained of.
+(2) Without prejudice to the generality of subsection (1), the Court may make an order—
+(a) that the company be wound up;
+(b) for regulating the conduct of the affairs of the company in future;
+(c) for the purchase of the shares of any member by other members of the company;
+(d) for the purchase of the shares of any member by the company and for the reduction accordingly of the company's capital;
+(e) directing the company to institute, prosecute, defend or discontinue specific proceedings, or authorising a member or the company to institute, prosecute, defend or discontinue specific proceedings in the name or on behalf of the company;
+(f) varying or setting aside a transaction or contract to which the company is a party and compensating the company or any other party to the transaction or contract;
+(g) directing an investigation to be made by the Commission;
+(h) appointing a receiver or a receiver and manager of property of the company;
+(i) restraining a person from engaging in specific conduct or from doing a specific act or thing; or
+(j) requiring a person to do a specific act or thing.
+(3) Where an order that a company be wound up is made under this section, the provisions of this Act relating to winding-up of companies shall apply, with such modifications as are necessary, as if the order had been made upon an application duly filed in the Court by the company.
+(4) Where an order under this section makes any alteration or addition to the memorandum or articles of a company, notwithstanding anything in any other provision of this Act, but subject to the provisions of the order, the company does not have power, without the leave of the Court, to make any further alteration or addition to the memorandum and articles inconsistent with the provisions of the order but, subject to this subsection, the alteration or addition shall have effect as if it had been made by a resolution of the company.
+(5) A certified true copy of an order made under this section altering or giving leave to alter a company's memorandum or articles shall, within 14 days from the making of the order or such longer period as the Court may allow, be delivered by the company to the Commission for registration, and if the company defaults in so complying, the company and each officer of it are liable to a penalty as the Commission shall specify in its regulations.

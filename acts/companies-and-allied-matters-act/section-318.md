@@ -1,13 +1,12 @@
-318. Power of inspector to call for directors' bank accounts
-
-(1) If an inspector has reasonable grounds for believing that a director, or past director, of the company or other body corporate whose affairs he is investigating maintains or has maintained a bank account of any description (whether alone or jointly with another person and whether in Nigeria or elsewhere), into or out of which there has been paid‐
-
-(a) the emoluments or part of the emoluments of his office as such director, particulars of which have not been disclosed in the financial statements of the company or other body corporate for any financial year, contrary to the provisions of Part V of the Fourth Schedule to this Act (in relation to particular in accounts of directors);
-
-[Fourth Schedule.]
-
-(b) any money which has resulted from or been used in the financing of an undisclosed transaction, arrangement or agreement; or
-
-(c) any money which has been in any way connected with an act or omission or series of acts or omissions, which on the part of that director constituted misconduct (whether fraudulent or not) towards the company or body corporate or its members, the inspector may require the director to produce to him all documents in the director's possession, or under his control, relating to that bank account.
-
-(2) For purposes of subsection (1) (b), of this section, an "undisclosed" transaction, arrangement or agreement is one the particulars of which have not been disclosed in the financial statement of any company or in a statement annexed thereto for any financial year, including the disclosure of contracts between companies and their directors.
+# 318. Register of directors
+(1) Every company shall keep a register of its directors.
+(2) The register shall contain the required particulars of each person who is a director of the company.
+(3) The register shall be kept available for inspection at the company's registered office.
+(4) The company shall give notice to the Registrar—
+(a) of the place at which the register is kept available for inspection, and
+(b) of any change in that place, unless it has at all times been kept at the company's registered office.
+(5) The Register shall be open to the inspection of any—
+(a) member of the company without charge, and
+(b) other person on payment of such fee as may be prescribed.
+(6) If default is made in complying with subsection (1), (2) or (3) or if default is made for 14 days in complying with subsection (4), or if an inspection required under subsection (5) is refused, the company and each officer of the company is each liable to a penalty in such amount as the Commission shall specify in its regulations.
+(7) In the case of a refusal of inspection of the register, the Court may upon application by any person aggrieved, by order compel an immediate inspection of it.

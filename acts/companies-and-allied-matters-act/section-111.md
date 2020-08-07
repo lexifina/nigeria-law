@@ -1,9 +1,6 @@
-111. Penalty for concealing name of creditor, etc.
-
-If an officer of the company‐
-
-(a) wilfully conceals the name of a creditor entitled to object to the reduction of capital; or
-
-(b) wilfully misrepresents the nature or amount of the debt or claim of any creditor; or
-
-(c) aids, abets or is privy to any such concealment or misrepresentation as is mentioned above, he shall be guilty of an offence and liable on conviction to a fine of N500 Miscellaneous matters relating to capital
+# 111. Index of members to be kept
+(1) Every company having more than 50 members shall, unless the register of members is in such a form as to constitute in itself an index, keep an index of the names of the members of the company.
+(2) Where a company makes any alteration in the register of members, the company shall, within 14 days after the date which the alteration is made, make such necessary alterations in the index.
+(3) The index shall, in respect of each member, contain sufficient indication to enable the account of that member in the register to be readily found.
+(4) The index shall, at all times, be kept at the same place as the register of members.
+(5) If default is made in complying with the provisions of this section, the company and every officer of the company are liable to such penalties as the Commission shall specify by regulation.

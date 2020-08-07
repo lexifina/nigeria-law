@@ -1,7 +1,4 @@
-496. Liabilities and rights of certain fraudulently preferred persons
-
-(1) Where anything made or done after the commencement of this Act is void under section 495 of this Act as a fraudulent preference of a person interested in property mortgaged or charged to secure the company's debt, the person preferred shall, without prejudice to any liabilities or rights arising apart from this provision, be subject to the same liabilities, and have the same rights, as if he had undertaken to be personally liable as surety for the debt, to the extent of the charge on the property or have value of his interest, whichever is the less, and the value of the said person's interest shall be determined as at the date of the transaction constituting the fraudulent preference, and shall be determined as if the interest were free of all incumbrances other than those to which the charge for the company's debt was the subject.
-
-(2) Where for the purposes of this section, application is made to the court with respect to any payment on the ground that the payment was fraudulent preference of a surety or guarantor, the court shall have jurisdiction to determine any questions with respect to the payment arising between the person to whom the payment was made and the surety or guarantor, and to grant relief in respect thereof, notwithstanding that it is not necessary so to do for the purposes of the winding up, and for that purpose may give leave to bring in the surety or guarantor as a third party as in the case of an action for the recovery of the sum paid.
-
-(3) Subsection (2) of this section shall apply, with the necessary modifications, in relation to transactions other than the payment of money, as it applies in relation to payments.
+# 496. General powers
+(1) The administrator of a company may do anything necessary or expedient for the management of the affairs, business and property of the company.
+(2) Any provision of this Chapter which expressly permits the administrator to do a specified thing is without prejudice to subsection (1).
+(3) A person who deals with the administrator of a company in good faith and for value need not inquire whether the administrator is acting within his powers.

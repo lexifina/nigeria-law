@@ -1,1 +1,6 @@
-487. Effect of petition for winding up subject to supervision A petition for the continuance of a voluntary winding up subject to the supervision of the court shall, for the purpose of giving jurisdiction to the court over actions, be deemed to be a petition for winding up by the court.
+# 487. Creditors' meeting
+(1) Subject to this Part, the administrator shall summon a meeting of the creditors of the company to be known as "creditors' meeting"—
+(a) in the prescribed manner; and
+(b) giving the prescribed period of notice to every creditor of the company of whose claim and address he is aware.
+(2) A period prescribed under subsection (1) (b) may be varied in accordance with section 546 of this Act.
+(3) A creditors' meeting shall be conducted in accordance with the prescribed rules.

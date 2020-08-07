@@ -1,5 +1,2 @@
-42. Member's right to copies of memorandum, etc.
-
-(1) A company shall, on being so required by any member, send to him a copy of the memorandum and of the articles, if any, and a copy of any enactment which alters the memorandum, subject to payment, in the case of a copy of the memorandum and of the articles, of N20 or such less sum as the company may prescribe and in the case of a copy of an enactment of such sum not exceeding the published price thereof as the company may require.
-
-(2) If a company makes default in complying with this section, the company and every officer of the company who is in default shall be liable for each offence to a fine not exceeding N25.
+# 42. Effect of registration
+As from the date of incorporation mentioned in the certificate of incorporation, the subscriber of the memorandum together with such other persons as may become members of the company, shall be a body corporate by the name contained in the memorandum, capable of exercising all the powers and performing all functions of an incorporated company including the power to hold land, and having perpetual succession, but with such liability on the part of the members to contribute to the assets of the company in the event of its being wound up as is mentioned in this Act.

@@ -1,23 +1,5 @@
-263. Proceedings of directors
-
-(1) The directors may meet together for the despatch of business, adjourn and otherwise regulate their meetings as they think fit:
-
-Provided that the first meeting of the directors shall be held not later than six months after the incorporation of the company.
-
-(2) Any question arising at any meeting shall be decided by a majority of votes, and in case of an equality of votes, the chairman shall have a second or casting vote.
-
-(3) A director may, and the secretary on the requisition of a director shall, at any time summon a meeting of the directors.
-
-(4) The directors may elect a chairman of their meetings and determine the period for which he is to hold office;
-
-but if no such chairman is elected or if at any meeting the chairman is not present within five minutes after the time appointed for holding the same, the directors present may choose one of their number to be chairman of the meeting.
-
-(5) The directors may delegate any of their powers to a managing director or to committees consisting of such member or members of their body as they think fit and the managing director or any committee so formed shall, in the exercise of the powers so delegated, conform to any regulations that may be made by the directors.
-
-(6) A committee may elect a chairman of its meeting; and if no such chairman is elected, or if at any meeting the chairman is not present within five minutes after the time appointed for holding the same, the members present may choose one of their number to be chairman of the meeting.
-
-(7) A committee may meet and adjourn as it thinks proper, and any questions arising shall be determined by a majority of votes of the members present, and in the case of equality of votes the chairman shall have a second or casting vote.
-
-(8) A resolution in writing, signed by all the directors for the time being entitled to receive notice of a meeting of the directors, shall be as valid and effectual as if it had been passed at a meeting of the directors duly convened and held.
-
-(9) In all the directors' meetings, each director shall be entitled to one vote.
+# 263. Effect of resolutions passed at adjourned meetings
+Where a resolution is passed at an adjourned meeting of—
+(a) a company,
+(b) the holders of any class of shares in a company, or
+(c) the directors of a company, the resolution shall, for all purposes be treated as having been passed on the date on which it was in fact passed, and not be deemed to have been passed on any earlier date.

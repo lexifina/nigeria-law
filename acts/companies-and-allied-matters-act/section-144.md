@@ -1,17 +1,2 @@
-144. Construction of class rights In construing the provisions of a company's articles in respect of the rights attached to shares, the following rules of construction shall be observed‐
-
-(a) unless the contrary intention appears, no dividend shall be payable on any shares unless the company shall resolve to declare such dividend;
-
-(b) unless the contrary intention appears, a fixed preferential dividend payable on any class of shares is cumulative, that is to say, no dividend shall be payable on any shares ranking subsequent to them until all the arrears of the fixed dividend have been paid;
-
-(c) unless the contrary intention appears, in a winding up arrears of any cumulative preferential dividend, whether earned or declared or not, are payable up to the date of actual payment in the winding up;
-
-(d) if any class of shares is expressed to have a right to a preferential dividend, then, unless the contrary intention appears, such class has no further right to participate in dividends;
-
-(e) if any class of shares is expressed to have preferential rights to payment out of the assets of the company in the event of winding up, then unless the contrary intention appears, such class has no further right to participate in the distribution of assets in the winding up;
-
-(f) in determining the rights of the various classes to share in the distribution of the company's property on a winding up, no regard shall be paid, unless the contrary intention appears, to whether or not such property represents accumulated profits or surplus which would have been available for dividend while the company remained a going concern;
-
-(g) subject to this section, all shares rank equally in all respects unless the contrary intention appears in the company's articles.
-
-Numbering of shares
+# 144. Issue with rights attached
+Without prejudice to any special rights previously conferred on the holders of existing shares or class of shares, any share in a company may be issued with such preferred, deferred or other special rights or such restrictions, whether with regard to dividend, return of capital or otherwise, as the company may determine by ordinary resolution.

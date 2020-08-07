@@ -1,7 +1,7 @@
-283. Legal position of directors
-
-(1) Directors are trustees of the company's moneys, properties and their powers and as such must account for all the moneys over which they exercise control and shall refund any moneys improperly paid away, and shall exercise their powers honestly in the interest of the company and all the shareholders, and not in their own or sectional interests.
-
-(2) A director may, when acting within his authority and the powers of the company, be regarded as agents of the company under Part III of this Act.
-
-Property transactions by directors
+# 283. Disqualification for directorship
+The following persons shall be disqualified from being director—
+(a) an infant, that is, a person under the age of 18 years;
+(b) a lunatic or person of unsound mind;
+(c) a person suspended or removed under section 288 of this Act;
+(d) a person disqualified under sections 279, 280, 284 of this Act; and
+(e) a corporation other than its representative appointed to the board for a given term.

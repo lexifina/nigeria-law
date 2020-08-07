@@ -1,15 +1,10 @@
-69. Presumptions of regularity Any person having dealings with a company or with someone deriving title under the company, shall be entitled to make the following assumptions and the company and those deriving title under it shall be estopped from denying their truth that‐
-
-(a) the company's memorandum and articles have been duly complied with;
-
-(b) every person described in the particulars filed with the Commission pursuant to sections 35 and 292 of this Act as a director, managing director or secretary of the company, or represented by the company, acting through its members in general meeting, board of directors, or managing director, as an officer or agent of the company, has been duly appointed and has authority to exercise the powers and perform the duties customarily exercised or performed by a director, managing director, or secretary of a company carrying on business of the type carried on by the company or customarily exercised or performed by an officer or agent of the type concerned;
-
-(c) the secretary of the company, and every officer or agent of the company having authority to issue documents or certified copies of documents on behalf of the company, has authority to warrant the genuineness of the documents or the accuracy of the copies so issued;
-
-(d) a document has been duly sealed by the company if it bears what purports to be the seal of the company attested by what purports to be the signatures of two persons who, in accordance with paragraph (b) of this section, can be assumed to be a director and the secretary of the company:
-
-Provided that‐
-
-(i) a person shall not be entitled to make such assumptions as aforesaid, if he had actual knowledge to the contrary or if, having regard to his position with or relationship to the company, he ought to have known the contrary;
-
-(ii) a person shall not be entitled to assume that anyone or more of the directors of the company have been appointed to act as a committee of the board of directors or that an officer or agent of the company has the company's authority merely because the company's articles provided that authority to act in the matter may be delegated to a committee or to an officer or agent.
+# 69. Application for re-registration as an unlimited company
+(1) An application for re-registration as an unlimited company shall contain a statement of the company's proposed name on re-registration.
+(2) The application shall be accompanied by—
+(a) the prescribed form of assent to the company's being re-registered as an unlimited company, authenticated by or on behalf of all the members of the company; and
+(b) a copy of the company's memorandum and articles as proposed to be amended.
+(3) The statement of compliance required to be delivered together with the application is a statement that the requirements of this Part as to re-registration as an unlimited company have been complied with.
+(4) The statement shall contain a statement by the directors of the company—
+(a) that the persons by whom or on whose behalf the form of assent is authenticated constitute the whole membership of the company; and
+(b) if any of the members has not authenticated that form himself, that the directors have taken all reasonable steps to satisfy themselves that each person who authenticated it on behalf of a member was lawfully empowered to do so.
+(5) The Commission may accept the statement of compliance as sufficient evidence that the company is entitled to be re-registered as an unlimited company.

@@ -1,19 +1,17 @@
-481. Powers, etc., of liquidator in every voluntary winding up
-
-(1) The liquidator may‐
-
-(a) in the case of a members' voluntary winding up, with the sanction of special resolution of the company, and, in the case of a creditors' voluntary winding up, with the sanction of the court or, the committee of inspection or if there is no such committee, a meeting of the creditors, exercise any of the powers given by paragraphs (d), (e) and
-
-(f) of section 425 (1) of this Act to a liquidator in a winding up by the court;
-
-(b) without sanction, exercise any of the other powers given by this Act to the liquidator in a winding up by the court;
-
-(c) exercise the power of the court under this Act of settling a list of contributories, and the list of contributories shall be prima facie evidence of the liability of the persons named therein to be contributories;
-
-(d) exercise the court's power of making calls;
-
-(e) summon general meetings of the company for the purpose of obtaining the sanction of the company by special resolution or for any other purpose he may think fit.
-
-(2) The liquidator shall pay the debts of the company and shall adjust the rights of the contributories among themselves.
-
-(3) Where several liquidators are appointed, any power given by this Act may be exercised by such one or more of them as may be determined by any number not less than two.
+# 481. Where administration application or administration order not yet granted
+(1) This section applies where an administration application in respect of a company has been made and the application has—
+(a) not yet been granted or dismissed; or
+(b) been granted but the administration order has not yet taken effect.
+(2) This section also applies when a copy of a notice in the prescribed form, of intention to appoint an administrator under section 464 of this Act is filed with the Court, until—
+(a) the appointment of the administrator takes effect; or
+(b) the period of three business days beginning with the date of filing expires without an administrator having been appointed.
+(3) This section also applies when a copy, in the prescribed form, of notice of intention to appoint an administrator is filed with the court under section 464 (1) of this Act, until—
+(a) the appointment of the administrator takes effect; or
+(b) the period specified in subsection (2) expires without an administrator having been appointed.
+(4) The provisions of sections 475 and 476 of this Act shall apply, without regard to any reference to the consent of the administrator.
+(5) If there is a receiver of the company appointed by the holder of a floating charge when the administration application is made, the provisions of section 480 and this section shall not apply until the person by or on behalf of whom the receiver was appointed consents to the making of the administration order.
+(6) This section does not prevent or require the permission of the Court for the—
+(a) presentation of a petition for the winding-up of the company under section 451 of this Act;
+(b) appointment of an Administrator under section 452 of this Act;
+(c) appointment of a receiver of the company by the holder of a floating charge; or
+(d) performing by such a receiver, whenever appointed, of his functions.

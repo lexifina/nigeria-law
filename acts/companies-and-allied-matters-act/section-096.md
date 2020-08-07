@@ -1,5 +1,3 @@
-96. Person ceasing to be a substantial shareholder to notify company
-
-(1) A person who ceases to be a substantial shareholder in a public company shall give notice in writing to the company stating his name and the date on which he ceased to be a substantial shareholder and giving full particulars of the circumstances by reason of which he ceased to be substantial shareholder.
-
-(2) A person required to give notice under subsection (1) of this section, shall do so within 14 days after he becomes aware that he has ceased to be substantial shareholder.
+# 96. Pre-incorporation contracts
+(1) Any contract or other transaction purporting to be entered into by the company or by any person on behalf of the company prior to its formation may be ratified by the company after its formation and thereupon the company shall become bound by and entitled to the benefit thereof as if it has been in existence at the date of such contract or other transaction and had been a party thereto.
+(2) Prior to ratification by the company, the person who purported to act in the name or on behalf of the company shall, in the absence of express agreement to the contrary, be personally bound by the contract or other transaction and entitled to the benefit thereof.

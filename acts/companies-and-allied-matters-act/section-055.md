@@ -1,3 +1,7 @@
-55. Penalties If any foreign company fails to comply with the requirements of section 54 of this Act in so far as they may apply to the company, the company shall be guilty of an offence and liable on conviction to a fine of not less than N2,500;
-
-and every officer or agent of the company who knowingly and wilfully authorises or permits the default or failure to comply shall, whether or not the company is also convicted of any offence, be liable on conviction to a fine of not less than N250 and where the offence is a continuing one to a further fine of N25 for every day during which the default continues.
+# 55. Alteration of status by re-registration
+A company may by re-registration under this Part alter its status from—
+(a) a private company to a public company;
+(b) a public company to a private company;
+(c) a private limited company to an unlimited company;
+(d) an unlimited company to a limited company; or
+(e) a public limited company to an unlimited company.

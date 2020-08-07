@@ -1,7 +1,2 @@
-206. Registration of appointment order, etc.
-
-(1) If any person obtains an order for the appointment of a receiver or manager of the property of a company, or appoints such a receiver or manager under any powers contained in any instrument, he shall, within seven days from the date of the order or the appointment under the said powers, give notice of the fact to the Commission and the Commission shall, on payment of such fee as may be specified by regulations made under this Act, enter the fact in the register of charges.
-
-(2) Where any person appointed receiver or manager of the property of a company under the powers contained in any instrument, ceases to act as such receiver or manager, he shall, on so ceasing, give the Commission notice to that effect, and the Commission shall enter the notice in the register of charges.
-
-(3) If any person makes default in complying with the requirements of this section, he shall be guilty of an offence and liable to a fine not exceeding N 50 for every day during which the default continues.
+# 206. Advertisement of appointment of receiver and manager
+Where a receiver or manager is appointed by the Court, advertisement to this effect shall be made by the receiver or the receiver and manager in the Federal Government Gazette and in two daily newspapers.

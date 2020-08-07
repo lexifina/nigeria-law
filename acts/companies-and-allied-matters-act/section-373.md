@@ -1,7 +1,4 @@
-373. Annual return by company limited by guarantee
-
-(1) The annual return by a company limited by guarantee shall be in the form prescribed in the Tenth Schedule to this Act or as near to it as circumstances admit.
-
-[Tenth Schedule.]
-
-(2) There shall be annexed to the return a statement containing particulars of the total amount of the indebtedness of the company in respect of all mortgages and charges which are required to be registered with the Commission under this Act.
+# 373. Savings for legal practitioners and bankers
+Nothing in this Part requires disclosure to the Commission or to an inspector appointed by it, by a—
+(a) legal practitioner of any privileged communication made to him in that capacity, except as regards the name and address of his client; or
+(b) company's banker as such, of any information as to the affairs of any of their customers other than the company.

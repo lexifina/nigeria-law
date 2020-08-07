@@ -1,11 +1,19 @@
-75. Official seal for use abroad
-
-(1)A company whose objects require or compromise the transaction of business in foreign countries may, if authorised by its articles, have for use in any territory, district, or place outside Nigeria, an official seal, which shall be a facsimile of the common seal of the company, with the addition on its face of the name of every territory, distract, or place where it is to be used.
-
-(2)A company having such an official seal may, by writing under its common seal, authorize any person appointed for the purpose in any territory, district, or place outside Nigeria, to affix the same to any deed or other document to which the company is party in that territory, district, or place.
-
-(3)The Authority of any such agent shall, as between the company and any person dealing with the agent, continue during the period, if any, mentioned in the instrument conferring the authority, or if no period is there mentioned, then until notice of the revocation or determination of the agent’s authority has been given to the person dealing with him.
-
-(4) The person affixing any such official seal shall, by writing under his hand, on the deed or other document to which the seal is affixed, certify the date on which and place at which it is affixed.
-
-(5) A deed or other document to which an official seal is duly affixed shall bind the company as if it has been sealed with the common seal of the company.
+# 75. Re-registration of public company as unlimited
+(1) A public company limited by shares may be re-registered as an unlimited company with a share capital if—
+(a) all the members of the company have assented to its being so re-registered;
+(b) the condition specified under subsection (2) is met; and
+(c) an application for re-registration is delivered to the registrar in accordance with section 76, together with—
+(i) the other documents required by that section, and
+(ii) a statement of compliance.
+(2) The condition is that the company has not previously been re-registered as —
+(a) limited; or
+(b) unlimited.
+(3) The company shall make such changes—
+(a) in its name; and
+(b) in its memorandum and articles, as are necessary in connection with its becoming an unlimited company.
+(4) For the purposes of this section—
+(a) a trustee in bankruptcy of a member of the company is entitled, to the exclusion of the member, to assent to the company's re-registration; and
+(b) the personal representative of a deceased member of the company may assent on behalf of the deceased.
+(5) In subsection (4) (a), "a trustee in bankruptcy of a member of the company" includes—
+(a) a permanent trustee or an interim trustee on the sequestrated estate of a member of the company; and
+(b) a trustee under a protected trustee deed granted by a member of the company.

@@ -1,11 +1,12 @@
-71. Form of contract
-
-(1) Contracts on behalf of a company may be made, varied or discharged as follows‐
-
-(a) any contract which if made between individuals would be by law required to be in writing under seal, or which would be varied, or discharged only by writing under seal, may be made, varied or discharged, as the case may be, in writing under the common seal of the company;
-
-(b) any contract which if made between individuals would be by law required to be in writing, signed by the parties to be charged therewith, or which could be varied or discharged only by writing or written evidence signed by the parties to be charged, may be made, varied or discharged, as the case may be, in writing signed in the name or on behalf of the company; and
-
-(c) any contract which if made between individuals would be valid although made by parol only and not reduced into writing or which could be varied or discharged by parol, may be made varied or discharged, as the case may be, by parol on behalf of the company.
-
-(2) A contract made according to this section shall be effectual in law, and shall bind the company and its successors and all other parties thereto, their heirs, executors, or administrators, as the case may be; and may be varied or discharged in the same manner in which it is authorised by this section to be made.
+# 71. Re-registration of unlimited company as limited
+(1) An unlimited company may be re-registered as a private limited company if—
+(a) a special resolution that it should be re-registered is passed;
+(b) the condition specified under subsection (2) is met; and
+(c) an application for re-registration is delivered to the Commission in accordance with section 72, together with—
+(i) the other documents required by that section, and
+(ii) a statement of compliance.
+(2) The condition is that the company has not previously been re-registered as unlimited.
+(3) The special resolution shall state whether the company is to be limited by shares or by guarantee.
+(4) The company shall make such changes—
+(a) in its name; and
+(b) in its memorandum and articles, as are necessary in connection with its becoming a company limited by shares or, as the case may be, by guarantee.

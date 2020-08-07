@@ -1,1 +1,5 @@
-136. Meaning of payment in cash Shares shall not be deemed to have been paid for in cash except to the extent that the company shall actually have received cash for them at the time of, or subsequently to, the agreement to issue the shares, and where shares are issued to a person who has sold or agreed to sell property or rendered or agreed to render services to the company or to persons nominated by him, the amount of any payment made for the property or services shall be deducted from the amount of any cash payment made for the shares and only the balance (if any) shall be treated as having been paid in cash for such shares notwithstanding any exchange of cheques or other securities for money.
+# 136. Penalty for concealing name of creditor, etc
+If an officer of the company—
+(a) wilfully conceals the name of a creditor entitled to object to the reduction of capital,
+(b) wilfully misrepresents the nature or amount of the debt or claim of any creditor, or
+(c) aids, abets or is privy to any concealment or misrepresentation, he commits an offence and is liable on conviction to such fines as the Commission shall specify by regulation.

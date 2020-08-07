@@ -1,7 +1,3 @@
-599. Replacement and appointment of additional trustees
-
-(1) Where a body or association intends to replace some or all its trustees or to appoint additional trustees, it may by resolution at a general meeting do so and apply in the prescribed form for the approval of the Commission.
-
-(2) Upon such application the provision of subsections (2) to (4) of section 597 of this Act shall apply to this section as they apply to the change of name or object.
-
-(3) If the Commission assents to the application, it shall signify its assent in writing to the corporation and the appointment shall become valid as from the date of the resolution appointing the trustees.
+# 599. Power to appoint special manager
+(1) Where the official receiver becomes the liquidator of a company, whether provisionally or otherwise, he may, if satisfied that the nature of the estate or business of the company, interests of the creditors or contributories generally, require the appointment of a special manager of the estate or business of the company other than himself, apply to the Court for an order appointing a special manager to act during such time as the Court may direct, with the powers, including those of a receiver or manager, as may be entrusted to him by the Court and the Court may make any order necessary.
+(2) A special manager appointed under this section shall receive remuneration as fixed by the Court and shall give security and account in such manner as the Commission directs.

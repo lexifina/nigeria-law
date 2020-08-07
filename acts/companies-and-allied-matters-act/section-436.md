@@ -1,5 +1,5 @@
-436. Power to appoint special manager
-
-(1) Where the official receiver becomes the liquidator of a company, whether provisionally or otherwise, he may, if satisfied that the nature of the estate or business of the company, or the interests of the creditors or contributories generally, require the appointment of a special manager of the estate or business of the company other than himself, apply to the court for an order appointing a special manager to act during such time as the court may direct, with such powers, including those of a receiver or manager, as may be entrusted to him by the court, and the court may make any order necessary.
-
-(2) A special manager appointed under this section shall receive remuneration as fixed by the court, and shall give security and account in such manner as the Commission directs.
+# 436. Summoning of meetings
+(1) A proposal may also be made where the nominee is —
+(a) not the liquidator or administrator, and it has been reported to the Court that such meetings should be summoned, the person making the report shall (unless the Court otherwise directs) summon those meetings for the time, date and place proposed in the report; and
+(b) the liquidator or administrator, he shall summon meetings of the company and of its creditors to consider the proposal for such a time, date and place as he thinks fit.
+(2) The persons to be summoned to a creditors' meeting under this section are every creditor of the company of whose claim and address the person summoning the meeting is aware.

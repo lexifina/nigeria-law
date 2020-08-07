@@ -1,5 +1,10 @@
-325. Inspectors' report to be used as evidence in legal proceedings
-
-(1) A copy of any report of an inspector appointed under sections 314 and 315 of this Act, certified by the Commission to be a true copy, shall be admissible in any legal proceedings as evidence of the opinion of the inspector in relation to any matter contained in the report.
-
-(2) A document purporting to be such a certificate as is mentioned above shall be received in evidence and be deemed to be such a certificate, unless the contrary is proved.
+# 325. Protected information: restriction on use or disclosure by the Commission
+(1) The Commission shall omit protected information from the material on the register that is available for inspection where—
+(a) it is contained in a document delivered to the director in which such information is required to be stated; and
+(b) in the case of a document having more than one part, it is contained in a part of the document in which such information is required to be stated.
+(2) The Commission is not obliged—
+(a) to check other documents or (as the case may be) other parts of the document to ensure the absence of protected information; or
+(b) to omit from the material that is available for public inspection anything registered before this Chapter comes into effect.
+(3) The Commission shall not use or disclose protected information except—
+(a) as permitted by section 326; or
+(b) in accordance with section 327.

@@ -1,15 +1,6 @@
-553. Certain companies to publish statement in prescribed form
-
-(1) Every banking company or an insurance company or a deposit, provident, or benefit society shall, before it commences business, and also on the first Monday in February and the first Tuesday in August in every year during which it carries on business, submit to the Commission a statement in the form in the Fourteenth Schedule to this Act or as near thereto as circumstances may admit.
-
-[Fourteenth Schedule.]
-
-(2) A copy of the statement shall be put up in a conspicuous place in the registered office of the company, and in every branch office or place where the business of the company is carried on.
-
-(3) Every member and every creditor of the company shall be entitled to a copy of the statement, on payment of a sum not exceeding N1.
-
-(4) If default is made in compliance with this section, the company shall be guilty of an offence and liable to a fine of N100 for every day during which the default continues; and every director and manager of the company who knowingly and wilfully authorises or permits the default shall be liable to the like penalty.
-
-(5) For the purposes of this Act, a company that carries on the business of insurance in common with any other business or businesses shall be deemed to be an insurance company.
-
-Legal proceedings, etc.
+# 553. Receivers and managers appointed out of Court
+(1) A receiver or manager of any property or undertaking of a company appointed out of Court under a power contained in any instrument is, subject to section 554 of this Act, deemed to be an agent of the person or persons on whose behalf he is appointed and, if appointed manager of the whole or any part of the undertaking of a company, he is deemed to stand in a fiduciary relationship to the company and observe the utmost good faith towards it in any transaction with it or on its behalf.
+(2) Such a manager—
+(a) shall act at all times in what he believes to be the best interests of the company as a whole so as to preserve its assets, further its business, and promote the purposes for which it was formed, and in such manner as a faithful, diligent, careful and ordinarily skillful manager would act in the circumstances; and
+(b) in considering whether a particular transaction or course of action is in the best interest of the company as a whole, may have regard to the interests of the employees, as well as the members of the company, and, when appointed by, or as a representative of, a special class of members or creditors may give special, but not exclusive, consideration to the interests of that class.
+(3) Nothing contained in the articles, or in any contract, or in any resolution of a company, shall relieve any manager from the duty to act in accordance with subsection (2) or relieve him from any liability incurred as a result of any breach of such duty.

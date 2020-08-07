@@ -1,39 +1,23 @@
-51. Re‐registration of company limited by shares as unlimited
-
-(1) Subject as follows, a company which is registered as limited by shares may be re‐registered as unlimited in pursuance of an application in that behalf complying with the requirements of this section.
-
-(2) A company shall be precluded from re‐registering under this section if it is limited by virtue of re‐registration under section 52 of this Act.
-
-(3) A public company or a company which has previously been re‐registered as an unlimited company shall not be registered under this section.
-
-(4) An application under this section shall be in the prescribed form and signed by a director and the secretary of the company, and be lodged with the Commission together with the documents specified in subsection (6) of this section.
-
-(5) The application shall set out such alterations in the company's memorandum and articles as are requisite to bring it into conformity with the requirements of this Act with respect to the memorandum and articles of a company to be formed as an unlimited company.
-
-(6) The documents to be lodged with the Commission are as follows‐
-
-(a) the prescribed form of assent to the company being registered as unlimited, subscribed by or on behalf of all the members of the company;
-
-(b) a statutory declaration made by the directors of the company‐
-
-(i) that the persons by whom or on whose behalf the form of assent is subscribed constitute the whole membership of the company; and
-
-(ii) if any of the members have not subscribed that form themselves, that the directors have taken all reasonable steps to satisfy themselves that each person who subscribed to it on behalf of a member was lawfully empowered to do so; and
-
-(c) a printed copy of the memorandum and the articles incorporating the alterations set out in the application.
-
-(7) If the Commission is satisfied that the company be registered under this section as an unlimited company, it shall retain the application and other documents lodged with it under this section and‐
-
-(a) register the application and other documents; and
-
-(b) issue to the company a certificate of incorporation appropriate to the status to be assumed by virtue of this section.
-
-(8) On the issue of the certificate‐
-
-(a) the status of the company, by virtue of the issue, shall be changed from limited to unlimited; and
-
-(b) the alterations in the memorandum set out in the application and any alteration in the articles so set out shall take effect as if duly made by resolution of the company; and
-
-(c) the provisions of this Act shall apply accordingly to the memorandum and articles as altered.
-
-(9) The certificate shall be prima facie evidence that the requirements of this section in respect of the re‐ registration and of matters precedent and incidental to it have been complied with, and that the company was authorised to be re‐registered under this Act in pursuance of this section and was duly so re‐registered.
+# 51. Mode of alteration of business or objects
+(1) Where a company has stated its business or objects in its memorandum, such a company may, at a meeting of which notice in writing has been duly given to all members (whether or not they are entitled to), by special resolution alter the provisions of its memorandum with respect to the business or objects of the company:
+Provided that if an application is made to the Court in accordance with this section for the alteration to be cancelled, it shall not have effect except in so far as it is confirmed by the Court.
+(2) An application under this section may be made to the Court by the holders of not less—
+(a) in the aggregate, than 15% in nominal value of the company's issued share capital or any class thereof or, if the company is not limited by shares, not less than 15% of the company's members; or
+(b) than 15% of the company's debentures entitling the holders to object to alterations of its objects:
+Provided that any such application shall not be made by any person who has consented to or voted in favour of the alteration.
+(3) An application under this section shall be made not later than 28 days after the date on which the resolution altering the company's business or objects was passed, and may be made on behalf of the persons entitled to make the application by such one or more of them as they may appoint in writing for that purpose.
+(4) On an application under this section, the Court may make an order confirming the alteration either wholly or in part and on such terms and conditions as it deems fit, and may adjourn the proceedings in order that an arrangement may be made to the satisfaction of the Court for the purchase of the interest of dissenting members, and the Court may give such directions and make such orders as it considers expedient for facilitating or carrying into effect any such arrangement, but that no part of the capital of the company shall be expended in any case.
+(5) The debentures entitling the holders to object to alterations of a company's business or objects shall be any debenture secured by a floating charge.
+(6) The special resolution altering a company's business or objects requires the same notice to the holders of such debentures as to members of the company, and in default of any provision regulating the giving of notice to any debenture holder, the provisions of the company's articles regulating the giving of notice to members shall apply.
+(7) Where a company passes a resolution altering its business or objects and—
+(a) application is thereafter made to the Court for its confirmation under this section, the company shall forthwith give notice to the Commission of the making of the application, and thereafter there shall be delivered to the Commission within 15 days from the date of its making—
+(i) a certified true copy of the order, in the case of refusal to confirm the resolution, and
+(ii) a certified true copy of the order, in the case of confirmation of the resolution together with a printed copy of the memorandum as altered; and
+(b) no application is made with respect to confirmation to a Court under this section, the company shall, within 15 days from the end of the period for making such an application, deliver to the Commission a copy of the resolution as passed.
+(8) If the Commission—
+(a) is satisfied, a printed copy of the memorandum as altered by the resolution shall forthwith be delivered to it;
+(b) is not satisfied, it shall give notice in writing to the company of its decision and an appeal from its decision shall thereafter lie to the Court at the suit of any person aggrieved and such appeal shall be made within 21 days from the date of the receipt by the company of the notice of rejection, or within such extended time as the Court may allow.
+(9) The Court may at any time extend the time for the delivery of documents to the Commission under subsection (7) (a) for such period as the Court may consider proper.
+(10) If a company defaults in giving notice or delivering any document to the Commission as required by subsection (7), the company and every officer of the company who is in default is liable to such penalty as the Commission shall prescribe by regulation, and for every day during which the default continues.
+(11) The validity of an alteration of the provision of a company's memorandum with respect to the business or objects of the company shall not be questioned on the ground that it was not authorised by subsection (1) except in proceedings taken for the purpose (whether under this section or otherwise) before the expiration of 21 days after the date of the resolution in that behalf, and where such proceedings are taken otherwise than under this section, subsections (6), (7), (8) and (9) of this section shall apply in relation thereto as if they had been taken under this section, and as if any order declaring the alteration invalid were an order cancelling it and as if any order dismissing the proceedings were an order confirming the alteration.
+(12) For the purpose of this section only, any reference to "member" includes any person financially interested in the company within the context of subsection (2) (b).

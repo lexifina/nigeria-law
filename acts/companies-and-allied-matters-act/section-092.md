@@ -1,23 +1,2 @@
-92. Liability of members
-
-(1) Prior to the winding up of a company, a member of the company with shares shall be liable to contribute the balance, if any, of the amount payable in respect of the shares held by him in accordance with the terms of the agreement under which the shares were issued or in accordance with a call validly made by the company pursuant to its articles.
-
-(2) Where any contribution has become due and payable by reason of a call validly made by the company pursuant to the articles or where, under the terms of any agreement with the company, a member has undertaken personal liability to make future payments in respect of shares issued to him, the liability of the member shall continue notwithstanding that the shares held by him are subsequently transferred or forfeited under a provision to that effect in the articles, but his liability shall cease if and when the company shall have received payment in full of all such moneys in respect of the shares.
-
-(3) Subject to subsections (1) and (2) of this section, no member or past member shall be liable to contribute to the assets of the company, except in the event of its being wound up.
-
-(4) In the event of a company being wound up, every present or past member shall be liable to contribute to the assets of the company to an amount sufficient for payment of its debts and liabilities and for the costs, charges and expenses of the winding up and for the adjustment of the rights of the members and past members among themselves, but subject to the following qualifications‐
-
-(a) a past member shall not be liable to contribute if he has ceased to be a member for a period of 1 year or upwards before the commencement of the winding up;
-
-(b) a past member shall not be liable to contribute unless it appears to the court that the existing members are unable to satisfy the contributions required to be made by them in pursuance of this section;
-
-(c) in the case of a company limited by shares, no contribution shall be required from any member or past member exceeding the amount, if any, unpaid on the shares in respect of which he is liable as a present or past member;
-
-(d) in the case of a company limited by guarantee, no contribution shall be required from any member or past member exceeding the amount undertaken to be contributed by him to the assets of the company in the event of its being wound up; and
-
-(e) any sum due from the company to a member or past member, in his capacity as member, by way of dividends or otherwise shall not be set‐off against the amount for which he is liable to contribute in accordance with this section but any such sum shall be taken into account for the purposes of final adjustment of the rights of the members and past members amongst themselves.
-
-(5) For the purposes of this section, the expression "past member" includes the estate of a deceased member and where any person dies after becoming liable as a member or past member, such liability shall be enforceable against his estate.
-
-(6) Except as contained in this section, a member or past member shall not be liable as a member or past member for any of the debts and liabilities of the company.
+# 92. Abolition of constructive notice of registered documents
+Except as mentioned in section 223 of this Act, regarding particulars in the register of particulars of charges, a person is not deemed to have knowledge of the contents of the memorandum and articles of a company or of any other particulars, documents, or the contents of documents merely because such particulars or documents are registered by the Commission or referred to in the particulars or documents so registered, or are available for inspection at an office of the company.

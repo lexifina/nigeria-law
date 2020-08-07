@@ -1,33 +1,20 @@
-209. Remedies available to debenture holders
-
-(1) At any time after a debenture holder or a class of debenture holders becomes entitled to realise his or their security, a receiver of any assets subject to a mortgage, charge or security in favour of the class of debenture holders or the trustee of the covering trust deed, or any other person, may be appointed by‐
-
-(a) that trustee;
-
-(b) the holders of debentures of the same class containing power to appoint; or
-
-(c) debenture holders having more than one‐half of the total amount owing in respect of all the debentures of the same class; or
-
-(d) the court on the application of the trustee.
-
-(2) Subject to any conditions imposed in the debenture or debenture trust deed, a debenture holder, or a trustee in the case of a trust deed, may‐
-
-(a) bring an action in a representative capacity against the company for payment and enforcement of the security;
-
-or
-
-(b) realise his security by‐
-
-(i) bringing a foreclosure action; or
-
-(ii) commencing a winding‐up proceeding.
-
-(3) A receiver appointed under this section shall have, subject to the order made by the court, power to take possession of the assets subject to the mortgage, charge or security and to sell those assets and, if the mortgage, charge or security extends to such property, to collect debts owed to the property, to enforce claims vested in the company, to compromise, settle and enter into arrangements in respect of claims by or against the company, on the company's business with a view to selling it on the most favourable terms, to grant or accept leases of land and licences in respect of patents, designs, copyright or trademarks, and to recover any instalment unpaid on the company's issued shares.
-
-(4) Where a representative action is being brought under paragraph (a) of subsection (2) of this section, the approval of the court shall be obtained where the company is being wound up.
-
-(5) The remedies given by this section shall be in addition to, and not in substitution for, any other powers and remedies conferred on the trustee of the debenture trust deed or on the debenture holders by the debentures or debenture trust deed, and any power or remedy which is expressed in any instrument to be exercisable if the debenture holders become entitled to realise their security, is exercisable on the occurrence of any of the events specified in subsection (1) of section 208 of this Act or in the case of a general charge in subsections (1) and (2) of section 208 of this Act; but a manager of the business or of any of the assets of a company may not be appointed for the benefit of debenture holders unless a receiver has also been appointed and has not ceased to act.
-
-(6) The provisions of sections 387 to 400 of this Act shall apply to receivers and managers under this Part of this Act.
-
-(7) No provision in any instrument which purports to exclude or restrict the remedies given by this section shall be valid.
+# 209. Contents of debenture trust deed
+(1) Every debenture trust deed, whether required by section 208 or not, shall state—
+(a) the maximum sum which the company may raise by issuing debentures of the same class;
+(b) the maximum discount which may be allowed on the issue or re-issue of the debentures, and the maximum premium at which the debentures may be made redeemable;
+(c) the nature of any asset over which a mortgage, charge or security is created by the trust deed in favour of the trustee for the benefit of the debenture holders equally, and except where such a charge is a floating charge, the identity of the assets subject to it;
+(d) the nature of any asset over which a mortgage, charge or security has been or will be created in favour of any person other than the trustee for the benefit of the debenture holders equally, and except where such a charge is a floating charge, the identity of the assets subject to it;
+(e) whether the company has created or will create any mortgage, charge or security for the benefit of some, but not all, of the holders of debentures issued under the trust deed;
+(f) any prohibition or restriction on the power of the company to issue debentures or create mortgages, charges or any security on any of its assets ranking in priority to, or equally with the debentures issued under the trust deed;
+(g) whether the company has power to acquire debentures issued under the trust deed before the date of their redemption and to re-issue the debentures;
+(h) the rate of, and the dates on which, interest on the debentures issued under the trust deed shall be paid and the manner in which payment may be made;
+(i) the date or dates on which the principal or the debentures issued under the trust deed shall be repaid or redeemed, and unless the whole principal is to be repaid to all the debenture holders at the same time, the manner in which redemption is effected, whether by the payment of equal instalments of principal in respect of each debenture, or by the selection of debentures for redemption by the company, or by drawing, ballot, or otherwise;
+(j) in the case of convertible debentures, the dates and terms on which the debentures may be converted into shares and the amounts which may be credited as paid up on those shares in the right of the debentures held by them;
+(k) the circumstances in which the debenture holders are entitled to realise any mortgage, charge or security vested in the trustee or any other person for their benefit (other than the circumstances in which they are entitled to do so by this Act);
+(l) the powers of the company and the trustee to call meetings of the debenture holders and the rights of debenture holders to require the company or the trustee to call such meetings;
+(m) whether the rights of debenture holders may be altered or abrogated and if so, the conditions which shall be fulfilled, and the procedure which shall be followed, to effect such an alteration or abrogation;
+(n) the amount or rate of remuneration to be paid to the trustee and the period for which it is paid, and whether it is paid in priority to the principal, interest and costs in respect of debentures issued under the trust deed; and
+(o) provisions for the replacement of the trustee if required.
+(2) If debentures are issued without a covering debenture trust deed being executed, the statements required by subsection (1) shall be included in each debenture or in a note forming part of the same document or endorsed thereon, and in applying that subsection references to the debenture trust deed shall be construed as references to all or any of the debentures of the same class.
+(3) Subsection (2) shall not apply if the debenture is the only debenture of the class to which it belongs which has been or may be issued, and the rights of the debenture holder may not be altered or abrogated without his consent.
+(4) Any director who issues a debenture in violation of the provisions of this section is liable to such fines as the Commission shall specify in the regulation.

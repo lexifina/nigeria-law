@@ -1,9 +1,12 @@
-363. Auditors' right to attend company's meetings
-
-(1) A company's auditors shall be entitled to attend any general meeting of the company and to receive all notices of and other communications relating to any general meeting which a member of the company is entitled to receive and to be heard at any general meeting which they attend on any part of the business of the meeting which concerns them as auditor.
-
-(2) An auditor of a company who has been removed shall be entitled to attend‐
-
-(a) the general meeting at which his term of office would otherwise have expired; and
-
-(b) any general meeting at which it is proposed to fill the vacancy caused by his removal, and to receive all notices of, and other communications relating to, any such meeting which any member of the company is entitled to receive, and to be heard at any such meeting which he attends on any part of the business of the meeting which concerns him as former auditor of the company.
+# 363. Inspector's report
+(1) The inspector may, and if so directed by the Commission shall, make interim reports to the Commission, and on the conclusion of his investigation shall make a final report to it and any such report shall be written or printed, as the Commission may direct.
+(2) The Commission may direct that a copy of the inspector's report be forwarded to the company at its registered or head office.
+(3) Where an inspector is appointed under section 357 in pursuance of an order of the Court, the Commission shall furnish a copy of any of its reports to the Court.
+(4) In any other case, the Commission may, if it deems fit—
+(a) furnish a copy on request and on payment of the prescribed fee to—
+(i) any member of the company or other body corporate which is the subject of the report,
+(ii) any person whose conduct is referred to in the report,
+(iii) the auditors of that company or body corporate,
+(iv) the applicants for the investigation, and
+(v) any other person whose financial interests appear to the Commission to be affected by the matters dealt with in the report, whether as creditors of the company or body corporate, or otherwise; and
+(b) cause any such report to be printed and published.

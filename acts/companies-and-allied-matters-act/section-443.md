@@ -1,5 +1,7 @@
-443. Power to order payment into companies' liquidation account
-
-(1) The court may order any contributory, purchaser or other person from whom money is due to the company to pay it into the company's liquidation account referred to in section 428 of this Act to the account of the liquidator instead of direct to the liquidator and any such order may be enforced in the same manner as if it had directed payment to the liquidator.
-
-(2) Moneys and securities paid or delivered into the company's liquidation account in the event of a winding up by the court shall be subject in all respects to any relevant order of the court.
+# 443. Appointment of administrator
+(1) A person may be appointed as administrator of a company by—
+(a) an administration order of the Court under section 449 of this Act;
+(b) the holder of a floating charge under section 452 of this Act; or
+(c) the company or its directors under section 459 of this Act.
+(2) Where an administrator is appointed out of Court, if it is an administration that has a cross-border element, an application shall be made ex parte to the Court for approval.
+(3) An extra curia administrator appointed under subsection (1) (b) may, in addition to statutory notice to the Court under section 457, also request, in an accompanying ex parte application to the Court, a formal court order.

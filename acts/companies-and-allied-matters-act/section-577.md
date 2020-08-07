@@ -1,5 +1,4 @@
-577. Registration of changes
-
-(1) Whenever a change is made or occurs in the particulars required by section 657 of this Act to be furnished in respect of any firm, company or individual registered under that section, other than particulars as to the age of an individual, the firm or individual shall within 28 days after such change notify the change to the Registrar at the register office at which the firm, company or individual is registered.
-
-(2) The notice required under subsection (1) of this section shall be in writing signed as provided in section 574 of this Act.
+# 577. Avoidance of attachments
+Where a company is being wound up by the Court, any attachment, sequestration, distress or execution put in force against the estate or effects of the company after the commencement of the winding-up is void:
+Provided the provisions of this section do not apply to a fixed charge or any other validly created and perfected security interest other than a floating charge.
+COMMENCEMENT OF WINDING-UP

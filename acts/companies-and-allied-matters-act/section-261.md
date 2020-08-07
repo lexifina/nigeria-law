@@ -1,17 +1,3 @@
-261. Mode of voting on appointment of directors
-
-(1) At a general meeting of a company other than a private company, a motion for the appointment of two or more persons as directors of the company by a single resolution shall not be made, unless resolution that it shall be so made has first been agreed to by the meeting without any vote being given against it.
-
-(2) A resolution moved in contravention of this section shall be void, whether or not its being so moved was objected to at the time:
-
-Provided that‐
-
-(a) this subsection shall not be taken as excluding the operation of section 260 of this Act; and
-
-(b) where a resolution so moved is passed, no provision for automatic re‐appointment of retiring directors in default of another appointment shall apply.
-
-(3) For the purposes of this section, a motion for approving a person's appointment or for nominating a person for appointment shall be treated as a motion for his appointment.
-
-(4) Nothing in this section shall apply to a resolution altering the company's articles.
-
-Removal of directors
+# 261. Resolutions requiring special notice
+Where by any provision contained in this Act, special notice is required of a resolution, the resolution is not effective unless notice of the intention to move it has been given to the company at least 28 days before the meeting at which it is to be moved, and the company shall give its members notice of any such resolution at the same time and in the same manner as it gives notice of the meeting, or if that is not practicable, shall give them notice thereof, either by advertisement in a newspaper having an appropriate circulation, or in any other mode allowed by the articles, at least 21 days before the meeting:
+Provided that if, after notice of the intention to move such a resolution has been given to the company, a meeting is called for a date 28 days or less after the notice has been given, the notice, though not given within the time required by this section, is deemed to have been properly given.

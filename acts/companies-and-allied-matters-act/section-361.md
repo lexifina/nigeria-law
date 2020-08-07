@@ -1,9 +1,6 @@
-361. Remuneration of auditors
-
-(1) The remuneration of the auditors of a company‐
-
-(a) in the case of an auditor appointed by the directors, may be fixed by the directors; or
-
-(b) shall, subject to the foregoing paragraph, be fixed by the company in general meeting or in such manner as the company in general meeting may determine.
-
-(2) For the purposes of subsection (7) of this section, "remuneration" includes sums paid by the company in respect of the auditors' expenses.
+# 361. Power of inspector to call for directors' bank accounts
+(1) If an inspector has reasonable grounds for believing that a director, or past director, of the company or other body corporate whose affairs he is investigating maintains or has maintained a bank account of any description, whether alone or jointly with another person and whether in Nigeria or elsewhere, into or out of which there has been paid—
+(a) the emoluments or part of the emoluments of his office as such director, particulars of which have not been disclosed in the financial statements of the company or other body corporate for any financial year, contrary to the provisions of Part V of the Second Schedule to this Act (in relation to particular in accounts of directors);
+(b) any money which has resulted from or been used in the financing of an undisclosed transaction, arrangement or agreement; or
+(c) any money which has been in any way connected with an act or omission or series of acts or omissions, which on the part of that director constituted misconduct whether fraudulent or not towards the company or body corporate or its members, the inspector may require the director to produce to him all documents in the director's possession, or under his control, relating to that bank account.
+(2) For purposes of subsection (1) (b) of this section, an "undisclosed" transaction, arrangement or agreement is one the particulars of which have not been disclosed in the financial statement of any company or in a statement annexed thereto for any financial year, including the disclosure of contracts between companies and their directors.

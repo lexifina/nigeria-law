@@ -1,15 +1,8 @@
-453. Delegation to liquidator of certain powers of court
-
-(1) Provision may be made by rules for enabling or requiring all or any of the powers and duties conferred and imposed on the court by this Act, in respect of the matters following, to be exercised or performed by the liquidator as an officer of the court, and subject to the control of the court, that is to say, the powers and duties of the court in respect of‐
-
-(a) the holding and conducting of meetings to ascertain the wishes of creditors and contributories;
-
-(b) the settling of lists of contributories and the rectifying of the register of members where required, and the collecting and applying of the assets;
-
-(c) requiring delivery of property or documents to the liquidator;
-
-(d) the making of calls;
-
-(e) the fixing of a time within which debts and claims shall be proved.
-
-(2) Nothing in this section shall authorise the liquidator, without the special leave of the court, to rectify the register of members, or, without either the special leave of the court or the sanction of the committee of inspection, to make any call.
+# 453. Restrictions on power to appoint
+(1) A person shall not appoint an administrator under section 452 of this Act unless—
+(a) he has given at least two working days' written notice to the holder of any prior floating charge which satisfies section 452 (2) of this Act; or
+(b) the holder of any prior floating charge which satisfies section 452 (2) of this Act has consented in writing to the making of the appointment.
+(2) One floating charge is prior to another for the purposes of subsection
+(1) if it—
+(a) was created first; or
+(b) is to be treated as having priority in accordance with an agreement to which the holder of each floating charge was party.

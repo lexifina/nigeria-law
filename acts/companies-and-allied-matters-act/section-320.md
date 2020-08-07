@@ -1,23 +1,5 @@
-320. Inspector's report
-
-(1) The inspector may, and if so directed by the Commission shall, make interim reports to the Commission, and on the conclusion of his investigation shall make a final report to it and any such report shall be written or printed, as the Commission may direct.
-
-(2) The Commission may direct that a copy of the inspector's report be forwarded to the company at its registered or head office.
-
-(3) Where an inspector is appointed under section 314 of this Act in pursuance of an order of the court, the Commission shall furnish a copy of any of its reports to the court.
-
-(4) In any other case, the Commission may, if it thinks fit‐
-
-(a) furnish a copy on request and on payment of the prescribed fee to‐
-
-(i) any member of the company or other body corporate which is the subject of the report;
-
-(ii) any person whose conduct is referred to in the report;
-
-(iii) the auditors of that company or body corporate;
-
-(iv) the applicants for the investigation;
-
-(v) any other person whose financial interests appear to the Commission to be affected by the matters dealt with in the report, whether as creditors of the company or body corporate, or otherwise; and
-
-(b) cause any such report to be printed and published.
+# 320. Register of directors' residential addresses
+(1) Every company shall keep a register of directors' residential addresses.
+(2) The register shall state the usual residential address of each of the company's directors.
+(3) If a director's usual residential address is the same as the service address (as stated in the company's register of directors), the register of directors' residential addresses need only contain an entry to that effect provided the service address is not the company's registered office.
+(4) If default is made in complying with this section, the company and each officer of the company are each liable to a penalty in such amount as the Commission shall specify in its regulations.

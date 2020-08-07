@@ -1,15 +1,3 @@
-194. Inspection of register of debentures, etc.
-
-(1) Every register of holders of debentures of a company shall, except when duly closed (but subject to such reasonable restrictions as the company may in general meeting impose, so that not less than two hours in each day shall be allowed for inspection), be open to the inspection of the registered holder of any such debentures or any holder of shares in the company without fee, and of any other person on payment of a fee of N1 or such less sum as may be prescribed by the company.
-
-(2) Any such registered holder of debentures as aforesaid or any other person may require a copy of the register of the holders of debentures of the company or any part thereof on payment of 50 kobo for every 100 words required to be copied.
-
-(3) A copy of any trust deed for securing any issue of debentures shall be forwarded to every holder of any such debentures at his request on payment in the case of a printed trust deed, of the sum of N1 or such less sum as may be prescribed by the company, or, where the trust deed has not been printed, on payment of 50 kobo for every
-
-100 words required to be copied.
-
-(4) If inspection is refused, or a copy is refused or not forwarded, the company and every officer of the company who is in default shall be guilty of an offence and liable to a fine not exceeding N50 and in case of a continuing default, to a further fine of N10 for every day during which the default continues.
-
-(5) Where a company is in default as aforesaid, the court convicting may by order compel an immediate inspection of the register or direct that the copies required shall be sent to the person requiring them.
-
-(6) For the purposes of this section, a register shall be deemed to be duly closed in accordance with provisions contained in the articles or in the debentures or, in the case of debenture stock, in the stock certificates, or in the trust deed or other document securing the debentures or debenture stock, during such periods, not exceeding in the whole 30 days in any year, as may be therein specified.
+# 194. Effect of statements in debentures
+(1) Statements made in debenture or debenture stock certificates is prima facie evidence of the title to the debentures of the person named therein as the registered holder and of the amounts secured thereby.
+(2) If any person changes his position to his detriment in reliance in good faith on the continued accuracy of any statement made in the debenture or debenture stock certificate, the company shall be estopped in favour of such person from denying the continued accuracy of such statements and shall compensate such person for any loss suffered by him in reliance thereon, which he would not have suffered had the statement been or continued to be accurate, but nothing in this subsection shall derogate from any right the company may have to be indemnified by any other person.

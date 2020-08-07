@@ -1,13 +1,2 @@
-603. Application of income and property
-
-(1) The income and property of a body or association whose trustee or trustees are incorporated under this Part of this Act shall be applied solely towards the promotion of the objects of the body as set forth in its constitution and no portion thereof shall be paid or transferred directly or indirectly, by way of dividend, bonus, or otherwise by way of profit to any of the members of the association.
-
-(2) Nothing in subsection (1) of this section shall prevent the payment, in good faith, of reasonable and proper remuneration to an officer or servant of the body in return for any service actually rendered to the body or association:
-
-Provided that‐
-
-(a) with the exception of ex‐officio members of the governing council, no member of a council of management or governing body shall be appointed to any salaried office of the body, or any office of the body paid by fees; and
-
-(b) no remuneration or other benefit in money or money's worth shall be given by the body to any member of such councilor governing body, except repayment of out‐of‐pocket expenses or reasonable and proper rent for premises demised, or let to the body or reasonable fee for services rendered.
-
-(3) If any person knowingly acts or joins in acting in contravention of this section, he shall be liable to refund such income or property so misapplied to the association.
+# 603. Delivery of property to liquidator
+The Court may, at any time after making a winding-up order require a contributory for the time being on the list of contributories and any trustee, receiver, banker, agent, or officer of the company to pay, deliver, convey, surrender or transfer immediately, or within such time as the Court directs, to the liquidator, money, property, or books and papers in his hands, to which the company is prima facie entitled.

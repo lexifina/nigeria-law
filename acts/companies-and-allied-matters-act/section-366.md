@@ -1,25 +1,2 @@
-366. Right of resigning auditor to requisition company meeting
-
-(1) Where an auditor's notice of resignation contains a statement under section 365 (2) (b) of this Act, there may be deposited with the notice a requisition signed by the auditor calling on the directors of the company forthwith duly to convene an extraordinary general meeting of the company for the purpose of receiving and considering such explanation of the circumstances connected with his resignation as he may wish to place before the meeting.
-
-(2) Where an auditor's notice of resignation contains such a statement, the auditor may request the company to circulate to its members before‐
-
-(a) the general meeting at which his term of office would otherwise have expired; or
-
-(b) any general meeting at which it is proposed to fill the vacancy caused by his resignation or convened on his requisition, a statement in writing (not exceeding a reasonable length) of the circumstances connected with his resignation.
-
-(3) If a resigning auditor requests the circulation of a statement by virtue of subsection (2) of this section, the company shall (unless the statement is received by it too late for it to comply)‐
-
-(a) in any notice of the meeting given to members of the company, state the fact of the statement having been made; and
-
-(b) send a copy of the statement to every member of the company to whom notice of the meeting is or has been sent.
-
-(4) If the directors do not within 21 days from the date of the deposit of a requisition under this section proceed duly to convene a meeting for a day not more than 28 days after the date on which the notice convening the meeting is given, every director who fails to take all reasonable steps to secure that a meeting is convened as mentioned above shall be guilty of an offence and liable to a fine of N500.
-
-(5) If a copy of the statement mentioned in subsection (2) of this section is not sent out as required by subsection
-
-(3) of this section because it was received too late or because of the company's default, the auditor may (without prejudice to his right to be heard orally) require that the statement shall be read out at the meeting.
-
-(6) Copies of a statement need not be sent out and the statement need not be read out at the meeting if, on the application either of the company or of any other person who claims to be aggrieved, the court is satisfied that the rights conferred by this section are being abused to secure needless publicity for defamatory matter; and the court may order the company's costs on such an application to be paid in whole or in part by the auditor, notwithstanding that he is not a party to the application.
-
-(7) An auditor who has resigned his office shall be entitled to attend any such meeting as is mentioned in subsection (2) (a) or (b) of this section and to receive all notices of and other communications relating to any such meeting which any member of the company is entitled to receive, and to be heard at any such meeting which concerns him as former auditor of the company.
+# 366. Power of the Commission to present winding-up petition
+If, in the case of any body corporate liable to be wound up under this Act, it appears to the Commission from a report made by an inspector under section 363 that it is expedient in the public interest that the body corporate should be wound up, the Commission may (unless the body corporate is already wound up by the Court) present a petition for it to be wound up if the Court considers it just and equitable to do so.

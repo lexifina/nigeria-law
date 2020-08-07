@@ -1,5 +1,2 @@
-575. Entry of business name in the register
-
-(1) On receipt by the Registrar of the statement of particulars required to be furnished under section 574 of this Act, he shall, subject to subsection (2) of this section and to the provisions of any regulations made under this Act, cause to be entered in the register the business name of the individual, company or firm and file the statement.
-
-(2) The Registrar shall add to the business name in the register the identification letters of the State which shall be in brackets at the end of the business name, and these shall form part of the business name.
+# 575. Power to stay or restrain proceedings against company
+Where a winding-up petition has been presented and an action or other proceeding against a company is instituted or pending in any Court (in this section referred to as "the Court concerned"), the company or any creditor or contributory may, before the making of the winding-up order, apply to the Court concerned for an order staying proceedings and the Court concerned may, with or without imposing terms, stay or restrain proceedings, or if it deems fit, refer the case to the Court hearing the winding-up petition.

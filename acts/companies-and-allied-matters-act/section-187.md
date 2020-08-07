@@ -1,19 +1,10 @@
-187. Disqualification for appointment as trustee of debenture trust deed
-
-(1) A person is not qualified for appointment as a trustee of a debenture trust deed if he is‐
-
-(a) an officer or an employee of the company which issues debentures covered by the trust deed or of a company in the same group of companies as the company so issuing debentures;
-
-(b) less than 18 years of age;
-
-(c) of unsound mind and has been so found by a court in Nigeria or elsewhere;
-
-(d) an undischarged bankrupt;
-
-(e) disqualified under section 257 of this Act from being appointed as a director of a company;
-
-(f) a substantial shareholder (as defined in section 95 of this Act) of the company.
-
-(2) If a trustee becomes subject to any of the disqualifications mentioned in subsection (1) of this section after he has been appointed, he shall immediately cease to be qualified to act as a trustee of the debenture trust deed.
-
-(3) Any person who acts as a trustee of a debenture trust deed shall be guilty of an offence, if his appointment is invalid under subsection (1) of this section or if he is disqualified from acting under subsection (2) of this section.
+# 187. Limit on number of shares acquired
+(1) A company shall not hold more than 15% of the nominal value of the issued share capital of any class of its shares as treasury shares.
+(2) Where a company buys back more than 15% of the issued share capital of any class of its shares, the company shall, before the end of 12 months beginning with the date on which that contravention occurs—
+(a) reissue,
+(b) cancel, or
+(c) reissue and cancel such number of shares that will ensure that the company holds not more than 15% of the issued share capital of any class of its shares as treasury shares upon the completion of the transaction.
+(3) Notwithstanding anything contained in section 142, a company shall not exercise any right in respect of the treasury shares (including any right to attend or vote at meetings) and any purported exercise of such a right shall be void.
+(4) No dividend shall be paid, and no other distribution (whether in cash or otherwise) of the company's assets (including any distribution of assets to members on a winding-up) shall be made to the company, in respect of the treasury shares.
+(5) Nothing in this section prevents an allotment of shares as fully paid bonus shares in respect of the treasury shares, or the payment of any amount payable on the redemption of the treasury shares (if they are redeemable shares).
+(6) Shares allotted as fully paid bonus shares in respect of the treasury shares shall be treated as if purchased by the company at the time they were allotted.

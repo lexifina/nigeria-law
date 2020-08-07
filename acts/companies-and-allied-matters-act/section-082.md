@@ -1,3 +1,2 @@
-82. Personation of members If any person falsely and deceitfully personates any member of a company and thereby obtains or endeavours to obtain any benefit due to any such member, he shall be guilty of an offence and be liable on conviction to imprisonment for a term of not more than 7 years or a fine of not more than N2,500.
-
-Register of members
+# 82. Exempted foreign company to have status of unregistered company
+Subject to this Act and save as may be stated in the instrument of exemption, a foreign company exempted pursuant to this Act shall have the status of an unregistered company and accordingly, the provisions of this Act applicable to an unregistered company shall apply in relation to such an exempted company as they apply in relation to an unregistered company under this Act.

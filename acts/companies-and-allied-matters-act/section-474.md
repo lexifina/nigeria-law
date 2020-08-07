@@ -1,7 +1,9 @@
-474. Appointment of committee of inspection
-
-(1) The creditors at the meeting to be held in pursuance of section 472 of this Act or at any subsequent meeting may, if they think fit, appoint a committee of inspection consisting of not more than five persons, and if such a committee is appointed, the company may, either at the meeting at which the resolution for voluntary winding up is passed or at any time subsequently in general meeting, appoint such number of persons as they think fit to act as members of the committee not exceeding five in number:
-
-Provided that the creditors may, if they think fit, resolve that all or any of the persons so appointed by the company shall not be members of the committee of inspection, and if the creditors so resolve, the persons mentioned in the resolution shall not, unless the court otherwise directs, be qualified to act as members of the committee, and on any application to the court under this provision the court may, if it thinks fit, appoint other persons to act as such members in place of the persons mentioned in the resolution.
-
-(2) Subject to the provisions of this section and to general rules made under this Act, the provisions of section 434 of this Act (except subsection (1) of this section), shall apply with respect to a committee of inspection appointed under this section as they apply with respect to a committee of inspection appointed in a winding up by the court.
+# 474. Application where company in liquidation
+(1) This section applies where the holder of a floating charge in respect of a company's property could appoint an administrator under section 452 of this Act but for section 452 (3) (b) of this Act.
+(2) The holder of the floating charge may make an administration application.
+(3) If the Court makes an administration order on hearing an application made by virtue of subsection (2), the Court—
+(a) shall discharge the winding-up order;
+(b) shall make provision for such matters as may be prescribed;
+(c) may make other consequential provision; and
+(d) shall specify which of the powers under this Chapter and Eleventh Schedule are to be exercisable by the administrator.
+(4) This Part shall have effect with such modifications as the Court may direct.

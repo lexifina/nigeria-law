@@ -1,0 +1,2 @@
+# 840. Common seal
+The common seal, if any of the body corporate shall have such device as may be specified in the constitution, and any instrument to which the common seal of the corporate body has been affixed in apparent compliance with the regulations for the use of the common seal shall be binding on the corporate body, notwithstanding any defect or circumstance affecting the execution of such instrument.

@@ -1,9 +1,4 @@
-389. Appointment of receivers and managers by the court
-
-(1) Notwithstanding the provisions of paragraph (d) of subsection (1) of section 209 of this Act, the court may, on the application of a person interested, appoint a receiver or a receiver and manager of the property or undertaking of a company if‐
-
-(a) the principal money borrowed by the company or the interest is in arrears; or
-
-(b) the security or property of the company is in jeopardy.
-
-(2) A receiver or manager of any property or undertaking of a company appointed by the court shall be deemed to be an officer of the court and not of the company and shall act in accordance with the directions and instructions of the court.
+# 389. Penalty for non-compliance with section 388
+(1) If in a year any of the requirements of section 388 (1) or (3) are not complied with by any company, every person who immediately before the end of that period was a director of the company, in respect of each of those subsections which is not so complied with, is liable to a penalty as the Commission shall specify in its regulations.
+(2) If a person is charged with an offence in respect of any of the requirements of section 384 (1) or (3), it is a defence for him to prove that he took all reasonable steps for securing that those requirements be complied with before the end of the period allowed for laying and delivering accounts.
+(3) In proceedings under this section with respect to a requirement to lay a copy of a document before a company in general meeting, or to deliver a copy of a document to the Commission, it is not a defence to prove that the document in question was not in fact prepared as required by this Part of this Act.

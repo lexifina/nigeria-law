@@ -1,11 +1,7 @@
-66. Acts of officers or agents
-
-(1) Except as provided in section 65 of this Act, the acts of any officer or agent of a company shall not be deemed to be acts of the company, unless‐
-
-(a) the company, acting through its members in general meeting, board of directors, or managing director, shall have expressly or impliedly authorised such officer or agent to act in the matter; or
-
-(b) the company, acting as mentioned in paragraph (a) of this subsection, shall have represented the officer or agent as having its authority to act in the matter, in which event the company shall be civilly liable to any person who has entered into the transaction in reliance on such representation unless such person had actual knowledge that the officer or agent had no authority or unless having regard to his position with or relationship to the company, he ought to have known of such absence of authority.
-
-(2) The authority of an officer or agent of the company may be conferred prior to any action by him or by subsequent ratification, and knowledge of such action by the officer or agent and acquiescence therein by all the members of the company or by the directors for the time being, or by the managing director for the time being, shall be equivalent to ratification by the members in general meeting, board of directors, or managing director, as the case may be.
-
-(3) Nothing in this section shall derogate from the vicarious liability of the company for the acts of its servants while acting within the scope of their employment.
+# 66. Application for re-registration as a public limited company
+(1) An application for re-registration as a private limited company shall contain a statement of the company's proposed name on re-registration.
+(2) The application shall be accompanied by a copy of the—
+(a) resolution that the company should re-register as a private limited company; and
+(b) company's memorandum and articles as proposed to be amended.
+(3) The statement of compliance required to be delivered together with the application is a statement that the requirements of this Part as to re-registration as a private limited company have been complied with.
+(4) The commission may accept the statement of compliance as sufficient evidence that the company is entitled to be re-registered as a private limited company.

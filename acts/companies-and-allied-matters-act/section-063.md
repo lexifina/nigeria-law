@@ -1,23 +1,17 @@
-63. Division of powers between general meeting and board of directors
-
-(1) A company shall act through its members in general meeting or its board of directors or through officers or agents, appointed by, or under authority derived from, the members in general meeting or the board of directors.
-
-(2) Subject to the provisions of this Act, the respective powers of the members in general meeting and the board of directors shall be determined by the company's articles.
-
-(3) Except as otherwise provided in the company's articles, the business of the company shall be managed by the board of directors who may exercise all such powers of the company as are not by this Act or the articles required to be exercised by the members in general meeting.
-
-(4) Unless the articles shall otherwise provide, the board of directors, when acting within the powers conferred upon them by this Act or the articles, shall not be bound to obey the directions or instructions of the members in general meeting:
-
-Provided that the directors acted in good faith and with due diligence.
-
-(5) Notwithstanding the provisions of subsection (3) of this section, the members in general meeting may‐
-
-(a) act in any matter if the members of the board of directors are disqualified or are unable to act because of a deadlock on the board or otherwise;
-
-(b) institute legal proceedings in the name and on behalf of the company, if the board of directors refuse or neglect to do so;
-
-(c) ratify or confirm any action taken by the board of directors; or
-
-(d) make recommendations to the board of directors regarding action to be taken by the board.
-
-(6) No alteration of the articles shall invalidate any prior act of the board of directors which would have been valid if that alteration had not been made.
+# 63. Re-registration of public company as private limited company
+(1) A public company may be re-registered as a private limited company if—
+(a) a special resolution that it should be so re-registered is passed;
+(b) the conditions specified under this section are met; and
+(c) an application for re-registration is delivered to the Commission in accordance with section 66, together with—
+(i) the other documents required by that section, and
+(ii) a statement of compliance.
+(2) The conditions are that—
+(a) where no application under section 64 for cancellation of the resolution has been made—
+(i) having regard to the number of members who consented to, or voted in favour of, the resolution, no such application may be made, or
+(ii) the period within which such an application could be made has expired; or
+(b) where such an application has been made—
+(i) the application has been withdrawn, or
+(ii) an order has been made confirming the resolution and a copy of that order has been delivered to the Commission.
+(3) The company shall make such changes—
+(a) in its name; and
+(b) in its memorandum and articles, as are necessary in connection with its becoming a private company limited by shares or, as the case may be, by guarantee.

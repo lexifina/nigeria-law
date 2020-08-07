@@ -1,1 +1,10 @@
-492. Debts of all descriptions may be proved In every winding up (subject, in the case of insolvent companies, to the application in accordance with the provisions of this Act of the law of bankruptcy), all debts payable on a contingency, and all claims against the company, present or future, certain or contingent, ascertained or sounding only in damages, shall be admissible to proof against the company, a just estimate being made, so far as possible, of the value of such debts or claims as may be subject to any contingency or sound only in damages, or for some other reasons do not bear a certain value.
+# 492. Failure to obtain approval of administrator's proposals
+(1) This section applies where an administrator reports to the Court that—
+(a) an initial creditors' meeting has failed to approve the administrator's proposals presented to it; or
+(b) a creditors' meeting has failed to approve a revision of the administrator's proposals presented to it.
+(2) The Court may—
+(a) provide that the appointment of an administrator shall cease to have effect from a specified time;
+(b) adjourn the hearing conditionally or unconditionally;
+(c) make an interim order;
+(d) make an order on a petition for winding-up suspended by virtue of section 462 (b) of this Act; or
+(e) make any other order, including an order making consequential provision, that the Court deems appropriate.

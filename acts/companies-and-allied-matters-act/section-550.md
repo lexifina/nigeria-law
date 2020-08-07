@@ -1,15 +1,11 @@
-550. Form of register, etc.
-
-(1) Any register, record, index, minute book or book of account required by this Act to be made and kept by a company may be made by making entries in bound books or in loose leaves, whether pasted or not, or in a photographic film form, or may be entered or recorded by any information storage device that is capable of reproducing the required information in intelligible written form within a reasonable time, or by recording the matters in question in any other manner in accordance with accepted commercial usage.
-
-(2) Where any such register, record, index, minute book or book of account is not kept by making entries in a bound book, but by some other means, adequate precautions shall be taken for guarding against falsification and for facilitating its discovery and where default is made in complying with the provisions of this subsection, the company and every officer of the company who is in default shall be liable to a fine of N50 and where the offence is a continuing one, shall in addition be liable to a fine of N50 for every day during which the default continues.
-
-(3) Where any such register, index, minute book or accounting record is not kept by making entries in a bound book, but by some other means including electronic means, adequate precautions shall be taken for guarding against falsification and facilitating its discovery.
-
-(4) If default is made in complying with the provisions of subsection (3) of this section, the company and every officer of it who is in default shall be guilty of an offence and liable to a fine of N50 and for continuing contravention, to a daily default fine of N5.
-
-(5) The power conferred on a company by subsection (1) of this section to keep a register, or other record by recording the matters in question otherwise than by making entries in bound books, includes power to keep the register or other record by recording those matters otherwise than in legible form, so long as the recording is capable of being reproduced in a legible form.
-
-(6) Any provisions of an instrument made by a company before 1 October, 1968 which requires a register of holders of the company debentures to be kept in a legible form, shall be read as requiring the register to be kept in a legible or non‐legible form.
-
-(7) If any such register or other record of a company as is mentioned in subsection (2) of this section or a register of holders of a company's debentures, is kept by the company by recording the matters in question otherwise than in a legible form, the duty imposed on the company by this Act to allow inspection of or to furnish a copy of the register or other record or any part of it, shall be treated as a duty to allow inspection of, or to furnish a reproduction of the recording or of the relevant part of it in a legible form.
+# 550. Disqualification for appointment as a receiver or manager
+(1) The following persons shall not be appointed or act as receivers or managers of any property or undertaking of any company —
+(a) an infant;
+(b) any person found by a competent Court to be of unsound mind;
+(c) a body corporate;
+(d) an undischarged bankrupt, unless he is given leave to act as a receiver or manager of the property or undertaking of the company by the Court by which he was adjudged bankrupt;
+(e) a director or auditor of the company; and
+(f) any person convicted of any offence involving fraud, dishonesty, official corruption or moral turpitude or who is disqualified under section 280 of this Act.
+(2) Any appointment made in contravention of the provisions of subsection
+(1) is void and if any of the persons named in paragraphs (c), (d), (e) and (f) acts as a receiver or manager, he commits an offence and is liable to a fine in such amount as the Commission shall specify in its regulations, and in the case of a body corporate or, in the case of an individual, to imprisonment for a term not exceeding six months or a fine as the Court deems fit.
+(3) Where any of the persons mentioned in subsection (1) is at the commencement of this Act acting as a receiver or manager, he may be removed by a Court on an application by a person interested.

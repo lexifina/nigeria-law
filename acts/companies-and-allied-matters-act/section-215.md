@@ -1,19 +1,2 @@
-215. Extraordinary general meeting
-
-(1) The board of directors may convene an extraordinary general meeting whenever they deem fit, and if at any time there are not within Nigeria sufficient directors capable of acting to form a quorum, any director may convene an extraordinary general meeting.
-
-(2) An extraordinary general meeting of a company may be requisitioned by any member or members of the company holding at the date of the requisition not less than one‐tenth of the paid up capital of the company as at the date of the deposit carrying the right of voting, or in the case of a company not having a share capital, members of the company representing not less than one tenth of the total voting rights of all the members having at the said date a right to vote at general meetings of the company, and the directors shall on receipt ofthe requisition forthwith proceed duly to convene an extraordinary general meeting of the company, notwithstanding anything in its articles.
-
-(3) The requisition shall state the objects of the meeting, and be signed by the requisitionists and deposited at the registered office of the company, and the requisition may consist of several documents in like form each signed by one or more requisitionists.
-
-(4) If the directors do not within 21 days from the date of the deposit of the requisition proceed duly to convene a meeting, the requisitionists, or anyone or more of them representing more than one half of the total voting rights of all of them, may themselves convene a meeting:
-
-Provided that any meeting so convened shall not be held after the expiration of three months from that date.
-
-(5) A meeting convened under this section by a requisitionist or requisitionists shall be convened in the same manner, as nearly as possible, as that in which meetings are to be convened by directors.
-
-(6) Any reasonable expenses incurred by the requisitionist or requisitionists by reason of the failure of the directors duly to convene a meeting, shall be repaid to the requisitionists by the company,
-
-(7) For the purpose of this section the directors shall, in the case of a meeting at which a resolution is to be proposed as a special resolution, be deemed not to have duly convened the meeting if they do not give such notice as is required by section 217 of this Act.
-
-(8) All businesses transacted at an extraordinary general meeting shall be deemed special.
+# 215. Company to keep copies of instruments creating charges
+Every company shall cause a copy of every instrument creating any charge requiring registration under this Part to be kept at the registered office of the company, but, in the case of a series of uniform debentures, a copy of one debenture of the series is sufficient.

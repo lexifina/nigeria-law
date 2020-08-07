@@ -1,0 +1,3 @@
+# 782. Power to bring civil proceedings on limited liability partnership's behalf
+(1) If, from any report made under section 781 of this Act, it appears to the Commission that any civil proceedings ought in the public interest to be brought by the limited liability partnership or anybody corporate, the Commission may itself bring such proceedings in the name and on behalf of the limited liability partnership or the body corporate.
+(2) The Commission shall indemnify the body corporate against any cost or expenses incurred by it or in connection with proceedings brought under this section, and any cost or expenses so incurred shall, if not otherwise recoverable, be defrayed out of the Consolidated Revenue Fund.

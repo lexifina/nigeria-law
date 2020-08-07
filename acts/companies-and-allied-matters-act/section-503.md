@@ -1,1 +1,2 @@
-503. Falsification of books If any officer or contributory of any company being wound up destroys, mutilates, alters or falsifies any books, papers or securities, or makes or is privy to the making of any false or fraudulent entry in any register, book of account or document belonging to the company with intent to defraud or deceive any person, he shall be guilty of an offence and liable on conviction to imprisonment for a term of two years or a fine of N2,500.
+# 503. Payments likely to achieve purpose of administration
+The administrator may make a payment other than in accordance with section 497 or paragraph 13 of the Eleventh Schedule to this Act if he thinks it likely to assist achievement of the purpose of administration.

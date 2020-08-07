@@ -1,23 +1,12 @@
-262. Removal of directors
-
-(1) A company may by ordinary resolution remove a director before the expiration of his period of office, notwithstanding anything in its articles or in any agreement between it and him.
-
-(2) A special notice shall be required of any resolution to remove a director under this section, or to appoint some other person instead of a director so removed, at the meeting at which he is removed, and on receipt of notice of an intended resolution to remove a director under this section, the company shall forthwith send a copy of it to the director concerned, and the director (whether or not he is a member of the company) shall be entitled to be heard on the resolution at the meeting.
-
-(3) Where notice is given of an intended resolution to remove a director under this section and the director concerned makes with respect to it representations in writing to the company (not exceeding a reasonable length) and requests their notification to members of the company, the company shall, unless the representations are received by it too late for it to do so‐
-
-(a) in any notice of the resolution given to members of the company state the fact of the representations having been made; and
-
-(b) send a copy of the representations to every member of the company to whom notice of the meeting is sent (whether before or after receipt of the representations by the company);
-
-and if a copy of the representations is not sent as required in this section because it is received too late or because of the company's default, the director may (without prejudice to his right to be heard orally) require that the representations shall be read out at the meeting:
-
-Provided that copies of the representations need not be sent out and the representations need not be read out at the meeting if, on the application either of the company or any other person who claims to be aggrieved, the court is satisfied that the rights conferred by this section are being abused to secure needless publicity for defamatory matter and the court may order the company's costs on an application under this section to be paid in whole or in part by the director, notwithstanding that he is not a party to the application.
-
-(4) A vacancy created by the removal of a director under this section, if not filled at the meeting at which he is removed, may be filled as a casual vacancy.
-
-(5) A person appointed director in place of a person removed under this section shall be treated, for the purpose of determining the time at which he or any other director is to retire, as if he had become director on the day on which the person in whose place he is appointed was last appointed a director.
-
-(6) Nothing in this section shall be taken as depriving a person removed under it of compensation or damages payable to him in respect of the termination of his appointment as a director or of any appointment terminating with that as director, or as derogating from any power to remove a director which may exist apart from this section.
-
-Proceedings of directors
+# 262. Registration and copies of certain resolutions
+(1) Subject to section 51 (7) (b) of this Act, a printed copy of every resolution or agreement to which this section applies shall, within 15 days after the passing or making of the resolution or agreement, be forwarded to the Commission.
+(2) Where, pursuant to the provisions of sections 49-52 of this Act, a company by special resolution alters the provisions of its memorandum and the Commission is satisfied that the alteration is not in compliance with the applicable provisions of those sections, it may refuse to file a copy of the resolution in its records and shall notify the company, and any person aggrieved by the refusal may appeal to the court within 21 days from the receipt of the notification.
+(3) A copy of every such resolution or agreement shall be embodied in or annexed to every copy of the articles issued after the passing of the resolution or making of the agreement.
+(4) This section applies to—
+(a) special resolutions;
+(b) resolutions which have been agreed to by all the members of a company, but which, if not so agreed to, would not have been effective, unless they had been passed as special resolution;
+(c) resolutions or agreements which have been agreed to by all the members of any class of shareholders but which, if not so agreed to, would not have been effective, unless they had been passed by some particular majority or in some particular manner, and all resolutions or agreements which effectively bind all the members of any class of shareholders though not agreed to by all those members; and
+(d) resolutions requiring a company to be wound up voluntarily, passed under section 620 (1) (a) of this Act.
+(5) If a company fails to comply with subsection (1), the company and each officer of the company are liable to a penalty in such amount as the Commission shall specify in its regulations.
+(6) If a company fails to comply with subsection (3), the company and each officer of the company are liable to a penalty for each copy in respect of which default is made in such amount as the Commission shall specify in its regulations.
+(7) For the purposes of subsections (5) and (6), a liquidator is deemed to be an officer of the company.

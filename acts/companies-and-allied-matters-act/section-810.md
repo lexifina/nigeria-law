@@ -1,0 +1,2 @@
+# 810. Liability for false statement
+If any statement required to be furnished under this Part of this Act contains any matter which is false to the knowledge of any person signing it, such person commits an offence and is liable on conviction to imprisonment for a term of not more than one year or a fine as the Court deems fit and in addition, he shall be liable to pay such additional fines as the Commission may specify by regulation.

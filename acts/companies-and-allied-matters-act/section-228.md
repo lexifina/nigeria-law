@@ -1,1 +1,4 @@
-228. Attendance at meetings Every person who is entitled to receive notice of a general meeting of the company as provided by section 227 of this Act shall be entitled to attend such a meeting.
+# 228. Endorsement of certificate of registration on debentures
+(1) The company shall cause a copy of every certificate of registration given under section 223 to be endorsed on every debenture or certificate of debenture stock which is issued by the company and the payment of which is secured by the charge so registered:
+Provided that nothing in this subsection shall be construed as requiring a company to cause a certificate of registration of any charge given to be endorsed on any debenture or certificate of debenture stock issued by the company before the charge was created.
+(2) If any person authorises or permits the delivery of any debenture or certificate of debenture stock which under the provisions of this section is required to have endorsed on it a copy of a certificate of registration without the copy being so endorsed upon it, he is, without prejudice to any other liability, liable to such penalty as may be prescribed by the Commission.

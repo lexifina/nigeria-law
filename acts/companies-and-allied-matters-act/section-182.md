@@ -1,13 +1,11 @@
-182. Preferential payment to debenture holders in certain cases
-
-(1) Where a receiver is appointed on behalf of the holders of any debentures of a registered company secured by a floating charge, or possession is taken by, or on behalf of those debenture holders of any property comprising or subject to the charge, then if the company is not at the time in course of being wound up, the debts which in every winding up are under the provisions relating to preferential payments in Part XV of this Act to be paid in priority to all other debts, shall be paid out of any assets coming to the hands of the receiver or other person taking possession as aforesaid in priority to any claim for principal or interest in respect of the debentures.
-
-(2) In the application of the provisions relating to preferential payments‐
-
-(a) section 494 of this Act shall be construed as if the provision for payment of accrued holiday remuneration becoming payable on the termination of employment before or by the effect of the winding‐up order or resolution, were a provision for payment of such remuneration becoming payable on the termination of employment before or by the effect of appointment of the receiver or possession being taken as aforesaid; and
-
-(b) the periods of time mentioned therein shall be reckoned from the date of the appointment of the receiver or of possession being taken as aforesaid, as the case may be, and if such date occurred before the commencement of this Act, the provisions relating to preferential payments which would have applied but for this Act, shall be deemed to remain in full force.
-
-(3) Any payments made under this section, shall be recouped as far as may be out of the assets of the company available for payment of general creditors.
-
-Debenture trust deed
+# 182. Redemption of redeemable preference shares
+(1) The provisions of this section apply with respect to the redemption by a company of any redeemable preference share issued by it under section 147.
+(2) The shares are not redeemed unless they are fully paid, and redemption shall be made only out of—
+(a) profits of the company which would otherwise be available for dividend; or
+(b) the proceeds of a fresh issue of shares made for the purposes of the redemption.
+(3) Before the shares are redeemed, the premium, if any, payable on redemption, shall be provided for out of the profits of the company or out of the company's share premium account.
+(4) Where shares are redeemed otherwise than out of the proceeds of a fresh issue, there shall, out of profits which would otherwise have been available for dividend, be transferred to a reserve fund, to be called "the capital redemption reserve account", a sum equal to the nominal amount of the shares redeemed, and the provisions of this Act relating to the reduction of the share capital of a company shall, except as provided in this section, apply as if the capital redemption reserve fund were paid-up share capital of the company.
+(5) Subject to the provisions of this section, the redemption of preference shares may be effected on such terms and in such manner as are provided by the articles of the company or in the terms of issue of the relevant preference shares.
+(6) The redemption of preference shares under this section by a company shall not be taken as reducing the amount of the company's share capital.
+(7) The capital redemption reserve fund may, notwithstanding anything in this section, be applied by the company in paying up unissued shares of the company to be issued to members of the company as fully paid bonus shares.
+(8) Any redeemable share issued by a company is regarded as a preference share and the provisions of this Act with respect to preference shares shall apply to all redeemable shares.

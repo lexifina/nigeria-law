@@ -1,7 +1,5 @@
-269. Prohibition of tax‐free payments to directors
-
-(1) It shall not be lawful for a company to pay a director remuneration (whether as director or otherwise) free of income tax, or otherwise calculated by reference to or varying with the amount of his income tax, or at or with the rate or standard rate of income tax, except under a contract which was in force at the commencement of this Act, and provides expressly, and not by reference to the articles, for payment or remuneration as aforesaid.
-
-(2) Any provision contained in a company's articles or in any contract other than such a contract as mentioned in subsection (1) of this section, or in any resolution of a company or the resolution of a company's directors for payment to a director of remuneration as mentioned in subsection (1) of this section, shall have effect as if it provided for payment, as a gross sum subject to income tax, of the net sum for which it actually provides.
-
-(3) This section shall not apply to remuneration due before this Act comes into force or in respect of a period before it comes into force.
+# 269. Meaning of Directors
+(1) A Director of a company registered under this Act is a person duly appointed by the company to direct and manage the business of the company.
+(2) There is a rebuttable presumption in favour of any person dealing with the company that all persons who are described by the company as directors, whether as executive or otherwise, is duly appointed.
+(3) Where a person not duly appointed acts or holds himself out as a director, he commits an offence and is liable on conviction to imprisonment for a term of two years or a fine as the Court deems fit for each day he so acts or holds out himself as a director or both and shall be restrained by the company.
+(4) If it is the company that holds him out as a director, it is liable to a fine in such amount as the Commission shall specify in its regulations for each day it holds him out, and he and the company may be restrained by any member from so acting until he is duly appointed.

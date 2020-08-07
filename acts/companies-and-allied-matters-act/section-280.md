@@ -1,17 +1,12 @@
-280. Conflicts of duties and interests
-
-(1) The personal interest of a director shall not conflict with any of his duties as a director under this Act.
-
-(2) A director shall not‐
-
-(a) in the course of management of affairs of the company; or
-
-(b) in the utilisation of the company's property, make any secret profit or achieve other unnecessary benefits.
-
-(3) A director shall be accountable to the company for any secret profit made by him or any unnecessary benefit derived by him contrary to the provisions of subsection (2) of this section.
-
-(4) The inability or unwillingness of the company to perform any functions or duties under its articles and memorandum shall not constitute a defence to any breach of duty of a director under this Act.
-
-(5) The duty not to misuse corporate information shall not cease by a director or an officer having resigned from the company, and he shall still be accountable and can be restrained by an injunction from misusing the information received by virtue of his previous position.
-
-(6) Where a director discloses his interests before the transaction and before the secret profits are made before the general meeting, which may or may not authorise any resulting profits, he may escape liability, but he shall not escape liability if he discloses only after he has made the secret profits, and in this case, he shall account for the profits.
+# 280. Restraint of fraudulent persons
+(1) Where—
+(a) a person is convicted by a High Court of any offence in connection with the promotion, formation or management of a company, or
+(b) in the course of winding-up a company, it appears that a person—
+(i) has been guilty of any offence for which he is liable (whether he has been convicted or not) under sections 668-670 of this Act, or
+(ii) has been guilty of any offence involving fraud, the court shall make an order that that person shall not be a director of or in any way, whether directly or indirectly, be concerned or take part in the management of a company for a specified period not exceeding 10 years.
+(2) The period of disqualification referred to in subsection (1) shall commence after the sentence for the offence has been served or on the date the fine for the offence is paid.
+(3) In this section, the "High Court and the court", where used in relation to the making of an order against any person by virtue of subsection (1) (a), includes the court before which he is convicted, as well as any court having jurisdiction to wind up the company, and in relation to the granting of leave means any court having jurisdiction to wind up the company as respects which leave is sought.
+(4) A person intending to apply for the making of an order under this section by the court having jurisdiction to wind-up a company shall give at least 10 days' notice of his intention to the person against whom the order is sought, and on the hearing of the application, the last mentioned person may appear in person and give evidence or call witnesses.
+(5) An application for the making of an order under this section by the court having jurisdiction to wind-up a company, may be made by the official receiver, the liquidator of the company or person who is or has been a member or creditor of the company, and on the hearing of any application for an order under this section by the official receiver or the liquidator, or of any application for leave under this section by a person against whom an order has been made on the application of the official receiver or liquidator, the official receiver or liquidator shall appear and call the attention of the court to any matter which seem to him to be relevant, and may himself give evidence or call witnesses.
+(6) An order may be made by virtue of subsection (1) (b) (ii), notwithstanding that the person concerned may be criminally liable in respect of the matters on the ground of which the order is to be made, and for the purposes of the said paragraph (b) (ii), "officer" includes any person in accordance with whose directions or instructions the directors of the company have been accustomed to act.
+(7) If any person acts in contravention of an order made under this section, he commits an offence and in respect of each offence, is liable on conviction to a fine as the Court deems fit or to imprisonment for a term of at least six months or more than two years, or both.

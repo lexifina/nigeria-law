@@ -1,29 +1,5 @@
-365. Resignation of auditors
-
-(1) An auditor of a company may resign his office by depositing a notice in writing to that effect at the company's registered office; and any such notice shall operate to bring his term of office to an end on the date of which the notice is deposited, or on such later date as may be specified in it.
-
-(2) An auditor's notice of resignation shall not be effective unless it contains either‐
-
-(a) a statement to the effect that there are no circumstances connected with his resignation which he considers should be brought to the notice of the members or creditors of the company; or
-
-(b) a statement of any such circumstances as are mentioned above.
-
-(3) Where a notice under this section is deposited at a company's registered office, the company shall within 14 days send a copy of the notice‐
-
-(a) to the Commission; and
-
-(b) if the notice contained a statement under subsection (2) (b) of this section, to every person who under section
-
-344 of this Act is entitled to be sent copies of the financial statements.
-
-(4) The company or any person claiming to be aggrieved may, within 14 days of the receipt by the company of a notice containing a statement under subsection (2) (b) of this section, apply to the court for an order under subsection (5) of this section.
-
-(5) If on such an application the court is satisfied that the auditor is using the notice to secure needless publicity for defamatory matter, it may, by order, direct that copies of the notice need not be sent out; and the court may further order the company's costs on the application to be paid in whole or in part by the auditor, notwithstanding that he is not a party to the application.
-
-(6) The company shall, within 14 days of the court's decision, send to the persons mentioned in subsection (3) of this section‐
-
-(a) if the court makes an order under subsection (5) of this section, a statement setting out the effect of the order;
-
-(b) if not, a copy of the notice containing the statement under subsection (2) (b) of this section.
-
-(7) If default is made in complying with the provisions of subsection (3) or (6) of this section, the company and every officer of it who is in default shall be guilty of an offence and liable to a daily default fine of N100.
+# 365. Criminal proceedings and other proceedings by the Attorney-General of the Federation
+(1) If, from any report made under section 363, it appears that any person has, in relation to the company or anybody corporate whose affairs have been investigated by virtue of section 359, been guilty of any offence for which he is criminally liable, the report shall be referred to the Attorney-General of the Federation.
+(2) If the Attorney-General of the Federation considers that the case referred to him is one in which a prosecution ought to be instituted, he shall direct action accordingly, and it is the duty of all past and present officers and agents of the company or other body corporate, (other than the defendant in the proceedings), to give all assistance in connection with the prosecution which they are reasonably able to give.
+(3) If, from any report made under section 363, it appears to the Commission that proceedings ought, in the public interest, to be brought by any body corporate dealt with by the report for the recovery of damages in respect of any fraud, misfeasance or other misconduct in connection with the promotion or formation of that body corporate or the management of its affairs, or for the recovery of any property of the body corporate which has been misapplied or wrongfully retained, it may refer the case to the Attorney-General of the Federation for his opinion as to the bringing of proceedings for that purpose in the name of the body corporate and if proceedings are brought, it shall be the duty of all past and present officers and agents of the company or other body corporate (other than the defendants in proceedings), to give him all assistance in connection with the proceedings which they are reasonably able to give.
+(4) Costs and expenses incurred by a body corporate in or in connection with any proceedings brought by it under subsection (3) shall, if not otherwise recoverable, be defrayed out of the Consolidated Revenue Fund.

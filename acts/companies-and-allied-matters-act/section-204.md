@@ -1,5 +1,3 @@
-204. Entries of satisfaction of charges If the Commission is satisfied with respect to any registered charge that‐
-
-(a) the debt for which the charge was given has been paid or satisfied in whole or in part; or
-
-(b) part of the property or undertaking charged has been released from the charge or has ceased to form part of the company's property or undertaking, it may enter on the register a memorandum of satisfaction to the extent necessary to give effect thereto and, where it enters a memorandum of satisfaction it shall, if required, furnish the company with a copy of the entry, and any such entry shall have effect, subject to the requirement of any other enactment as to registration.
+# 204. Priority of fixed over floating charge
+A fixed charge on any property shall have priority over a floating charge affecting that property, unless the terms on which the floating charge was granted prohibits the company from granting any later charge having priority over the floating charge and the person in whose favour such later charge was granted had notice of that prohibition at the time when the charge was granted to him:
+Provided that a person is deemed to have notice of such prohibition in a floating charge where a notice indicating the existence of such prohibition is registered with the Commission.

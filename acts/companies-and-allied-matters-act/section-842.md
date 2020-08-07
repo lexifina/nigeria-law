@@ -1,0 +1,13 @@
+# 842. Accounts of d i s s o l v e d incorporated trustees
+(1) Where a bank holds one or more accounts in the name of or on behalf of the incorporated trustees of a particular association, and the account, or, if it holds two or more accounts, and each of the accounts is dormant (as defined under the relevant banking regulation), the bank shall without delay notify the Commission of these facts.
+(2) Where the Commission receives a notice under subsection (1), the Commission may request that the association provide evidence of its activities, and where the association fails to respond satisfactorily within 15 days of the request, the Commission may dissolve the association in accordance with section 850, and where an association is so dissolved, the Commission may give a direction to the bank concerned to transfer—
+(a) the amount, or, as the case may be, the aggregate amount, standing to the credit of the relevant association in the account or accounts in question to such other association as is specified in the direction in accordance with subsection (3) of this section to the bank; or
+(b) to each of two or more other associations so specified in the direction, such part of that amount or aggregate amount as is there specified in relation to that association.
+(3) The provisions of subsection (2) shall also apply where the Commission is unable, after making reasonable inquiries, to locate an association registered under this Act or any of its trustees.
+(4) The Commission may specify in a direction under subsection (2) such other association or charity as it considers appropriate, having regard to the purposes of that association or charity:
+Provided that before any association may be so specified by the Commission, the trustees of such an association shall, by a written memorandum to the Commission, indicate its willingness to accept such amount to be transferred to it.
+(5) Any amount received by an association by virtue of this section is to be received by the association on terms that—
+(a) it is to be held and applied by the association for the purposes of the association;
+(b) as property of the association, it is nevertheless subject to any restrictions on expenditure to which it was subject as property of the relevant association; and
+(c) the receipt of a trustee for an association in respect of any amount received from a relevant bank by virtue of this section is a complete discharge of the bank in respect of that amount.
+(6) The Commission shall only exercise its power under this section in respect of any association with the approval of the Minister.

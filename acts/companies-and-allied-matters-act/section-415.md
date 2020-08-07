@@ -1,7 +1,4 @@
-415. Commencement of a winding up by the court
-
-(1) Where, before the presentation of a petition for the winding up of a company by the court, a resolution has been passed by the company for voluntary winding up, the winding up of the company shall be deemed to have commenced at the time of the passing of the resolution, and unless the court, on proof of fraud or mistake, thinks fit otherwise to direct, all proceedings taken in the voluntary winding up shall be deemed to have been validly taken.
-
-(2) In any other case, the winding up of a company by the court shall be deemed to commence at the time of the presentation of the petition for the winding up.
-
-Consequences of winding‐up order
+# 415. Liability of auditors for negligence
+(1) A company's auditor shall in the performance of his duties exercise all such care, diligence and skill as is reasonably necessary in each particular circumstance.
+(2) Where a company suffers loss or damage as a result of the failure of its auditor to discharge the fiduciary duty imposed on him by subsection (1), the auditor is liable for negligence and the directors may institute an action for negligence against him in the Court.
+(3) If the directors fail to institute an action against the auditor under subsection (2) of this section, any member may do so after the expiration of 30 days' notice to the company of his intention to institute such action.

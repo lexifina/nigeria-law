@@ -1,1 +1,2 @@
-600. Changes in contravention of certain provisions of this Part of this Act Any change or alterations purported to be made in contravention of section 597, 598 or 599 of this Part of this Act shall be void.
+# 600. Official receiver as receiver for debenture holders
+Where application is made to the Court to appoint a receiver on behalf of the debenture holders or other creditors of a company being wound up by the Court, the official receiver may be so appointed.

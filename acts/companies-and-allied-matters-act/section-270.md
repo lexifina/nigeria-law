@@ -1,17 +1,4 @@
-270. Prohibition of loans to directors in certain circumstances
-
-(1) It shall not be lawful for a company to make a loan to any person who is its director or a director of its holding company, or to enter into any guarantee or provide any security in connection with a loan made to such a person as earlier mentioned by any other person:
-
-Provided that nothing in this section shall apply‐
-
-(a) subject to subsection (2) of this section, to anything done to provide any such person as mentioned in this subsection with funds to meet expenditure incurred or to be incurred by him for the purposes of the company or for the purpose of enabling him properly to perform his duties as an officer of the company; or
-
-(b) in the case of a company whose ordinary business includes the lending of money or the giving of guarantees in connection with loans made by other persons, to anything done by the company in the ordinary course of that business.
-
-(2) Proviso (a) to subsection (1) of this section shall not authorise the making of any loan, or the entering into any guarantee, or the provision of any security except‐
-
-(a) with the prior approval of the company given at a general meeting at which the purposes of the expenditure and the amount of the loan or the extent of the guarantee or security, as the case may be, are disclosed; or
-
-(b) on condition that, if the approval of the company is not given as in subsection (2) (a) of this section at or before the next following annual general meeting, the loan shall be repaid or the liability under the guarantee or security shall be discharged, as the case may be, within six months from the conclusion of that meeting.
-
-(3) Where the approval of the company is not given as required by any such condition, the directors authorising the making of the loan, or the entering into the guarantee, or the provision of the security, shall be jointly and severally liable to indemnify the company against any loss arising therefrom.
+# 270. Shadow Director
+(1) Without prejudice to the provisions of sections 269 and 276 of this Act, and for the purposes of sections 279, 301 and 307 of this Act, "director" shall include any person on whose instructions and directions the Directors are accustomed to act.
+(2) Subject to sections 301, 306 and 307 of this Act, nothing contained in section 276 of this Act is deemed to derogate from the duties or liabilities of the duly appointed directors.
+(3) Where a person in his professional capacity gives advice and a director acts on it, that shall not be construed to make such a person under this Act a person in accordance with whose directions or instructions the director of a company is accustomed to act.

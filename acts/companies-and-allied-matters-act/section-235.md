@@ -1,39 +1,18 @@
-235. Circulation of members' resolutions
-
-(1) Subject to the following provisions of this section, it shall be the duty of a company, on the requisition in writing of such number of members as is hereinafter specified and (unless the company otherwise resolves) at the expense of the company to‐
-
-(a) give to members of the company entitled to receive notice of the next annual general meeting notice of any resolution submitted by a member which may properly be moved and is intended to be moved at that meeting;
-
-(b) circulate to members entitled to have notice of any general meeting sent to them, any statement of not more than 1,000 words with respect to the matter referred to in any proposed resolution or the business to be dealt with at that meeting, and where the statement has more than 1,000 words to circulate a summary of it.
-
-(2) The number of members necessary for a requisition under subsection (1) of this section shall be‐
-
-(a) anyone or more members representing not less than one twentieth of the total voting rights of all the members having at the date of the requisition a right to vote at the meeting to which the requisition relates;
-
-or
-
-(b) not less than one hundred members holding shares in the company on which there has been paid up an average sum, per member, of not less than N500.
-
-(3) Notice of any such resolution shall be given, and any such statement shall be circulated, to members of the company entitled to have notice of the meeting sent to them, by serving a copy of the resolution or statement on each such member in any manner permitted for service of notice of the meeting, and notice of any such resolution shall be given to any other member of the company by giving notice of the general effect of the resolution in any manner permitted for giving notice of meetings of the company:
-
-Provided that the copy shall be served, or notice of the effect of the resolution shall be given, as the case may be, in the same manner and so far as practicable, at the same time as notice of the meeting and, where it is not practicable for it to be served or given at that time, it shall be served or given as soon as practicable thereafter.
-
-(4) A company shall not be bound under this section to give notice of any resolution or to circulate any statement unless‐
-
-(a) a copy of the requisition signed by the requisitionists (or two or more copies which between them contain the signatures of all the requisitionists) is deposited at the registered office of the company‐
-
-(i) in the case of a requisition requiring notice of a resolution, not less than six weeks before the meeting;
-
-and
-
-(ii) in the case of any other requisition, not less than one week before the meeting; and
-
-(b) there is deposited or tendered with the requisition, a sum reasonably sufficient to meet the company's expenses in giving effect thereto:
-
-Provided that if, after a copy of a requisition requiring notice of a resolution has been deposited at the registered office of the company, an annual general meeting is called for a date six weeks or less after the copy has been deposited, the copy, though not deposited within the time required by this subsection, shall be deemed to have been properly deposited for the purposes thereof.
-
-(5) The company shall also not be bound under this section to circulate any statement if, on the application either of the company or of any other person who claims to be aggrieved, the court is satisfied that the rights conferred by this section are being abused to secure needless publicity for defamatory matter; and the court may order the company's costs on an application under this section to be paid in whole or in part by the requisitionist, notwithstanding that the requistionist is not party to the application.
-
-(6) Notwithstanding anything in the company's articles, the business which may be dealt with at an annual general meeting shall include any resolution of which notice is given in accordance with this section and for the purposes of this subsection, notice shall be deemed to have been so given, notwithstanding the accidental omission in giving it to one or more members.
-
-(7) In the event of any default in complying with the provisions of this section, every officer of the company who is in default shall be guilty of an offence and liable to a fine of N500.
+# 235. Statutory Meeting
+(1) Every public company shall, within a period of six months from the date of its incorporation, hold a general meeting of the members of the company (in this Act referred to as "the statutory meeting").
+(2) The directors shall, at least 21 days before the day on which the statutory meeting is held, forward to every member of the company a copy of the statutory report.
+(3) The statutory report shall be certified by not less than two directors or by a director and the secretary of the company and shall state—
+(a) the total number of shares allotted, distinguishing shares allotted as fully or partly paid-up than in cash, and stating in the case of shares partly paid-up, the extent to which they are paid up, and the consideration for which they have been allotted;
+(b) the total amount of cash received by the company in respect of all the shares allotted, distinguished as aforesaid;
+(c) the names, addresses and descriptions of the directors, auditors, managers, if any, and secretary of the company;
+(d) the particulars of any pre-incorporation contract together with the particulars of any modification or proposed modification;
+(e) any underwriting contract that has not been carried out and the reasons therefor;
+(f) the arrears, if any, due on calls from every director; and
+(g) the particulars of any commission or brokerage paid or to be paid in connection with the issue or sale of shares or debentures to any director or to the manager.
+(4) The report shall contain an abstract of the receipts of the company and the payments made from them up to a date within seven days of the date of the report, exhibiting under distinctive headings the receipts of the company from shares, debentures and other sources, the payments made from such receipts and particulars concerning the balance remaining in hand, and an account or estimate of the preliminary expenses of the company.
+(5) The statutory report shall, so far as it relates to the shares allotted by the company, and to the cash received in respect of such shares, and to the receipts and payments of the company on capital account, be certified as correct by the auditors.
+(6) The directors shall cause a copy of the statutory report, certified as required by this section, to be delivered to the Commission for registration within 14 days after the sending of copies to the members of the company.
+(7) The directors shall cause a list, showing the names, descriptions and addresses of the members of the company and the number of shares held by them respectively, to be produced at the commencement of the meeting and to remain open and accessible to any member of the company during the continuance of the statutory meeting.
+(8) The members of the company present at the statutory meeting are at liberty to discuss any matter relating to the formation of the company, its commencement of business or arising out of the statutory report.
+(9) Any member who wishes a resolution to be passed on any matter arising out of the statutory report shall give further 21 days' notice from the date on which the statutory report was received to the company of his intention to propose such a resolution, in which case, the statutory meeting shall not be held until the expiration of the 21 days' notice given to the company by the member.
+(10) The statutory meeting may be adjourn and at any adjourned meeting any resolution of which notice has been given in accordance with the articles, either before or subsequently to the former meeting, may be passed, and the adjourned meeting shall have the same powers as the original meeting.

@@ -1,19 +1,8 @@
-584. Offences and penalties
-
-(1) If any firm or individual required under this Act to be registered‐
-
-(a) fails to comply with the provisions of section 574 of this Act; or
-
-(b) fails to comply with the provisions of section 577 of this Act; or subsection (4) of section 576 of this Act; or
-
-(c) fails to comply with the provisions of subsection (3) or subsection (4) of section 576 of this Part; or
-
-(d) carries on business under a business name, registration of which has been refused or cancelled under section
-
-579 of this Act, every partner in the firm or the individual shall be guilty of an offence and liable on conviction to a fine of N50 for every day during which the default continues, and the court shall order a statement of the required particulars to be furnished to the Registrar within such time as may be specified in the order.
-
-(2) If any person whose duty it is under subsection (1) of section 578 of this Act to give notice that any firm or individual has ceased to carry on business, fails to comply with the provisions of that subsection, he shall be guilty of an offence and liable on conviction to a fine of N520.
-
-(3) If any firm, company or individual in issuing any trade catalogues, trade circular, show card or business letter fails to comply with the provisions of section 582, of this Act, every partner in the firm or the individual shall be guilty of an offence and liable on conviction to a fine of N250.
-
-(4) If any statement required to be furnished under this Act contains any matter which is false in any material particular to the knowledge of any person signing it, such person shall be guilty of an offence and liable on conviction to a fine of N500 or to imprisonment for six months or to both such fine and imprisonment.
+# 584. Report by official receiver
+(1) If a winding-up order is made, the official receiver shall as soon as practicable after receipt of the statement to be submitted under section 583 of this Act or where the Court orders that no statement be submitted, as soon as practicable after the date of the order, submit a preliminary report to the Court—
+(a) as to the amount of capital issued, subscribed and paid up, and the estimated amount of assets and liabilities;
+(b) if the company has failed, as to the causes of the failure; and
+(c) whether, in his opinion, further inquiry is desirable as to any matter relating to the promotion, formation or failure of the company.
+(2) The official receiver may, if he thinks fit, make further reports stating the manner in which the company was formed and whether, in his opinion, fraud has been committed by any person in its promotion or formation, or by any officer of the company in relation to the company since its formation and the reports may include any other matters which, in his opinion, is desirable to bring to the notice of the court.
+(3) If any further report under this section indicates the commission of fraud, the Court shall have the further powers provided in section 613 of this Act (which confers authority to order public examination of certain officials).
+LIQUIDATORS

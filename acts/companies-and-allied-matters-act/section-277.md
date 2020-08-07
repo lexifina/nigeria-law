@@ -1,13 +1,6 @@
-277. Disclosure by directors of interests in contracts
-
-(1) Subject to the provisions of this section, it shall be the duty of a director of a company who is in any way, whether directly or indirectly, interested in a contract or proposed contract with the company, to declare the nature of his interest at a meeting of the directors of the company.
-
-(2) In the case of a proposed contract, the declaration required by this section to be made by a director shall be made at the meeting of the directors at which the question of entering into the contract is first taken into consideration, or, if the director was not at the date of that meeting interested in the proposed contract, at the next meeting of the directors held after he became so interested, and in a case where the director becomes interested in a contract after it is made, the said declaration shall be made at the first meeting of the directors held after he becomes so interested.
-
-(3) For the purpose of this section, a general notice given to the directors of a company by a director to the effect that he is a member of a specified company or firm and is to be regarded as interested in any contract which may, after the date of the notice, be made with that company or firm, shall be deemed to be a sufficient declaration of interest in relation to any contract so made:
-
-Provided that any such notice shall not have effect unless it is given at a meeting of the directors or the director does all things reasonably necessary to secure that it is brought up and read at the next meeting of the directors after it is given.
-
-(4) Any director who fails to comply with the provisions of this section shall be guilty of an offence and liable to a fine of N100.
-
-(5) Nothing in this section shall be taken to prejudice the operation of any rule of law restricting directors of a company from having any interest in contracts with the company.
+# 277. Share qualification of Directors
+(1) The shareholding qualification for directors may be fixed by the articles of association of the company and unless so fixed no shareholding qualification shall be required.
+(2) It is the duty of every director who is by the articles of the company required to hold a specified share qualification, and who is not already so qualified, to obtain qualification within two months after his appointment.
+(3) The office of director of a company is vacated if the director does not, within two months from the date of his appointment, obtain his qualification or after the expiration of the said period, he ceases at any time to hold his shareholding qualification.
+(4) A person vacating office under this section is incapable of being re-appointed a director of the company until he has obtained his shareholding qualification.
+(5) If, after the expiration of the period, any unqualified person acts as a director of the company, he is liable to a penalty in such amount as the Commission shall specify in its regulations for every day between the expiration of the said period or the day on which he ceased to be qualified, as the case may be, and the last day on which it is proved that he acted as a director.

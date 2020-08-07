@@ -1,5 +1,5 @@
-552. Rules of court for winding‐up of companies, etc.
-
-(1) The Chief Judge of the Federal High Court may make rules of court for carrying into effect the objects of this Act so far as they relate to the winding up of companies or generally in respect of other applications to a court under this Act.
-
-(2) For the purpose of this section, it is declared that rules made for the purpose of any enactment passed or made on or before, or to have effect on or after, the commencement of this Act shall, on its commencement, ensure and have effect where they are not inconsistent with rules of court made or deemed to have been made, under this section.
+# 552. Appointment of receivers and managers by the Court
+(1) Notwithstanding the provisions of section 233 (1) (d) the Court may, on the application of a person interested, appoint a receiver or a receiver and manager of the property or undertaking of a company if the—
+(a) principal money borrowed by the company or the interest is in arrears; or
+(b) security or property of the company is in jeopardy.
+(2) A receiver or manager of any property or undertaking of a company appointed by the Court is deemed to be an officer of the Court and not of the company and shall act in accordance with the directions and instructions of the Court.

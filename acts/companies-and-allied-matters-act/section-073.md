@@ -1,7 +1,8 @@
-73. Bills of exchange and promissory note.
-
-(1)A bill of exchange or promissory note shall be deemed to have been made, accepted, or endorsed on behalf of a company if made, or expressed to be made, accepted, or endorsed in the name of the company, or if expressed to be made, accepted or endorsed on behalf or on account of the company by a person acting under its authority.
-
-(2)The company and its successors shall be bound thereby if the company is, in accordance with sections 65 to 67 of this Act, liable for the acts of those who made, accepted or endorsed it in its name or on its behalf or account, and a signature by a director or the secretary on behalf of the company shall not be deemed to be a signature by procuration for the purposes of section 25 of the Bills of Exchange Act.
-
-[Cap. B8.]
+# 73. Issue of certificate of incorporation on re-registration of an unlimited company as a limited company
+(1) If, on an application for re-registration of an unlimited company as a limited company, the Commission is satisfied that the company is entitled to be so re- registered, the company shall be re-registered accordingly.
+(2) The Commission shall issue a certificate of incorporation altered to meet the circumstances of the case.
+(3) The certificate shall state that it is issued on re-registration and the date on which it is so issued.
+(4) Upon the issue of the certificate—
+(a) the company by virtue of the issue of the certificate becomes a limited company; and
+(b) the changes in the company's name, memorandum and articles take effect.
+(5) The certificate is prima facie evidence that the requirements of this Act as to re- registration have been complied with.

@@ -1,3 +1,2 @@
-11. Service in the Commission to be pensionable Service in the Commission shall be approved service for the purpose of the Pensions Act and accordingly, officers and other persons employed in the Commission shall in respect of their service in the Commission be entitled to pensions, gratuities and other retirement benefits enjoyed by persons holding equivalent grades in the public service of the Federation, so however that nothing in this Act shall prevent the appointment of a person to any office on terms which preclude the grant of a pension and gratuity in respect of that office.
-
-[Cap. P4.]
+# 11. Right to appear in Court
+Notwithstanding the provisions of any enactment to the contrary, a person appointed to the office of Registrar-General under section 9 of this Act or a person appointed under section 10 of this Act who is a legal practitioner shall, while so appointed, be entitled to represent the Commission as a legal practitioner for the purpose and in the course of his employment.

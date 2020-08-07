@@ -1,7 +1,4 @@
-563. Application by the Commission to the court for directions
-
-(1) The Commission may apply to court for directions in respect of any matter concerning its duties, powers and functions under this Act and on any such application, the court may give such directions and make such further order as it thinks fit in the circumstances.
-
-(2) The Commission may conduct enquires with respect to the compliance with the provisions of this Act by any person or company.
-
-Miscellaneous
+# 563. Construction of references to receivers and managers
+Any reference in this Act to—
+(a) a receiver or manager of the property of a company, or to a receiver thereof, includes a reference to a receiver or manager, or to a receiver of part only of that property and to a receiver only of the income arising from that property or from part thereof; and
+(b) the appointment of a receiver or manager under powers contained in any instrument, includes a reference to an appointment made under powers which, by virtue of any enactment, are implied in and have effect as if contained in an instrument.

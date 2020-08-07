@@ -1,5 +1,3 @@
-221. Failure to give notice
-
-(1) Failure to give notice of any meeting to a person entitled to receive it shall invalidate the meeting unless such failure is an accidental omission on the part of the person or persons giving the notice.
-
-(2) Failure to give notice to a person entitled to it due to a misrepresentation or misinterpretation of the provisions of this Act, or of the articles, shall not amount to an accidental omission for the purposes of the foregoing subsection.
+# 221. Notice of refusal to register
+(1) If a company refuses to register a transfer of any debenture, the company shall, within two months after the date on which the transfer was lodged with the company, send to the transferee notice of the refusal.
+(2) If any default is made in complying with the provisions of this section, the company and each officer of the company are liable to such fine as the Commission shall specify by regulation.

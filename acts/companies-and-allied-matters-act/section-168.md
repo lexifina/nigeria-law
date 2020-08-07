@@ -1,13 +1,8 @@
-168. Statements to be included in debentures Every debenture shall include a statement on the following matters, that is‐
-
-(a) the principal amount borrowed;
-
-(b) the maximum discount which may be allowed on the issue or re‐issue of the debentures, and the maximum premium at which the debentures may be made redeemable;
-
-(c) the rate of and the dates on which interest on the debentures issued shall be paid and the manner in which payment shall be made;
-
-(d) the date on which the principal amount shall be repaid or the manner in which redemption shall be effected, whether by the payment of instalments of principal or otherwise;
-
-(e) in the case of convertible debentures, the date and terms on which the debentures may be converted into shares and the amounts which may be credited as paid up on those shares, and the dates and terms on which the holders may exercise any right to subscribe for shares in respect of the debentures held by them;
-
-(f) the charges securing the debenture and the conditions subject to which the debenture shall take effect.
+# 168. Right of a preference share to more than one vote
+(1) Notwithstanding the provisions of section 140, the articles may provide that preference shares issued after the commencement of this Act shall carry the rights to attend general meetings and on a poll at the meetings, to more than one vote per share in the following circumstances, but not otherwise, but upon any resolution—
+(a) during such period as the preferential dividend or any part of it remains in arrears and unpaid, such period starting from a date not more than 12 months or such lesser period as the articles may provide, after the due date of the dividend;
+(b) which varies the rights attached to such shares;
+(c) to remove an auditor of the company or to appoint another person in place of such auditor; or
+(d) for the winding-up of the company or during the winding-up of the company.
+(2) Notwithstanding the provisions of section 140, any special resolution of a company increasing the number of shares of any class, may validly resolve that any existing class of preference shares shall carry the right to such votes additional to one vote per share as is necessary in order to preserve the existing ratio which the votes exercisable by the holders of such preference shares at a general meeting of the company bear to the total votes exercisable at the meeting.
+(3) For the purposes of subsection (2), a dividend is deemed to be due on the date appointed in the articles for the payment of the dividend for any year or other period, or if no such date is appointed, upon the day immediately following the expiration of the year or other period, and whether or not such dividend shall have been earned or declared.

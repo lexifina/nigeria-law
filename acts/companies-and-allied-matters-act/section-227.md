@@ -1,7 +1,3 @@
-227. Right of attendance at general meeting
-
-(1) Subject to section 228 of this Act, every member shall have a right to attend any general meeting of the company in accordance with the provisions of section 81 of this Act.
-
-(2) In the case of joint holders, the vote of the senior joint holder who tenders a vote, whether in person or by proxy, shall be accepted to the exclusion of the votes of the other joint holders; and for this purpose seniority shall be determined by the order in which the names stand in the register of members.
-
-(3) A member of unsound mind, or in respect of whom an order has been made by any court having jurisdiction in lunacy, may vote, whether on a show of hands or on a poll, by his committee, receiver, curator bonis, or other person in the nature of a committee, receiver or curator bonis appointed by that court, and any such committee, receiver, curator bonis or other person may vote by proxy.
+# 227. Charges to secure fluctuating amounts
+Where a charge, particulars of which require registration under section 222, is expressed to secure all sums due or to become due or some other uncertain or fluctuating amount, the particulars required under section 222 (9) shall state the maximum sum deemed to be secured by such charge (being the maximum sum covered by the stamp duty paid thereon) and such charge is void, so far as any security on the company's property is thereby conferred, as respects any excess over the stated maximum:
+Provided that, if additional stamp duty is subsequently paid on such charge; and at any time thereafter prior to the commencement of the winding-up of the company, amended particulars of the said charge stating the increased maximum sum deemed to be secured thereby (together with the original instrument by which the charge was created or evidenced) are delivered to the Commission for registration, then, as from the date of such delivery, the charge, if valid, is effective to the extent of such increased maximum sum except as regards any person who, prior to the date of such delivery, has acquired any proprietary rights in, or a fixed or floating charge on, the property subject to the charge.

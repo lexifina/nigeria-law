@@ -1,9 +1,7 @@
-207. Inspection of register and copies of instruments
-
-(1) The copies of instruments creating any charge requiring registration under this Part of this Act with the Commission and the register of charges kept in pursuance of section 198 of this Act, shall be open during business hours (but subject to such reasonable restrictions as the company in general meeting may impose, so that not less than two hours in each day shall be allowed for inspection) to inspection by any creditor or member of the company without fee, and the register of charges shall also be open to inspection by any other person on payment of such fee, not exceeding N10 for each inspection, as the company may prescribe.
-
-(2) If inspection of copies of instruments creating charges or of the register is refused, every officer of the company who is in default shall be guilty of an offence and liable to a fine not exceeding N50 for every day during which the refusal continues.
-
-(3) If any such refusal occurs in relation to a company registered in Nigeria or, in so far as a foreign company has an established place of business within Nigeria and an instrument creates a charge over any of its property in Nigeria and the refusal relates to that charge, the court may by order compel an immediate inspection of the copies or register.
-
-Realisation of security
+# 207. Preferential payment to debenture holders in certain cases
+(1) Where a receiver is appointed on behalf of the holders of any debenture of a registered company secured by a floating charge, or possession is taken by, or on behalf of those debenture holders of any property comprising of subject to the charge, then if the company is not at the time in the course of being wound up, the debts which in every winding-up are under the provisions relating to preferential payments in section 657 to be paid in priority to all other debts, shall be paid out of any assets coming to the hands of the receiver or other person taking possession in priority to any claim for principal or interest in respect of the debentures.
+(2) In the application of the provisions relating to preferential payments—
+(a) section 657 shall be construed as if the provision for payment of accrued holiday remuneration becoming payable on the termination of employment before or by the effect of the winding-up order or resolution, were a provision for payment of such remuneration becoming payable on the termination of employment before or by the effect of appointment of the receiver or possession being taken; and
+(b) the periods of time mentioned is reckoned from the date of the appointment of the receiver or of possession being taken, as the case may be, and if such date occurred before the commencement of this Act, the provisions relating to preferential payments which would have applied but for this Act, shall be deemed to remain in full force.
+(3) Any payment made under this section shall be recouped as far as may be out of the assets of the company available for payment of general creditors.
+(4) Notwithstanding any provision in this Act or any other law to the contrary, the holder of a fixed charge shall have priority over other debts of the company including preferential debts.

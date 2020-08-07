@@ -1,3 +1,5 @@
-460. Effect of voluntary winding up on business, etc., of company In case of voluntary winding up, the company shall, from the commencement of the winding up, cease to carry on its business, except so far as may be required for the beneficial winding up thereof:
-
-Provided that the corporate state and corporate powers of the company shall, notwithstanding anything to the contrary in its articles, continue until it is dissolved.
+# 460. Restrictions on power to appoint
+(1) This section applies where an administrator of a company is appointed—
+(a) under section 450 of this Act; or
+(b) on an administration application made by the company or its directors.
+(2) An administrator of the company shall not be appointed under section 449 of this Act within 12 months beginning with the date on which the appointment referred to in subsection (1) ceases to have effect.

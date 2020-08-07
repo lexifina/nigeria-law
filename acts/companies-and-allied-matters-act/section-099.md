@@ -1,13 +1,6 @@
-99. Authorised minimum share capital
-
-(1) Where, after the commencement of this Act, a memorandum delivered to the Commission under section 35 of this Act states that the association to be registered is to be registered with shares, the amount of the share capital stated in the memorandum to be registered shall not be less than the authorised minimum share capital and not less than 25 per cent of that capital shall be taken by the subscribers of the memorandum.
-
-(2) No company having a share capital shall, after the commencement of this Act, be registered with an authorised share capital less than the authorised minimum share capital.
-
-(3) Where, at the commencement of this Act, the authorised share capital of an existing company is less than the authorised minimum share capital, the company shall, not later than 30 days after the appointed day, increase the share capital to an amount not less than the authorised minimum share capital of which not less than 25 per cent shall be issued.
-
-(4) Subject to subsection (3) of this section and to section 103 of this Act, where a company is registered with shares, its issued capital shall not at any time be less than 25 per cent of the authorised share capital.
-
-(5) Where a company to which subsections (3) and (4) of this section apply fails to comply with the applicable subsection, it shall be liable to a fine of N2,500, and every officer who is in default shall be liable to a fine of N50 for every day during which the default continues.
-
-Alteration of share capital
+# 99. Official seal for use abroad
+(1) A company whose objects require or comprise the transaction of business in foreign countries may, if authorised by its articles, have for use in any territory, district, or place outside Nigeria, an official seal, the design and use which shall be regulated by the company's articles, and shall indicate on its face of the name of every territory, district, or place where it is to be used.
+(2) A company having such an official seal may, by deed, authorise any person appointed for the purpose in any territory, district, or place outside Nigeria, to affix the same to any deed or other document to which the company is party in that territory, district, or place.
+(3) The authority of any such agent shall, as between the company and any person dealing with the agent, continue during the period, if any, mentioned in the instrument conferring the authority, or if no period is there mentioned, then until notice of the revocation or determination of the agent's authority has been given to the person dealing with him.
+(4) The person affixing any such official seal shall, by writing under his hand, on the deed or other document to which the seal is affixed, certify the date on which and place at which it is affixed.
+(5) In the case of companies that have a common seal, a deed or other document to which an official seal is duly affixed shall bind the company as if it has been sealed with the common seal of the company.

@@ -1,11 +1,8 @@
-45. Alteration of memorandum
-
-(1) The name of the company shall not be altered except with the consent of the Commission in accordance with section 31 of this Act.
-
-(2) The business which the company is authorised to carry on or, if the company is not formed for the purpose of carrying on business, the objects for which it is established, may be altered or added to in accordance with the provisions of section 46 or of Part XV of this Act.
-
-(3) Any restriction on the powers of the company may be altered in the same way as the business or object of the company.
-
-(4) The share capital of the company may be altered in accordance with the provisions of sections 100 to 111 of this Act, but not otherwise.
-
-(5) Subject to section 49 of this Act, any other provision of the memorandum may be altered in accordance with section 46 of this Act, or as otherwise provided in this Act.
+# 45. Effect of reliance on restrictions in the memorandum
+(1) Where there is provision in the memorandum of association of a company restricting the powers and capacity of the company to carry on its authorised business or object, the restriction may be relied on and have effect only for the purpose of proceedings—
+(a) against the company by a director or member of the company, or where the company has issued debentures secured by a floating charge over all or any of the company's property, by the holder of any of the debentures or the trustee for the holders of the debentures;
+(b) by the company or a member of the company against the present or former officers of the company for failure to observe any such restriction;
+(c) by the Commission or a member of the company to wind up the company; or
+(d) for the purpose of restraining the company or other person from acting in breach of the memorandum or directing the company or such person to comply with the same.
+(2) A person may not in the proceedings referred to in subsection (1) (a),
+(b) or (c), rely on a restriction of the power or capacity of the company contained in the memorandum in any case where he voted in favour of, or expressly or by conduct agreed to the doing of an act by the company or the conveyance by or to the company of property which, it is alleged in the proceedings, was or would be contrary to the restriction.

@@ -1,15 +1,4 @@
-345. Directors' duty to lay and deliver financial statements
-
-(1) In respect of each year, the directors shall at a date not later than 18 months after incorporation of the company and subsequently once at least in every year, lay before the company in general meeting copies of the financial statements of the company made up to a date not exceeding nine months previous to the date of the meeting.
-
-(2) The auditors' report shall be read before the company in general meeting, and be open to the inspection of any member of the company.
-
-(3) In respect of each year, the directors shall deliver with the annual return to the Commission a copy of the balance sheet, the profit and loss account and the notes on the statements which were laid before the general meeting as required by this section.
-
-(4) In the case of an unlimited company, the directors shall not be required by subsection (3) of this section to deliver a copy of the accounts if‐
-
-(a) at no time during the accounting reference period has the company been, to its knowledge, the subsidiary of a company that was then limited and at no such time, to its knowledge, have there been held or been exercisable, by or on behalf of two or more companies that were then limited, shares or powers which, if they had been held or been exercisable by one of them, would have made the company its subsidiary; and
-
-(b) at no such time has the company been the holding company of a company which was then limited.
-
-(5) References in this section to a company that was limited at a particular time are to a body corporate (under whatever law incorporated) the liability of whose members was at that time limited.
+# 345. Definition of member
+For the purpose of sections 343 and 344 of this Act, "member" includes—
+(a) the personal representative of a deceased member; and
+(b) any person to whom shares have been transferred or transmitted by operation of law.

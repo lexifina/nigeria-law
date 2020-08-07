@@ -1,23 +1,13 @@
-397. Special provisions as to statement submitted to receiver
-
-(1) The statements as to the affairs of a company required by section 396 of this Act, to be submitted to the receiver (or his successor) shall show as at the date of the receiver's appointment, the particulars or the company's assets, debts and liabilities, the names, residences and occupations of its creditors, the securities held by them respectively, the dates when the securities were respectively given and such further or other information as may be prescribed.
-
-(2) The statement shall be submitted by, and be verified by, affidavit of one or more of the persons who are at the date of the receiver's appointment the directors, and by the person who is at that date the secretary of the company, or by such of the persons hereafter in this subsection mentioned as the receiver (or his successor), subject to the direction of the court, may require to submit and verify the statement, that is to say, persons‐
-
-(a) who are or have been officers of the company;
-
-(b) who have taken part in the formation of the company at any time within one year before the date of the receiver's appointment;
-
-(c) who are in the employment of the company, or have been in the employment of the company within the year, and are in the opinion of the receiver capable of giving the information required;
-
-(d) who are or have been within the said year officers of or in the employment of a company which is, or within the said year was, an officer of the company to which the statement relates.
-
-(3) Any person making the statement and affidavit shall be allowed, and shall be paid by the receiver (or his successor) out of his receipts, such costs and expenses incurred in and about the preparation and making of the statement and affidavit as the receiver (or his successor) may consider reasonable, subject to an appeal to the court.
-
-(4) Where the receiver is appointed under the powers contained in any instrument, this section shall have effect with the substitution for references to the court of references to the Commission and references to an affidavit, of references to a statutory declaration; and in any other case references to the court shall be taken as referring to the court by which the receiver was appointed.
-
-(5) If any person without reasonable excuse makes default in complying with the requirements of this section, he shall be guilty of an offence and liable to a fine of N50 for every day during which the default continues.
-
-(6) References in this section to the receiver's successor shall include a continuing receiver or manager.
-
-Accounts by receiver or manager
+# 397. Modified financial statements of holding company
+(1) This section applies to a holding company where in respect of a year section 379 requires the preparation of group financial statements for the company and its subsidiaries.
+(2) The directors of the holding company may not under section 396 of this Act deliver financial statements modified as for a small company, unless the group (that is to say, the holding company and its subsidiaries together) is in that year a small group and the group is small if it qualifies under section 394 of this Act (applying that section as provided under subsections (3) and (4), as if it were all one company).
+(3) The figures to be taken into account in determining whether the group is small are the group account figures, that is—
+(a) where the group financial statements are prepared as consolidated financial statements, the figures for turnover and balance sheet total; and
+(b) where the group financial statements are not prepared as consolidated financial statements, the corresponding figures given in the group financial statements, with such adjustment as would have been made if the statements had been prepared in consolidated form, and aggregated in either case with the relevant figures for the subsidiaries (if any) omitted from the group accounts (excepting those for any subsidiary omitted under section 379 (3) (a) on the ground of impracticability).
+(4) In the case of each subsidiary omitted from the group financial statements, the figures relevant as regards turnover, and balance sheet total are those which are included in the financial statements of that subsidiary prepared in respect of its relevant year (with such adjustment as would have been made if those figures had been included in group financial statements prepared in consolidated form).
+(5) For the purposes of subsection (4), the relevant year of the subsidiary is—
+(a) if its year ends with that of the holding company to which the group financial statements relate, that year; and
+(b) if not, the subsidiary's year ending last before the end of the year of the holding company.
+(6) If the directors are entitled to deliver modified financial statements, they may also deliver modified group financial statements, and such group financial statements if—
+(a) consolidated, may be in accordance with Part II of the Sixth Schedule (while otherwise comprising or corresponding with group financial statements prepared under section 379 of this Act); and
+(b) not consolidated, may be such as (together with any notes) give the same or equivalent information as required by paragraph (a), and Part III to the Sixth Schedule to this Act applies to modified group financial statements whether consolidated or not.

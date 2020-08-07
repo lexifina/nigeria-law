@@ -1,41 +1,10 @@
-275. Register of directors' share holding etc.
-
-(1) Every company shall keep a register showing as respects each director of the company (not being its holding company) the number, description and amount of any shares in or debentures of the company or any other body corporate, being the company's subsidiary or holding company, or a subsidiary of the company's holding company, which are held by or in trust for him or of which he has any right to become the holder (whether on payment or not):
-
-Provided that the register need not include shares in any body corporate which is the wholly‐owned subsidiary of another body corporate, and for this purpose, a body corporate shall be deemed to be the wholly‐owned subsidiary of another if it has no members but that other and that other's wholly‐owned subsidiaries and its or their nominees.
-
-(2) Where any shares or debentures fall to be or cease to be recorded in the said register in relation to any director by reason of a transaction entered into after the commencement of this Act and while he is a director, the register shall also show the date of, and price or other consideration for the transaction:
-
-Provided that where there is an interval between the agreement for any such transaction and the completion thereof, the date shall be that of the agreement.
-
-(3) The nature and extent of a director's interest or right in or over any shares or debentures recorded in relation to him in the said register shall, if he so requires, be indicated in the register.
-
-(4) The company shall not by virtue of anything done for the purposes of this section, be affected with notice of, or put upon inquiry as to the rights of any person in relation to any shares or debentures.
-
-(5) The said register shall, subject to the provisions of this section, be kept at the company's registered or head office and shall be open to inspection during business hours (subject to such reasonable restrictions as the company may by its articles or in general meeting impose, so that not less than two hours in each day be allowed for inspection) as follows‐
-
-(a) during the period beginning 14 days before the date of the company's annual general meeting and ending three days after the date of its conclusion, it shall be open to the inspection of any member or holder of debentures of the company; and
-
-(b) during that or any other period, it shall be open to the inspection of any person acting on behalf of the Commission.
-
-(6) In computing the 14 days and the three days mentioned in subsection (5) of this section, any day which is a Saturday or Sunday or a public holiday shall be disregarded.
-
-(7) Without prejudice to the rights conferred by subsection (5) of this section, the Commission may, at any time, request for the production to it of a copy of the register, or any part thereof.
-
-(8) The register shall also be produced at the commencement of the company's annual general meeting and remain open and accessible during the continuance of the meeting to any person attending the meeting.
-
-(9) If default is made in complying with subsection (1) or (2) of this section, or if any inspection required under this section is refused, or any copy required thereunder is not sent within a reasonable time, the company and every officer of the company who is in default shall be guilty of an offence and liable to a fine of N500, and if default is made in complying with subsection (8) of this section, the company and every officer of the company who is in default shall be liable to a fine of N50.
-
-(10) If any inspection required under this section is refused, the court may, by order, compel an immediate inspection of the register.
-
-(11) For the purposes of this section‐
-
-(a) any person, in accordance with whose directions or instructions the directors of a company are accustomed to act, shall be deemed to be a director of the company; and
-
-(b) a director of a company shall be deemed to hold or to have any interest or right in or over, any shares or debentures, if a permanent representative of the body corporate other than the company holds them or has that interest or right in or over them, and either‐
-
-(i) that permanent representative is accustomed to act in accordance with his directions or instructions;
-
-or
-
-(ii) he is entitled to exercise or control the exercise of one third or more of the voting power at any general meeting of that body corporate.
+# 275. Independent directors in public companies
+(1) A public company shall have at least three independent directors.
+(2) In a public company, any person who nominates candidates for the board who would comprise a majority of the members of the board shall nominate at least three persons who would be independent directors.
+(3) In this section, "independent director" means a director of the company who, or whose relatives either separately or together with him or each other, during the two years preceding the time in question—
+(a) was not an employee of the company;
+(b) did not—
+(i) make to or receive from the company payments of more than N20,000,000, or
+(ii) own more than a 30% share or other ownership interest, directly or indirectly, in an entity that made to or received from the company payments of more than the amount stated in subparagraph (i) or act as a partner, director or officer of a partnership or company that made to or received from the company payments of more than such amount;
+(c) did not own directly or indirectly more than 30% of the shares of any type or class of the company, and
+(d) was not engaged directly or indirectly as an auditor for the company.

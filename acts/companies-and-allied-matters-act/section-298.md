@@ -1,15 +1,3 @@
-298. Duties of a secretary
-
-(1) The duties of a secretary shall include the following‐
-
-(a) attending the meeting of the company, the board of directors and its committees, rendering all necessary secretarial services in respect of the meeting and advising on compliance by the meetings with the applicable rules and regulations;
-
-(b) maintaining the registers and other records required to be maintained by the company under this Act;
-
-(c) rendering proper returns and giving notification to the Commission required under this Act; and
-
-(d) carrying out such administrative and other secretarial duties as directed by the director, or the Company.
-
-(2) The secretary shall not without the authority of the board exercise any powers vested in the directors.
-
-PART X Protection of minority against illegal and oppressive conduct Action by or against the company
+# 298. Payment to director for loss of office, etc., or transfer of property illegal
+(1) If in connection with the transfer of the whole, or any part of the undertaking or property of a company, it is proposed to make any payment to a director of the company by way of compensation for loss of office, or as consideration for or, in connection with his retirement from office, the payment is unlawful unless particulars with respect to the proposal and the amount have been disclosed to members of the company and the proposal is approved by the company.
+(2) Where a payment declared by this section to be illegal is made to a director of a company, the amount received is deemed to have been received by him in trust for the company.

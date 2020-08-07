@@ -1,9 +1,4 @@
-375. Documents to be annexed to annual return
-
-(1) Subject to the provisions of section 377 of this Act, there shall be annexed to the annual return‐
-
-(a) a written copy, certified both by a director and by the secretary of the company to be a true copy, of every balance sheet and profit and loss account laid before the company in general meeting held in the year to which the return relates (including every document required by law to be annexed to the balance sheet); and
-
-(b) a copy, certified as aforesaid, of the report of the auditors on, and of the report of the directors accompanying, each such balance sheet.
-
-(2) If any such balance sheet as is mentioned in subsection (1) of the section or document required by law to be annexed does not comply with the requirement of the law as in force at the date of the audit with respect to the form of balance sheets or documents aforesaid, as the case may be, there shall be made such additions to and corrections in the copy as would have been required to be made in the balance sheet or document in order to comply with the requirements, and the fact that the copy has been so amended shall be stated on it.
+# 375. Place, duration and form of records
+(1) The accounting records of a company shall be kept at its registered office or such other place in Nigeria as the directors think fit, and shall at all times be open to inspection by the officers of the company.
+(2) Subject to any direction with respect to the disposal of records given under winding-up rules made under section 732 of this Act, accounting records which a company is required by section 374 of this Act to keep are preserved by it for six years from the date on which they were made.
+(3) A company may, in addition to original hard copies, keep electronic copies or registers of any document or record it is obliged to keep or maintain under this Act, and where a company chooses to maintain electronic copies or registers of its documents or records, the company shall give sufficient consideration to the quality of the hardware and software to be used, and technical specifications such as protocol, security, anti-virus protection or encryption.

@@ -1,1 +1,4 @@
-88. Consequences of failure by agents' default to keep register Where, by virtue of paragraph (b) of subsection (1) of section 84 of this Act, the register of members is kept at the office of some person other than the company, and by reason of any default of his, the company fails to comply with subsection (1) or (2) of section 84 of this Act, or with any requirements of this Act as to the production of the register, that other person shall be liable to the same penalties as if he were an officer of the company who was in default, and the power of the court under subsection (4) of section 87 of this Act shall extend to the making of orders against that other person and his officers and servants.
+# 88. Delegation to committees and managing director
+Unless otherwise provided in this Act or in the articles, the board of directors may—
+(a) exercise its powers through committees consisting of such members of their body as they think fit; or
+(b) from time to time, appoint one or more of its members to the office of managing director and may delegate all or any of its powers to such managing director.

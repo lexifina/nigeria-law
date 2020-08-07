@@ -1,27 +1,4 @@
-278. Particulars with respect to directors in trade catalogues, etc.
-
-(1) Every company to which this section applies shall, in all trade circulars, show cards and business letters on or in which the company's name appears and which are issued or sent by the company to any person in Nigeria, state in legible characters with respect to every director the following particulars‐
-
-(a) his present forename, or the initials thereof, and present surname;
-
-(b) any former forenames and surnames;
-
-(c) his nationality, if not a Nigerian:
-
-Provided that, if special circumstances exist which the Commission is of the opinion render it expedient that such an exemption should be granted, the Commission may, subject to such conditions as it may prescribe by notice published in the Gazette, exempt a company from the obligations imposed by this subsection.
-
-(2) This section shall apply to every company incorporated under this Act, or any enactment repealed by it.
-
-(3) If a company makes default in complying with this section, every officer of the company who is in default shall be guilty of an offence and liable on conviction for each offence to a fine of N50:
-
-Provided that no proceedings shall be instituted under this section except by, or with the consent of, the Attorney‐ General of the Federation.
-
-(4) For the purposes of this section‐
-
-(a) "initials" includes a recognised abbreviation of a forename;
-
-(b) references to a former forename or surname in the case of a married woman do not include the name or surname by which she was known previous to the marriage; and
-
-(c) "showcards" means cards containing or exhibiting articles dealt with, or samples or representations thereof.
-
-Duties of directors
+# 278. Duty of Directors to disclose age and multiple directorship to the company
+(1) Any person who is appointed or to his knowledge proposed to be appointed director of a public company and who is 70 or more years old shall disclose this fact to the members at the general meeting.
+(2) Any person who is proposed to be appointed a director of a public company shall disclose any position he holds as a director in any other public company at the meeting in which he is proposed for appointment as a director.
+(3) Any person who fails to disclose his age or multiple directorship as required under this section shall, without prejudice to the provisions of section 307 (4) of this Act, be liable to a penalty in such amount as the Commission shall specify in its regulations.

@@ -1,0 +1,3 @@
+# 809. Inspection, etc. of document
+(1) A person may inspect the statements filed by the Commission upon payment of such fees as maybe prescribed by the Commission in its regulations and any person may require a certificate of the registration of a limited partnership or a copy of an extract from any registered statement, to be certified by the Registrar.
+(2) A certificate of registration or a copy of an extract from any statement registered under this Part, if duly certified to be a true copy under the hand of the Registrar, whom it shall not be necessary to prove to be the Registrar shall, in all legal proceedings, civil or criminal, and in all cases be received in evidence.

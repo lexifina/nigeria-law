@@ -1,27 +1,3 @@
-273. Directors to disclose payment for loss of office, etc., in certain cases
-
-(1) Where, in connection with the transfer to any persons of all or any of the shares in a company, being a transfer resulting from‐
-
-(a) an offer made to the general body of shareholders;
-
-(b) an offer made by or on behalf of some other body corporate with a view to the company becoming its subsidiary or a subsidiary of its holding company;
-
-(c) an offer made by or on behalf of an individual with a view to his obtaining the right to exercise or control the exercise of not less than one third of the voting power at any general meeting of the company; or
-
-(d) any other offer which is conditional on acceptance to a given extent payment is to be made to a director of the company by way of compensation for loss of office, or as consideration for or in connection with his retirement from office, it shall be the duty of that director to do all things reasonably necessary to secure that particulars with respect to the proposed payment and the amount, are included in or sent with any notice of the offer made for their shares which is given to any shareholders.
-
-(2) If‐
-
-(a) any such director fails to do all things reasonably necessary as mentioned in this section; or
-
-(b) any person who has been properly required by any such director to include the said particulars in or send them with any such notice as aforesaid fails so to do, he shall be guilty of an offence and liable to a fine of N20.
-
-(3) If‐
-
-(a) the requirements of subsection (1) of this section are not complied with in relation to any such payments as are mentioned there; or
-
-(b) the making of the proposed payment is not, before the transfer of any shares in pursuance of the offer, approved by a meeting summoned for the purpose of the holders of the shares to which the offer relates and of other holders of shares of the same class as any of the said shares, any sum received by the director on account of the payment shall be deemed to have been received by him in trust for any person who has sold his shares as a result of the offer made, and the expenses incurred by him in distributing that sum amongst those persons shall be borne by him and not retained out of that sum.
-
-(4) Where the shareholders referred to in subsection (3) (b) of this section are not all the members of the company and no provision is made by the articles for summoning or regulating such a meeting as is mentioned in that paragraph, the provisions of this Act and of the company's articles relating to general meetings of the company shall, for that purpose, apply to the meeting either without modification or with such modification as the Commission on the application of any person concerned may direct for the purpose of adapting them to the circumstances of the meeting.
-
-(5) If at a meeting summoned for the purpose of approving any payment as required by paragraph (b) of subsection (3) of this section, a quorum is not present and, after the meeting has been adjourned to a later date, a quorum is again not present, the payment shall, for the purposes of that subsection be deemed to have been approved.
+# 273. Subsequent appointment of directors
+(1) The members at the annual general meeting may re-elect or reject directors and appoint new ones.
+(2) In the event of all the directors and shareholders dying, any of the personal representatives apply to the Court for an order to convene a meeting of all the personal representatives of the shareholders entitled to attend and vote at a general meeting to appoint new directors to manage the company, and if they fail to convene a meeting, the creditors, if any, may do so.

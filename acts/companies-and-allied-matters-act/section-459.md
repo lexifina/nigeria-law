@@ -1,3 +1,3 @@
-459. Commencement of voluntary winding up A voluntary winding up shall be deemed to commence at the time of the passing of the resolution for voluntary winding up.
-
-Consequences of voluntary winding up
+# 459. Power to appoint by company or directors
+(1) A company may appoint an administrator out of Court.
+(2) The directors of a company may also appoint an administrator out of Court.

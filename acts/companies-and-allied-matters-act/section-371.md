@@ -1,13 +1,7 @@
-371. Annual return by company having shares other than small company
-
-(1) The annual return by a company having shares other than a small company shall contain with respect to the registered office of the company, registers of members and debenture holders, shares and debentures, indebtedness, past and present members and directors and secretary, the matters specified in Part I of the Eighth Schedule to this Act, and the said return shall be in the form set out in Part II of that Schedule or as near to it as circumstances admit.
-
-[Eighth Schedule.]
-
-(2) Where the company has converted any of its shares into stock and given notice of the conversion to the Commission, the list referred to in paragraph 5 of Part I of the Eighth Schedule to this Act shall state the amount of stock held by each of the existing members instead of the amount of shares and the particulars relating to shares required by that paragraph.
-
-[Eighth Schedule.]
-
-(3) The return may, in any year, if the return for either of the two immediately preceding years has given, as at the date of that return, the full particulars required by the said paragraph 5 of the Eighth Schedule to this Act, give only such particulars required by that paragraph as relate to persons ceasing to be or becoming members since the date of the last return and to shares transferred since that date in the amount of stock held by a member.
-
-[Eighth Schedule.]
+# 371. Power to require information as to persons interested in shares, etc
+(1) Where it is made to appear to the Commission that there is good reason to investigate the ownership of any share in or debenture of a company and that it is unnecessary to appoint an inspector for the purpose, the Commission may require any person who it has reasonable cause to believe to—
+(a) be or to have been interested in those shares or debentures;
+(b) act or to have acted in relation to those shares or debentures as a legal practitioner or an agent of someone interested therein; or
+(c) give to the Commission any information which the person has or might reasonably be expected to obtain as to the present and past interest in those shares or debentures and the names and addresses of the persons interested, and of any persons who act or have acted on their behalf in relation to the shares or debentures.
+(2) For the purposes of this section, a person is deemed to have an interest in a share or debenture if he has any right to acquire or dispose of the share or debenture or any interest therein or to vote in respect thereof, or if his consent is necessary for the exercise of any of the rights of other persons interested therein, or if other persons interested therein can be required or are accustomed to exercise their rights in accordance with his instructions.
+(3) Any person who fails to give any information required of him under this section, or who, in giving any such information, makes any statement which he knows to be false, or recklessly makes any statement which is false commits an offence and liable to a penalty as the Commission shall specify in its regulations.

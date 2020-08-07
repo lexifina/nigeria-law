@@ -1,11 +1,5 @@
-225. Right to demand poll
-
-(1) Any provision contained in a company's articles shall be void in so far as it would have the effect either of‐
-
-(a) excluding the right to demand a poll at a general meeting on any question other than the election of the chairman of the meeting or the adjournment of the meeting; or
-
-(b) making ineffective a demand for a poll on any such question which is made by any of the persons mentioned in section 224 of this Act.
-
-(2) The instrument appointing a proxy to vote at a meeting of a company shall be deemed also to confer authority to demand or join in demanding a poll, and for the purposes of subsection (1) of this section, a demand by a person as proxy for a member shall be the same as a demand by the member.
-
-(3) Notwithstanding section 224 of this Act and subsections (1) and (2) of this section, there shall be no right to demand a poll on the election of members of the audit committee under section 359 of this Act.
+# 225. Duty of company acquiring property to register subsisting charges
+(1) Where a company acquires any property which is subject to a charge of any such kind as would, if it has been created by the company after the acquisition of the property, have been required to be registered under this Part, the company shall cause the prescribed particulars of the charge, together with a copy (certified in the prescribed manner to be a correct copy) of the instrument, if any, by which the charge was created or is evidenced, to be delivered to the Commission for registration in the manner required by this Act within 90 days after the date on which acquisition is completed:
+Provided that, if the property is situate and the charge was created outside Nigeria, 90 days after the date on which the copy of the instrument could in due course of post, and if despatched with due diligence, have been received in Nigeria shall be substituted for 90 days after the completion of the acquisition, as the time within which the particulars and the copy of the instrument are to be delivered to the Commission.
+(2) If default is made in complying with this section, the company and each officer of the company are liable to such penalty as may be prescribed by the Commission for every day during which the default continues.
+(3) It is sufficient compliance with this section in any case affecting land registered under any enactment in a State, where the charge is registered before the land is acquired by the company, if a true copy of the charge duly certified by the Registrar of Land is delivered to the Commission within the time prescribed by this section.

@@ -1,7 +1,4 @@
-507. Power of court to assess damages against delinquent directors, etc.
-
-(1) If, in the course of winding up a company, it appears that any person who has taken part in the formation or promotion of the company, or any past or present director, manager or liquidator, or any officer of the company, has misapplied or retained or become liable or accountable for any money or property of the company, or been guilty of any misfeasance or breach of duty in relation to the company which would involve civil liability at the suit of the company, the court may, on the application of the official receiver, or of the liquidator, or of any creditor or contributory, examine into the conduct of the promoter, director, liquidator or officer, and compel him to repay or restore the money or property or any part thereof respectively with interest at such rates as the court thinks just, or to contribute such sum to the assets of the company by way of compensation in respect of the misapplication, retainer, misfeasance or breach of trust as the court thinks just.
-
-(2) The provisions of this section shall extend to any receiver of the property of a company, and shall in any case have effect notwithstanding that the offence is one for which the offender may be criminally liable.
-
-(3) Where an order for payment of money is made under this section, the order shall be deemed to be a final judgment of the court.
+# 507. Charged property: floating charge
+(1) The administrator of a company may dispose of or take action relating to property which is subject to a floating charge as if it were not subject to the charge.
+(2) Where property is disposed of in accordance with subsection (1), the holder of the floating charge shall have the same priority in respect of acquired property as he had in respect of the property disposed of.
+(3) In subsection (2), "acquired property" means property of the company which directly or indirectly represents the property disposed of.

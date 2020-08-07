@@ -1,3 +1,5 @@
-523. Affidavits in Nigeria and elsewhere An affidavit required to be sworn under the provisions or for the purposes of this Part of this Act may be sworn in Nigeria or elsewhere in accordance with the provisions of the Oaths Act or under any other enactment or law providing for the administration of oaths and all courts, Judges, commissioners, and persons acting judicially shall take judicial notice of the seal or stamp or signatures (as the case may be) of any court, Judge, person, consul, or vice‐consul, attached, appended, or subscribed to any such affidavit, or to any other document to be used for the purposes of this Part of this Act.
-
-[Cap. O1.] Provisions as to dissolution
+# 523. Discharge of administration order on cessation of administration
+(1) This section applies where—
+(a) the Court makes an order under this Chapter providing for the appointment of an administrator of a company to cease to have effect; and
+(b) the administrator was appointed by administration order.
+(2) The Court shall discharge the administration order.

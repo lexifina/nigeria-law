@@ -1,9 +1,6 @@
-400. Construction of references to receivers and managers It is hereby declared that, except where the context otherwise requires‐
-
-(a) any reference in this Act to a receiver or manager of the property of a company, or to a receiver thereof, includes a reference to a receiver or manager, or as the case may be to a receiver of part only of that property and to a receiver only of the income arising from that property or from part thereof; and
-
-(b) any reference in this Act to the appointment of a receiver or manager under powers contained in any instrument, includes a reference to an appointment made under powers which, by virtue of any enactment, are implied in and have effect as if contained in an instrument.
-
-PART XV Winding up of companies
-
-CHAPTER 1 Preliminary Modes of winding up
+# 400. Power to alter accounting requirements
+The Minister may after consultation with the Financial Reporting Council of Nigeria by regulations in a statutory instrument—
+(a) add to the classes of documents to be—
+(i) comprised in a company's financial statements for a year to be laid before the company in general meeting as required by section 388, or
+(ii) delivered to the Commission under that section, and make provision as to the matters to be included in any document to be added to either class; or
+(b) modify the requirements of this Act as to the matters to be stated in a document of any such class, or reduce the classes of documents to be delivered to the Commission under section 386.

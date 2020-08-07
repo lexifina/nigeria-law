@@ -1,0 +1,3 @@
+# 621. Notice of resolution to wind-up voluntarily
+(1) If a company passes a resolution for voluntary winding-up it shall, within 14 days after the passing of the resolution, give notice of the resolution by advertisement in the Federal Government Gazette or two daily newspapers and to the Commission.
+(2) If default is made in complying with this section, the company and each officer of the company who is in default is liable to a penalty in such amount as the Commission may specify in its regulations and for the purposes of this subsection the liquidator of the company shall be deemed to be an officer of the company.

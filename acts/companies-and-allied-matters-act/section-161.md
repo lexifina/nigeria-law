@@ -1,7 +1,3 @@
-161. Conditions for purchase by a company of its own shares Notwithstanding any provision in the articles, a company shall not purchase any of its own shares except on compliance with the following conditions, that is‐
-
-(a) shares shall only be purchased out of profits of the company which would otherwise be available for dividend or the proceeds of a fresh issue of shares made for the purpose of the purchase;
-
-(b) redeemable shares shall not be purchased at a price greater than the lowest price at which they are redeemable or shall be redeemable at the next date thereafter at which they are due or liable to be redeemed;
-
-(c) no purchase shall be made in breach of section 162 of this Act.
+# 161. Meaning of payment in cash
+(1) Shares are not deemed to have been paid for in cash except to the extent that the company shall have actually received cash for them at the time of, or subsequently to, the agreement to issue the shares.
+(2) Where shares are issued to a person who has sold or agreed to sell property or rendered or agreed to render services to the company or to persons nominated by him, the amount of any payment made for the property or services shall be deducted from the amount of any cash payment made for the shares and only the balance (if any) shall be treated as having been paid in cash for such shares notwithstanding any exchange of cheques or other securities for money.

@@ -1,5 +1,10 @@
-289. Special resolution of limited company making liability of directors unlimited
-
-(1) A limited company, if so authorised by its articles, may, by special resolution, alter its memorandum so as to render unlimited the liability of its directors or managers, or of any managing director.
-
-(2) Upon the passing of any such special resolution, the provisions of it shall be as valid as if they had been originally contained in the memorandum.
+# 289. Proceedings of directors
+(1) The directors may meet together for the dispatch of business, adjourn and otherwise regulate their meetings as they think fit, and the first meeting of the directors shall be held not later than six months after the incorporation of the company.
+(2) Unless the articles provide otherwise, any question arising at any meeting is decided by a simple majority of votes, and in case of an equality of votes, the chairman has a second or casting vote.
+(3) A director may, and the secretary on the requisition of a director shall, at any time summon a meeting of the directors.
+(4) The directors may elect a chairman of their meetings and determine the period for which he is to hold office, but if no such chairman is elected or if at any meeting the chairman is not present within five minutes after the time appointed for holding same, the directors present may choose one of them to be chairman of the meeting.
+(5) The directors may delegate any of their powers to a managing director or to committees consisting of such member or members of their body as they think fit and the managing director or any committee so formed shall, in the exercise of the powers so delegated, conform to any regulations that may be made by the directors.
+(6) A committee may elect a chairman of its meeting, and if no such chairman is elected, or if at any meeting the chairman is not present within five minutes after the time appointed for holding the same, the members present may choose one of them to be chairman of the meeting.
+(7) A committee may meet and adjourn as it deems proper, and any question arising is determined by a majority of votes of the members present, and in the case of equality of votes the chairman has a second or casting vote.
+(8) A resolution in writing, signed by all the directors for the time being entitled to receive notice of a meeting of the directors, is as valid and effectual as if it had been passed at a meeting of the directors duly convened and held.
+(9) In all the directors' meetings, each director is entitled to one vote.

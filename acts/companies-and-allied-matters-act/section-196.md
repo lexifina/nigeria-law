@@ -1,5 +1,2 @@
-196. Notice of refusal to register
-
-(1) If a company refuses to register a transfer of any debentures, the company shall, within two months after the date on which the transfer was lodged with the company, send to the transferee notice of the refusal.
-
-(2) If any default is made in complying with the provisions of this section, the company and every officer of the company who is in default shall be guilty of an offence and liable to a fine of N500.
+# 196. Perpetual debentures
+A company may issue perpetual debentures, and a condition contained in any debenture, or in any deed for securing any debentures, shall not be invalid by reason only that the debentures are made irredeemable or redeemable only on the happening of a contingency, however remote, or on the expiration of a period, however long, any rule of equity to the contrary notwithstanding.

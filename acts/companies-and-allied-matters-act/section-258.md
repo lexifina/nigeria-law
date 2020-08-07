@@ -1,15 +1,8 @@
-258. Vacation of office of director
-
-(1) The office of director shall be vacated if the director‐
-
-(a) ceases to be a director by virtue of section 251 of this Act; or
-
-(b) becomes bankrupt or makes any arrangement or composition with his creditors generally; or
-
-(c) becomes prohibited from being a director by reason of any order made under section 254 of this Act; or
-
-(d) becomes of unsound mind; or
-
-(e) resigns his office by notice in writing to the company.
-
-(2) Where a director presents himself for re‐election, a record of his attendance at the meetings of the board during the preceding one year shall be made available to members at the general meeting where he is to be re‐ elected.
+# 258. Resolutions
+(1) A resolution is an ordinary resolution when it has been passed by a simple majority of votes cast by members of the company as, being entitled to do so, vote in person or by proxy at a general meeting.
+(2) A resolution is a special resolution when it has been passed by at least three-fourths of the votes cast by members of the company as, vote in person or by proxy at a general meeting of which 21 days' notice, specifying the intention to propose the resolution as a special resolution, has been duly given:
+Provided that, if it is so agreed by majority in number of the members having the right to attend and vote at any such meeting, being a majority together holding at least 95% in nominal value of the shares giving that right or, in the case of a company not having a share capital, together representing at least 95% of the total voting rights at that meeting of all the members, a resolution may be proposed and passed as a special resolution at a meeting of which less than 21 days' notice has been given.
+(3) At any meeting in which a special resolution is submitted to be passed, a declaration of the chairman that the resolution is carried is, unless a poll is demanded, conclusive evidence of the fact without proof of the number or proportion of the votes recorded in favour of or against the resolution.
+(4) In computing the majority of a poll demanded on the question that a special resolution be passed, reference shall be had to the number of votes cast for and against the resolution.
+(5) For the purposes of this section, notice of a meeting is deemed to be duly given and the meeting to be duly held when the notice is given and the meeting held in the manner provided by this Act or the articles.
+(6) A company may, by its articles, provide that any matter not required by the articles or this Act to be passed by a special resolution, shall be passed by an ordinary resolution.
