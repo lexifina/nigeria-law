@@ -1,0 +1,1 @@
+10. A person in possession of PCBs containing equipment shall affix hazard signs placards or marks of hazards on the cargo or transport media, including vehicles, wagons, containers and tanks, in accordance with the UN Globally Harmonized System (GHS) of classification and labelling of chemicals as specified in the Third Schedule to these Regulations.

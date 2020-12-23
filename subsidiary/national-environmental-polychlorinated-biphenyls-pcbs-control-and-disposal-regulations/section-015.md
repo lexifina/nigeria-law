@@ -1,0 +1,1 @@
+15. All permit procedures such as application, registration, refusal, suspension, cancellation, appeal and amendment of permits shall be made in accordance with the provisions of the National Environmental (Permitting and Licensing System) Regulations, 2009 and Eight Schedule to these Regulations.
