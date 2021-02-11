@@ -1,0 +1,1 @@
+17. The Agency shall, subject to the provisions of the 1999 Constitution (as amended) and other existing legislations. have the sole responsibility to resolve conflicts arising from multiple provisions in standards stipulated under extant Regulations.

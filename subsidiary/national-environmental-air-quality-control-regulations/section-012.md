@@ -1,0 +1,1 @@
+12. A Person shall not burn or permit to burn standing biomass within the premise or neighbourhood, except where it is authorized in accordance with the National Environmental (Control of Bush or Forest fire and Open Burning) Regulations, 2011.

@@ -1,0 +1,1 @@
+5. Where accidental or unauthorized release or discharge of a contaminant into the air occurs, the person responsible for the release or discharge shall within 24 hours inform the Agency in writing as specified in Schedule II to these Regulations.

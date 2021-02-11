@@ -1,0 +1,1 @@
+28. The importation, handling, storage, transportation and use of chemicals and agrochemicals shall be in accordance with National Environmental (Chemical Pharmaceutical, Soap and Detergent Manufacturing Industries) Regulations, 2009 as Amended

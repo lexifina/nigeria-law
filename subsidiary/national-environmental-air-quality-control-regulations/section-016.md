@@ -1,0 +1,1 @@
+16. Emissions from road vehicles shall be in accordance with the provisions of the National Environmental (Control of Vehicular Emissions from Petrol and Diesel Engines) Regulations, 2011 and other extant Regulations as provided in Schedules IX and X to these Regulations.

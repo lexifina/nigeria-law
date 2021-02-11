@@ -1,0 +1,1 @@
+8. A Person trading or operating an industry or process, in which fuel- burning equipment or industrial plant is used for the heating of metals leading to emissions of particulate matter, shall ensure that the concentration at any point in-stack of particulate matter shall not exceed the standards prescribed in Schedules V and VI to these Regulations.
