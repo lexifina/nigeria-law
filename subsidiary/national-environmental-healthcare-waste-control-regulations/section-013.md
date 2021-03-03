@@ -1,0 +1,1 @@
+13. A health care facility or healthcare waste treatment facility that generates healthcare waste shall ensure that such wastes are stored in appropriate coded containers .at the designated points before its final disposal as prescribed in the Third Schedule to these Regulations.

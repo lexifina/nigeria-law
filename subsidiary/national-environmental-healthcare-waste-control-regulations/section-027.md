@@ -1,0 +1,1 @@
+27. A public or private healthcare facility and waste treatment facility shall provide and ensure that their staff, including technicians and waste handlers. wear appropriate 'personal protective equipment as set-out in the Sixth Schedule to these Regulations.

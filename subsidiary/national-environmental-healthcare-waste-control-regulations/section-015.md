@@ -1,0 +1,1 @@
+15. A health care facility or healthcare waste treatment facility. generator of healthcare waste shall ensure that every container or package for storing such waste is secured, marked and labelled in accordance with the Sixth Schedule to these Regulations.

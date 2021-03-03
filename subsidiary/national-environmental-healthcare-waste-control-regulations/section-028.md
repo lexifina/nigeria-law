@@ -1,0 +1,1 @@
+28. A healthcare waste treatment facility shall not burn or cause to be burnt, any healthcare waste in Nigerian environment except in accordance with National Environmental (Sanitation and Waste Control) Regulations.

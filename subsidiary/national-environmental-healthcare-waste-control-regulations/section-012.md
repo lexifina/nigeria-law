@@ -1,0 +1,1 @@
+12. A health care facility or healthcare waste treatment facility that generates healthcare waste, shall at the point of generation and at all stages, segregate the waste using colour-coded containers and specified bin liners as prescribed in the Seventh Schedule to these Regulations.
