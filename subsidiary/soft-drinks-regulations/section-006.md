@@ -1,3 +1,3 @@
-6. These Regulations may be cited as Soft Drinks Regulations, 2005.
+6.—{1) The Soft Drinks Regulations, 2005 is revoked.
 
-MADE at Abuja this day of DR. ANDEM NYONG ANDEM Chairman Governing Council National Agency for Food and Drug Administration and Control (NAFDAC)
+(2) The revocation of the Regulations specified in sub-regulation (1) shall not affect anything done or purported to have been done under the revoked Regulations.
