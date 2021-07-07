@@ -1,0 +1,1 @@
+2. Milk or dairy products shall not be manufactured, imported, exported, advertised, sold or distributed in Nigeria, unless it has been registered in accordance with the provisions of these Regulations.
