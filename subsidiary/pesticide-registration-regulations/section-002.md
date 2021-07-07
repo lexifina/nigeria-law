@@ -1,9 +1,29 @@
-2. (1) No person shall submit application for the registration of registration of any pesticide unless such pesticide.
+2.—({1) A pesticide shall not be manufactured, formulated, imported, exported, advertised, sold, distributed or used in Nigeria unless it has been registered in accordance with the provisions of these Regulations.
 
-pesticide was manufactured or formulated in an establishment acceptable and approved by the Agency.
+(2) Aperson to whom a certificate of registration has been issued under these Regulations shall not lend, hire, sell, transfer or otherwise dispose of the certificate of registration to any other person without the approval of the Agency.
 
-(2) The application for pesticide registration shall be made on a prescribed application form obtainable from the Agency.
+Commence- ment.
 
-(3) Each application form for the registration shall be accompanied by a non-refundable fee as prescribed by the agency.
+Scope of application.
 
-Submission of
+Prohibition.
+
+* 3. Notwithstanding regulation 2 of these Regulations, a person shall. . Exceptions.
+
+obtain authorisation from the Agency before importation of any unregistered:
+
+pesticides, where the pesticide is—
+
+(a) imported for experimental or research purpose and not for distribution or sale ;
+
+.
+
+en
+
+(5) imported in the event of national disease outbreak or emergency ;
+
+(c) bulk importation for a farm use only ; and
+
+(d) bulk importation of technical grade for the purpose of manufacturing formulated pesticide within the country.
+
++ oe

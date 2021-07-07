@@ -1,0 +1,1 @@
+13. The Agency shall have power to seal up any premises used or being used in connection with any offence under these Regulations until such time as the product is removed or such time as the commission of such offence ceased or such reasonable time as the Minster may deem fit in the circumstance.
