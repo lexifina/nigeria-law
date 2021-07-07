@@ -1,0 +1,1 @@
+12. Where more than one preservative is used in a food, the sum of the ratios of the quantities of each preservative present in the product to the quantities permitted in the product shall be as prescribed by the Agency.

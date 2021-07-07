@@ -1,0 +1,1 @@
+11. A person shall not manufacture, import, export distribute, advertise, display for sale or sell a food that is presented for use by babies, if the food contains food additives, unless permission for such use has been granted by the Agency.
