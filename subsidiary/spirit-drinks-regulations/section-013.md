@@ -1,7 +1,3 @@
-13. Brandy shall be potable alcoholic distillate of wine, in the manufacture of which no additional sugar has been used and held for a period in wooden cask and -
+13.—(1) Pastis is an aniseed-flavoured spirit drink which also contains natural extracts of liquorice root (Glycyrrhiza spp.), which implies the presence of the colorants known as ‘chalcones’ as well as glycyrrhizic acid, the minimum and maximum levels of which must be 0.05 grams per liter and 0.5 grams per liter respectively.
 
-(a) may contain caramel;
-
-(b) may be flavoured with fruit, other approved botanical substances, flavouring, or a mixture of such distillate and ethyl alcohol of agricultural origin and shall contain not less than 37.0 percent of absolute alcohol by volume.
-
-Cognac Brandy.
+(2) The minimum alcoholic strength by volume of pastis shall be 40%.

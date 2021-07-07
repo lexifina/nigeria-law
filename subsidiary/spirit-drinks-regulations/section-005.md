@@ -1,11 +1,23 @@
-5. In addition to compliance with the Food Products of Spirit.
+5. The following conditions shall apply in addition to the provisions of the Agency’s Pre-packaged Food (Labelling) Regulations.
 
-(Advertisement) Regulations 2004, the following shall apply:-
+(a) the name of the Spirits drink shall be presented in a manner as to protect the geographical indications and designation of the Spirits drinks ;
 
-(a) the content of advertisements of spirit drink shall not be misleading and shall be free of health claims;
+(6) the packaging of Spirit drinks in pet bottles, sachet and foils shall be as prescribed by the Agency ;
 
-(b) radio, television or print media, advertisements of spirit drink shall not be permitted in children’s programmes nor shall children, sportsmen or expectant mothers be used as models; and
+Commence- ment.
 
-(c) gift items promoting spirit drinks shall not be directed at children and sportsmen.
+Scope of application.
 
-Specifications for Alcoholic spirit
+Prohibition.
+
+Use and limit.
+
+Restriction on sale of alcoholic spirits.
+
+Labelling information.
+
+(c) Spirit drinks shall display on its label the age restriction of “18+” in bold manner as may be prescribed by the Agency ;
+
+(d) health claims shall not be made on Spirit drinks.
+
+—

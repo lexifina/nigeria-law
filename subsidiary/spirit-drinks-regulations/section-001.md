@@ -1,5 +1,5 @@
-1. (1) No person shall manufacture, import, export, advertise, sell or distribute spirit drink specified in schedule I to these Regulations in Nigeria unless it has been registered in accordance with the provision of these regulations.
+1. These Regulations shall apply to—
 
-(2) No person shall sell any spirit drink unless the main panel of the label carries a declaration of the actual percentage by volume of absolute alcohol contained therein.
+(a) all Spirits drinks, manufactured, imported, exported, distributed, advertised, sold or used in Nigeria ; and
 
-Use and limit.
+(5) the use of ethyl alcohol and distillates of agricultural origin in the production of alcoholic beverages and to the use of the names of Spirits drink in the presentation and labeling of foodstuffs.

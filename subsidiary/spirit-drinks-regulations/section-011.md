@@ -1,13 +1,5 @@
-11.-(1) Distilled gin shall be the product obtained by the redistillation of suitable grain, molasses spirit, other carbohydrate with or over juniper berries:
+11.—(1) The Spirits Drink Regulations, 2005 is revoked.
 
-(a) may contain other approved aromatic botanical substances; or
+Revocation.
 
-(b) sugar or flavourings; or a mixture of such distillate and ethyl alcohol of agricultural origin, and
-
-(c) shall contain not less than 37.0 percent of absolute alcohol by volume.
-
-(2) Gin obtained by simply adding essences or flavourings to ethyl alcohol of agricultural origin shall not qualify for the description “distilled gin” Dry Gin 12.
-
-Dry Gin shall be gin to which no sugar has been added.
-
-Brandy.
+(2) The revocation of the Regulations specified in sub-regulation (1) shall not affect anything done or purported to have been done under the revoked Regulations.

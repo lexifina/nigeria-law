@@ -1,3 +1,5 @@
-10. Gin is the product of the blending of ethyl alcohol of agricultural origin with natural and/or nature identical flavouring substances.
+10. A person convicted of an offence under these Regulations shall Forfeiture forfeit to the Federal Government of Nigeria— ae conviction.
 
-Distilled Gin.
+(a) any asset or property constituting proceeds derived from or obtained, directly or indirectly, as a result of the offence ; and
+
+(5) any of the person’s property or instrumentalities used in any manner to commit or to facilitate the commission of the offence.
