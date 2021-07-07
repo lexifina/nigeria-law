@@ -1,0 +1,1 @@
+5. The use and limits of any food additives in the manufacture of fruit juice and nectar shall be in accordance with the approval of the Agency and as indicated in Fourth Schedule to these Regulations.
