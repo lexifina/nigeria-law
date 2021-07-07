@@ -1,0 +1,1 @@
+3. Advertisements of food products shall be accurate, complete, clear and designed to promote credibility and trust by the general public and health care practitioners and such statements or illustrations contained on the package shall not mislead directly, indirectly or by implication.
