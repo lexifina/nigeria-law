@@ -1,0 +1,1 @@
+2. Non-nutritive sweeteners may be used in special non-nutritive dietary foods or beverages, such as energy-reduced foods or low calories foods or beverages and the use of non-nutritive sweeteners in foods shall be as authorised and prescribed by the Agency.
