@@ -1,0 +1,1 @@
+3. Aperson shall not manufacture, import, export, distribute, sell, display sale, offer for sale, useor advertise in Nigeria any salt for human nsumption unless it has been registered in accordance with the provisions these Regulations

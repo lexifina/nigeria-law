@@ -1,0 +1,1 @@
+10. A salt product shall not be represented as “Reduced in Sodium” ss it contains at least 25% less sodium than regular table salt, labeled with difference in the amount of sodium by percentage, fraction or milligrams.
