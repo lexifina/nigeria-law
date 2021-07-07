@@ -1,0 +1,1 @@
+15. For the exportation of irradiated foods, the food shall be treated in accordance with the requirements of the country, where the foods are being shipped to and all the requirements specified in these Regulations that the host country does not object to.

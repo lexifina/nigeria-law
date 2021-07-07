@@ -1,0 +1,1 @@
+1. These Regulations shall apply to foods processed by ionizing radiation that is used in conjunction with applicable hygienic codes, food standards and transportation codes, manufactured, imported, exported, distributed, advertised, sold or used in Nigeria.
