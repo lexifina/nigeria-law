@@ -1,0 +1,1 @@
+2. Aperson shall not manufacture, import, export, distribute, advertise or sell any Herbal Medicine and its Related Products unless it is labelled in accordance with the provision of these Regulations.
