@@ -1,0 +1,1 @@
+2. Cocoa or cocoa product shall not be manufactured, imported, exported, advertised, sold, distributed or used in Nigeria, unless it has been registered in accordance with the provisions of these Regulations.

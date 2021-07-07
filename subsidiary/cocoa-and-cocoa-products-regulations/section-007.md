@@ -1,0 +1,1 @@
+7. The ash limit provided for cocoa products in these Regulations may be increased for cocoa products processed with alkali as provided in regulation 6 (2) of these Regulations by the amount of ash from the processing agent used.
