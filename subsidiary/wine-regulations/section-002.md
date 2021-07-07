@@ -1,0 +1,1 @@
+2. Aperson shall not manufacture, import, export, advertise, sell, display for sale, offer for sale, or distribute wine specified in First Schedule to these Regulations in Nigeria unless it has been registered in accordance with the provisions of these Regulations.
