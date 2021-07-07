@@ -1,0 +1,1 @@
+9. Herbal medicine and related product shall reflect an overall attitude of the caution in respect to the herbal medicine and related product usage with emphasis on rational therapy and shall also provide sufficient and balanced information to permit assessment of risk or benefit.
