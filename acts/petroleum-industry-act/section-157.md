@@ -1,0 +1,1 @@
+157. The gas purchase order under section I 5 6 of this Act and the escrow mechanism under 154 (g) of this Act shal! be based on the prices for marketable natural gas established by the Authority under section 167 of this Act.

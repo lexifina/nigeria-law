@@ -1,0 +1,7 @@
+91.-(l) Subject to subsection (2), the Commission mny preserve in accordnnce with appl icuble law, u right of way, casement or other right over an aren to which a petroleum prospecting licence, u petroleum exploration licence or a petroleum mining lease, which the Commission considers uecessary for the laying, operation und mainie1rn11cc of pipcl i nes, telepk1ne I ines and power lines and any right of way or other righ l rese rvcd slm 11 continue for the benefit of any person Lo whom the Commission mny subsequently grant the same.
+
+(2) Where a holder of a petroleum prospecting l iccnce, petroleum exploration licence or petroleum mining lease is oft he opinion that a reservation made by the Commission under subsection (I) affects Lhe health, safety or environment of a person, the licensee or lessee may object to Lhe reservation in writing and the Commission shall reconsider the rcs,:rv,ition in light of the objection.
+
+(3) The holder of a petroleum prospecting licence, a petroleum exploration I ice nee or a petroleum mi 11 i ng I ease sha ! l- ( a) be entitled to enter and remain on the land that is the subject of the ! ice nee or lease and do such things that are not prohibited by applicable law or under the licence or lease ; and
+
+(b) comply with applicable law relating to town or country p!ann ing or reg~dating the construction, alteration, repair or demo I ition of bui !d ings, or providing for similar matters, which relates to the c.irryi ng 0111 of operations authorised by the licence or lease.

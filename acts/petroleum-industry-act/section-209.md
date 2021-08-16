@@ -1,0 +1,1 @@
+209. The Authority may issue regulations imposing public service obligations on ticensees or a class of licensees. in relation to :he r'naintenance of strategic stock for which the Authority sh au· approve a tariff to be paid by the consumers.

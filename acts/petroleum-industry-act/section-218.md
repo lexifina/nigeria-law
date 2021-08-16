@@ -1,0 +1,1 @@
+218. A person engaged in petroleum operations, which require a lease, I icence or perm it by the Commission or Authority under this Act, shal I register its undertaking with the Commission or Authority, as the case may be and provide information concerning the activities of the undeJtakings as may be prescribed in regulations.

@@ -1,0 +1,1 @@
+238. Unless as otherwise provided for in this Act, failure by any holder of al ice nee or lease governed by this Act to comply with its obligations under this Chapter, after having been informed of such failure in writing by the· Commission or Authority as the case may be, may be grounds for revocation of the applicable licence or lease.

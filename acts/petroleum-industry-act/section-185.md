@@ -1,0 +1,1 @@
+185. A crude oil refiner shall have the right of access to facilities, including harbours, jetties, petroleum bulk storage, transportation facilities and pumping installations in accordance with the open access or third party access requirements ·and the tariff methodology approved by the Authority.

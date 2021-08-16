@@ -1,0 +1,1 @@
+253. The financial year of the host communities development trust shall commence on l st January and end on 31 st December of each year or any other date set for this purpose by the Board of Trustees.

@@ -1,0 +1,3 @@
+135.-{1) Subject to sections 111 and 125 of this Act, the Authority may upon approval of an application and payment of prescribed fees, grant and issue a qualified person a gas transportation pipeline licence with the exclusive right to own, construct, operate and maintain a gas transportation pipeline within a route as defined in the licence for its own account with third party access provisions or as common carrier as stipulated in the licence.
+
+(2) The Authority shall, in considering an application for a gas transpmtation pipeline licence, take into account the economic case for a gas transpo11ati on pipe I ine, inc I ud ing the potent ia I demand for its use.

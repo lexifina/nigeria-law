@@ -1,0 +1,1 @@
+261. There shall be levied upon the profits of any company engaged in upstream petroleum operations in relation to crude oil a tax to be known as hydrocarbon tax, which shall be charged and assessed upon its profits related to the operations and payable during each accounting period in accordance with this Act.

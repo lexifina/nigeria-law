@@ -1,0 +1,1 @@
+207. Where under section 205 (2) of this Act, the Authority regulates the tariffs and prices of a licensee, the Authority shall allow the se!ler to recover reasonably and prudently incurred costs, including a r:asonable return on the capital invested in the business.

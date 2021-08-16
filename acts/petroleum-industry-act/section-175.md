@@ -1,0 +1,3 @@
+175. In addition to any matter provided under section 113 of this Act, the Authority may issue regulations with respect to midstream and downstream petroleum liquids operations, which shall include--
+
+(a) the establishment and operation of a wholesale market. to ensure the continuity of supply of petroleum products to customers, that will apply to the owners and operators of crude oil refineries, transpo11ation pipelines and other facilities or vessels for the bulk transprntation of petroleum liquids, bulk storage facilities for petroleum liquids and terminals and outlets for retail trading of petroleum products; and ( b) matters ancillary to or consequent ia I on the activities set out in paragraph (a).

@@ -1,0 +1,1 @@
+182. The Authority shall ensure that all companies with a licence for the bulk storage of petroleum products granted under section 187 of this Act maintain operating stocks in accordance with guidelines published by the Authority.
