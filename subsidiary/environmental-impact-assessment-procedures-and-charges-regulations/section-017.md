@@ -1,0 +1,1 @@
+17. The Ministry shall during the implementation of the project, monitor the progress of the project from site preparation to commissioning in order to ensure compliance with all stipulated mitigation measures and project specifications.

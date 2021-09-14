@@ -1,0 +1,1 @@
+1. The objective of these Regulations is to indicate the procedure in the Environmental Impact Assessment (EIA) process from project conception to commissioning and follow-up activities in order to ensure that the project is implemented with maximum consideration for the environment.

@@ -1,0 +1,1 @@
+18. An environmental auditing including post commissioning which involves a periodic assessment of the positive and negative impacts of the project shall be carried out by the Ministry to help improve the EIA process.

@@ -1,0 +1,1 @@
+4. Upon receipt of the project proposal and the completed EIA registrations from the proponent, the Ministry shall carry out an Initial Environmental Examination (IEE) and assign the project or activity into category I, II, or III project.
