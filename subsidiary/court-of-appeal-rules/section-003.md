@@ -1,0 +1,1 @@
+3. The Court shall have power to draw inferences of fact and to give any judgment and make any order, which ought to have been given or made, and to make such further or other order(s) as the case may require, including any order as to costs.

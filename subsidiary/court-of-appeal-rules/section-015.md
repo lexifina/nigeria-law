@@ -1,0 +1,1 @@
+15. In case any party finds it difficult to comply with the provisions of Rules 13 and 14 of this Order, owing to the nature of documents or exhibits or owing to its being in the possession of a third party or for any reason, he may apply to the Registrar of the Court for directions.

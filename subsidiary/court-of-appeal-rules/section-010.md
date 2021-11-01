@@ -1,0 +1,1 @@
+10. An appeal is entered in the Court when the Record has been received in the Registry of the Court within the time prescribed by the Rules or within such other extended time as ordered by the Court.
