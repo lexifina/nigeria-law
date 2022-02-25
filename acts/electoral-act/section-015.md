@@ -1,1 +1,1 @@
-15. The·Commission shall cause a voters' register for each State to be printed and any person or pol itical party may obtain from the Commission, on payment of such charges, a certified copy of any voters' register for the State or for a Local Government or Area Council or registration area with in it.
+15. Power to print or issue register of voters.

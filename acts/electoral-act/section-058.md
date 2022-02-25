@@ -1,1 +1,1 @@
-58. No person shall be permitted to vote at any polling unit other than the one to which he is allotted.
+58. Conduct at polling units.

@@ -1,7 +1,3 @@
-7. The Commission may appoint one or more committees to carry out any of its functions under this Act.
+7. Committees of the Commission.
 
-Electoral Act
-
-2010 No.6
-
-PART Il-STAFF oF THE CoMMISSION
+PART II—STAFF OF THE COMMISSION

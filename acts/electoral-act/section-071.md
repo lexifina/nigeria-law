@@ -1,1 +1,1 @@
-71. The Conl'lnission shall cause to be posted on its notice board and website a notice showing the candidates at the election and their scores; and the person declared as elected or returned at the election.
+71. Result forms to be signed and countersigned.

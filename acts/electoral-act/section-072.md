@@ -1,1 +1,1 @@
-72. The Chief Electoral Commissioner or any officer authorized by him shall keep official custody of all the documents, including statement of results and ballot papers relating to the election, which are returned to the Commission by the Returning Officers.
+72. Certificate of return.

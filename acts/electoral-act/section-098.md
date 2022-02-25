@@ -1,1 +1,1 @@
-98. A political party registered by the Commission i n accordance w i th the provisions of any law i n force i mmediately before the coming into force of the Constitution and this Act shall be deemed to have been duly registered under this Act.
+98. Powers of the Commission.

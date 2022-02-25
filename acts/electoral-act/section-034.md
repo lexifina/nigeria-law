@@ -1,1 +1,1 @@
-34. The Commission shall, at least 30 days before the day of the election publish by displaying or causing to be displayed at the relevant office or offices of the Commission and on the Commission's web site, a statement of the full names and addresses of all candidates standing nominated.
+34. Death of a candidate.

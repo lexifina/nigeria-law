@@ -1,1 +1,3 @@
-97. Where a political party ceases to exist in accordance with the Constitution and this Act, a person elected on the platform of the political party in an election under this Act shall remain validly elected, complete his tenure, and, for p urposes of identification, be regarded as a member of the political party under which he was elected.
+97. Campaign based on religion or tribe.
+
+PART VI—PROCEDURE FOR ELECTION TO AREA COUNCIL

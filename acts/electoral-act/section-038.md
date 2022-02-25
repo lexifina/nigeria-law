@@ -1,1 +1,1 @@
-38. Where at the close of nomination there is no candidate validly nominated, the Commission shall extend the time for nomination and fix a new date for the election.
+38. When poll is required.
