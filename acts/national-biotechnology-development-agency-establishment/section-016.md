@@ -1,0 +1,1 @@
+16. The salaries, allowances and benefits of the staff of the Agency shall be in accordance with the conditions of service of the Agency as may be approved by the Board in consultation with the National Salaries, Income and Wages Commission.

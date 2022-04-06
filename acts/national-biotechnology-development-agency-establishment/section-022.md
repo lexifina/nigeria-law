@@ -1,0 +1,1 @@
+22. The Agency shall, not later than 30th September in each year, submit to the Board for approval, its programme of work and estimate of its income and expenditure including payments into the Agency’s fund for the next succeeding year.

@@ -1,0 +1,1 @@
+21. Subject to the approval of the Board, the Agency may invest its income in profitable production of goods by joint venture, partnerships, or shareholding as the case may be, and the net income so generated shall be paid into the Fund.

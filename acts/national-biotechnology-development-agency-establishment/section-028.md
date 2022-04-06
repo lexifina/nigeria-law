@@ -1,0 +1,1 @@
+28. The Agency may, subject to the Land Use Act, purchase, lease any interest in land, building or property, or build, equip and maintain such other offices and premises for the efficient performance of its functions under this Act.
