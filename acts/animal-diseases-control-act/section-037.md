@@ -1,1 +1,0 @@
-37. Equine Encephalomyelitis

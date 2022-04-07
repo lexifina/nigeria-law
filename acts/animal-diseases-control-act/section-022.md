@@ -1,1 +1,0 @@
-22. Coccidiosis

@@ -1,403 +1,161 @@
-ANIMAL DISEASES (CONTROL) ACT
+Extraordiuary Federal Republic of Nigeria Official Gazette No. 70 Lagos - 13th April, 2022 Gover11111e111 Notice No. 62 The following is published as supplement to this Gazette:
 
-ARRANGEMENT OF SECTIONS SECTION
+Act No.
 
-1. Importation of animals, hatching eggs and poultry.
+Short Title Animal Diseases (Control) Act, 2022 ..
 
-2. Importation of animal products.
+Printed and Published by The Federal Government Printer, Lagos, Nigeria FGP 84/42022/650 Vol. 109 Page A269-35 I Annual Subscription from Isl January, 2022 is Local: N45.000.00 Overseas: N60.500.00 [Surface Maill N75,000.00 I Second Class /\ir Mail]. Present issue N3,500 per copy. Subscribers who wish 10 obtain Ga=eue aller I st January should apply 10 the Federal Government Printer, Lagos for amended Subscriptions.
 
-3. Importation of biologics.
+Scanned with CamScanner , ..
 
-4. Importation of infectious agent.
+ANIMAL IHSt,:ASES (CONTHOL) ACT, 2022 Iƃ, '\,Ii /\1rnAN(;EMENT OF SECTIONS • $ecrio11 :
 
-5. Seizure or destruction of animal, etc.
+I.
 
-6. Exportation of animals, etc.
+2. _,.
 
-7. Surveillance of importation.
+4. 5.
 
-8. Notification of disease.
+6. 7.
 
-9. Disposal of diseased animals.
+8. 9.
 
-10. Offences.
+10. 11.
 
-11. Compensation.
+12. 13.
 
-12. Control of trade animals.
+14. 15.
 
-13. Veterinary loading permit for trade animals.
+16. 17.
 
-14. Trade animal licence.
+18. 19.
 
-15. Contravention of sections 13 and 14.
+20. 21.
 
-16. Duties of an owner of trade animal.
+22. 23.
 
-17. Offences of trade animal owner.
+24. 25.
 
-18. Control of hatcheries and poultry farms.
+26. 27.
 
-19. Licence for hatchery and poultry farm.
+28. 29.
 
-20. Powers of the Minister.
+30. lmpot1atinn of nnimuls and a11imnl products or commodities.
 
-21. Regulations.
+1mportation of veterinary biologics, veterinary medicinal products and others.
 
-22. Burden of proof by owner of diseased animal.
+Exportation of animals and animal products .
 
-23. Interpretation.
+Seizure or destnrction of animals and animal products or commodities.
 
-24. Short title.
+Surveillance of imported animals and animal products or commodities.
 
-SCHEDULES
+Routine survei I lance.
 
-FIRST SCHEDULE Diseases of Animal
+Surveillance of diseases of wildlife species.
 
-SECOND SCHEDULE Location of quarantine stations
+Notification.
 
-THIRD SCHEDULE List of International Control Posts List of Inter-State Control Posts
+Disease traceability and identification of animals.
 
-FOURTH SCHEDULE Animal Import Permit for Animals
+Disposal of animal carcass and feed.
 
-FIFTH SCHEDULE Animal Import Permit for day-old chicks, day-old turkey chicks, etc., and eggs of birds for hatching
+Animal semen and germ plasm control.
 
-SIXTH SCHEDULE Animal Semen Import Permit
+Registration and control of animal farms and hatcheries.
 
-SEVENTH SCHEDULE Trade Animal Licence (annual) (endorsements)
+Licence for animal farms and hatcheries.
 
-EIGHTH SCHEDULE Trade Animal Licence (temporary)
+Monitoring and control.
 
-NINTH SCHEDULE Veterinary Movement Loading Permit
+Registration and control of Live Animal Markets (LAM).
 
-TENTH SCHEDULE Licence for poultry [arm/hatchery establishment
+Annual registration and certification of butchers in abattoirs and slaughter slabs.
 
-ELEVENTH SCHEDULE Animal vaccine, infectious agents and other biologics Import Permit
+Control of animal movement and animal products or commodities.
 
-TWELFTH SCHEDULE Animal Export Permit (pet birds and animals) An Act to provide for the control and prevention of animal diseases, with the object of preventing the introduction and spread of infectious and contagious diseases among animals, hatcheries and poultries in Nigeria.
+Permit for loading and movement of trade animals.
 
-[Commencement] [24th February, 1988]
+Veterinary licence for trade animals, pet foods, veterinary medical devices, and veterinary products.
 
-1. Importation of animals, hatching eggs and poultry
+Biosecurity.
 
-(1) As from the commencement of this Act, the importation of any animal, hatching eggs or poultry into Nigeria from any other country by land, sea or air is prohibited except under a permit, in the form set out in the Fourth or Fifth Schedule to this Act, granted by the Director who in each case shall state the conditions under which the animal, hatching eggs or poultry may be imported.
+Duty to protect animal welfare.
 
-[Fourth and Fifth Schedules.]
+Prohibition on animal cruelty.
 
-(2) Any animal, hatching eggs or poultry imported by land, sea or air may be subjected to such examination, disinfection, inoculation and quarantine at the risk and expense of the owner thereof as the Director may deem necessary.
+Experimentation animals.
 
-(3) Any animal, hatching eggs or poultry which for the purposes of trade is brought into Nigeria across an international border whether on the hoof or by road, rail, sea or air shall be subject to inspection at any of the quarantine stations or control posts listed in the Second and Third Schedules to this Act by an authorised officer for the purposes of ascertainment that such animal, hatching eggs or poultry is duly permitted to travel and fit to do so.
+Responsible pct ownership.
 
-[Second and Third Schedules.]
+Rabies prevention and control.
 
-2. Importation of animal products The importation of animal semen, egg or any other animal product into Nigeria from any country is prohibited except under a permit, in the form set out in the Sixth Schedule to this Act, granted by the Director who may in each case state the conditions under which the semen, egg or any other animal product may be imported.
+Prevention and control of diseases of bees.
 
-[Sixth Schedule.]
+Prevention and control of transboundary and zoonotic animal disease.
 
-3. Importation of biologics The importation of any biologics into Nigeria from any country is prohibited except under a permit, in the form set out in the Eleventh Schedule to this Act, granted by the Director who may state the condition or conditions under which the biologics may be imported.
+Aquatic animal health.
 
-[Eleventh Schedule.]
+Animal disease contingency and preparedness plan.
 
-4. Importation of infectious agent The importation into Nigeria of any infectious agent in any form is prohibited except under a permit, in the form set out in the Eleventh Schedule to this Act, granted by the Director.
+National Coordinating Centre for Animal Health Emergencies Scanned with CamScanner
 
-[Eleventh Schedule.]
+2022 No. 12 Animal Diseases ( 'ontrol) Act, 2022
 
-5. Seizure or destruction of animal, etc.
+31. Compcnsntion.
 
-Any animal, animal products, biologic or infectious agent which is not imported in accordance with the provisions of sections 1, 2, 3 and 4 of this Act shall be seized or caused to be destroyed immediately on arrival by the Director, or by an authorised officer without prejudice to the imposition of any penalty for the contravention of these provisions:
+32. Detection, prevention nncl control oftransboun<lary animal pests.
 
-Provided that such seizure or destruction shall be reported without delay to the magistrates having jurisdiction in that area.
+33. E11forccmcnt of' nnimal diseases control rmd prevention measures.
 
-6. Exportation of animals, etc.
+34. Disensc prevention n11d control through food of animal origin.
 
-The exportation of any animal, hatchery eggs or poultry out of Nigeria to any other country by land, sea, or air is prohibited except under a permit, in the form set out in the Twelfth Schedule to this Act, granted by the Director who in each case shall state the conditions under which the animal, hatching eggs or poultry may be exported.
+35. Control ofhnzards a11u antimicrobial resistance.
 
-[Twelfth Schedule.]
+36. The use and administration of veterinary medicinal products in veterinary clinics, animal farms and wildlife.
 
-7. Surveillance of importation
+37. Prevention and control of diseases affecting animal hides and skin.
 
-(1) If a veterinary officer, police officer or any authorised officer has reason to believe that there is in any premises, animal, animal product, biologic or infectious agent which has been imported into Nigeria in contravention of the provisions of this Act, he shall-
+38. Prohibition of the use of unlicensed premises.
 
-(a) within reasonable time enter, inspect the premises and examine any suspected animal, animal product, biologic or infectious agent therein;
+39. National One Health Advisory Committee.
 
-(b) demand, from the owner or person in charge or in possession, for the evidence of permission to import such animal, animal product, biologic or infectious agent found on the premises;
+40. Powers of the Minister.
 
-(c) where he has reasonable ground to believe that such animal, animal product, biologic or infectious agent, has been imported without permit, seize or detain such animal at the risk and expense of the owner or importer for a period of not less than 24 hours, after which the animal, animal product, biologic or infectious agent shall be quarantined or penalty shall be imposed if no proof of permission to import can be produced.
+41. The responsibilities of CV ON.
 
-(2) Any person who is guilty of any such breach, non-compliance or contravention under this section shall be guilty of an offence and shall be liable on conviction to a fine of not less than N1,000 or imprisonment for three months or to both such tine and imprisonment.
+42. Delegated authority.
 
-8. Notification of disease
+43. Designated official laboratories.
 
-(1) Any person having in his charge or under his control any animal infected or suspected to be infected with any of the diseases listed in the First Schedule to this Act shall keep such animal separate from other animals not so infested or suspected to be infected and shall forthwith give notice of the fact of the animal being so infected or suspected to be infected to a veterinary officer or the nearest veterinary surgeon or the prescribed officer in the Local Government Area.
+44. Regulations.
 
-[First Schedule]
+45. General offences and penalties.
 
-(2) When any animal so infected or suspected to be infected is being transported, neither such animal nor any animal with which it has been in contact shall be moved except in so far as may be necessary for effecting isolation or for procuring food or water pending the directions of a veterinary officer.
+46. Presumptions and evidence.
 
-(3) Every veterinary officer, veterinary surgeon or prescribed officer receiving a notification under subsection
+47. Arbitration.
 
-(1) of this section or otherwise becoming aware that any animal within the limit of his jurisdiction is infected with disease shall take measures to enforce the provisions of this section with regard to the isolation and non-movement of the animal and shall forthwith notify the nearest magistrate or police officer.
+48. Repeal.
 
-(4) A veterinary officer, if he is of the opinion that any animal is infected with any disease, or if he has reason to believe that any animal has been exposed to infection, shall administer veterinary vaccines or biologicals or issue such orders, directions or prohibitions as he may consider necessary or advisable to prevent the spread of the disease and may cause any such animal to be slaughtered if he considers that the slaughter of such animal is necessary for the prevention of the spread of the disease and shall inform the police forthwith.
+49. Interpretation.
 
-(5) All veterinary vaccines shall be handled, sold or administered only by a veterinary surgeon or prescribed officer.
+50. Citation.
 
-9. Disposal of diseased animals
+SCHEDULE \ \ I I I I I Scanned with CamScanner AN 1 1\ 1 A L l) I S E t\ S ES ( :ONTltOI ,) C'I\ 2022 ACT Nu. 1 2 i\ Acn R t Tl · ,'\t. l t l l : /\ N 1 t-1A1 . 1 ) 1 s1 ,,-;1 s ( t 'nN 1 H 1 ,1.
 
-(1) Where any animal-
+t\ c · , , C ' "l '. /\ 1 7 , 1 .AWS < JI 1 1 11:
 
-(a) dies of a disease or is slaughtered in accordance with the provisions of this Act; or
+f'F I l·R i\1'1\ 1 l I· N ll i l· IU,\ , '... 00• 1 1\ I ) ENAl ' I 1 1 11 : /\ N I 1 A I . D 1 Sl ·.Ni l• S ( ;ON 1 1 1 11 . ) /\ cr 1 1 ,r I I IF I l llH 1.'F \ F I RF VF N I ION , Dt· l l -l ' l ll lN , '0N 1 1tn1. ANI > 1-'.tt ,\ l ll! 'A I ION OF l r n- 1 C ' r l< JI JS /\ N i l \ ) 1 1\( i ll)l lS Tit SIIO\ I I ) I\ Y 1\N I > 7.uoNO I I ' /\ I M /\ 1 . D t Sl· /\'-,1 <;, l 'u t .Vf· N 'III J I I JI· ,\ T I MI 'IU HI I. RESIS r Nl'I: T1 mnt ll 1 1 l 1 1 11 :
 
-(b) is slaughtered otherwise than in accordance with the provisions of this Act, and its carcass is in the opinion of the veterinary officer infected with disease, such carcass shall be disposed of by burning or in such manner as the veterinary officer may direct.
+'\ lN l ll( ll, /\ N I ) R U il J I . A l l()N o,. ·1 1 1 1: I J. E A r i f ) I
 
-(2) Any fodder, litter, utensils, pens or any other thing which may, in the opinion of a veterinary officer, have come in contact with such animal or its carcass shall be disposed of as directed by the veterinary officer.
+1 I N lٹ11, i\TI N O F V n rn t NARY B tOl .( )( l l ·s , VF l l' IU N /\ll Y I J il l J( IS M I i l ' 1 11-.MI '/\ 1 .S f ٺ J\ I 1 1\1. S.
 
-(3) A veterinary officer-
+N I ' "' - PtH)l)l J C l ' S , M rn1 'A l l· I ) t\ N I 1 A I . F1-.1 l )S, S/\1 .1:S /\ NI > l ) 1s rn 1 111 J rtON ()F I :r F\)()I), . V El'FR IN R Y M rn1 'AL DE V l l 'l·.S , 0 1 1 11 :ll V E'l l: lll NA ll Y l 'l« Jl >I J ' I S, /\Nfl F Oi 'ri f f·.
 
-(a) may, for the purpose of examining a diseased animal and after disclosing his identity, enter into any premises and may, for the purpose or diagnosing diseases, take blood smears and apply such tests as he may consider necessary; or
+ENI I NCF MENT OF A !MAL W Et .FJ\llE i\N l l Forn, SAl'l: 'IY ; A N ( > I Oil R l:I .Ml.f ) M ATTf:f(S
 
-(b) may seize and detain any animal in relation to which any such breach, non-compliance or contravention has been committed, provided that such seizure and detention shall be reported without delay to a magistrate or police officer having jurisdiction in the area in which the animal has been seized.
+1_7 th Day of April, 2022 1 E ACTFD by the National Assembly of the Federal Republ ic of Nigeria­
 
-10. Offences
-
-(1) Except as otherwise provided in this Act, any person who is guilty of an offence, non-compliance or contravention of this Act, shall be guilty of an offence and shall be liable on conviction to a fine of N250 or to imprisonment for three months, and any animal in relation to which the offence has been committed may be forfeited.
-
-(2) Whenever a magistrate is satisfied by evidence on oath that there is reason to believe that an offence has been committed in relation to any animal which has been seized and detained but that the offender is unknown or cannot be found, he may order the forfeiture of such animal:
-
-Provided that, no order shall be carried out under this subsection unless the owner (if his name and whereabouts be known) of such animal shall have had opportunity of appearing before the magistrate to show cause why the order should not be complied with.
-
-(3) Whenever a magistrate is satisfied by evidence on oath that there is reason to believe that an offence has been committed in relation to any animal which has been seized and detained, he may order the owner of such animal to pay into court such sum as he may consider reasonable to cover the expenses of the seizure, removal and detention of the animal, and unless such sum be paid within such time as may be specified in the order, the animal shall be forfeited.
-
-11. Compensation
-
-(1) Compensation may be paid to the owner of any animal which is slaughtered or of any hide or skin or other part of a carcass which is destroyed under this Act.
-
-(2) Compensation shall not be paid in respect of any animal which is, or is suspected of being infected with rabies or in respect of any animal in relation to which any offence under these or any other provisions under this Act has been committed, or in respect of any hide or skin or other part of any carcass which is certified by a veterinary officer to be infected with disease.
-
-(3) Where any animal is slaughtered or any hide or other part of any carcass is destroyed according to the provisions of section 8 of this Act, a certificate by a veterinary officer that such animal or hide or skin or other part of the carcass was infected with disease shall be accepted as conclusive proof thereof in any legal proceedings.
-
-(4) The compensation which may be paid in respect of an animal slaughtered or any hide or skin or part of a carcass destroyed in accordance with the provisions of this Act shall not exceed the value of the animal or hide or skin or part of the carcass immediately before it was slaughtered or destroyed.
-
-(5) Claims for compensation shall be made in writing to the Minister or Commissioner through a magistrate having jurisdiction in the area in which the animal was slaughtered, and the Minister or Commissioner if, after such inquiry as he may think proper, is satisfied that compensation may be paid in the circumstances of the claim, shall assess the compensation and direct the payment thereof.
-
-12. Control of trade animals
-
-(1) The Minister may, by notice published in the Federal Gazette, specify the areas to which the provisions hereunder shall apply.
-
-(2) The Minister or Commissioner may by notice published in the Federal Gazette establish more inspection stations and control posts at specified places.
-
-(3) The control of trade animals prescribed under this Act shall be exercised by the Director, Federal Livestock Department or the Chief Veterinary Officer, as the case may be.
-
-(4) Any person in charge of trade animals entering from any place outside Nigeria into any area in Nigeria shall move all the animals by the most direct route to the nearest control post.
-
-(5) Where trade animals have been purchased, the person in charge shall, before moving them out of the area where they were situated at the time of purchase, move them to the nearest control post within such area.
-
-(6) Where trade animals are being moved from one area to another for the purpose of being slaughtered they may be moved without restriction, provided that, the distance to be travelled does not exceed thirty kilometres measured by the most direct cattle route and there is no control post along such route.
-
-(7) Where trade animals are transported by rail or road for a period exceeding twelve hours the person in charge shall be required to stop to feed, water and rest such animals every twelve hours.
-
-(8) Where trade animals are transported by road or rail-
-
-(a) horned animals shall either be securely tied or separated by a partition from polled animals;
-
-(b) animals of different sexes or age groups shall also be separated;
-
-(c) cattle shall be separated from sheep, goats and pigs;
-
-(d) to provide adequate ventilation in the lorry, a vehicle of size 7.93m x 2.1 m x 2.74m (26' x 7' x 9') shall carry not more than five cattle, sixteen to eighteen calves, 100 -110 pigs (on two decks) and l70 - 190 sheep (on three decks);
-
-(e) the height between two decks shall be at least 0.86m - 1.14m (2'.10" - 3' .9");
-
-(f) vehicles with three decks shall have a permanent roof.
-
-(9) Where trade animals are carried on a vehicle, loading or unloading ramps shall be installed to reduce the incidence of fractures and bruises.
-
-(10) The person in charge of any trade animal shall, before removing them from any control post, obtain from the authorised officer, a veterinary movement loading permit in the form set out in the Ninth Schedule to this Act (in this Act referred to as "movement permit") in which shall be set out the route to be followed and the control posts through which all the animals shall pass.
-
-[Ninth Schedule.]
-
-(11) Any person in charge of any trade animal shall, until the destination mentioned in the permit has been reached, at all times keep such permit in his possession and shall on demand produce the same for inspection by any authorised officer.
-
-(12) An authorised officer shall inspect any trade animal brought to any of the control posts specified in the Third Schedule to this Act and the authorised officer may, if he thinks fit, brand or affix any identification mark to such animals and he may for the cure or prevention of any disease detain such animal for the purpose of observation or treatment at a control post.
-
-[Third Schedule]
-
-13. Veterinary loading permit for trade animals
-
-(1) No trade animal shall be loaded on a railway wagon, motor vehicle, river or ocean vessel or on any aircraft for transportation from one area to another unless the owner of such animals is in possession of a movement permit issued by the authorised officer.
-
-(1) In respect of each consignment of trade animals, the movement permit shall be in the form set out in the Ninth Schedule to this Act and shall be valid for a specific journey only.
-
-[Ninth Schedule.]
-
-(3) The movement permit shall not be issued unless the authorised officer is satisfied that the provisions of this Act in respect of trade animals have been complied with and that such animals are in his opinion, fit to travel.
-
-(4) A movement permit shall only be issued to a person who has been duly authorised under this Act.
-
-14. Trade animal licence
-
-(1) The owner of a trade animal licence shall not transport such animal by rail, motor vehicle, river or ocean vessel or by aircraft unless he is the holder of an annual licence granted in that behalf by the authorised officer.
-
-(2) An annual licence shall be granted only to an owner who, during twelve months prior to the date of the granting of such licence, has transported by rail, motor vehicle, river or ocean vessel or by aircraft not less than
-
-1,000 animal units.
-
-(3) An annual licence shall not be transferable and shall be in the form set out in the Seventh Schedule hereto and the fee payable shall be N100.
-
-[Seventh Schedule.]
-
-(4) An owner of trade animals who has not qualified for an annual licence may be granted a temporary licence which shall be valid for a period of three months including the month of issue.
-
-(5) A temporary licence shall not be transferable and shall be in the form set out in the Eighth Schedule to this Act and the fee payable shall be N35.
-
-[Eighth Schedule.]
-
-15. Contravention of sections 13 and 14
-
-(1) Any person granted a licence under section 14 of this Act who fails to drive or take the trade animal through the specified route and control post contravenes the provisions of this Act, provided that, no animal infected or suspected of being infected with disease shall be driven, taken or moved, except in so far as may be necessary for effective isolation or for procuring food and water pending the direction of the authorised officer.
-
-(2) A person shall not be deemed to have contravened section 13 of this Act where he sells any or all of his animals before securing the place or destination mentioned in the permit, provided that, no animal infected or suspected of being infected with disease shall be sold except with the authority of the authorised officer; but he shall-
-
-(a) in the case of slaughter or sale of one or more animals in respect of which the movement permit has been issued, report the fact of such slaughter or sale at the next control post on the prescribed route, and in the case of any sale, full particulars of the place, date and the names of the purchaser; or
-
-(b) in the case of slaughter or sale resulting in the disposal of all animals in respect of which the movement loading permit has been issued, report the fact of such slaughter or sale either to the next control post on the prescribed route or the control post which he last departed from and in the case of any sale, full particulars of the place, date and name of the purchaser or purchasers.
-
-16. Duties of an owner of trade animal The person in charge of any trade animal which shows any symptoms of suffering from any disease or dies while in the process of being moved from one place to another, shall report the illness or death of such animal to the authorised officer on arrival at the first inspection station or control post, along the prescribed route, and in the case of death of the animal, shall dispose of the carcass as directed by the authorised officer.
-
-17. Offences of trade animal owner
-
-(1) Any person who-
-
-(a) fails to take any trade animal to a control post or fails to take them by the most direct route as provided by this Act or refuses to obey the instructions of the authorised officer regarding the inspection, treatment or detention of the animals in quarantine, or regarding the disposal of dead animals; or
-
-(b) removes any trade animal from such inspection station or control post without movement permit; or
-
-(c) fails to report the slaughter, death or illness of any trade animal; or
-
-(d) fails to produce a movement permit for inspection when required to do so, shall be deemed to have contravened the provisions of this Act.
-
-(2) Any person contravening any provisions of this section shall on conviction be liable to a fine not exceeding N100 or to imprisonment for a term not exceeding thirty days for the first offence and to a fine not exceeding N200 or to imprisonment for a term not exceeding two months for each subsequent offence.
-
-18. Control of hatcheries and poultry farms
-
-(1) Any person who establishes or intends to establish a hatchery or a poultry farm of up to 250 birds shall be required to obtain a licence for its establishment from the Chief Veterinary Officer of the State in which the hatchery or farm is situate.
-
-(2) All existing hatcheries and poultry farms of up to 250 birds shall be required to be registered within six months of the coming into effect of this Act.
-
-(3) The owner of a hatchery or poultry farm shall manage and maintain such hatchery and poultry farm in a reasonable hygienic condition and comply with all vaccination measures in force in the State so as to prevent the outbreak and spread of disease.
-
-19. Licence for hatchery and poultry farm
-
-(1) A registration licence in the form set out in the Tenth Schedule to this Act shall be issued in respect of each hatchery or poultry farm established in any one location.
-
-[Tenth Schedule.]
-
-(2) The annual fee payable for a registration licence shall be N50 for each hatchery of more than 1,000 eggs capacity and N5 for a poultry farm with a flock of 250 but under 1,000, and N50 for a flock of 1,000 and above.
-
-(3) Any person who contravenes the provisions of this section shall be guilty of an offence and on conviction be liable to a fine of not less than N50 and not more than N100 or the closure of the hatchery or poultry farm.
-
-20. Powers of the Minister The Minister may make regulations-
-
-(a) prohibiting or restricting the importation by land, sea or air, either generally or from any specified country or place, of any animal or animal product, carcass, litter, fodder, biologic or any other thing by means of which disease may be carried by establishing a National Veterinary Quarantine Service;
-
-(b) prohibiting or restricting the exportation by land, sea or air either generally or to any specified country or place, of any animal or animal product, carcass, litter, fodder, biologic, or other thing by means which disease may be carried;
-
-(c) regulating the movement of animals for the purpose of trade and commerce between Nigeria and international borders, in order to prevent the spread of disease, through the direct administration by the Federal Livestock Department, of the quarantine stations and control posts listed in the Second and Third Schedules to this Act; and [Second and Third Schedules.]
-
-(d) for the declaration of any disease of national and economic importance and taking measures to control or eradicate such disease.
-
-21. Regulations
-
-(1) The Director or Chief Veterinary Officer, as the case may be, may, subject to the approval of the Minister or Commissioner, make regulations-
-
-(a) providing for the examination, testing, isolation, inoculation, removal, disinfection, branding and slaughter of animals infected or suspected of being infected with any disease or such animal which may have been in contact with any diseased animal;
-
-(b) prescribing and regulating the destruction, burial, digging up, disposal or treatment of any carcass or of any fodder, litter, utensils, pens, hurdles, faeces or any other thing being in an infected premises or removed therefrom;
-
-(c) regulating the movement of animals within a State;
-
-(d) prohibiting the movement of animals into an area in which there is suspected to be any disease, and for prohibiting or restricting the removal from any such area of any animal, carcass, litter, fodder, animal product, biologic or any other thing by means of which disease may be carried;
-
-(e) declaring any area to be a controlled area for purposes connected with the control of any disease and for eradicating such disease from such area and for preventing its introduction or re-introduction thereto and for prohibiting and restricting the movement of any animal from any such area;
-
-(f) the disinfection of persons, including the clothing of persons, who have been in contact with or employed about animals which are suffering or suspected to be suffering from disease;
-
-(g) for the reporting of cases of disease or death amongst animals;
-
-(h) for the disinfection of buildings or places wherein animals infected with disease have been stalled or kept, and the disinfection and cleaning of public markets, private sale yards, airports and sea ports, railway premises, railway vans, trucks and carriages wherein any animal shall have been placed, kept or carried;
-
-(i) prohibiting in any place where disease exists the performance of any local customs likely to lead to the dissemination of such disease;
-
-(j) requiring or regulating the branding of animals, prescribing the brands which may or shall be used and providing for the registration of brands;
-
-(k) for the appointment of officers to carry out the provisions of any regulations made under this Act and conferring upon them all necessary powers;
-
-(l) prescribing and regulating the seizure, detention, disposal and forfeiture of any animal in relation to which any breach of any regulation under this Act or of any order or instructions under any such regulation has been committed and for determining the person who shall be liable to defray the expenses of such seizure, detention, and disposal;
-
-(m) prescribing the fees to be paid for any examination, inoculation, testing, disinfection, or for any certificate, licence, permit or other things issued or done under any regulation made under this Act, and the payment to be made for the feeding and stabling of any animal in quarantine;
-
-(n) prescribing the cases in which compensation may be paid to the owners of any animal slaughtered, or to the owners of any carcass destroyed because it is suspected of being infected with disease, under powers conferred by any provisions of this Act and determining the amount of such compensation and the funds out of which such compensation shall be paid;
-
-(o) prescribing the proof required that an animal or carcass is infected with disease or is suspected of being infected with disease;
-
-(p) prescribing and regulating the construction, position and proper sanitary maintenance of any place where an animal is kept; and
-
-(q) generally for the prevention of the introduction and spread of any disease and for giving effect to the purposes of this Act.
-
-(2) Any regulations made under this Act shall have effect from the date of its publication in the Federal Gazette or such later date as may be specified therein.
-
-22. Burden of proof by owner of diseased animal When an owner or person in charge of any animal suffering from disease is charged with an offence against any of the provisions of this Act, he shall be presumed to have known of the existence of such disease in such animal unless he satisfies the court that he had no such knowledge and could not within reasonable time have obtained such knowledge.
-
-23. Interpretation In this Act, unless the context otherwise requires- "animal" means horse, mule, donkey, camel, cattle, cow, bull, bullock, heifer and calf, buffalo, sheep, goat, swine, dog, cat, laboratory animal, wild animal and for purposes of this Act includes bird, rabbit and poultry (domestic fowl, turkey, duck, goose, parrot and any birds of the parrot family, pigeon, guinea fowl and ostrich);
-
-"animal product" means egg, milk, semen or any other part of the animal;
-
-"animal unit" means one animal unit which is equivalent to one cow or camel or five sheep or five goats;
-
-"area" means an area to which this Act applies;
-
-"authorised officer" means any officer including a veterinary surgeon in private practice, authorised by the Director or Chief Veterinary Officer of any State, either in writing or by notice in the Federal Gazette, to perform a duty or to exercise a power in relation to which the expression is used;
-
-"biologic" means any of the substances commonly known as vaccine serum, toxin, antitoxin, antibody and antigen used in veterinary practice;
-
-"carcass" means the carcass of an animal and includes part of a carcass and the meat, bone, hide, skin, hoof, horn, wool, hair, blood, offal or any other part of animal separately or otherwise or any part thereof;
-
-"Chief Veterinary Officer" means a veterinary officer appointed by the State Government charged with the overall responsibility for matters relating to animal health and production;
-
-"Commissioner" means a Commissioner of a State charged with the responsibility for matters relating to animal health and production;
-
-"control post" means an established area along trade cattle routes at international and inter-State borders or within the States with facilities for inspection, examination, vaccination and treatment of trade animals;
-
-"Director" means the Veterinary Officer who has overall responsibility of the Federal Livestock Department;
-
-"hatchery" means an establishment where poultry eggs are incubated and hatched for the purposes of sale and distribution;
-
-"infectious agent" means any organism such as Virus, bacteria, fungus, protozoa, helminth, or their vectors causing disease in animals;
-
-"inspection station" means an established area within a State along the cattle route with facilities for inspection and examination of trade animals;
-
-"local government" shall be deemed to include the Chairman, the Secretary and the staff of the Veterinary Department of a Local Government Area;
-
-"magistrate" shall be deemed to include a Justice of Peace and an area court judge, as the case may be;
-
-"Minister" means the Minister charged with the responsibility for matters relating to animal health and production;
-
-"premises" means house, tenement, land, farm, hatchery and includes rail wagon, motor vehicle, river or ocean- going vessel or aircraft;
-
-"prescribed officer" means a person duly authorised by the Director, Chief Veterinary Officer or the Local Government, as the case may be, to perform a duty or exercise a power in relation to which the expression is used;
-
-"poultry farm" means a farm where a flock of poultry is raised for the purpose of sale and distribution;
-
-"quarantine station" means a designated place where animals with their boxes, rugs, kennels and other appurtenances which have come from infected or suspected to be infected countries or areas are detained at the frontiers, ports of entry or at other officially designated areas where they are temporarily kept before being allowed to mix with local stock or for restricting the movement of local stock infected or suspected to be infected with disease while under observation, disinfection and treatment;
-
-"trade animal" means cattle, sheep, goat and camel, horse, donkey, pig, intended for slaughter or for use as a pack animal whether coming overland or by air or sea from any place outside Nigeria or purchased in and intended to be moved out of an area; but does not include cattle proceeding to grazing ground, and not intended for sale or for use as pack animals;
-
-"Veterinary Officer" means a Veterinary Surgeon in the service of the Federal, State or Local Government;
-
-"Veterinary Surgeon" means a professional veterinarian duly registered to practise by the Veterinary Council in Nigeria.
-
-24. Short title This Act may be cited as the Animal Diseases (Control) Act.
-
-SCHEDULES
-
-FIRST SCHEDULE [Section 8 (l).] Diseases of Animal
+PART 1-0BJ l :CTI V [S AND A PPLI CATION
