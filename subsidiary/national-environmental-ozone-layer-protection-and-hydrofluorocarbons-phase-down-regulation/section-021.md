@@ -1,0 +1,1 @@
+21. A person shall not import, manufacture in part or in whole, install, offer for sale, or sell, or buy new or refurbished equipment intended to be used for the production of any ODS listed in the Second Schedule to these Regulations, unless for the recovery and recycling of substances already in use.

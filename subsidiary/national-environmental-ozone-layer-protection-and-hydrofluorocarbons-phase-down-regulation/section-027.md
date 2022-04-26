@@ -1,0 +1,1 @@
+27. A person shail not, with effect from the phase-out dates for the different substances as specified in the Eighth Schedule to these Regulations, offer for sale, sell. supply, or lease ODS for the purpose of servicing equipment.
