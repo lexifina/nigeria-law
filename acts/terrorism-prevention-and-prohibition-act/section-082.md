@@ -1,0 +1,1 @@
+82. All forfeited funds, and funds realized from the proceeds of sale, management, or other forms of disposal of seized, attached and forfeited assets under this Act and vested in the Federal Government shall be paid into the Confiscated and Forfeited Assets Account established under any enactment dealing with the proceeds of crime.

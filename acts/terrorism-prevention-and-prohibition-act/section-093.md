@@ -1,0 +1,1 @@
+93. A notice, summons or other documents required or authorised to be served on a relevant agency under the provisions of this Act or any other law or enactment may be served by delivering it to or by sending it by registered post and addressed to the head office of the relevant institution or agency.

@@ -1,0 +1,3 @@
+65.—(1) An authorised officer of a relevant agency shall take and record, for the purpose of identification and evidence, the measurements, samples, photographs and fingerprint impressions of all persons who may be in lawful custody for an offence under this Act.
+
+(2) A person who refuses to submit to the taking and recording of his measurements, photographs or fingerprint impressions shall be taken before the Court and where the Court is satisfied that the person is in lawful custody, it shall make such order as it deems fit authorising the State Security Service or its duly authorised officers, or any enforcement or security officer to take measurements, photographs and fingerprint impressions of the person.

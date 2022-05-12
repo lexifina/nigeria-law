@@ -1,0 +1,1 @@
+30. A person who, with intent to deceive, unlawfully assumes the name, character or designation of an officer of a relevant agency in order to perpetrate an act of terrorism, commits an offence and is liable on conviction to imprisonment for a term of at least seven years.

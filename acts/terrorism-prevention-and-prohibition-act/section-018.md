@@ -1,0 +1,1 @@
+18. A person who knowingly agrees to recruit or recruits a person to be a member of a terrorist group, or to participate in the commission of an act of terrorism, commits an offence, and is liable on conviction to imprisonment for a term of at least 20 years and up to a maximum of life imprisonment.

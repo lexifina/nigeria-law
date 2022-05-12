@@ -1,0 +1,1 @@
+19. A person who knowingly solicits property for the benefit of a terrorist group or for the commission of an act of terrorism, commits an offence, and is liable on conviction to imprisonment for a term of at least 20 years and up to a maximum of life imprisonment.

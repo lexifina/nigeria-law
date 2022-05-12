@@ -1,0 +1,5 @@
+98.—(1) The Terrorism (Prevention) Act, No. 10, 2011 is repealed.
+
+(2) Any regulation, order, requirement, certificate, notice, direction, decision, authorisation, consent, application, ongoing cases in the courts, request or thing made, issued, given or done under the repealed Acts shall, if in force at the commencement of this Act, continue to be in force and have effect as if made, issued, given or done under the corresponding provisions of this Act.
+
+(3) Any proceeding, prosecution, sentence, judgment, charge or cause of action pending or existing immediately before the commencement of this Act under any of the repealed Act in respect of any right, interest, obligation or liability, may be continued or commenced, as the case may be, and any determination of a court of law, tribunal or other authorities or person may be enforced to the same extent that such proceeding, prosecution, sentence, judgment, charge, cause of action or determination might have been continued, commenced or enforced as if this Act had not been made.

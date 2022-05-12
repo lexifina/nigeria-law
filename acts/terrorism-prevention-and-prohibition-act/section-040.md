@@ -1,0 +1,1 @@
+40. A person who transports another person on board a ship, knowing that the person intends to commit an act that constitutes an offence under this Act, commits an offence, and is liable on conviction to imprisonment for a term of at least 20 years.

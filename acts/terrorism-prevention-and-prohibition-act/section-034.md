@@ -1,0 +1,1 @@
+34. A person who, on board an aircraft in flight, seizes or exercises control of that aircraft by force, threat or any other form of intimidation, commits an offence, and is liable on conviction to life imprisonment.

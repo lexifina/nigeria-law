@@ -1,0 +1,1 @@
+29. A person who engages in a conduct in preparation to commit an act of terrorism or assists another person to commit an act of terrorism commits an offence, and is liable on conviction to imprisonment for a term of 20 years.

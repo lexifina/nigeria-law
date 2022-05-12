@@ -1,0 +1,1 @@
+41. A person who transports another person on board a ship, knowing that the person has committed an act that constitutes an offence under this Act and intending to assist that person to evade criminal prosecution, commits an offence, and is liable on conviction to imprisonment for a term of at least 20 years.

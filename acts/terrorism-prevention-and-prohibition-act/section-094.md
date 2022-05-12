@@ -1,0 +1,1 @@
+94. In an action or a suit against a relevant agency, no execution or attachment process in any nature shall be issued against a relevant agency, unless at least three months’ notice of the intention to execute or attach has been given to the head of the relevant agency concerned.

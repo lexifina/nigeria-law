@@ -1,0 +1,1 @@
+72. Where a person voluntarily provides to a relevant agency, information that may be useful in the investigation or prosecution of an offence under this Act, the relevant agency shall take all reasonable measures to protect the identity and life of that person and the information so provided shall be treated as confidential.
