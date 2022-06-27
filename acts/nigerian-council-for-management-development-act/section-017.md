@@ -1,7 +1,19 @@
-17. Director of the Centre
+17.—(1) There shall be for the Centre a Director-General who shall be appointed by the President on the recommendation of the Minister.
 
-(I) There shall be a director of the Centre (in this Act referred to as "the director") who shall be appointed by the Minister after consultation with the Council.
+(2) The Director-General shall be—
 
-(2) The director shall be the chief executive of the Centre and shall be charged with the general responsibility for matters affecting the day-to-day management and opera-
+(a) the chief executive and accounting officer of the Centre ;
 
-tions of the Centre.
+Powers of the Centre.
+
+Director- General of the Centre.
+
+A 782 2022 No. 24 Nigerian Council for Management Development Act, 2022
+
+(b) charged with the general responsibility for management and operations of the Centre ; and
+
+(c) responsible for any other duties or functions as may be necessary for the effective and efficient running of the Centre.
+
+(3) The Director-General shall hold office at the pleasure of the President.
+
+(4) The terms and conditions of appointment of the Director-General shall be as specified in his letter of appointment.

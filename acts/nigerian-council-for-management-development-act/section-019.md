@@ -1,5 +1,3 @@
-19. Power to require institutions to furnish information
+19.—(1) Any individual who operates as a management consultant or trainer without accreditation from the Council commits an offence and is liable on conviction to a fine of at least N250,000 or to imprisonment for a term of at least six months or both.
 
-The director may, with the approval of the Council, require the person in apparent control of any management training institution to furnish such information on any aspect
-
-of that institution's operations as appears to the director to be necessary to enable the Council to carry out any of its functions under this Act.
+(2) Any corporate body which operates as a management development training institution without accreditation, commits an offence and is liable on conviction to a fine of at least N1,000,000.

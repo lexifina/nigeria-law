@@ -1,29 +1,29 @@
-16. Council to establish Centre for Management Development
+16. The Centre shall have power to—
 
-(I) The Council shall establish as its operational arm an agency to be known as "the
+(a) provide to the Council information and other technical data necessary for the Council’s policy making and coordinating functions ;
 
-Centre for Management Development" (in this Act referred to as "the Centre").
+(b) undertake management development for small and medium enterprises in the country through the provision of relevant training and extension services ;
 
-(2) The Centre shall carry out such functions as may be assigned to it by the Council
+(c) establish and maintain a world class library on management studies ;
 
-and such functions shall include-
+(d) undertake, commission and participate in in-depth research studies and consultancy services in relevant fields ;
 
-(a) the provision for the Council of background information and other technical
+(e) publish journals, research papers and books on modern management and supervisory techniques ;
 
-data necessary for the Council's policy-making and co-ordinating functions;
+(f ) promote the development of programmes aimed at improving the performance of private and public enterprises ;
 
-(b) the provision of management advisory and consultancy services to Nigerian
+(g) provide macro and micro economic training programmes to economic planners, budget and project officers in the public service of the Federation or a State ;
 
-enterprises;
+(h) undertake training programmes and promotion examinations for the employees of the public service of the Federation and a State ;
 
-(c) the establishment and maintenance of an up-to-date library on management
+(i) in collaboration with the National Youth Service Corps, provide regular trainings in National Youth Service Corps camps ;
 
-studies;
+(j) act as a policy laboratory for vigorous and sustained development and promotion of highly specialised skills required for enhancing efficient and effective planning and management of the Nigerian economy ;
 
-(d) the publication of journals, research papers and books on modern management
+(k) undertake the development of executive professional postgraduate programmes and diploma courses for the development of professional managers in the country ;
 
-and supervisory techniques; and
+(l) conduct examinations and grant certificates in areas of management to persons who have pursued a course of study approved by the Council and have satisfied such other requirements as may be prescribed by the Council ;
 
-(e) the sponsoring, promotion and conduct of research into all aspects of manage-
+(m) collaborate with similar management training institutions within and outside Nigeria in the execution of its mandate with a view to embracing international standards ; and
 
-ment and allied subjects in relation to the Nigerian situation.
+(n) discharge other duties as may be necessary for the efficient performance of its functions under this Act.

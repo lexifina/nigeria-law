@@ -1,11 +1,3 @@
-14. Offices and premises
+14. The Council may, with the consent of the Minister, borrow on such terms and conditions as the Council may determine, such sums of money as the Council may require in the exercise of the functions conferred on it under this Act.
 
-(1) For the purpose of providing offices and premises necessary for the performance of its functions, the Council may-
-
-(a) purchase or take on lease any land; and
-
-(b) build, equip and maintain offices and premises.
-
-(2) The Council may sell or lease any land, offices or premises held by it and no
-
-longer required for the performance of its functions.
+PART V—ESTABLISHMENT OF THE CENTRE FOR MANAGEMENT DEVELOPMENT

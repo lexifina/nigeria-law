@@ -1,5 +1,9 @@
-1. Establishment of the Nigerian Council for Management Development
+1.—(1) There is established the Nigerian Council for Management Development (in this Act referred to as “the Council”).
 
-There is hereby established a body to be known as the Nigerian Council for Management Development (in this Act referred to as "the Council") which shall be a body corpo-
+(2) The Council—
 
-rate with perpetual succession and a common seal.
+(a) shall be a body corporate with perpetual succession and a common seal ;
+
+(b) may sue or be sued in its corporate name ; and
+
+(c) may acquire, hold or dispose of any property, movable or immovable in its corporate name, for the purpose of carrying out its functions under this Act.

@@ -1,37 +1,33 @@
-2. Functions of the Council
+2.—(1) The Council shall consist of —
 
-The functions of the Council shall be to-
+(a) a Chairman ;
 
-(a) advise the Minister on policies, plans and programmes for the enhancement of
+(b) a representative each of the following—
 
-the number, quality and effective utilisation of the managerial manpower re-
+(i) the Ministry in charge of National Planning,
 
-sources of Nigeria in all sectors of the economy;
+(ii) National Universities Commission,
 
-(b) formulate policies and guidelines for the co-ordination of management educa-
+(iii) Nigeria Employers’ Consultative Association,
 
-tion and training activities throughout Nigeria;
+(iv) National Youth Service Corps,
 
-(c) develop and promote high national standards of management education, entre-
+(v) Office of the Head of Civil Service of the Federation,
 
-preneurial development, and supervisory training programmes;
+(vi) Industrial Training Fund, and
 
-(d) keep and maintain a register of management training institutions and their
+(vii) Central Bank of Nigeria ;
 
-training programmes, including their subjects, location, standards, duration,
+(c) three persons, other than the Chairman, with knowledge and close association with management training, industry, commerce or economics ; and
 
-type and cost;
+(d) the Director-General of the Centre for Management Development.
 
-(e) assess, from time to time, the training programmes offered by the institutions
+Membership of the Council.
 
-mentioned in paragraph (d) of this section with a view to determining the com-
+A 776 2022 No. 24 Nigerian Council for Management Development Act, 2022
 
-petence of the institutions and whether they deserve financial support by the
+(2) The Chairman and members of the Council, other than the ex- officio members referred to in subsection (1) (b), shall be appointed by the President on the recommendation of the Minister.
 
-Council;
+(3) The Chairman and members of the Council shall be persons of proven integrity, ability, good repute with high professional competence in a related discipline.
 
-(f) provide a forum at which representatives of both the public and private sectors
-
-and of management training institutions could exchange information and ideas
-
-on trends in management education and training.
+(4) The provisions of Part II of the Schedule to this Act shall have effect with respect to the proceedings of the Council and other matters mentioned in it.

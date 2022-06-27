@@ -1,7 +1,1 @@
-6. Travelling and subsistence allowances
-
-(l) There shall be paid to every member of the Council who is not a public officer such travelling, subsistence and other allowances in respect of any period spent on the
-
-business of the Council as the Minister may determine.
-
-(2) The travelling, subsistence and other allowances referred to in subsection (1) of this section, shall be paid out of the monies at the disposal of the Council.
+6. The Council shall constitute an Appointments and Establishment Committee consisting of at least four members of the Council whose function shall be to advise it on matters relating to the appointment, conditions of service, advancement, promotion and discipline of staff of the Council.

@@ -1,21 +1,11 @@
-15. Compulsory acquisition of land
+15. There is established, the Centre for Management Development (in this Act referred to as “the Centre”) which shall be the operational organ of the Council.
 
-(1) For the purposes of the Land Use Act, the purposes of the Council shall be public
+Power to accept gifts.
 
-purposes of the Federation within the meaning of that Act.
+Council estimates and expenditure.
 
-[Cap. L5.]
+Borrowing.
 
-(2) The Registrar of Deeds may, by an instrument under his hand and seal, vest in the
+Establishment of the Centre for Management Development.
 
-Council any property acquired pursuant to subsection (I) of this section; and the Council
-
-shall pay into the Consolidated Revenue Fund of the Federation a sum equal to the ag-
-
-gregate amount of the expenses (including compensation) incurred on behalf of the Fed-
-
-eral Government by virtue of that subsection in respect of any property vested in the
-
-Council by such an instrument.
-
-[1992 No.7.]
+2022 No. 24 A 781 Nigerian Council for Management Development Act, 2022

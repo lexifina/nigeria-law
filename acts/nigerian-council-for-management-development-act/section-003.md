@@ -1,41 +1,15 @@
-3. Membership of the Council, etc.
+3.—(1) The Chairman and members of the Council other than the ex- officio members shall hold office at the pleasure of the President.
 
-(1) The Council shall consist of twenty members, namely-
+(2) Notwithstanding subsection (1), the office of the Chairman or any member of the Council shall become vacant where—
 
-(a) a chairman to be appointed by the President on the recommendation of the Minister;
+(a) he resigns his office by notice in writing under his hand addressed to the President through the Minister ;
 
-(b) nine persons with extensive knowledge of and close association with manage-
+(b) he becomes of unsound mind or is incapable of carrying out his duties due to infirmity of mind or body ;
 
-ment training, industry and commerce, each chosen by the Minister on his in-
+(c) he is declared bankrupt by a court of competent jurisdiction ;
 
-dividual merit and appointed by the President;
+(d) he is found guilty of gross misconduct relating to his duties or is convicted of a felony or of any offence involving dishonesty, corruption or embezzlement ;
 
-(c) two representatives of the Nigerian Employers Consultative Association;
+(e) in the case of an ex-officio member, he ceases to hold the office on the basis of which he became a member of the Council ; or (f ) the President is satisfied that it is not in the interest of the Council or of the public for the person appointed to continue in office.
 
-(d) two representatives of labour organisations;
-
-(e) four representatives of professional management training institutions;
-
-(j) one representative of the Ministry charged with responsibility for matters re-
-
-lating to the Council; and
-
-(g) the Director, Centre for Management Development (in this Act referred to as
-
-"the Centre").
-
-(2) A member of the Council who is not a public officer-
-
-(a) shall hold office for a period of three years from the date of his appointment
-
-and shall be eligible for reappointment;
-
-(b) may resign his appointment by a letter addressed to the Minister and that
-
-member's resignation shall take effect as from the date of the receipt of the
-
-letter by the Minister.
-
-(3) Without prejudice to section 11 of the Interpretation Act (which relates to appointments), the Minister may at any time by a notice in writing remove any member
-
-from his office for reasons stated in that notice.
+(3) The Chairman and members of the Council shall hold office on part time basis.
