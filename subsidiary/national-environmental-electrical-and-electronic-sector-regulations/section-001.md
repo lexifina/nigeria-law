@@ -1,0 +1,1 @@
+1. The objective of these Regulations is to provide measures for preventing and minimizing pollution from operations and ancillary activities of the electrical and electronic sector to the environment.

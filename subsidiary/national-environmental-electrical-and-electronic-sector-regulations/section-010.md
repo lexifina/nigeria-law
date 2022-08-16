@@ -1,0 +1,1 @@
+10. Where a person operating in the telecommunications sector deploys electromagnetic field (EMF) in any operation, such a person shall employ best practice as provided in the National Environmental (Standards for Telecommunications Broadcasting Facilities) Regulations, 2011 and the Sixth Schedule to these Regulations.

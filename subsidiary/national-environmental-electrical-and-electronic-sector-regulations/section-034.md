@@ -1,0 +1,1 @@
+34. An applicant for a permit issued under these Regulations shall satisfy the Agency that the applicant has subscribed to appropriate insurance policies for the applicant's staff and the general public covering the risks which may likely arise, out of the activity for which the permit is required.

@@ -1,0 +1,1 @@
+24. Noise standards shall be regulated in accordance with permissible limits as provided in the Twelfth Schedule to these Regulations and the National Environmertal (Noise Standards and Control) Regulations, S.1 No.35, 2009.
