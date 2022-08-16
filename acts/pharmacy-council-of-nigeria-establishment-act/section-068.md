@@ -1,0 +1,1 @@
+68. A member of the Council, Registrar, officer or employee of the Council shall be indemnified out of the assets of the Council against any proceedings brought against him in his capacity as a member of the Council, Registrar, officer or employee of the Council where the act complained of is not ultra vires his powers.

@@ -1,0 +1,1 @@
+49. For the purpose of section 48 (1) (b) of this Act, a person shall not be treated as convicted unless as at the time the conviction is subsisting, the time stipulated for appeal has lapsed and no appeal is pending in an appellate court.

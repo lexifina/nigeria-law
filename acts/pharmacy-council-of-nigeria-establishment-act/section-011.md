@@ -1,0 +1,1 @@
+11. The Council may with the approval of the President and in line with applicable laws, policies and regulations, borrow such sums by way of loan, overdraft or from any other source, as may be required for the performance of its functions and meeting its obligations under this Act and any interest payable on money so borrowed shall be paid out of the Fund of the Council.

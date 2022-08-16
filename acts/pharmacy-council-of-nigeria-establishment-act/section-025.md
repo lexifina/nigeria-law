@@ -1,0 +1,1 @@
+25. The Registrar shall keep record of the names of registered persons who are in default of payment of the annual subscription for a period of more than six months and take such actions including the removal of the names of the defaulters from the appropriate register as the Council may direct or require.
