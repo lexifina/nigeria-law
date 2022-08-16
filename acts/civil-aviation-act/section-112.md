@@ -1,0 +1,1 @@
+112. A notice, summons or other document required or authorised to be served upon the Authority under the provisions of this Act shall be served by delivering same to the office of the Director-General of the Authority situate at the headquarters of the Authority.

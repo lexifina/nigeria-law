@@ -1,15 +1,37 @@
-8. Licensing of aircraft maintenance engineers
+8.—(1) The Authority shall be responsible for the—
 
-(1) The Minister may grant to any person a licence to act for the purposes of these Regulations as an aircraft maintenance engineer, or an aircraft radio maintenance engineer, of one of the categories specified in the Fourth Schedule to these Regulations, upon his being satisfied that the applicant is a fit and proper person to hold the licence and is qualified by his knowledge and experience to do so, and for that purpose the applicant shall furnish such evidence and undergo such examinations and tests as the Minister may require of him. The Minister may include a rating in the licence limiting the licence to particular types of aircraft or equipment.
+(a) registration of aircrafts in Nigeria and issuance to the owners of certificates of registration ;
 
-[Fourth Schedule.]
+(b) establishment and maintenance of a system or register for recording the title to or any interest in any aircraft registered in Nigeria ;
 
-(2) A licence of any category shall, subject to any rating as aforesaid, entitle the holder to issue certificates of maintenance, certificates of compliance or certificates of fitness for flight in accordance with the Fourth Schedule to the Regulations.
+(c) prohibition of any Nigerian or foreign registered aircraft from operating within the Nigerian airspace, unless a certificate of airworthiness with respect to the aircraft, is issued or validated under extant laws and regulations, provided that the foregoing prohibition shall not apply to any aircraft undergoing test flight or flight to a place where prescribed maintenance or repair is to be carried out ;
 
-[Fourth Schedule.]
+(d) inspection and regulation of aerodromes, inspection of aircraft factories and for the prohibition or regulation of the use of aerodromes which are not certified under the extant laws and regulations ;
 
-(3) A licence and a rating shall, subject to the provisions of regulation 54 of these Regulations, remain in force for the periods specified therein, not exceeding twelve months, but may be renewed by the Minister, from time to time, upon his being satisfied that the applicant is a fit and proper person and is qualified as aforesaid.
+(e) prohibition of any person from engaging in air navigation in any capacity whatsoever unless the Authority determines that such a person satisfies the requirement of this Act and the regulations made under it ;
 
-(4) The Minister may issue a certificate rendering valid for the purposes of these Regulations any licence as an aircraft maintenance engineer or aircraft radio maintenance engineer granted under the law of any country other than Nigeria. Such certificate may be issued subject to such conditions, and for such periods, as the Minister thinks fit.
+(f ) issuance of rules and regulations for ensuring aviation safety, security, the efficiency and regularity of air navigation, including the safety of aircraft, persons and property carried in aircraft and for preventing aircraft from endangering any person and property ;
 
-(5) Upon receiving a licence granted under this regulation, the holder shall forthwith sign his name thereon in ink with his ordinary signature.
+(g) prohibition of aircraft from flying over such areas in Nigeria as may be prescribed ;
+
+(h) issue, validation, renewal, extension or variation of any certificate, licence or any other document required by regulations, including the examinations and tests to be undergone ;
+
+(i) custody and production, cancellation, suspension, endorsement and surrender of any document referred to under paragraph (h) ;
+
+Allowances, expenses and any other entitlement of Chairman and members of the Board.
+
+Functions of the Authority.
+
+2022 No. 30 A 911 Civil Aviation Act, 2022
+
+(j) issuance of rules and regulations on aviation environmental protection ;
+
+(k) orderly development of Nigerian air transport sector for efficiency, regularity and consumer satisfaction ; and
+
+(l) regulation and promotion of competition, fair and efficient market conduct of operators and to prevent monopoly, subject to the provisions of the Federal Competition and Consumer Protection Act.
+
+(2) Without prejudice to the generality of this section, the Authority shall have the power to do anything which may be incidental or expedient for the performance of its functions under this Act.
+
+(3) Notwithstanding anything contained in any other law, the Authority shall be solely responsible for the regulation of civil aviation in Nigeria.
+
+(4) In the exercise of the powers conferred upon it and the performance of its functions in this Act, the Authority, shall not submit its decision for the approval of or be bound by the decision or recommendation of any person, body or organisation but shall be guided by safety, security and public interest considerations.

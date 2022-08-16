@@ -1,17 +1,7 @@
-24. Operating conditions for public transport aircraft
+24.—(1) The Authority shall keep proper records and accounts of its —
 
-(1) An aircraft registered in Nigeria shall not fly for the purpose of public transport, except for the sole purpose of training persons to perform duties in aircraft, unless such requirements as may be prescribed in respect of its weight and related performance are complied with.
+(a) receipts, payments, assets and liabilities, and
 
-(2) The assessment of the ability of an aircraft to comply with paragraph (1) of this regulation shall be based on the information as to its performance contained in the certificate of airworthiness relating to the aircraft. In the event of the information given therein being insufficient for that purpose, such assessment shall be based on the best information available to the commander of the aircraft.
+(b) income and expenditure, in a form which conforms with existing laws on accounts and audit.
 
-(3) Such requirements as are contained in the Twelfth Schedule to these Regulations in respect of the weather conditions required for take‐off, approach to landing and landing, shall be complied with in respect of every aircraft to which regulation 21 of these Regulations applies.
-
-[Twelfth Schedule.]
-
-(4) A flying machine registered in Nigeria when flying over water for the purpose of public transport shall fly, except as may be necessary for the purpose of take‐off or landing, at such an altitude as would enable the aircraft−
-
-(a) if it has one engine only, in the event of the failure of that engine;
-
-(b) if it has more than one engine, in the event of the failure of one of those engines and with the remaining engine or engines operating within the maximum continuous power conditions specified in the certificate of airworthiness relating to the aircraft, to reach a place at which it can safely land at a height sufficient to enable it to do so.
-
-(5) Without prejudice to the provisions of paragraph (4) of this regulation, an aeroplane in respect of which there is in force under these Regulations a certificate of airworthiness designating the aeroplane as being of performance group X, shall not fly over water for the purpose of public transport so as to be more than sixty minutes' flying time from the nearest shore, unless the aeroplane has more than two power units. For the purposes of this paragraph, flying time shall be calculated at normal cruising speed with one power unit inoperative.
+(2) The Authority shall submit the accounts annually, for auditing by a qualified auditor from the list of auditors and in accordance with the guidelines provided by the Auditor-General for the Federation.

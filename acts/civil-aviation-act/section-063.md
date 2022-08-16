@@ -1,13 +1,9 @@
-63. Use of aerodromes
+63.—(1) The Authority shall have the power to—
 
-(1) Subject to the provisions of these Regulations, an aircraft shall not land at or take off from any place in Nigeria other than‐
+(a) establish a personnel licensing system to licence aircraft maintenance personnel, flight crew, air traffic controllers, flight operations officers and such other persons engaged in the use or operation of aircraft, aircraft facilities, aerodromes and other activities related, incidental or supplementary to it, in accordance with the provisions of this Act, regulations and the licensing requirements specified in Annex 1 of the Chicago Convention ; and
 
-(a) a Government aerodrome notified as available for public use;
+(b) issue airman licences or certificates specifying the capacity in which the holder of it is authorised to serve as airman in connection with aircraft.
 
-(b) a licensed aerodrome;
+(2) The licence or certificate shall contain such terms, conditions, and tests of physical and mental fitness, and other matters as the Authority may determine to be necessary to assure safety in civil aviation.
 
-(c) a place authorised by the Minister for use as an aerodrome.
-
-(2) Subject to the provisions of these Regulations, an aircraft shall not land at or take off from any such aerodrome or place as is referred to in sub‐paragraphs (a), (b) and (c) of paragraph (1) of this regulation, except in accordance with the conditions and restrictions, if any, which have been notified with respect to the use of that aerodrome or place.
-
-(3) The prohibitions contained in paragraphs (1) and (2) of this regulation shall not apply in relation to a landing due to accident, stress of weather or other unavoidable cause, but the next subsequent departure from the place at which the landing due to any such cause has been made, shall not be made without the consent of the Minister.
+(3) Notwithstanding the provisions of subsection (1) (b), the Authority may prohibit or restrict, in such manner as the Authority shall deem appropriate, the issuance of airman licences or certificates to citizens of foreign countries.

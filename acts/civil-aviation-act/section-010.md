@@ -1,13 +1,31 @@
-10. Radio equipment of aircraft
+10.—(1) The Board shall—
 
-(1) An aircraft shall not fly unless it is so equipped with radio apparatus as to comply with the law of the country in which the aircraft is registered and to enable communications to be made, and the aircraft to be navigated, in accordance with the provisions of these Regulations and any other regulations made thereunder.
+(a) formulate and provide general policy guidelines for the discharge of the functions of the Authority ;
 
-(2) In the case of aircraft registered in Nigeria, the aircraft shall be equipped with radio apparatus in accordance with the Sixth Schedule to these Regulations.
+(b) monitor and ensure the implementation of the policies and programmes of the Authority ; and
 
-[Sixth Schedule.]
+(c) carry out any other function as is necessary or expedient in consonance with the Board’s functions under this Act.
 
-(3) In any particular case the Minister may direct that an aircraft registered in Nigeria shall carry such additional or special radio apparatus as he may specify for the purpose of facilitating the navigation of the aircraft, the carrying out of search and rescue operations or the survival of the persons carried in the aircraft.
+(2) The Board shall have power to—
 
-(4) The radio apparatus provided in compliance with this regulation in an aircraft registered in Nigeria shall always be maintained in serviceable condition.
+(a) approve rules and regulations relating to the appointment, promotion and disciplinary measures for the employees of the Authority ;
 
-(5) All radio apparatus installed in an aircraft registered in Nigeria (whether or not in compliance with these Regulations or any regulations made thereunder) shall be of a type approved by the Minister in relation to the purpose for which it is to be used, and shall, except in the case of a glider which is permitted by paragraph (1) of regulation 1 of these Regulations to fly unregistered, be installed in a manner approved by the Minister. Neither the apparatus nor the manner in which it is installed shall be modified except with the approval of the Minister.
+(b) consider the terms and conditions of service including remuneration, allowances and benefits of the employees of the Authority and submit to the relevant Federal Government agencies for approval ;
+
+(c) consider and approve the terms and conditions of service and remuneration, allowances and benefits of the inspectorate staff of the Authority that are consistent with their education, technical knowledge, experience and comparable to those personnel of the operators whose activities they will supervise, in line with Chapter 5.3.1 of ICAO Document
+
+8335 and Chapter 3.3.2.1 of ICAO Document 9734 ;
+
+(c) regulate its proceedings and make standing orders with respect to the holding of its meetings, notices to be given, the keeping of minutes of its proceedings and any other matter as the Board may determine ;
+
+(d) receive and review annual reports from the management of the Authority and submit same to the President and the National Assembly, through the Minister, not later than 30 June in each year ;
+
+(e) submit not later than 30 September in each year to the Minister an estimate of the income and expenditure of the Authority for the next succeeding year ;
+
+(f ) cause to be kept, proper accounts of the Authority in respect of each year and proper records in relation to it and shall cause the accounts to be audited not later than six months after the end of each year by auditors appointed from the list and in accordance with the guidelines supplied by the Auditor-General of the Federation ; and Functions and powers of the Board.
+
+2022 No. 30 A 913 Civil Aviation Act, 2022
+
+(g) advise and direct the Director-General on the management of the business and financial aspects of the Authority, provided that the functions and powers of the Board shall not include the aviation safety and security authority of the Director-General under this Act.
+
+PART IV—MANAGEMENT AND STAFF OF THE AUTHORITY

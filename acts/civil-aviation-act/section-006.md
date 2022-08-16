@@ -1,41 +1,35 @@
-6. Certificate of maintenance
+6.—(1) The Chairman and members of the Board other than the Director- General and ex-officio members shall hold office for a term of four years and shall be eligible for re-appointment for another term of four years and no more, and on such terms and conditions as may be specified in the letter of appointment.
 
-(1) An aircraft registered in Nigeria shall not fly for the purpose of public transport or dropping or projecting any material for agricultural, public health or similar purposes unless‐
+(2) The office of the Chairman or a member of the Board shall become vacant where—
 
-(a) the aircraft (including in particular its engines), together with its equipment and radio station, is maintained in accordance with maintenance schedules approved by the Minister in relation to that aircraft;
+(a) his term of office expires ;
 
-(b) there are in force in respect of that aircraft certificates (in these Regulations referred to as "certificates of maintenance") issued in accordance with the provisions of this regulation and certifying that maintenance has been carried out in accordance with such maintenance schedules:
+(b) he resigns his office by a notice in writing under his hand addressed to the President through the Minister ;
 
-Provided that an aircraft may, notwithstanding that sub‐paragraphs (a) and (b) of this regulation have not been complied with in relation to the radio station therein, fly for the sole purpose of enabling persons to be trained to perform duties in aircraft.
+(c) he dies ;
 
-(2) Every certificate of maintenance shall come into force upon being issued and shall cease to be in force upon the expiration of the period of its validity in elapsed time or flying time, whichever may be the earlier, as specified in the relevant maintenance schedule and the period of validity of the certificate shall be recorded in the certificate at the time when it is issued.
+(d) he becomes of unsound mind or is incapable of carrying out his duties as a result of physical or mental illness ;
 
-(3) A certificate of maintenance may be issued for the purposes of this regulation only by‐
+(e) he has been declared bankrupt or he makes compromise with his creditors ;
 
-(a) the holder of a licence granted under these Regulations as an aircraft maintenance engineer or aircraft radio maintenance engineer being a licence of a category appropriate in accordance with regulation 8 of these Regulations and the Fourth Schedule to these Regulations; or [Fourth Schedule.]
+(f ) he has been convicted of a felony or any offence involving dishonesty ;
 
-(b) the holder of a licence as such an engineer granted under the law of a country other than Nigeria and rendered valid under these Regulations, in accordance with the privileges endorsed on the licence; or
+(g) he is found guilty of a gross misconduct ;
 
-(c) a person whom the Minister has authorised to issue a certificate of maintenance in a particular case, and in accordance with that authority:
+(h) in the case of a person possessed of professional qualification, he is disqualified or suspended from practising his profession in any part of the world by an order of a competent authority ;
 
-Provided that, upon approving a maintenance schedule, the Minister may direct that certificates of maintenance relating to that schedule, or to any part thereof specified in his direction, may be issued only by the holder of such a licence as is so specified.
+(i) in the case of an ex-officio member, he ceases to hold the office on the basis of which he is a member of the Board ; or
 
-(4) Certificates of maintenance shall be issued in duplicate. One of the duplicates shall, during the period of validity of the certificate, be carried in the aircraft when regulation 51 of these Regulations so requires, and the other shall be kept by the operator elsewhere than on the aircraft.
+(j) he is in conflict of interest as stipulated under the First Schedule to this Act.
 
-(5) On the termination of every flight by an aircraft registered in Nigeria for any of the purposes specified in paragraph (1) of this regulation, the commander of the aircraft shall enter in a technical log‐
+(3) Notwithstanding the provisions of subsection (2), the President may direct the removal of a member from the Board on the satisfaction that it is not in the interest of the Authority or of the public for the person appointed to continue in office.
 
-(a) the times at which the flight began and ended; and
+Tenure of office of the Chairman and members of the Board.
 
-(b) particulars of any defect in any part of the aircraft or its equipment which is known to him, being a part to which a maintenance schedule relates, or, if no such defect is known to him, an entry to that effect; and shall sign and date such entries:
+First Schedule.
 
-Provided that in the case of a number of consecutive flights beginning and ending on the same day and with the same person as commander of the aircraft, the commander of an aircraft‐
+First Schedule.
 
-(i) flying for the purpose of public transport where each of the aforesaid consecutive flights begins at the same aerodrome and ends at that aerodrome; or
+A 910 2022 No. 30 Civil Aviation Act, 2022
 
-(ii) flying for the purpose of dropping or projecting any material for agricultural, public health or similar purposes, may, except where he becomes aware of a defect during an earlier flight, make the entries as aforesaid in a technical log at the end of the last of such consecutive flights.
-
-(6) Upon the rectification of any defect which has been entered in a technical log in accordance with paragraph (5) of this regulation, a copy of the certificate of compliance required by regulation 7 of these Regulations in respect of the work done for the rectification of the defect shall be entered in the technical log in such a position or manner as to be readily identifiable with the entry of the defect to which it relates.
-
-(7) The technical log referred to in paragraphs (5) and (6) of this regulation shall be carried in the aircraft when regulation 51 of these Regulations so requires and copies of the entries referred to in those paragraphs shall be kept on the ground.
-
-(8) Subject to the provisions of regulation 53 of these Regulations, every certificate of maintenance shall be preserved by the operator of the aircraft for a period of two years following the expiry of the period of validity of the certificate and for such further period as the Minister may require in any particular case.
+(4) Where a vacancy occurs in the membership of the Board, it shall be filled by an appointment by the President of a successor to hold office for the remainder of the term of office of his predecessor and the successor shall represent the same interest as that member whose exit created the vacancy.

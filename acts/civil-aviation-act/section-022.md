@@ -1,15 +1,17 @@
-22. Responsibilities of a public transport operator
+22.—(1) The Authority shall be exempted from the payment of tenement rates and income tax or any other tax in force.
 
-(1) The operator of an aircraft registered in Nigeria shall not permit the aircraft to fly for the purpose of public transport without first‐
+Power to accept gifts.
 
-(a) designating from among the flight crew a pilot to be the commander of the aircraft for the flight; and
+Power to borrow and invest.
 
-(b) satisfying himself by every reasonable means that the aero‐nautical radio stations and navigational aids serving the intended route or any planned diversion therefrom are adequate for the safe navigation of the aircraft; and
+Power to impose fees for services.
 
-(c) satisfying himself by every reasonable means that the aerodromes at which it is intended to take‐off or land and any alternate aerodrome at which a landing may be made, are suitable for the purpose and in particular are adequately manned and equipped to ensure the safety of the aircraft and its passengers:
+Act No 31,
 
-Provided that the operator of the aircraft shall not be required to satisfy himself as to the adequacy of fire‐fighting, search, rescue or other services which are required only after the occurrence of an accident.
+2007.
 
-(2) The operator of an aircraft registered in Nigeria shall not permit any person to be a member of the crew thereof during any flight for the purpose of public transport (except a flight for the sole purpose of training persons to perform duties in aircraft) unless such person has had the training, experience, practice and periodical tests specified in Part B of the Tenth Schedule to these Regulations in respect of the duties which he is to perform and unless the operator has satisfied himself that such person is competent to perform his duties, and in particular to use the equipment provided in the aircraft for that purpose. The operator shall maintain, preserve, produce and furnish information respecting records relating to the foregoing matters in accordance with Part B of the said Tenth Schedule.
+Exemption from tax.
 
-[Part B.]
+2022 No. 30 A 919 Civil Aviation Act, 2022
+
+(2) The provision of any law relating to the taxation of the income of any company or contribution to any trust fund shall not apply to the Authority.

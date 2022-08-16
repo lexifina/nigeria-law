@@ -1,31 +1,9 @@
-46. Maximum flying duty periods for pilots and flight engineers
+46.—(1) The Authority shall promulgate rules and regulations governing the notification and reporting of incidents involving aircraft and at aerodromes.
 
-(1) Without prejudice to the provisions of regulation 44 of these Regulations, a person shall not fly in an aircraft to which this regulation applies as a pilot or flight engineer thereof in the course of any duty period of that person after more than the specified time has elapsed since the beginning of that duty period.
+(2) The Authority shall have power to carry out investigations into any complaint or occurrence relating to aviation safety and security, after due notice to the persons concerned.
 
-(2) In paragraph (1) of this regulation, the expression "the specified time" means‐
+(3) Where the Authority is satisfied after such investigation that such person is violating any provisions of this Act, regulations, rules, orders or directives, as the case may be, it shall by order require the person to take such action consistent with the provision of this Act, regulations, rules, orders or directives as may be necessary in the opinion of the Authority to prevent further violation of the provisions of this Act, regulations, rules, orders or directives.
 
-(a) in relation to a person who flies in an aircraft as the only pilot thereof, twelve hours:
+(4) The Authority shall have power to take all steps reasonably necessary, including the power to ground any aircraft and to seal the premises of any air transport service provider or provider of allied aviation service and to take any corrective actions in order to implement the findings of accidents and incidents investigations and ensure compliance with the provisions of this Act and the regulations, rules, orders or directives made under it.
 
-Provided that if before the commencement of that flight and during the duty period in the course of which he makes that flight, there has been a period of not less than seven continuous hours throughout which that person has not flown in any aircraft, the foregoing provisions of this sub‐ paragraph shall have effect in relation to that flight as if fourteen hours were substituted therein for twelve hours;
-
-(b) in relation to a person who flies as a pilot of an aircraft in which two or more persons are carried as pilots thereof, sixteen hours:
-
-Provided that the foregoing provisions of this sub‐paragraph shall have effect in relation to that flight as if 24 hours were substituted therein for sixteen hours if three or more persons are carried in the aircraft as pilots thereof and the following conditions are fulfilled‐
-
-(i) at least two of the pilots are duly qualified by their respective licences to act as a commander of the aircraft for the purposes of that flight;
-
-(ii) at least one of the pilots is carried in addition to those members of the flight crew who are required to be carried in the circumstances of the flight by or under these Regulations;
-
-(iii) suitable facilities for sleeping are available for the use of at least one of the pilots at all times throughout the flight; and
-
-(iv) each of the pilots has during the duty period in the course of which that flight is made and before the end of that flight, been afforded opportunities of resting for a reasonable time;
-
-(c) in relation to a person who flies as a flight engineer of an aircraft, sixteen hours:
-
-Provided that the foregoing provisions of this sub‐paragraph shall have effect in relation to that flight as if 24 hours were substituted therein for sixteen hours if two or more persons are carried in the aircraft as flight engineers thereof and the following conditions are fulfilled‐
-
-(i) at least one of the flight engineers is carried in addition to the members of the flight crew who are required to be carried in the circumstances of the flight by or under these Regulations;
-
-(ii) suitable facilities for sleeping are available for the use of at least one of the flight engineers at all times throughout the flight; and
-
-(iii) each of the flight engineers has, during the duty period in the course of which that flight is made and before the end of that flight, been afforded opportunities of resting for a reasonable time.
+(5) The Authority shall implement mandatory punitive and voluntary non-punitive incident and accident reporting system and shall protect the identity of any person or organisation who offer information towards the performance of its functions under this Act and regulations made under it.

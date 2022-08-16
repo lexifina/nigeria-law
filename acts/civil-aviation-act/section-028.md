@@ -1,27 +1,25 @@
-28. Duties of commander of aircraft for transporting passengers
+28.—(1) In time of war, whether actual or imminent or where a proclamation of emergency under the Constitution is in force in the Federal Republic of Nigeria or any part of it, where the Minister is of the opinion that in the interest of public safety or tranquility, the issue of all or any of the following orders is expedient, he may by notification in the Federal Government Gazette—
 
-(1) This regulation applies to flights for the purpose of the public transports of passengers by aircraft registered in Nigeria.
+(a) cancel or suspend, either absolutely or subject to such conditions as he may think fit to specify in the order, all or any licences, permits, certificates or other authorisations issued under this Act ;
 
-(2) In relation to every flight to which this regulation applies, the commander of the aircraft shall‐
+(b) prohibit either absolutely or subject to such conditions as he may think fit to specify in the order, or regulate in such manner as may be contained in the order, the flight of all or any aircraft or class of aircraft over the whole or any part of Nigeria ;
 
-(a) before the aircraft takes off, take all reasonable steps to ensure that all passengers are made familiar with the position and method of use of emergency exits, safety belts, safety harnesses, oxygen equipment and lifejackets, and all other devices required by or under these Regulations and intended for use by passengers individually in case of an emergency occurring to the aircraft:
+(c) prohibit, either absolutely or conditionally, or regulate the erection, maintenance or use of any aerodrome, aircraft factory, flying-school or club, or place where aircraft is manufactured, repaired or kept, or any class or description of it ;
 
-Provided that in relation to lifejackets, this requirement may, except in the case of a seaplane, be complied with at any time before the aircraft reaches a point beyond gliding distance from land;
+Emergency powers of the Minister for the protection of public health.
 
-(b) if the aircraft is not a seaplane but is intended in the course of the flight to reach a point more than thirty minutes' flying time (while flying in still air at the speed specified in the relevant certificate of airworthiness as the speed for compliance with regulations governing flights over water) from the nearest land, take all reasonable steps to ensure that before that point is reached, all passengers are given a practical demonstration of the method of use of the lifejackets required by or under these Regulations for the use of passengers;
+Power of the Minister to make orders in emergency.
 
-(c) if the aircraft is a seaplane, take all reasonable steps to ensure that before the aircraft takes off, all passengers are given a practical demonstration of the method of use of the equipment referred to in sub‐paragraph (b) of this paragraph;
+A 922 2022 No. 30 Civil Aviation Act, 2022
 
-(d) before the aircraft takes off, and before it lands, take all reasonable steps to ensure that the crew of the aircraft are properly secured in their seats and that any persons, carried in compliance with paragraph (7) of regulation 14 of these Regulations, are secured in seats which shall be in a passenger compartment and which shall be so situated that they can readily assist passengers;
+(d) direct that any aircraft or class of aircraft, or any aerodrome, aircraft factory, flying school or club, or place where aircraft is manufactured, repaired or kept, together with any machinery, plant, material or thing used for the operation, manufacture, repair or maintenance of aircraft shall be delivered, either forth with or within a specified time, to such authority and in such manner as he may specify in the order, to be at the disposal of the Federal Government of Nigeria for the public service ; or
 
-(e) before the aircraft takes off, and before it lands, and whenever by reason of turbulent air or any emergency occurring during flight he considers the precaution necessary, take all reasonable steps to ensure that all passengers are properly secured in their seats by safety belts or safety harnesses;
+(e) direct that any airline operator having its principal place of business in Nigeria, or an aerodrome operator or a provider of air traffic and meteorological services, and the employees of such airline operator, aerodrome operator or provider of air traffic and meteorological services, shall carryout flights, and other duties connected with operation of flights, in the public interest in the manner specified in the order.
 
-(f) in any emergency, take all reasonable steps to ensure that all passengers are instructed in the emergency action which they should take;
+(2) Any order made under subsection (1) shall have effect, notwithstanding anything inconsistent with it contained in any regulation made under this Act or any other law in force in Nigeria.
 
-(g) except in a case where a pressure greater than 700 millibars is maintained in all passenger and crew compartments throughout the flight, take all reasonable steps to ensure that‐ (I) before the aircraft reaches an altitude of 13,000 feet above mean sea level, the method of use of the oxygen provided in the aircraft in compliance with the requirements of regulation 9 of these Regulations is demonstrated to all passengers;
+(3) Any person who suffers direct injury or loss by reason of any order made under paragraph (c), (d) or (e) of subsection (1) shall be paid such compensation as may be determined by such authority or person as the Minister may appoint in this behalf.
 
-(ii) on reaching such altitude all passengers are recommended to use oxygen;
+(4) The Minister may authorise such steps to be taken to secure compliance with any order made under subsection (1) as may be deemed necessary.
 
-(iii) during any time exceeding thirty minutes when the aircraft is flying at an altitude exceeding
-
-10,000 feet, but not exceeding 13,000 feet above mean sea level, and at all times when the aircraft is flying at any altitude exceeding 13,000 feet above mean sea level, oxygen is used by all the crew of the aircraft.
+(5) Any person who knowingly disobeys, fails to comply with, or does any act in contravention of an order made under subsection (1), commits an offence and is liable on conviction to a fine of at least N200,000 or imprisonment for a term of at least six months or both, and the court by which he is convicted may direct that the aircraft or thing, if any, in respect of which the offence has been committed, or any part of such aircraft or thing, be forfeited to the Federal Government of Nigeria.

@@ -1,35 +1,3 @@
-7. Inspection, overhaul, repair, replacement and modification
+7. The Chairman and members of the Board shall be paid such allowances, expenses and benefits that are in accordance with extant Federal Government financial guidelines and regulations.
 
-(1) An aircraft registered in Nigeria, being an aircraft in respect of which a certificate of airworthiness issued or rendered valid under these Regulations is in force, shall not fly if any part of the aircraft or of such of its equipment as is necessary for the airworthiness of the aircraft has been overhauled, repaired, replaced or modified or has been inspected as provided in paragraph (7) (b) of regulation 5 of these Regulations, unless there is in force a certificate of compliance issued in accordance with this regulation and relating to the overhaul, repair, replacement, modification or inspection, as the case may be:
-
-Provided that if a repair or replacement of a part of an aircraft or its equipment is carried out when the aircraft is at such a place that it is not reasonably practicable‐
-
-(a) for the repair or replacement to be carried out in such manner that a certificate of compliance can be issued under this regulation in respect thereof; or
-
-(b) for such a certificate to be issued while the aircraft is at that place, the aircraft may fly to a place at which such a certificate can be issued, being the nearest place‐
-
-(i) to which the aircraft can in the reasonable opinion of the commander thereof, safely fly by a route for which it is properly equipped; and
-
-(ii) to which it is reasonable to fly having regard to any hazards to the liberty or health of any person on board, and in such case the commander of the aircraft shall cause written particulars of the flight, and the reasons for making it, to be given to the Minister within ten days thereafter.
-
-(2) Neither‐
-
-(a) equipment provided in compliance with the Fifth Schedule to these Regulations (except paragraph
-
-(3) thereof); nor [Fifth Schedule.]
-
-(b) in the case of a public transport aircraft, radio apparatus provided for use therein or in any survival craft carried therein, whether or not such apparatus is provided in compliance with these Regulations or any regulation made thereunder, shall be installed, or placed on board for use, in an aircraft registered in Nigeria after being overhauled, repaired, or modified, unless there is in force in respect thereof at the time when it is installed or placed on board, a certificate of compliance issued in accordance with this regulation and, relating to the overhaul, repair or modification, as the case may be.
-
-(3) For the purposes of these Regulations, "certificate of compliance" means a certificate that the part of the aircraft or its equipment has been overhauled, repaired, replaced or modified, as the case may be, in a manner and with material of a type approved by the Minister either generally or in relation to a class or type of aircraft or the particular aircraft and which identifies the aircraft and the overhaul, repair, replacement or modification to which it relates and includes particulars of the work done; and in relation to an inspection required by the Minister, that the inspection has been made in accordance with the requirement of the Minister and that any consequential repair or replacement has been carried out as aforesaid.
-
-(4) A certificate of compliance may be issued for the purposes of this regulation only by‐
-
-(a) the holder of a licence granted under these Regulations as an aircraft maintenance engineer or aircraft radio maintenance engineer being a licence of a category appropriate in accordance with regulation 8 of these Regulations and the Fourth Schedule to these Regulations; or [Fourth Schedule.]
-
-(b) the holder of a licence as such an engineer granted under the law of a country other than Nigeria and rendered valid under these Regulations, in accordance with the privileges endorsed on the licence; or
-
-(c) a person approved by the Minister as being competent to issue such certificates; or
-
-(d) a person whom the Minister has authorised to issue the certificate in a particular case.
-
-(5) Subject to the provisions of regulation 53 of these Regulations, if the aircraft to which a certificate of compliance relates is a public transport aircraft or any aerial work aircraft, the certificate of compliance shall be preserved by the operator of the aircraft for the period of time for which he is required to preserve the log book relating to the same part of the aircraft or to the same equipment or apparatus, as the case may be. In the case of any other aircraft, the certificate shall be preserved by the operator of the aircraft for a period of two years.
+PART III—FUNCTIONS AND POWERS OF THE AUTHORITY

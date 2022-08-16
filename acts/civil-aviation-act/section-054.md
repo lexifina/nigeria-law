@@ -1,7 +1,23 @@
-54. Revocation, suspension and variation of certificates, etc.
+54.—(1) The Authority may under article 83 bis of the Convention on International Civil Aviation and by a bilateral agreement with the Aeronautical Authority of another country exchange with that country all or part of its respective functions and duties with respect to registered aircraft under article 12 (Rules of the Air), article 30 (Aircraft Radio Equipment), article 31 (Certificates of Airworthiness) and article 32 (a) (Licenses of Personnel) of the Convention.
 
-(1) The Minister may, if he thinks fit, provisionally suspend any certificate, licence, approval, permission, exemption or other document issued or granted under these Regulations, pending investigation of the case and the Minister may, on sufficient ground being shown to his satisfaction after due enquiry, revoke, suspend or vary any such certificate, licence, approval, permission, exemption or other document.
+(2) The Authority may relinquish its responsibility with respect to the functions and duties transferred by the Authority as specified in the bilateral agreement under the articles listed in subsection (1) for Nigerian registered Authority to act in consistency with international obligations.
 
-(2) The holder or any person having the possession or custody of any certificate, licence, approval permission, exemption, or other document which has been revoked, suspended or varied under these Regulations, shall surrender it to the Minister within a reasonable time after being required to do so by him.
+Authority to enter into cooperation agreements.
 
-(3) The breach of any condition subject to which any certificate, licence, approval, permission, exemption or other document, other than a licence issued in respect of an aerodrome, has been granted or issued under these Regulations, shall render the document invalid during the continuance of the breach.
+Bilateral exchange of safety oversight responsibilities.
+
+2022 No. 30 A 937 Civil Aviation Act, 2022 aircraft described in subsection (7) (a) transferred abroad and accept responsibility with respect to the functions and duties under the articles for aircraft registered abroad described in subsection (7) (b) that is transferred to Nigeria.
+
+(3) The Authority may predicate in the agreement, the transfer of functions and duties under this subsection on any condition that the Authority deems necessary and prudent, except that the Authority may not transfer responsibilities for Nigerian registered aircraft described in subsection (7) (a) to a State that the Authority determines is not in compliance with its obligations under international law for the safety oversight of civil aviation.
+
+(4) The Authority, pursuant to any agreement entered into under this section, may recognise certificates of airworthiness and personnel licences issued or renewed by the State of the operator.
+
+(5) The Authority shall notify and inform the International Civil Aviation Organisation and other States concerned with the transfer arrangement of the existence of the agreement.
+
+(6) The Authority shall have the power to exchange with any foreign government, through appropriate agencies of the Government of Nigeria, information pertaining to civil aviation.
+
+(7) In this section “registered aircraft” means—
+
+(a) aircraft registered in Nigeria and operated under an agreement for the lease, charter, or interchange of the aircraft or any similar arrangement by an operator that has its principal place of business or, where it has no such place of business, its permanent residence in another country ; and
+
+(b) aircraft registered in a foreign country and operated under an agreement for the lease, charter, or interchange of the aircraft or any similar arrangement by an operator that has its principal place of business or, where it has no such place of business, its permanent residence in Nigeria.

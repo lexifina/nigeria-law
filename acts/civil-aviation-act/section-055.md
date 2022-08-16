@@ -1,23 +1,15 @@
-55. Offences in relation to documents
+55.—(1) The provisions contained in the Convention for the Unification of Certain Rules Relating to International Carriage by Air signed at Montreal on 28th May, 1999 set forth in the Second Schedule to this Act and shall, from the commencement of this Act have force of law and apply to international carriage by air to and from Nigeria, in relation to any carriage by air to which the rules apply, irrespective of the nationality of the aircraft performing the carriage, and shall, subject to the provisions of this Act, govern the rights and liabilities of carriers, passengers, consignors, consignees and other persons.
 
-(1) A person shall not with intent to deceive‐
+(2) The provisions contained in the Convention for the Unification of Certain Rules Relating to International Carriage by Air signed at Montreal on
 
-(a) use any certificate, licence, approval, permission, exemption or other document issued or required by or under these Regulations which has been forged, altered, revoked or suspended, or to which he is not entitled; or
+28th May,1999 which has been modified and set out in the Second Schedule to Carriers’ liability.
 
-(b) lend any certificate, licence, approval, permission exemption or other document issued or required by or under these Regulations to, or allow it to be used by, any other person; or
+Second Schedule.
 
-(c) make any false representation for the purpose of procuring for himself or any other person the grant, issue, renewal or variation of any such certificate, licence, approval, permission or exemption or other document.
+Second Schedule.
 
-(2) A person shall not wilfully mutilate, alter or render illegible any log book or other record required by or under these Regulations to be maintained or any entry made therein, or knowingly make, or procure or assist in the making, of, any false entry in or material omission from any such log book or record or destroy any such log book or record during the period for which it is required under these Regulations to be preserved.
+A 938 2022 No. 30 Civil Aviation Act, 2022 this Act and shall, from the commencement of this Act have the force of law and apply to non-international carriage by air within Nigeria, irrespective of the nationality of the aircraft performing the carriage, and shall subject to the provisions of this Act govern the rights and liability of carriers, passengers, consignors, consignees and other persons within the contemplation of the modified Convention.
 
-(3) All entries in such log books and records shall be made in ink or indelible pencil.
+(3) In any case of aircraft accident resulting in death or injury of passengers, the airline operator or carrier shall make advance payments of Naira equivalent of at least 30,000 United States Dollars within 30 days from the date of such accident, to the natural person or such natural persons who are entitled to claim compensation in order to meet the immediate economic needs of such persons and such advance payments shall not constitute recognition of liability and may be offset against any amount subsequently paid as damages by the carrier.
 
-(4) A person shall not wilfully or negligently make in a load sheet any entry which is incorrect in any material particular, or any material omission from such a load sheet.
-
-(5) A person shall not purport to issue any certificate of maintenance or certificate of compliance or any certificate under condition (3) of the "A Conditions" set forth in the Second Schedule to these Regulations unless he is authorised to do so under these Regulations.
-
-[Second Schedule.]
-
-(6) A person shall not issue any such certificate as aforesaid unless he has satisfied himself that all statements in the certificate are correct.
-
-PART VII Control of air traffic
+(4) The advance payment sum prescribed in subsection (3) and the limit of liability under the Convention for the Unification of Certain Rules Relating to International Carriage by Air as modified by subsection (2) shall stand reviewed automatically upon receipt by Nigeria of a notification of the five yearly review of the limits from the International Civil Aviation Organisation (ICAO).

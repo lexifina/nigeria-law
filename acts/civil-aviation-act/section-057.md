@@ -1,13 +1,9 @@
-57. Power to prohibit or restrict flying
+57.—(1) Any lawful entry into Nigeria or any lawful transit across Nigeria, with or without landings, of an aircraft to which this subsection applies, shall not entail any seizure or detention of the aircraft or any proceedings against the owner or operator of the aircraft or any other interference with the aircraft by or on behalf of any person in Nigeria on the ground that the construction, mechanism, parts, accessories, or operation of the aircraft is an infringement of any patent, design or model.
 
-(1) Where the Minister deems it necessary in the public interest to restrict or prohibit flying over any area of Nigeria or along any route therein by reason of‐
+(2) The importation into and storage in Nigeria of spare parts and spare equipment for an aircraft to which this subsection applies and the use and installation of it in repair of such an aircraft, shall not entail any seizure or detention of the aircraft or of the spare parts or spare equipment or any proceedings against the owner or operator of the aircraft or the owner of the spare parts or spare equipment or any other interference with the aircraft by or on behalf of any person in Nigeria, on the ground that the spare parts or spare equipment or their installation is an infringement of any patent, design or model, provided that, this subsection shall not apply in relation to any spare parts or spare equipment which is sold or distributed in Nigeria or is exported from Nigeria for sale or distribution.
 
-(a) the intended gathering or movement of a large number of persons;
+(3) Subsections (1) and (2) shall apply to—
 
-(b) the intended holding of an aircraft race or contest or of an exhibition of flying;
+(a) any aircraft other than an aircraft used in military, customs or police services registered in a country or territory in the case of which there is for the time being in force a declaration made by the Minister, with a view to the fulfillment of the relevant provisions of the Convention mentioned in section 55 (2) of this Act, that the benefits of the subsections extend to that country or territory ; and
 
-(c) national defence; or
-
-(d) any other reason affecting the public interest, the Minister may make regulations prohibiting, restricting or imposing conditions on flight, either generally or in relation to any class or type of aircraft, over any such area or along any such route, and an aircraft shall not fly in contravention of such regulations.
-
-(2) If the commander of an aircraft becomes aware that the aircraft is flying in contravention of any such regulations which have been made for any of the reasons referred to in paragraph (1) (c) of this regulation, he shall forthwith cause a signal of distress to be made by radio or by one of the prescribed visual signals, and shall (unless otherwise instructed by the appropriate air traffic control unit or by a commissioned officer of the naval, military or air forces), cause the aircraft to land at the aerodrome, being an aerodrome suitable for that purpose, which it can reach by flying to the least possible extent over the area to which the regulations relate. The aircraft shall not begin to descend while over such area.
+(b) such other aircraft as the Minister may by order specify.

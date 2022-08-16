@@ -1,17 +1,17 @@
-68. Noise and vibration on aerodromes
+68.—(1) It shall be the duty and primary responsibility of an air operator certificate holder to ensure the safe operation of his aircraft.
 
-(1) With reference to subsection (1) of section 10 of the Act, the conditions under which noise and vibration may be caused by aircraft (including military aircraft) on Government airports, licensed aerodromes or on aerodromes at which the manufacture, repair or maintenance of aircraft is carried out by persons carrying on business as manufacturers or repairers of aircraft, shall be as follows, that is to say, that whether in the course of the manufacture of the aircraft or otherwise‐
+(2) It shall be the duty of each operator to make or cause to be made, such inspection, maintenance, overhaul, and repair of all equipment used in civil aviation and to ensure that the operations conducted are in accordance with this Act and the regulations, directives and orders of the Director-General issued under this Act.
 
-(a) the aircraft is taking off or landing; or
+Approved training and maintenance organisations.
 
-(b) the aircraft is moving on the ground or water; or
+Air navigation facility safety standards.
 
-(c) the engines are being operated in the aircraft‐
+Duty of operators and airmen.
 
-(i) for the purpose of ensuring their satisfactory performance; or
+A 944 2022 No. 30 Civil Aviation Act, 2022
 
-(ii) for the purpose of bringing them to a proper temperature in preparation for, or at the end of, a flight; or
+(3) It shall be the duty of each holder of an air operator certificate to ensure that the maintenance of aircraft and operations of that air operator are conducted in the public interest and in accordance with the requirements of this Act and the regulations, directives, orders and advisory circulars issued under this Act by the Director-General.
 
-(iii) for the purpose of ensuring that the instruments, accessories or other components of the aircraft are in a satisfactory condition.
+(4) It shall be the duty of each holder of an airman certificate to observe and comply with the authority and limitations of that certificate, the requirements of this Act and the regulations, directives and orders issued under this Act.
 
-(2) Subsection (2) of section 10 of the Act shall apply to any aerodrome to which paragraph (1) of this regulation applies.
+(5) It shall be the duty of every person performing duties in civil aviation to observe and comply with the requirements of this Act and the orders, rules, and directives issued under this Act relating to his tasks.

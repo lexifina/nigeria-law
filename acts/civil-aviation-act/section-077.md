@@ -1,1 +1,3 @@
-77. Enforcement of directions Any person who fails to comply with any direction given to him by the Minister or by any authorised person under any provision of these Regulations or any regulations made thereunder, shall be deemed for the purposes of these Regulations to have contravened that provision.
+77. A person shall not establish a solid waste disposal facility or site that receives putrescible waste within 13 kilometers of the vicinity of an aerodrome unless the Minister, on the advice of the Authority, determines that an exemption from this requirement would have no adverse impact on aviation safety.
+
+PART XII—CIVIL AND CRIMINAL PENALTIES

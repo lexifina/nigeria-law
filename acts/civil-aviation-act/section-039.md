@@ -1,5 +1,3 @@
-39. Drunkenness in aircraft
+39.—(1) The Authority shall develop regulations with respect to the use of the navigable airspace of Nigeria and may assign by rule, regulation, or order the use of the navigable airspace under such terms, conditions and limitations as the Authority may deem necessary to insure the safety of aircraft and the efficient utilisation of such airspace.
 
-(1) A person shall not enter any aircraft when drunk or be drunk in any aircraft.
-
-(2) A person shall not, when acting as a member of the crew of any aircraft or being carried in any aircraft for the purpose of so acting, be under the influence of drink or a drug to such an extent as to impair his capacity so to act.
+(2) The Authority’s power under this section shall be exercised only in that airspace for which air traffic control responsibility has not been assigned to a foreign country by international agreement or other arrangement.

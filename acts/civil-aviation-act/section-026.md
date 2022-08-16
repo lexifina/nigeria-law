@@ -1,17 +1,23 @@
-26. Pre‐flight action by commander of aircraft The commander of an aircraft registered in Nigeria shall satisfy himself before the aircraft takes off−
+26.—(1) The Minister may, after consultation with the Authority, give such directions consistent with the provisions of this Act to the Authority on matters of policy in—
 
-(a) that the flight can safely be made, taking into account the latest information available as to the route and aerodromes to be used, the weather reports and forecasts available, and any alternative course of action which can be adopted in case the flight cannot be completed as planned;
+(a) the interests of national security ;
 
-(b) that the equipment (including radio apparatus) required by or under these Regulations to be carried in the circumstances of the intended flight is carried and is in a fit condition for use;
+(b) connection with any matter appearing to him to affect the relations of Nigeria with a country or territory outside Nigeria ;
 
-(c) that the aircraft is in every way fit for the intended flight, and that where certificates of maintenance are required by paragraph (1) of regulation 6 of these Regulations to be in force, they are in force and will not cease to be in force during the intended flight;
+(c) order to discharge or facilitate the discharge of an obligation binding on Nigeria by virtue of its being a member of an international organisation or a party to an international or regional agreement ;
 
-(d) that the load carried by the aircraft is of such weight, and is so distributed and secured, that it may safely be carried on the intended flight;
+(d) order to obtain or facilitate the attainment of any other object of which is in his opinion appropriate in view of the fact that Nigeria is a member of an international organisation or a party to an international or regional agreement ; or
 
-(e) in the case of a flying machine or airship, that sufficient fuel, oil and engine coolant (if required) are carried for the intended flight, and that a safe margin has been allowed for contingencies, and, in the case of a flight for the purpose of public transport, that the instructions in the operations manual relating to fuel, oil and engine coolant have been complied with;
+(e) order to enable Nigeria become a member of an international organisation or a party to an international or regional agreement.
 
-(f) in the case of an airship or balloon, that sufficient ballast is carried for the intended flight;
+Accounts and audit.
 
-(g) in the case of a flying machine, that having regard to the performance of the flying machine in the conditions to be expected on the intended flight and to any obstructions at the places of departure and intended destination and on the intended route, it is capable of safely taking off, reaching and maintaining a safe height thereafter, and making a safe landing at the place of intended destination;
+Annual report.
 
-(h) that any pre‐flight check system established by the operator and set forth in the operations manual or elsewhere, has been complied with by each member of the crew of the aircraft.
+Directions by the Minister.
+
+2022 No. 30 A 921 Civil Aviation Act, 2022
+
+(2) The Authority in the exercise of its functions and powers shall be guided by such direction given under subsection (1).
+
+(3) The Authority shall furnish the Minister with such information or facilities for obtaining information with respect to its activities as the Minister may require.

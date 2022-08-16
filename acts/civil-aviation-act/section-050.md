@@ -1,19 +1,15 @@
-50. Provision for particular cases
+50.—(1) The provisions of the Convention on the International Recognition of Rights in Aircraft (Geneva Convention), 1948, shall from the commencement of this Act have the force of law in Nigeria subject to the provisions of the Constitution of the Federal Republic of Nigeria, 1999.
 
-(1) Notwithstanding anything contained in regulations 46, 47 and 49 of these Regulations (in these Regulations referred to as "the relevant Regulations"), a person shall be deemed not to have contravened any of the provisions of those Regulations by reason of a flight made at any time by that person or by another person if the first‐mentioned person proves‐
+(2) The provisions of the Convention on International Interests in Mobile Equipment 2001 and the Protocol to the Convention on International Interests in Mobile Equipment on Matters Specific to Aircraft Equipment 2001 (The Cape Town Convention and Protocol), shall from the commencement of this Act, have the force of law in Nigeria subject to the provisions of the Constitution of the Federal Republic of Nigeria, 1999.
 
-(a) that it was due to an unavoidable delay in the completion of the flight that the person so flying was flying at that time; and
+(3) The provisions of the Convention on Offences and Certain Other Acts Committed On Board Aircraft signed at Tokyo on 14th September, 1963 and any amendment thereto shall from the commencement of this Act have the force of law in Nigeria subject to the provisions of the Constitution of the Federal Republic of Nigeria, 1999.
 
-(b) that the said first‐mentioned person could not reasonably be expected to have foreseen before the flight began that the delay was likely to occur.
+(4) The provisions of the Convention for the Suppression of Unlawful Seizure of Aircraft, signed at the Hague on 16th December, 1970, shall from the commencement of this Act, have the force of law in Nigeria subject to the provisions of the Constitution of the Federal Republic of Nigeria, 1999.
 
-(2) Without prejudice to the provisions of paragraph (2) of regulation 79 of these Regulations and notwithstanding anything contained in the relevant Regulations, the commander of an aircraft may make, or authorise any other person to make, and that other person if so authorised may make, a flight in that aircraft which he would, but for this paragraph, be prohibited from making by virtue of any provision contained in the relevant Regulations if it appears to the commander‐
+(5) The provisions of the Convention for the Suppression of Unlawful Acts Against the Safety of Civil Aviation, signed at Montreal on 23rd December,
 
-(a) that arrangements had been made for the flight to be made with such a crew and so as to begin and end at such times that no member of that crew would have been prohibited from making the flight in accordance with those arrangements by any provision contained in the relevant Regulations, and that since those arrangements were made, the flight has been or will be prevented from being made in accordance with those arrangements by reason of exceptional circumstances or by reason of circumstances which were not foreseen as likely to prevent that flight from being made; or
+1971, shall from the commencement of this Act have the force of law in Nigeria, subject to the provisions of the Constitution of the Federal Republic of Nigeria, 1999.
 
-(b) that the flight is one which ought to be carried out in the interest of the safety or health of any person; or
+(6) The Convention on the Marking of Plastic Explosives for the Purpose of Detection, signed at Montreal on 1st March, 1991, shall from the commencement of this Act have force of law in Nigeria, subject to the provisions of the Constitution of the Federal Republic of Nigeria, 1999.
 
-(c) that the safety of the aircraft on that flight will not be endangered if he or that other person makes that flight.
-
-(3) Where the commander or any other person makes a flight in an aircraft which he or that other person is permitted to make under paragraph (2) of this regulation, a report in writing that he or that other person has made that flight, giving full particulars of the circumstances in which it was made and the reasons why the commander made that flight, or, as the case may be, authorised that other person to do so, shall be made as soon as is reasonably practicable by the commander to the operator of the aircraft and in any event by the operator to the Minister; and the operator and the commander shall furnish any authorised person with such further information in his possession relating to the flight and to the circumstances in which it was made as that person may require.
-
-PART VI Documents
+(7) The Minister shall have power to make the declarations required or permitted to be made under the Conventions, Treaties or Protocols referred to under subsections (1)-(6).

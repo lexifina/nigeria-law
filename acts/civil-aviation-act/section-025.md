@@ -1,5 +1,3 @@
-25. Weather condition for aircraft not registered in Nigeria
+25. The Authority shall, not later than 30 September in each year, submit to the President through the Minister, a report of its activities during the immediate preceding calendar year and shall include in such report a copy of the audited accounts of the Authority for that calendar year.
 
-(1) An aircraft registered in a country other than Nigeria shall not fly for the purpose of public transport unless the operator thereof shall have furnished to the Minister such particulars as he may, from time to time, have required relating to the weather conditions specified by the operator in relation to aerodromes in Nigeria for the purpose of limiting their use by the aircraft for take‐off or landing, including any instructions given by the operator in relation to such weather conditions.
-
-(2) The aircraft shall not begin or end a flight at an aerodrome in Nigeria in weather conditions less favourable than those so specified in relation to that aerodrome, or in contravention of the instructions referred to in paragraph (1) of this regulation.
+PART VI—MINISTERIAL POWERS AND DIRECTIONS

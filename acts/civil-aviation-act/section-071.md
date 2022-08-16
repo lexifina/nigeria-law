@@ -1,9 +1,25 @@
-71. Aeronautical lights and other facilities
+71.—(1) The Minister may approve the establishment and development of aerodromes anywhere in Nigeria.
 
-(1) A person shall not establish or maintain within Nigeria any aeronautical light or air route or airway facility except with the permission of the Minister and in accordance with any conditions subject to which the permission may be granted.
+(2) Roads, approaches, apparatus, equipment, buildings and other accommodations in connection to such aerodromes shall be maintained by the owners in conformity with rules and regulations made under this Act.
 
-(2) A person shall not alter the character of any aeronautical light or air route or airway facility within Nigeria except with the permission of the Minister and in accordance with any conditions subject to which the permission may be granted.
+(3) A person shall not commence construction or reconstruction of an aerodrome in Nigeria without clearance from the Authority.
 
-(3) In the case of an aeronautical light, being a beacon, which is or may be visible from any waters within an area of a lighthouse authority, the Minister shall not give his permission for the purpose of this regulation except with the consent of that authority.
+(4) The Authority shall have the power to—
 
-(4) A person shall not wilfully or negligently injure or interfere with any aeronautical light or air route or airway facility established and maintained by, or with the permission of, the Minister.
+(a) certify and grant permits in respect of aerodromes and to establish minimum safety standards for the design, operation and maintenance of aerodromes ; and
+
+(b) regulate and make regulations—
+
+(i) for the certification, inspection and regulation of aerodromes, access to aerodromes and places where aircraft have landed, for the inspection of aircraft factories, and for prohibiting or regulating the use of aerodromes which are not certified in pursuance to the regulations,
+
+(ii) as to the conditions under which, and in particular the aerodromes to or from which, aircraft entering or leaving Nigeria may fly, and as to the conditions, under which aircraft may fly from one part of Nigeria to another,
+
+(iii) as to the conditions under which noise and vibration may be caused by aircraft on aerodromes provided that no action shall lie in respect of nuisance by reason only of the noise and vibration caused by aircraft on an aerodrome so long as the provisions of the regulations in force as respects aerodromes are complied with, and
+
+(iv) for applying the laws relating to customs in relation to aerodromes and to aircraft and to persons and property carried in aircraft.
+
+(5) The Authority in exercising its functions in relation to the certification of aerodromes shall have regard to the need to minimise so far as practicable any adverse effect the presence of such aerodrome may have on the environment.
+
+Establishment of aerodromes.
+
+A 946 2022 No. 30 Civil Aviation Act, 2022

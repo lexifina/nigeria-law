@@ -1,1 +1,13 @@
-44. Duties of operators to prevent fatigue to flight crew It shall be the duty of every operator of an aircraft to which this regulation applies to ensure, as respects each person flying as a member of the flight crew of that aircraft, that the periods during which that person is required or permitted by that operator to carry out any work or other duties are so limited in length and frequency, and that that person is afforded such periods for rest, that his said work and duties are not likely to cause him such fatigue while he is flying in the aircraft as may endanger the safety thereof.
+44. The Authority or any other person authorised by it by general or special order in writing in its behalf may conduct —
+
+(a) surveys and inspections of security measures relating to passengers and their cabin baggage, checked in baggage, cargo and other goods, access controls and aerodrome design ;
+
+(b) surveys, audits, tests, and inspections on aerodromes, airlines and allied aviation services operating in Nigeria ; and
+
+(c) exercises to check the professional efficiency of the personnel responsible for implementing the aviation security procedures and also to test the adequacy of security measures at any aerodrome in Nigeria.
+
+Requirement for approval of airline security programme.
+
+Security surveys, audits, tests and inspections.
+
+2022 No. 30 A 933 Civil Aviation Act, 2022

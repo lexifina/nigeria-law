@@ -1,13 +1,11 @@
-53. Preservation of documents, etc.
+53.—(1) The Authority shall encourage cooperation in the regulation and administration of aviation safety and security.
 
-A person required by these Regulations to preserve any document by reason of his being the operator of the aircraft shall, if he ceases to be the operator of the aircraft, continue to preserve the documents as if he had not ceased to be the operator, and in the event of his death the duty to preserve the document shall fall upon his personal representative:
+(2) The Authority, under subsection (1)—
 
-Provided that if‐
+(a) may enter into any agreement for cooperative endeavours in aviation safety and security with other regional contracting States to the Convention on International Aviation ; and
 
-(a) another person becomes the operator of the aircraft and it remains registered in Nigeria he or his personal representative shall deliver to that other person upon demand, the certificates of maintenance and compliance, the log books and the weight schedule which are in force or required to be preserved in respect of that aircraft;
+(b) shall in conjunction with the Minister, negotiate, agree to and manage such cooperative agreements.
 
-(b) an engine or variable pitch propeller is removed from the aircraft and installed in another aircraft operated by another person and registered in Nigeria he or his personal representative shall deliver to that other person upon demand, the log book relating to that engine or propeller;
+(3) The Authority may in the interest of public safety and the safety of civil aviation, delegate certain aviation safety tasks under the cooperative agreement to citizens of Nigeria or citizens of the other State party to the agreement.
 
-(c) any person in respect of whom a record has been kept by him in accordance with regulation
-
-48 of these Regulations, becomes a member of the flight crew of a public transport aircraft registered in Nigeria and operated by another person, he or his personal representative shall deliver those records to that other person upon demand, and it shall be the duty of that other person to deal with the document delivered to him as if he were the first‐mentioned operator.
+(4) The Authority may, subject to the approval of the Minister, cause to be implemented a surcharge on ticket sales by international passengers for the purposes of meeting any obligation arising from cooperative safety and security arrangements.

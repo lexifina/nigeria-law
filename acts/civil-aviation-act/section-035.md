@@ -1,7 +1,23 @@
-35. Method of carriage of persons A person shall not be in or on any part of an aircraft which is not a part designed for the accommodation of persons, and in particular a person shall not be on the wings or under‐carriage of an aircraft. A person shall not be in or on any object, other than a glider or flying machine, towed by or attached to an aircraft in flight:
+35. The Authority shall have the power to make regulations for —
 
-Provided that a person may have temporary access to‐
+(a) the prohibition of any Nigerian or foreign registered aircraft from operating within the Nigerian airspace, unless a certificate of airworthiness in respect of it, is issued or validated under the regulations in force with respect to the aircraft ;
 
-(a) any part of an aircraft for the purpose of taking action necessary for the safety of the aircraft or of any person, animal or goods therein;
+(b) the prohibition of any person from engaging in air navigation in any capacity whatsoever unless the Authority determines that such a person satisfies the requirements of this Act and the regulations made under it ;
 
-(b) any part of an aircraft in which cargo or stores are carried, being a part which is designated to enable a person to have access thereto while the aircraft is in flight.
+(c) the prohibition of aircraft from flying over such areas in Nigeria as may be prescribed ;
+
+(d) the prohibition of aircraft from flying unless certificates of airworthiness issued or validated under the regulations are in force with respect to the aircraft and except upon compliance with such conditions as to maintenance and repair as may be prescribed ;
+
+(e) the prohibition or regulation of the use of aerodromes which are not certified under the regulations ;
+
+(f ) prohibiting persons from engaging in, or being employed in or in connection with, air navigation in such capacities as may be prescribed unless the prescribed requirement is satisfied, and for the licensing of persons employed at aerodromes or in the inspection, testing or supervision of aircraft ;
+
+Power of the Authority to make rules for the protection of public health.
+
+Power of the Authority to prohibit certain activities.
+
+2022 No. 30 A 929 Civil Aviation Act, 2022
+
+(g) prohibiting the carriage by air of goods of such class or classes as may be prescribed ; and
+
+(h) prohibiting or regulating the installation of any structure which by virtue of its height or position is considered to endanger the safety of air navigation within the navigable airspace of Nigeria.

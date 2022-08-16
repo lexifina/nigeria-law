@@ -1,27 +1,19 @@
-56. Rules of the Air and Air Traffic Control
+56.—(1) It shall be the responsibility of any person or aircraft to provide such measure of assistance to aircraft in distress within the territory of Nigeria as may be found practicable.
 
-(1) The Minister may make rules (in these Regulations referred to as "the Rules of the Air and Air Traffic Control") prescribing‐
+(2) The Minister may permit the owner of an aircraft in distress or the authorities of the State in which the aircraft is registered, subject to control by Nigerian authorities, to provide such service or assistance as may be necessary.
 
-(a) the manner in which aircraft may move and fly;
+(3) When undertaking search for missing aircraft, the authorities in Nigeria will collaborate in coordinated measures, as may be recommended under the Chicago Convention.
 
-(b) the lights and other signals to be shown or made by aircraft or persons;
+(4) Where salvage services are rendered by an aircraft to any property or person, the owner of the aircraft shall be entitled to the same reward for the services as he would have been entitled to if the aircraft had been a vessel.
 
-(c) the lighting and marking of aerodromes;
+(5) The provisions of subsections (1) and (2) shall have effect, notwithstanding that the aircraft concerned is a foreign aircraft and that the services in question is rendered elsewhere than within the limits of the territorial waters of Nigeria.
 
-(d) the air traffic control services to be provided at aerodromes including in particular the licensing of persons providing such services;
+(6) The provisions of subsections (3) and (4) shall have effect, notwithstanding that the aircraft concerned is a foreign aircraft and that the service in question is rendered elsewhere than within the limits of the territorial waters of Nigeria.
 
-(e) any other provisions for securing the safety of aircraft in flight and in movement and the safety of persons and property on the surface.
+Application to aircraft of law of wreck and salvage.
 
-(2) Subject to the provisions of paragraph (3) of this regulation, it shall be an offence to contravene, to permit the contravention of, or to fail to comply with the Rules of the Air and Air Traffic Control.
+2022 No. 30 A 939 Civil Aviation Act, 2022
 
-(3) It shall be lawful for the Rules of the Air and Air Traffic Control to be departed from to the extent necessary‐
+(7) The Minister may by regulations direct that any provisions of any law for the time being in force in Nigeria which relate to wreck and salvage of life or property or to the duty of rendering assistance to vessels in distress shall, with such modifications and exceptions, if any, as may be prescribed, apply in relation to aircraft as those provisions apply in relation to vessels.
 
-(a) for avoiding immediate danger; or
-
-(b) for complying with the law of any country other than Nigeria within which the aircraft then IS.
-
-(4) If any departure from the Rules of the Air and Air Traffic Control is made for the purpose of avoiding immediate danger, the commander of the aircraft shall cause written particulars of the departure, and of the circumstances giving rise to it, to be given within ten days thereafter to the competent authority of the country in whose territory the departure was made or if the departure was made over the high seas, to the Minister.
-
-(5) Nothing in the Rules of the Air and Air Traffic Control shall exonerate any person from the consequences of any neglect in the use of lights or signals or of the neglect of any precautions required by ordinary aviation practice or by the special circumstances of the case.
-
-(6) The Minister may, for the purpose of promoting the safety of aircraft, make regulations as to special signals and other communications to be made by or on an aircraft, as to the course on which and the height at which an aircraft shall fly and as to any other precautions to be observed in relation to the navigation and control of aircraft which the Minister may consider expedient for the purpose aforesaid, and no aircraft shall fly in contravention of any such regulations.
+(8) For the purpose of this section, any provision of any law in force in Nigeria, which relate to vessels laid by, or neglected as unfit for sea service shall be deemed to be provisions relating to wreck.

@@ -1,45 +1,17 @@
-29. Operation of radio in aircraft
+29.—(1) All services which facilitate and maintain the smooth, orderly and safe takeoff, flight and landing of aircraft, embarkation and the disembarkation and evacuation of passengers and cargo respectively in all aerodromes in Nigeria are hereby designated as essential services under the provisions of section 11
 
-(1) The radio station in an aircraft shall not be operated, whether or not the aircraft is in flight, except in accordance with the conditions of the licence issued in respect of that station under the law of the country in which the aircraft is registered, and by a person duly licensed or otherwise permitted to operate the radio station under that law.
+(1) of the Constitution of the Federal Republic of Nigeria, 1999.
 
-(2) Whenever an aircraft is in flight in such circumstances that it is required by or under these Regulations to be equipped with radio communications apparatus, a continuous radio watch shall be maintained by a member of the flight crew listening to the signals transmitted upon the frequency notified, or designated by a message received from an appropriate aeronautical radio station, for use by that aircraft:
+(2) The Minister may by regulations prohibit all or such class or classes of workers, officers and other employees or persons whether corporate or natural, engaged in the provision of the services specified in subsection (1) from taking part in a strike or other industrial action.
 
-Provided that—
+Designation of essential services.
 
-(a) the radio watch may be discontinued or continued on another frequency to the extent that a message as aforesaid so permits; and
+Cap. C23, LFN, 2004.
 
-(b) the watch may be kept by a device installed in the aircraft if‐
+2022 No. 30 A 923 Civil Aviation Act, 2022
 
-(i) the appropriate aeronautical radio station has been informed to that effect and has raised no objection; and
+(3) In this section, “strike” means the cessation of work by a body of persons employed, acting in combination or a concerted refusal or a refusal under a common understanding of persons employed to continue to work for an employer in consequence of a dispute, done as a means of compelling their employer, or the Government of the Federation of Nigeria or any part of it, or to aid any other worker in compelling his employer or any person or body of persons employed, to accept or not to accept terms of employment and physical conditions of work or any government economic policy or pricing of any essential product, and in this definition—
 
-(ii) that station is notified, or in the case of a station situated in a country other than Nigeria, otherwise designated as transmitting a signal suitable for that purpose.
+(a) “cessation of work” includes working at less than usual speed or with less than usual efficiency without reasonable operational justification ; and
 
-(3) The radio station in an aircraft shall not be operated so as to cause interference which impairs the efficiency of aeronautical telecommunications or navigational services, and in particular emissions shall not be made except as follows‐
-
-(a) emissions of the class and frequency for the time being in use, in accordance with general international aeronautical practice, in the airspace in which the aircraft is flying;
-
-(b) distress, urgency and safety messages and signals, in accordance with general international aeronautical practice;
-
-(c) messages and signals relating to the flight of the aircraft in accordance with general international aeronautical practice;
-
-(d) such public correspondence messages as may be permitted by or under the aircraft radio station licence referred to in paragraph (1) of this regulation.
-
-(4) In every aircraft registered in Nigeria which is equipped with radio communication apparatus, a telecommunication log book shall be kept in which the following entries shall be made‐
-
-(a) the identification of the aircraft radio station;
-
-(b) the date and time of the beginning and end of every radio watch maintained in the aircraft and of the frequency on which it was maintained;
-
-(c) the date and time, and particulars of all messages and signals sent or received, including, in particular, details of any distress traffic sent or received;
-
-(d) particulars of any action taken upon the receipt of a distress signal or message;
-
-(e) particulars of any failure or interruption of radio communications and the cause thereof:
-
-Provided that a telecommunication log book shall not be required to be kept in respect of communication by radiotelephony with a radio station on land or on a ship which provides a radio service for aircraft.
-
-(5) The flight radio operator maintaining radio watch shall sign the entries in the telecommunication log book indicating the times at which he began and ended the maintenance of such watch.
-
-(6) The telecommunication log book shall be preserved by the operator of the aircraft until a date six months after the date of the last entry therein.
-
-(7) In any flying machine registered in Nigeria which is engaged on a flight for the purpose of public transport, the pilot and the flight engineer (if any) shall not make use of a hand‐held microphone (whether for the purpose of radio communication or of intercommunication within the aircraft) whilst the aircraft is flying in controlled airspace at an altitude less than 15,000 feet above mean sea level or is taking off or landing.
+(b) “refusal to continue to work” includes a refusal to work at usual speed or with usual efficiency.

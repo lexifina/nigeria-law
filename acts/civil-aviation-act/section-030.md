@@ -1,15 +1,15 @@
-30. Towing of gliders
+30.—(1) The Minister may publish a statement of the policies of the Government of the Federal Republic of Nigeria on civil aviation.
 
-(1) An aircraft in flight shall not tow a glider unless the certificate of airworthiness issued or rendered valid in respect of the towing aircraft under the law of the country in which that aircraft is registered includes an express provision that it may be used for that purpose.
+(2) Where the Minister considers it appropriate to do so, he may by notice in writing, require the Authority to publish a statement of the policy it intends to adopt with respect to any particular matter in exercising the powers and performing the functions conferred upon it under this Act and it shall be the duty of the Authority to publish the statement required by such a notice.
 
-(2) The length of the combination of towing aircraft, tow rope and glider in flight shall not exceed 500 feet.
+(3) Before publishing any statement under this section, the Authority shall consult such persons as may appear to it to be the representative respectively of —
 
-(3) The commander of an aircraft which is about to tow a glider shall satisfy himself, before the towing aircraft takes off‐
+(a) the civil aviation industry in Nigeria ; and
 
-(a) that the tow rope is in good condition and is of adequate strength for the purpose, and that the combination of towing aircraft and glider is capable of flying in the manner referred to in paragraph (g) of regulation 26 of these Regulations;
+(b) users of air transport and allied aviation services.
 
-(b) that signals have been agreed and communication established with persons suitably stationed so as to enable the glider to take off safely;
+(4) The manner of publication of any statement under this section shall be as the Authority may determine.
 
-(c) that emergency signals have been agreed between the commander of the towing aircraft and the commander of the glider, to be used respectively by the commander of the towing aircraft, to indicate that the tow should immediately be released by the glider, and by the commander of the glider to indicate that the tow cannot be released.
+PART VII—POWERS OF THE AUTHORITY TO CONTROL
 
-(4) The glider shall be attached to the towing aircraft by means of the tow rope before the aircraft takes off.
+AND REGULATE CIVIL AVIATION

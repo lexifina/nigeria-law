@@ -1,0 +1,1 @@
+107. A member of the Board, the Director-General, or employee of the Authority shall be indemnified by the Authority against any civil proceeding brought against him arising from the lawful discharge of any of the functions or the exercise of any of the powers conferred on the Authority under this Act or any other law.

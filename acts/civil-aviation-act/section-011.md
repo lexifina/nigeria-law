@@ -1,21 +1,43 @@
-11. Aircraft, engine and propeller log books to be kept
+11.—(1) There shall be for the Authority a Director-General Civil Aviation (in this Act referred to as “the Director-General”) who shall be appointed by the President on the recommendation of the Minister, subject to confirmation by the Senate.
 
-(1) In addition to any other log books required by or of under these Regulations, the following log books shall be kept be in respect of every public transport aircraft and aerial work aircraft registered in Nigeria‐
+(2) The Director-General shall be primarily responsible for the fostering of the safety and security of civil aviation in Nigeria and shall—
 
-(a) an aircraft log book;
+(a) be the chief executive and accounting officer of the Authority ;
 
-(b) a separate log book in respect of each engine fitted in the aircraft; and
+(b) be responsible for the day-to-day administration of the Authority ;
 
-(c) a separate log book in respect of each variable pitch propeller fitted to the aircraft.
+(c) be appointed for a term of five years in the first instance and may be re-appointed for a further term of five years and no more ;
 
-The log books shall include the particulars respectively specified in the Seventh Schedule to these Regulations.
+(d) conduct the Authority’s affairs with prudence and due diligence to ensure that the Authority does not become insolvent ; and
 
-[Seventh Schedule.]
+(e) possess relevant and adequate professional qualifications and shall have been so qualified for a period of not less than 15 years in one or more of the following fields—
 
-(2) Each entry in the log book shall be made as soon as practicable after the occurrence to which it relates, but in no event more than seven days after the expiration of the certificate of maintenance (if any) in force in respect of the aircraft at the time of the occurrence.
+(i) aeronautical engineering,
 
-(3) Entries in a log book may refer to other documents, which shall be clearly identified, and any other documents so referred to shall be deemed, for the purposes of these Regulations, to be part of the log book.
+(ii) air transport management,
 
-(4) It shall be the duty of the operator of every aircraft in respect of which log books are required to be kept as aforesaid, to keep them or cause them to be kept in accordance with the foregoing provisions of this regulation.
+(iii) aerodrome engineering,
 
-(5) Subject to the provisions of regulation 53 of these Regulations, every log book shall be preserved by the operator of the aircraft until a date two years after the aircraft, the engine or the variable pitch propeller, as the case may be, has been destroyed or has been permanently withdrawn from use.
+(iv) air craft piloting,
+
+(v) air navigation services,
+
+(vi) aviation law, or
+
+(vii) any other relevant field in civil aviation.
+
+(3) The Director-General may be removed from office by the President subject to confirmation by the Senate, where he—
+
+(a) becomes of unsound mind or is incapable of carrying out his duties as a result of physical or mental illness or has demonstrated inability to effectively perform the duties of his office ;
+
+(b) has been absent from five consecutive meetings of the Board without the consent of the Chairman unless he shows good reason for such absence ;
+
+(c) is guilty of serious misconduct ;
+
+(d) in the case of a person possessed of professional qualifications, is disqualified or suspended from practicing his profession in any part of the world by an order of a competent authority ; or Appointment and tenure of the Director- General.
+
+A 914 2022 No. 30 Civil Aviation Act, 2022
+
+(e) is in a conflict of interest as stipulated in the First Schedule to this Act.
+
+(4) The Director-General shall not be removed from office except in accordance with the provisions of this Act.

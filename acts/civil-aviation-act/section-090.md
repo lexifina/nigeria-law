@@ -1,0 +1,3 @@
+90.—(1) Where a person volunteers to the Authority or an official of the Authority any information which may be useful in the investigation or prosecution of an offence under this Act or of a violation of the provisions of this Act and the regulations, orders or directives made or given under this Act, the Authority shall take all reasonable measures to protect the identity of that person and the information so volunteered shall be treated as confidential.
+
+(2) The court may, on a motion by or on behalf of the Attorney-General of the Federation, the Authority or a law enforcement agency, protect a witness or other persons in any proceeding before it.

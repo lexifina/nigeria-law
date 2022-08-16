@@ -1,1 +1,5 @@
-64. Power to give directions The Minister may, in relation to any aerodrome or air route or airway or air route facility or airway facility, issue such directions as he considers necessary to ensure the safety of aircraft or compliance with any standards or recommended practices or procedures adopted from time to time in pursuance of the Chicago Convention.
+64.—(1) The Authority shall have the power to regulate and make regulations regarding the design, construction, modification and maintenance of aircraft and all other matters connected with it.
+
+(2) The owner, operator or agent of any aircraft registered in Nigeria may file with the Authority an application for an airworthiness certificate for such aircraft.
+
+(3) Where the Authority finds that the aircraft conforms to the appropriate type certificate and, after inspection, finds that the aircraft is in condition for safe operation, the Authority shall issue an airworthiness certificate.

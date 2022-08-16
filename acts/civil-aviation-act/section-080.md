@@ -1,9 +1,1 @@
-80. Extra‐territorial effect of the Regulations Except where the context otherwise requires, the provisions of these Regulations‐
-
-(a) in so far as they apply (whether by express reference or otherwise) to aircraft registered in Nigeria, shall apply to such aircraft wherever they may be;
-
-(b) in so far as they apply as aforesaid to other aircraft, shall apply to such aircraft when they are within Nigeria;
-
-(c) in so far as they prohibit, require or regulate (whether by express reference or otherwise) the doing of anything by persons in, or by any of the crew of any aircraft registered in Nigeria, shall apply to such persons and crew, wherever they may be; and
-
-(d) in so far as they prohibit, require or regulate as aforesaid the doing of anything in relation to any aircraft registered in Nigeria by other persons, shall, where such persons are Nigerian citizens, apply to them wherever they may be.
+80. Every person who knowingly and willfully forges, counterfeits, alters, or falsely makes any document authorised to be issued or required to be made under this Act or regulations made under this Act, or knowingly uses or attempts to use any such fraudulent document, and any person who knowingly and willfully displays or causes to be displayed on any aircraft any marks that are false or misleading as to the nationality or registration of the aircraft, commits an offence and is liable on conviction to a fine not more than N1,000,000 or imprisonment for a term not more than one year or both.

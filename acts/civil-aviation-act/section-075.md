@@ -1,15 +1,7 @@
-75. Right of access to aerodromes and other places
+75.—(1) Subject to subsection (2), any person who trespasses on any land forming part of an aerodrome, or upon which navigational aids or any ancillary facility is situated commits an offence and is liable on conviction to a fine of at least N500,000 or imprisonment for a term of at least six months or both.
 
-(1) The Minister and any authorised person shall have the right of access at all reasonable times‐
+(2) A person shall not be liable under this section, unless it is proved that at the material time, notices warning trespassers of their liability under this section were posted, so as to be readily seen and read by members of the public, in such position on or near the boundary of the aerodrome or land upon which any navigational aid or ancillary facility is situated as appear to the court to be proper.
 
-(a) to any aerodrome ,for the purpose of inspecting the aerodrome; or
+Trespass on aerodromes.
 
-(b) to any aerodrome for the purpose of inspecting any aircraft on the aerodrome or any document which he has power to demand under these Regulations, or for the purpose of detaining any aircraft under the provision of these Regulations; and
-
-(c) to any place where an aircraft has landed, for the purpose of inspecting the aircraft or any document which he has power to demand under these Regulations and for the purpose of detaining the aircraft under the provisions of these Regulations:
-
-Provided that, subject to paragraph (2) of this regulation, access to a Government aerodrome shall only be obtained with permission of the person in charge of the aerodrome.
-
-(2) Without prejudice to paragraph (1) of this regulation, the Minister may issue aerodrome permits, in the form set out in the Fourteenth Schedule to these Regulations, to such person or persons as he thinks fit; and the holder of such a permit shall at all times have free and unrestricted access to any part of any Government or licensed aerodrome or of any building erected thereon:
-
-[Fourteenth Schedule.] Provided that an aerodrome permit issued under this paragraph shall not entitle the holder thereof to enter any customs bonded warehouse.
+2022 No. 30 A 949 Civil Aviation Act, 2022

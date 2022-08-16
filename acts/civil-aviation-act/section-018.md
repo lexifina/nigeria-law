@@ -1,19 +1,21 @@
-18. Personal flying log book Every member of a flight crew of an aircraft registered in Nigeria and every person who engages in flying for the purpose of qualifying for the grant or renewal of a licence under these Regulations or undergoing tests or receiving instruction in flying for admission into any of the naval, military or air forces, shall keep a personal flying log book in which the following particulars shall be recorded‐
+18. The Authority may apply the proceeds of the Fund established under section 17 of this Act —
 
-(a) the name and the address of the holder of a log book;
+(a) for the payment of salaries, fees and any other remuneration or allowance, payable to members of the Board, employees or any other person appointed by the Authority ;
 
-(b) particulars of holder's licence (if any) to act as a member of the flight crew of an aircraft;
+(b) to pay overhead, benefits and other administrative costs of the Authority ;
 
-(c) the name and address of his employer (if any);
+(c) for the reimbursement of members of the Board or any committee set up by the Board or the Authority for such expenses as may be authorised in accordance with the rates approved by the Government of the Federation ;
 
-(d) particulars of all flights made as a member of the flight crew of aircraft, including‐
+(d) to publicise and promote the activities of the Authority ;
 
-(i) the date, time, duration and places of arrival and departure of the flight;
+(e) for the maintenance of any property acquired or vested in the Authority ;
 
-(ii) the type and registration marks of the aircraft;
+(f ) for the maintenance of missions and payment of contributions and subscription to international and regional aviation safety and security organisations of which Nigeria is a member ;
 
-(iii) the capacity in which the holder acted in flight;
+(g) for the training and re-training of staff of the Authority to meet ICAO requirements ; and
 
-(iv) particulars of any special conditions under which the flight was conducted, including night flying and instrument flying;
+(h) to undertake any other activity or matter connected with all or any of the functions of the Authority under this Act.
 
-(v) particulars of any test or examination undertaken whilst in flight.
+Expenditure of the Authority.
+
+A 918 2022 No. 30 Civil Aviation Act, 2022

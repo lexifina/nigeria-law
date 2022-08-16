@@ -1,1 +1,9 @@
-62. Places authorised as aerodromes Subject to the provisions of these Regulations, the Minister may, by specific or general description, authorise the use of any place as an aerodrome for the purposes of the landing and taking off of such classes or types of aircraft engaged in such classes of operations and subject to such conditions as the Minister specifies in the instrument of authorisation.
+62.—(1) The Authority shall establish a State Safety Programme in order to achieve an acceptable level of safety in civil aviation.
+
+(2) As part of the State Safety Programme, the Authority shall require that operators and service providers implement a Safety Management System.
+
+Recordation of interest in aircraft Duty to promote safety of civil aviation.
+
+Establishment of State Safety Programme.
+
+A 942 2022 No. 30 Civil Aviation Act, 2022

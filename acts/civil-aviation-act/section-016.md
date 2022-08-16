@@ -1,69 +1,29 @@
-16. Grant and renewal of licences to members of flight crew
+16.—(1) For the effective conduct of the functions of the Authority, there shall be established for the Authority, Directorates in accordance with the laid down Government guidelines and the International Civil Aviation Organisation Annexes.
 
-(1) The Minister may grant licences subject to such conditions as he thinks fit of any of the following classes‐
+(2) Notwithstanding the provisions of subsection (1), the Authority shall have power to—
 
-(a) Student Pilot's licence;
+(a) set up units, technical committees, working groups and task forces to assist the Authority in the performance of its duties and functions under this Act ; and
 
-(b) Private Pilot's licence (flying machines);
+(b) make changes to its structure, including the review or merging of Directorates with the approval of the Board.
 
-(c) Commercial Pilot's licence (flying machines);
+(3) There shall be appointed for each of the Directorates, Units, Technical Committees, Working Groups and Task Forces, a principal officer who shall be known by such designation as the Authority may determine.
 
-(d) Senior Commercial Pilot's licence (flying machines);
+(4) The Director-General may delegate any assigned powers and duties to any properly qualified private person or organisation, subject to such regulation, supervision and review as may be prescribed, provided that such function is not delegated in such a way that air operators, aerodrome operators, aerial work operators, allied aviation service providers, general aviation operators and maintenance facility operators, in effect, regulate themselves.
 
-(e) Airline Transport Pilot's licence (flying machines);
+Service in the Authority to be pensionable.
 
-(f) Private Pilot's licence (balloons and airships);
+Act No. 4 of 2014.
 
-(g) Commercial Pilot's licence (balloons);
+Appointment of experts.
 
-(h) Commercial Pilot's licence (airships);
+Establishment of Directorates and Inspectorates.
 
-(i) Commercial Pilot's licence (gliders);
+A 916 2022 No. 30 Civil Aviation Act, 2022
 
-(j) Flight navigator's licence;
+(5) The Director-General may delegate his safety and security oversight powers to designated inspectors and any other staff of the Authority and shall establish the credentials of the safety and aviation security inspectors of the Authority.
 
-(k) Flight Engineer's licence;
+(6) For the effective conduct of the functions of the Authority, there shall be established an organisational structure that will ensure a comprehensive and detailed safety oversight of civil aviation, taking into cognizance the size, scope and complexity of aviation activities in Nigeria.
 
-(l) Flight radiotelephony operator's general licence;
+(7) The Authority shall have power to provide, as required in the interest of aviation safety and security, the necessary facilities and tools for the Directorates, Units, Technical Committees, Working Groups and Task Forces.
 
-(m) Flight radiotelephony operator's restricted licence;
-
-(n) Flight radiotelephony operator's licence;
-
-(o) Flight radiotelephony operator's temporary licence, upon his being satisfied that the applicant is a fit and proper person to hold the licence and is qualified by reason of his knowledge, experience, competence, skill and physical fitness to act in the capacity to which the licence relates, and for that purpose the applicant shall furnish such evidence and undergo such examinations and tests (including in particular medical examinations) as the Minister may require of him. A licence of any class shall not be granted to any person who is under the minimum age specified for that class of licence under Part A of the Ninth Schedule of these Regulations.
-
-(2) Subject to any conditions of the licence, a licence shall entitle the holder to perform the functions specified in respect of that licence in Part A of the Ninth Schedule under the heading "privileges":
-
-[Part A.] Provided that‐
-
-(a) subject to the provisions of paragraph (10) of this regulation, and paragraph (4) of regulation 15 and paragraph (1) of regulation 19 of these Regulations, a person shall not be entitled to perform any of the functions specified in Part B of the Ninth Schedule in respect of a rating unless his licence includes that rating;
-
-[Part B.]
-
-(b) a person shall not be entitled to perform any of the functions to which his licence relates if he knows or has reason to believe that his physical condition renders him temporarily or permanently unfit to perform such function.
-
-(3) The Minister may, if he is satisfied that the applicant is qualified as aforesaid to act in the capacity to which the rating relates, include in a licence a rating of any of the classes specified in Part B of the Ninth Schedule, and such rating shall be deemed to form part of the licence and shall entitle the holder to perform such functions as are specified in Part B of the Schedule and may be renewed by any person appointed by the Minister for that purpose, if that person is satisfied by a test that the applicant continues to be competent to perform the functions to which the rating relates. The test shall be carried out either in flight or by means of apparatus approved by the Minister in which flight conditions are simulated on the ground.
-
-(4) A licence and a rating shall, subject to the provisions of regulation 54 of these Regulations, remain in force for the periods indicated in the licence, not exceeding those respectively specified in the Ninth Schedule to these Regulations, and may be renewed by the Minister, from time to time, upon his being satisfied that the applicant is a fit and proper person and is qualified as aforesaid:
-
-[Ninth Schedule.] Provided that, on any application being made for such renewal, the applicant may be required to satisfy the Minister as to his qualifications with respect to the grant of a licence or rating of the class to which the application relates.
-
-(5) Upon receiving a licence granted under this regulation, the holder shall forthwith sign his name thereon in ink with his ordinary signature.
-
-(6) Every holder of a licence, other than a flight radiotelephony operator's licence, granted under this regulation, shall submit himself to medical examination by a person approved by the Minister upon applying for the renewal of the licence and upon such other occasions as the Minister may require,
-
-(7) Every holder of a licence, other than a flight radiotelephony operator's licence, granted under this regulation or rendered valid under regulation 17 of these Regulations, who suffers‐
-
-(a) any personal injury involving incapacity to undertake the functions to which his licence relates; or
-
-(b) any illness involving incapacity to undertake those functions throughout a period of twenty days or more, shall inform the Minister in writing of such injury or illness, as soon as possible in the case of an injury, and as soon as the period of twenty days has elapsed in the case of illness.
-
-(8) A licence, other than a flight radiotelephony operator's licence granted under this Part of these Regulations, shall be deemed to be suspended upon the occurrence of such an injury, or elapse of such period of illness as is referred to in paragraph (7) of this regulation. The suspension of the licence shall cease‐
-
-(a) upon the holder being medically examined under arrangements made by the Minister and pronounced fit to resume his functions under the licence; or
-
-(b) upon the Minister exempting the holder from the requirement of a medical examination, subject to such conditions as the Minister thinks fit.
-
-(9) A licence granted under this regulation shall be deemed to be suspended upon the pregnancy of the holder being diagnosed and shall remain suspended until the holder has been medically examined after the termination of the pregnancy and pronounced fit to resume her duties under the licence.
-
-(10) Nothing in these Regulations shall be taken to prohibit the holder of a commercial pilot's, senior commercial pilot's or airline transport pilot's licence (flying machines) from acting as pilot in command of a flying machine carrying passenger by night by reason of the lack of a night rating in his licence.
+PART V — FINANCIAL PROVISIONS

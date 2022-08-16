@@ -1,9 +1,29 @@
-82. Application of Regulations
+82.—(1) Any person who unlawfully and intentionally destroys or damages air navigation and meteorological facilities or interferes with their operation in such a manner as is likely to endanger the safety of aircraft in flight commits an offence and is liable on conviction to a fine of at least N2,000,000 imprisonment for a term of at least one year or both.
 
-(1) Subject to the following provisions of this regulation, the provision of these Regulations shall apply to or in relation to aircraft belonging to or exclusively employed in the service of the Federal or State Governments, not being military aircraft, as they apply to or in relation to other aircraft which are registered in Nigeria or are capable of being so registered and for the purposes of such application, the authority for the time being responsible on behalf of such Government for the management of the aircraft, shall be deemed to be the operator of the aircraft:
+(2) Any person who attempts to commit or abets the commission of any offence under subsection (1) is also deemed to have committed the offence and is liable to the punishment provided for that offence.
 
-Provided that nothing in this regulation shall render liable to any penalty, any Department or other authority responsible on behalf of any such Government for the management of any aircraft.
+(3) A person who—
 
-(2) Save as otherwise provided by paragraph (3) of this regulation, and by regulations 65, 68 and 78 of these Regulations, nothing in these Regulations shall apply to or in relation to any military aircraft.
+(a) with intent to interfere with air navigation exhibits any light, signal or communication at such place or in such manner that is likely to be mistaken for a true light or signal or communication established under this Act, or for a true light or signal or communication in connection with an aerodrome or other air navigation facility, or, after due warning by the Director-General, continues to maintain any such misleading light or signal or communication, or Forgery or counterfeiting of documents.
 
-(3) Where a military aircraft is flown by a civilian pilot and is not commanded by a person who is acting in the course of his duty as a member of any of the naval, military or air forces, the following provisions of these Regulations shall apply on the occasion of that flight, that is to say regulations 37, 38, 39, 57 and 73 and in addition, regulation 56 (so far as applicable) shall apply.
+Dangerous flying.
+
+Damage to air navigation and other facility.
+
+2022 No. 30 A 953 Civil Aviation Act, 2022
+
+(b) knowingly removes, extinguishes, or interferes with the operation of any such true light, signal or communication, commits an offence and is liable on conviction to a fine not more than N10,000,000 or imprisonment for a term not more than five years.
+
+(4) Any air operator, officer, agent, employee, or representative of it, who knowingly or willfully—
+
+(a) fails or refuses to make a report to the Authority as required by this Act,
+
+(b) fails or refuses to make, keep or preserve reports, accounts, records, and returns in the form and manner prescribed or approved by the Authority, which reports, accounts, records or returns impacts or has the potential to have effect on aviation safety or the revenue of the Authority or the Federal Government, or
+
+(c) mutilates or alters any such reports, accounts, records, or memoranda;
+
+or files false reports, accounts, records, or memoranda, commits an offence and is liable on conviction for each offence to a fine of at least N500,000 or imprisonment for six months or both.
+
+(5) Liability under subsection (4) shall be without prejudice to any civil or other penalty for failure to file any reports, accounts, records or memoranda under this Act or regulations made under this Act and the mutilation of the same.
+
+(6) Every person who shall neglect or refuse to attend and testify, or to answer any lawful inquiry, or to produce books, papers, or documents, if within such person’s custody or control to do so, under any subpoena or request of the Authority, commits an offence and is liable on conviction to a fine of at least N250,000 or imprisonment for a term not more than six months or both.

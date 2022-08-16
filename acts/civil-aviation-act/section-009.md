@@ -1,19 +1,27 @@
-9. Equipment of aircraft
+9.—(1) The Authority shall have the power to—
 
-(1) An aircraft shall not fly unless it is so equipped as to comply with the law of the country in which it is registered, and to enable lights and markings to be displayed, and signals to be made, in accordance with these Regulations and any regulations made thereunder.
+(a) investigate whether any person, body or entity has committed an offence under this Act or any other relevant law or regulation ;
 
-(2) In the case of aircraft registered in Nigeria, the equipment required to be provided (in addition to any other equipment required by or under these Regulations) shall be that specified in such parts of the Fifth Schedule to these Regulations as are applicable in the circumstances and shall comply with the provisions of that Schedule. The equipment, except that specified in paragraph (3) of the said Schedule, shall be of a type approved by the Minister either generally or in relation to a class or type of aircraft or in relation to that aircraft and shall be installed in a manner so approved.
+(b) enter into any premises, property, aircraft, aerodrome or conveyance without warrant for the purpose of conducting search or inspection in furtherance of its functions under this Act or under any other law ;
 
-[Fifth Schedule.]
+(c) prosecute offenders under this Act or any other relevant law in Nigeria ;
 
-(3) In any particular case, the Minister may direct that an aircraft registered in Nigeria shall carry such additional or special equipment or supplies as he may specify for the purpose of facilitating the navigation of the aircraft, the carrying out of search and rescue operations, or the survival of the persons carried in the aircraft.
+(d) trace, seize, detain or retain the custody, for the purpose of investigation and prosecution, of any property which the Authority reasonably believes to have been involved in or used in the commission of any offence under this Act or any other law ;
 
-(4) The equipment carried in compliance with this regulation shall be so installed or stowed and kept stowed, and so maintained and adjusted, as to be readily accessible and capable of being used by the person for whose use it is installed.
+(e) seal up premises upon reasonable suspicion of such premises being involved with or used in connection with any offence under this Act ;
 
-(5) The position of equipment provided for emergency use shall be indicated by clear markings in or on the aircraft. In particular, there shall be exhibited in a prominent position in every passenger compartment of every public transport aircraft registered in Nigeria, a notice stating where the lifejackets (if any) are to be found, and containing instructions as to how they are to be used.
+(f ) seek and receive information from any person, authority, corporation or company without let or hindrance in respect of the enforcement of any of the provisions of this Act ;
 
-(6) All equipment installed or carried in an aircraft, whether or not in compliance with this regulation, shall be so installed or stowed and kept stowed and so maintained and adjusted as not to be a source of danger in itself or to impair the airworthiness of the aircraft or the proper functioning of any equipment or services necessary for the safety of the aircraft.
+(g) expropriate property for use in aeronautical search and rescue in any emergency situation where necessary ;
 
-(7) This regulation shall not apply in relation to radio apparatus except that specified in the Fifth Schedule to these Regulations.
+(h) ensure coordinated aeronautical search and rescue operations within the territory of Nigeria ; and Act No. 1,
 
-[Fifth Schedule.]
+2018.
+
+Powers of the Authority.
+
+A 912 2022 No. 30 Civil Aviation Act, 2022
+
+(i) permit owners of aircraft or authorities of the State of registry of aircraft, subject to control by the Authority, to provide such measures of assistance to aircraft in distress as may be necessary.
+
+(2) The Authority shall ensure that arrangements for the certification, maintenance and operation of search and rescue of aircraft and personnel comply with civil aviation regulations.

@@ -1,7 +1,7 @@
-12. Aircraft weight schedule
+12.—(1) There shall be appointed by the Authority a Secretary to the Board who shall be the legal adviser of the Authority and a legal practitioner who has been so qualified for a period not less than 15 years.
 
-(1) Every flying machine and glider in respect of which a certificate of airworthiness issued or rendered valid under these Regulations is in force shall be weighed, and the position of its centre of gravity determined, at such time and in such manner as the Minister may require in the case of that aircraft.
+(2) The Secretary shall—
 
-(2) Upon the aircraft being weighed as aforesaid, the operator of the aircraft shall prepare a weight schedule showing the basic weight of the aircraft, that is to say, the weight of the aircraft empty together with the weight of unusable fuel and unusable oil in the aircraft and of such items of equipment as are indicated in the weight schedule; and showing the position of the centre of gravity of the aircraft when the aircraft contains only the items included in the basic weight.
+(a) keep the records and conduct correspondence of the Board; and
 
-(3) Subject to the provisions of regulation 53 of these Regulations, the weight schedule shall be preserved by the operator of the aircraft until the expiry of a period of six months following the next occasion on which the aircraft is weighted for the purposes of this regulation.
+(b) perform any other duty and function as the Board or the Director- General may direct or assign to him.

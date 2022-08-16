@@ -1,13 +1,7 @@
-48. Records of flight times duty period etc.
+48.—(1) The Authority shall have free, unrestricted, unobstructed and unlimited access to all civil aviation personnel, documents, aircraft, aerodrome, aviation facilities, to inspect aircraft, aircraft manufacturers and maintenance facilities or organisations, training facilities including simulators, and other appliances designed for use in air transportation, as may be necessary to enable the Authority to determine the issuance or granting of a certificate of registration or approval to such aircraft, aerodrome, aircraft manufacturer and maintenance facility or organisation and other applicable appliances, and for the purpose of exercising its powers and carrying out its functions under this Act and regulations made under it.
 
-(1) The operator of an aircraft to which this regulation applies shall not cause or permit any person to fly therein unless the operator has in his possession an accurate and up‐to‐date record maintained by him or by another operator of aircraft in respect of that person and in respect of the 28 days immediately preceding the flight showing‐
+(2) The Authority shall have free, unrestricted, unhindered, unobstructed and unlimited access to enter any aircraft registered or operating in Nigeria for the purpose of inspecting any security procedure.
 
-(a) the times of the beginning and end of each flight in any aircraft made by that person as a member of its flight crew in the course of any of his duty periods; and
+(3) The Authority shall have free, unrestricted, unhindered, unobstructed and unlimited access to require an aircraft operator, aerodrome operator or occupier of land outside an aerodrome used for business purposes connected with the aerodrome to provide information relevant to any audit, inspection, survey, test or investigation.
 
-(b) the times of the beginning and end of each duty period of that person; and
-
-(c) brief particulars of the nature of the work or other duties carried out by that person during each of his duty periods.
-
-(2) The Minister may prescribe the form and manner in which any records required to be kept under paragraph (1) of this regulation shall be kept and where he has so prescribed and said records shall be kept accordingly.
-
-(3) Subject to the provisions of regulation 53 of these Regulations, the operator of the aircraft shall preserve the records referred to in paragraph (1) of this regulation for a period of at least twelve months after the end of the flight, duty period or rest period to which they relate.
+(4) The Authority shall have free, unrestricted, unhindered, unobstructed and unlimited access to relevant security documentation and records connected with air transportation and to interview any person for the purpose of assessing the standard of security or the implementation of security procedures.

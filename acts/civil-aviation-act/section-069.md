@@ -1,19 +1,7 @@
-69. Trading within Government aerodromes
+69.—(1) The Authority shall have the power to regulate and may by regulations make such provisions as expedient as to the conditions under which passengers and goods may be carried by air and under which aircraft may be used for other gainful purposes, and for prohibiting the carriage by air of goods of such class or classes as may be prescribed.
 
-(1) Subject to the provisions of this regulation, a person shall not, within a Government aerodrome, either personally or by his servant or agent, or as the servant or agent of another person‐
+(2) The Authority shall specify, monitor and supervise the conditions under which an aircraft may carry passengers, mail and cargo or be used for other purposes, and prohibit an aircraft from the carriage of such classes of goods as the Authority may prescribe.
 
-(a) sell, for delivery within the aerodrome, or supply any goods or services; or
+(3) The Authority shall monitor and enforce compliance with the provisions of this Act, regulations, orders, rules and directives made under it, for the safe transport of dangerous goods by air, and is authorised to submit variations to the ICAO Technical Instructions on behalf of Nigeria where necessary.
 
-(b) carry on, or solicit for, any business; or
-
-(c) erect, display or distribute, or communicate by sound, any advertisement or public notice, except in accordance with an authority granted under regulation 70 of these Regulations and the terms and conditions of that authority.
-
-(2) Paragraph (1) of this regulation shall not apply to or in relation to‐
-
-(a) the making or performance, by an air transport operator, of contracts for the carriage of passengers or goods by air, or for the carriage by that operator between the aerodrome and any premises of that operator, of passengers or goods that have been, or are to be carried by that operator by air;
-
-(b) the advertising, by an air transport operator, of the aforesaid services or other transport services or of tourist facilities at or on any premises of that operator;
-
-(c) the sale or supply to an operator of aircraft of goods or services required for the maintenance or operation of such aircraft or for use or consumption aboard such aircraft;
-
-(d) the doing of any act or thing in such parts of any Government aerodrome (not being an aerodrome which is under the control of the Minister) as are not made available for civil aviation purposes.
+(4) It shall be the duty of every person who offers or accepts, shipments, cargo or baggage for commercial air transport, whether originating or arriving in international flights to or from Nigeria, or for flights within Nigeria, to offer or accept such shipments, cargo, or baggage in accordance with the provisions of this Act, rules, regulations, orders or directives made or given under it for the safe transport of dangerous goods by air.
