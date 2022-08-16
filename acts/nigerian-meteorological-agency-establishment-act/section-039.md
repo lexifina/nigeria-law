@@ -1,0 +1,3 @@
+39.—(1) A member of the Board, the Director-General or any officer or employee of the Agency shall be indemnified out of the assets of the Agency against any liability incurred by him in defending any proceeding, whether civil or criminal, where the proceeding is brought against him in his capacity as a member of the Board, Director-General, officer or employee of the Agency.
+
+(2) Any sum of money which may be the judgment of any court awarded against the Agency shall, subject to any direction given by the court where no notice of appeal against the judgment has been given, be paid from the Fund of the Agency.

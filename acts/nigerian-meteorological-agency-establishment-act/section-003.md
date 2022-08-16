@@ -1,0 +1,1 @@
+3. The Chairman and other members of the Board, other than ex-officio members as specified in section 2 (1) (b) of this Act shall hold office for a term of four years on such terms and conditions as may be specified in their letters of appointment and may be re-appointed for a further term of four years and no more.
