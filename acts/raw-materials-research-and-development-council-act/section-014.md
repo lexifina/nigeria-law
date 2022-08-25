@@ -1,7 +1,1 @@
-14. Restriction on execution against the property of the Council
-
-In any action or suit against the Council, no execution or attachment or process in the nature thereof shall be issued against the Council, but any sums of money which may, by
-
-the judgment of the court, be awarded against the Council shall, subject to any directions
-
-given by the Council, be paid from the general reserve fund of the Council.
+14. The accounts of the Council shall be audited within six months after the end of each financial year by external auditors appointed from the list of auditors and in accordance with the guidelines supplied by the Auditor-General for the Federation.

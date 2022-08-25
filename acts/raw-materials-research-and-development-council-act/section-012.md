@@ -1,13 +1,19 @@
-12. Procedure in respect of suits against the Council, etc.
+12.—(1) The Council shall establish and maintain a fund (“the Fund”) which shall consist of —
 
-No suit shall be commenced against the Council before the expiration of a period of one month after written notice of intention to commence the suit shall have been served
+(a) such sums as may be appropriated to the Council by the National Assembly ;
 
-upon the Council by the intending plaintiff or his agent; and the notice shall clearly and explicitly state-
+(b) two per cent surcharge on imports ;
 
-(a) the cause of action;
+(c) fees charged for services rendered by the Council ;
 
-(b) the particulars of the claim;
+(d) contributions from the organised private sector ; and Other staff of the Council.
 
-(c) the name and place of abode of the intending plaintiff; and
+Staff regulations.
 
-(d) the relief which he claims.
+Fund of the Council.
+
+2022 No. 28 A 869 Raw Materials Research and Development Council Act, 2022
+
+(e) all sums accruing to the Council by way of gifts, testamentary disposition, endowments, contributions from philanthropic persons and donor agencies.
+
+(2) The Council shall apply the Fund towards the promotion of the objectives specified in this Act.

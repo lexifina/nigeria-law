@@ -1,13 +1,19 @@
-8. Borrowing power
+8.—(1) The Chairman or any member of the Board shall cease to hold office where—
 
-(1) The Council may, with the consent of the Minister or in accordance with any general guidelines approved by the President, borrow by way of loan or overdraft from any
+(a) he becomes of unsound mind ;
 
-source any moneys required by the Council for meeting its obligations and discharging its functions under this Act, so however that where the sum of the aggregate of the sums
+(b) he is declared bankrupt by a court of competent jurisdiction ;
 
-involved at anyone time does not exceed one third of the Council's income, no such consent or authority shall be required.
+(c) he is convicted of a felony or any offence involving dishonesty or corruption ;
 
-(2) The Council may, subject to the provisions of this Act and the conditions of any trust created in respect of any property, invest all or any of its funds with the consent of
+(d) he is found guilty under the Code of Conduct or serious misconduct in relation to his duties ;
 
-the Minister or in accordance with any general guidelines approved by the President.
+(e) the President is satisfied that it is not in the best interest of the Council or of the public for such member to continue in office ;
 
-(3) The Council may invest any surplus funds of the Council in such securities as may be approved by the President.
+(f ) he resigns his appointment as a member of the Board, or by notice under his hand addressed to the President ; or
+
+(g) he ceases to occupy the position that enabled him to represent his organisation.
+
+(2) Where a person ceases to be a member under subsection (1), the body which he represents shall send a representative to serve out the remainder of the tenure of that member.
+
+(3) A person who has ceased to be a member of the Board shall not be eligible for reappointment as a member of the Board.

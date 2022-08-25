@@ -1,11 +1,7 @@
-5. Secretariat and staff of the Council
+5. The functions of the Board are to—
 
-(1) There shall be for the Council a secretariat which shall be under the control of a Director.
+(a) formulate the policies of the Council ;
 
-(2) The Director shall be responsible for the day to day administration of the Council.
+(b) consider and approve appointment, promotion and discipline of directors and other staff of the Council ; and
 
-(3) There may be appointed from time to time by the Council such other staff as may be required for the purpose of the efficient performance of the functions conferred on the
-
-Council under or pursuant to this Act and the Council shall pay such staff such remuneration and allowances as are payable to persons of equivalent grades in the civil service
-
-of the Federation.
+(c) perform such other functions as are necessary and to the extent of its powers under this Act.

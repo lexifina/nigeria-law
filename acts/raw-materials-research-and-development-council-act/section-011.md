@@ -1,17 +1,7 @@
-11. Staff regulations
+11. The Board may make regulations relating generally to the conditions and scheme of service of the staff of the Council and the regulations may provide for —
 
-(1) The Council may, subject to the provisions of this Act, make staff regulations relating generally to the conditions of service of the staff of the Council and without preju-
+(a) the appointment, promotion, termination, dismissal and disciplinary control over the staff of the Council ;
 
-dice to the generality of the foregoing, such regulations may provide for-
+(b) remuneration and fringe benefits subject, to the approval of the National Salaries Incomes and Wages Commission ; and
 
-(a) the appointment, promotion, termination, dismissal and disciplinary control of staff of the Council; and
-
-(b) appeals by such staff against dismissal or other disciplinary measures,
-
-and until such regulations are made any instrument relating to the conditions of service of officers in the civil service of the Federation shall be applicable, with such modifications
-
-as may be necessary, to the staff of the Council.
-
-(2) Staff regulations made under subsection (1) of this section, shall not have effect until approved by the Minister and when so approved the same shall not be published in
-
-the Federal Gazette but the Council shall cause them to be brought to the notice of all affected persons in such manner as it may from time to time determine.
+(c) appeals by staff against dismissal or other disciplinary measures.

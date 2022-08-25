@@ -1,0 +1,1 @@
+21. A member of the Board, Director-General or employee of the Council shall be indemnified out of the assets of the Council against any proceedings brought against him in his capacity as a member of the Board, Director-General, officer or employee of the Council where the act complained of is not ultra vires his power.

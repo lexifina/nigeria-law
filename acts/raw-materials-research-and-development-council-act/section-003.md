@@ -1,33 +1,35 @@
-3. Functions of the Council
+3. The functions of the Council are to—
 
-The functions of the Council shall be--
+(a) undertake measures to ensure the systematic exploitation, development and utilisation of Nigeria’s raw material resources ;
 
-(a) to draw up policy guidelines and action programmes on raw materials acquisition, exploitation and development;
+(b) draw up policy guidelines and action programmes on raw materials acquisition, exploitation and development ;
 
-(b) to review from time to time, raw material resources availability and utilisation
+(c) review raw material resources availability and utilisation with a view to advising the Federal Government on the strategic implication of depletion, conservation or stock-piling of such resources ;
 
-with a view to advising the Federal Government on the strategic implication of
+(d) advise on adoption of machinery and processes for raw material utilisation ;
 
-depletion, conservation or stock-piling of such resources;
+(e) encourage publicity of research findings and other information relevant to local sourcing of industries ;
 
-(c) to advise on adoption of machinery and processes for raw material utilisation;
+(f ) encourage growth of in-plant research and development capabilities ;
 
-(d) to encourage publicity of research findings and other information relevant to
+(g) advise on and devise awards or systems for industries that achieve any break-through or make innovations and inventions ;
 
-local sourcing of industries;
+(h) organise workshops, symposia and seminars designed to enlighten people on new developments and solutions discovered ;
 
-(e) to encourage growth of implant research and development capabilities;
+(i) consider and advise on special research grants for specific objectives ;
 
-(f) to advise on and devise awards or systems for industries that achieve any
+Objectives of the Council.
 
-break-through or make innovations and inventions;
+Functions of the Council.
 
-(g) to organise workshops, symposia and seminars, from time to time, designed to
+A 866 2022 No. 28 Raw Materials Research and Development Council Act, 2022
 
-enlighten people on new developments and solutions discovered;
+(j) undertake research and development on local raw materials for utilisation by industries ;
 
-(h) to consider and advise on special research grants for specific objectives; and
+(k) liaise with relevant regulatory agencies for the standardisation of raw materials to meet industrial specification ;
 
-(i) to consider and advise on any other issue capable of enhancing the objectives
+(l) promote Nigeria’s competitiveness in raw materials and products development ;
 
-of the Council.
+(m) establish raw materials analysis and certification laboratories for use by industries ; and
+
+(n) consider and advise on any other issue capable of enhancing the objectives of the Council.

@@ -1,11 +1,1 @@
-16. Interpretation
-
-In this Act, unless the context otherwise requires-
-
-"chairman" means the chairman of the Council;
-
-"Council" means the Raw Materials Research and Development Council established by section 1 of this Act;
-
-"member" means any member of the Council including the chairman;
-
-"Minister" means the Minister charged with responsibility for science and technology.
+16. The Council shall, not later than three months to the end of each financial year, submit to the Board or the Minister (in the absence of the Board), a report on activities of the Council and its administration during the immediately preceding financial year.

@@ -1,5 +1,1 @@
-10. Annual report
-
-The Council shall, not later than 30th September in each year, submit to the Minister a report on the activities of the Council and its administration during the immediately pre-
-
-ceding year and shall include in such report the audited accounts of the Council.
+10. There shall be appointed by the Council, with the approval of the Board such other staff as may be required for the purpose of the efficient performance of the functions conferred under this Act.

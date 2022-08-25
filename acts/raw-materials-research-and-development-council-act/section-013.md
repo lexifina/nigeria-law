@@ -1,7 +1,3 @@
-13. Service of documents
+13.—(1) The Board shall cause to be prepared not later than six months to the end of each financial year an estimate of the expenditure and income of the Council during the next financial year based on guidelines approved by the Board in line with extant financial regulations.
 
-The notice referred to in section 12 of this Act and any summons, notice or other document required or authorised to be served upon the Council under the provisions of
-
-this Act or any other enactment or law may be served by delivering the same to the chairman or the Director of the Council, or by sending it by registered post addressed to
-
-the Director at the principal otfice of the Council.
+(2) The Board shall cause to be kept, proper accounts of the Council and proper records in relation thereto and when certified by the Board, such accounts shall be audited as provided in section 15 of this Act.
