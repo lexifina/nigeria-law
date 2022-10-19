@@ -1,0 +1,1 @@
+26. The Secretariat shall ensure that a labelled startup involved in the exportation of products and services, which are deemed eligible under the Export (Incentives and Miscellaneous Provisions) Act, is entitled to export incentives and financial assistance from the Export Development Fund, Export Expansion Grant and the Export Adjustment Scheme Fund.

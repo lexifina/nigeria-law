@@ -1,0 +1,1 @@
+44. The President may make policy guidelines or give to the Council or the Secretariat directives of a general or specific nature relating generally to matters of policy, or case, as the case may be, with regard to the performance by their functions and it shall be their duty to comply with the directives.

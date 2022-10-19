@@ -1,0 +1,1 @@
+27. The Secretariat shall ensure that a labelled startup has access to grants and loan facilities administered by the CBN, the Bank of Industry or other bodies statutorily empowered to assist small and medium scale enterprises and entrepreneurs.

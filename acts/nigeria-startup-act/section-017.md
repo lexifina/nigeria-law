@@ -1,0 +1,1 @@
+17. Where a labelled startup fails to regularise the default after being notified, the Secretariat shall withdraw the startup label and notify the relevant MDAs or investors that may have granted incentives to such labelled startup.

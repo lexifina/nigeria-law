@@ -1,0 +1,1 @@
+24. A labelled startup which falls within industries captured under the extant Pioneer Status Incentives (PSI) Scheme may upon application through the Secretariat receive expeditious approval from the Nigerian Investment Promotion Commission (NIPC) for the grant of the tax reliefs and incentives under the PSI Scheme.
