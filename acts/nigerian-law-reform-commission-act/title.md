@@ -1,63 +1,19 @@
-NIGERIAN LAW REFORM COMMISSION ACT
+2022 No. 7 A 187 Nigerian Law Reform Commission Act, 2022 Federal Republic of Nigeria Official Gazette No. 68 Lagos - 8th April, 2022 Vol. 109 Government Notice No. 57 The following is published as supplement to this Gazette :
 
-ARRANGEMENT OF SECTIONS
+Act No.
 
-Establishment of the Commission
+Short Title Page Nigerian Law Reform Commission Act, 2022 ..
 
-SECTION
+..
 
-1. Establishment of the Nigerian Law Reform Commission.
+..
 
-2. Appointment and tenure of office of members, etc.
+..
 
-3. Proceedings.
+A189-199 Printed and Published by The Federal Government Printer, Lagos, Nigeria FGP 79/42022/250 Annual Subscription from 1st January, 2022 is Local : N50,000.00 Overseas : N65,000.00 [Surface Mail] N80,000.00 [Second Class Air Mail]. Present issue N2,500 per copy. Subscribers who wish to obtain Gazette after 1st January should apply to the Federal Government Printer, Lagos for amended Subscriptions.
 
-4. Committees.
+Extraordinary A 188 2022 No. 7 Nigerian Law Reform Commission Act, 2022
 
-Functions
+2022 No. 7 A 189 Nigerian Law Reform Commission Act, 2022 NIGERIAN LAW REFORM COMMISSION ACT, 2022 \
 
-5. Functions of the Commission.
-
-6. Interim reports.
-
-7. References by States.
-
-Staff and financial provisions
-
-8. Secretary and other staff of the Commission.
-
-9. Service in the Commission to be pensionable, etc.
-
-10. Establishment of fund by the Commission.
-
-11. Accounts and audit.
-
-Supplementary
-
-12. Annual report.
-
-13. Regulations.
-
-14. Interpretation.
-
-15. Short title.
-
-NIGERIAN LAW REFORM COMMISSION ACT
-
-An Act to set up a Law Reform Commission for Nigeria to undertake the progressive
-
-development and reform of substantive and procedural law applicable in
-
-Nigeria by way of codification, elimination of anomalous or obsolete laws and
-
-general simplification of the law in accordance with general directions issued by
-
-the Government, from time to time and for matters connected therewith.
-
-[1979 No.7.]
-
-[3rd July, 1979]
-
-[Commencement.]
-
-Establishment of the Commission
+ARRANGEMENT OF SECTIONS Section :
