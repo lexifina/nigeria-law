@@ -1,0 +1,1 @@
+27. Any person, including the Registrar or any other employee of the Institute, who willfully makes any falsification in any matter relating to the register or, with intent to defraud, alters any entry in the register, commits an offence.

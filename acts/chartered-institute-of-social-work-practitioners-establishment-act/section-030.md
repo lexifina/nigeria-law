@@ -1,0 +1,1 @@
+30. The Council is free to award honorary membership of the Institute to person whom it considers worthy of such honour, on terms and conditions prescribed by the Council and approved by the Institute in the general meeting.
