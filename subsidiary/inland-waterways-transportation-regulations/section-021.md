@@ -1,0 +1,1 @@
+21. A Boatmaster and a person in charge of a floating establishment shall comply with any special instruction given by any official of the competent authority in order to ensure safe and orderly navigation.

@@ -1,0 +1,5 @@
+19.—(1) The Boatmaster of a grounded or sunken vessel or of a grounded or broken assembly of floating material shall inform the nearest competent authority of his vessel being grounded or sunk and in the case of a grounded or sunken vessel, the Boatmaster or any member of the crew shall remain on board or near the site of the accident until further directives of the competent authority.
+
+(2) Where a vessel is grounded or sunk or an assembly of floating material is grounded, in or near the channel, the Boatmaster shall, unless it is unnecessary, as soon as possible and notwithstanding the obligation to display the marking referred to in regulation 54 of these Regulations, give warning to any approaching vessel and assembly of floating material at suitable points far enough from the site of the accident to enable them take necessary action in goodtime.
+
+(3) Where an accident occurs while a vessel is passing through a lock, the Boatmaster shall instantly inform the service in charge of the lock in question.

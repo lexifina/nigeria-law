@@ -1,0 +1,1 @@
+50. Notwithstanding any special condition as may be imposed under regulation 23 of these Regulations, an assembly of floating material and a floating establishment shall carry during the night a sufficient number of bright white lights visible from every direction to show their outline.

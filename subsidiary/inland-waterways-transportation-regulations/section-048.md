@@ -1,0 +1,1 @@
+48. A vessel that has the relevant authorisation for priority of passage given by the competent authority at points where the competent authority regulates the order of passage, may carry, in addition to the marking prescribed in other provisions of these Regulations, during the day, a red pennant at the bow and at a visible height.

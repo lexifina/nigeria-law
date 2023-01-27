@@ -1,0 +1,3 @@
+3.—(1) From the commencement of these Regulations, the Authority shall have power to apply administrative fines and sanctions over contravention of any of the provisions of these Regulations as set out in the Schedule to these Regulations.
+
+(2) The Authority shall before imposing administrative fines and sanctions, issue a notice in writing to the person affected, specifying the nature of the infraction necessitating the fines or sanction and the person shall be granted an opportunity to be heard or may submit a written explanation stating the reason for such contravention within the time specified in the notice.

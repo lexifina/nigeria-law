@@ -1,0 +1,1 @@
+58. A vessel of the competent authority may, notwithstanding the marking applicable to it under these Regulations, display, during the day and at night, an ordinary blue quick flashing light visible from every direction and this shall apply also to a fire-fighting vessel on its way to render assistance.
