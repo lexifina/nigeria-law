@@ -1,0 +1,1 @@
+15. Section 283 of the Principal Act is amended by substituting for paragraph (c), a new paragraph “(c)” — “(c) is a person removed under section 288 of this Act, where such removal was on the grounds of fraud, dishonesty or unethical conduct;” Amendment of section 307

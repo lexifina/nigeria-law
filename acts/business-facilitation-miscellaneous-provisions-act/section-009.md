@@ -1,0 +1,1 @@
+9. Section 207 of the Principal Act is amended by substituting for subsection (4), a new subsection “(4)” — “(4) Notwithstanding any provision in this Act or any other law to the contrary and without prejudice to the provisions of section 204, the holder of a fixed charge shall have priority over other debts of the company including preferential debts.” Amendment of section 222

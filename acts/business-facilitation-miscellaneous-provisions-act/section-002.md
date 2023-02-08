@@ -1,0 +1,1 @@
+2. Section 78 of the Principal Act is amended in subsection (3) by inserting after paragraph (b), a new paragraph “(c)” — “(c) exempted under any other Act of the National Assembly.” Amendment of section 127

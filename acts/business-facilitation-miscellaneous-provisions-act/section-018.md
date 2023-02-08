@@ -1,0 +1,1 @@
+18. Section 394 of the Principal Act is amended by substituting for subsection (2), a new subsection “(2)” — “(2) A company qualifies as a small company in relation to a subsequent financial year if the conditions qualifying it as a small company are met in that year and the preceding financial year.” Amendment of section 572
