@@ -1,0 +1,1 @@
+12. Adomestic gas aggregator shall inform a producer of the aggregate gas price determined by the domestic gas aggregator pursuant to the aggregate of the volumes delivered to the power and commercial sectors, and gas based industries.
