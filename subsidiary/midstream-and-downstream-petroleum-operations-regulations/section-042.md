@@ -1,0 +1,1 @@
+42. An officer authorised by the Authority may at any time enter and inspect any facility or premises where the officer has reasonable grounds to suspect that the provisions of these Regulations is being contravened.

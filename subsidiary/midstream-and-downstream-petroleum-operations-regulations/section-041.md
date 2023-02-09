@@ -1,0 +1,1 @@
+41. All petroleum, petroleum derivatives, petroleum liquids, or petroleum products produced or imported into the country shall be subject to reconciliation at such intervals as may be determined by the Authority.

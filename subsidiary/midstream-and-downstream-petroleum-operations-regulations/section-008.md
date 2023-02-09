@@ -1,0 +1,1 @@
+8. A ship, tanker or vessel entering a Nigerian harbour shall comply with statutory requirements for berthing. loading and discharge of petroleum, petroleum derivatives, petroleum liquids or petroleum products.
