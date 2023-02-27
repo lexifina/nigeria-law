@@ -1,0 +1,1 @@
+8. Aholder of a licence or permit shall not assign or transfer the licence or permit, or any right or obligation arising from the licence or permit to any person without the prior written consent of the Authority.
