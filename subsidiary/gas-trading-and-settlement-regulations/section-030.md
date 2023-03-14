@@ -1,0 +1,1 @@
+30. A gas exchange shall avail the service of a clearing house pursuant to an agreement in writing between the parties stipulating their rights and obligations, the conditions for admission of gas volumes for clearing and settlement, risk management measures, charges for clearing and settlement and other incidental and consequential matters.

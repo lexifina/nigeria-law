@@ -1,0 +1,1 @@
+15. The Authority, after considering an application made in these Regulations and on being satisfied that the applicant has complied with the conditions prescribed, may grant a licence or authorisation subject to such conditions as it may deem fit.

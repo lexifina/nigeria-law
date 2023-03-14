@@ -1,0 +1,1 @@
+57. Where there is a conflict between these Regulations and any other regulation in respect of gas trading and settlement, these Regulations in accordance with the powers of the Authority under the Act, shall prevail.

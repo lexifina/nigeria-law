@@ -1,0 +1,1 @@
+4. The Authority may initiate action for market coupling of a gas exchange with another exchange, where a commodity, which is produced by utilising gas as a major input, is traded, to minimise the risk to a producer of such commodity.

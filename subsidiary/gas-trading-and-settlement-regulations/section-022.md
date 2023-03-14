@@ -1,0 +1,1 @@
+22. The governance structure of the gas exchange shall be in compliance with the rules and regulations governing the registration and operation of an exchange as prescribed by the Securities and Exchange Commission of Nigeria.

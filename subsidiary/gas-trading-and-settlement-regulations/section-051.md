@@ -1,0 +1,1 @@
+51. No member of any committee of the gas exchange or clearing house shall participate in any decision making or adjudication in respect of any person or matter in which he is in any way, directly or indirectly, concerned or interested, and in case of any doubt on whether there is any conflict of interest or not in a matter, decision shall be taken by the Authority.

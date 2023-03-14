@@ -1,0 +1,1 @@
+5. The Authority may extend applicability of these Regulations, with or without modifications, to derivatives, forward and future contracts in respect of such commodities and services, and such type of contracts as specified in these Regulations.

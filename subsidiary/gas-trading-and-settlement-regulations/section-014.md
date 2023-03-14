@@ -1,0 +1,1 @@
+14. The Authority may, before granting a gas trading licence or clearing house authorisation, make inquiries and require the applicant to furnish such further information or document, as it may deem necessary.

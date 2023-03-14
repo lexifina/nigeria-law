@@ -1,0 +1,1 @@
+11. An application for a gas trading licence or clearing house authorisation shall be submitted to the Authority in the form as prescribed in guidelines issued by the Authority, subject to compliance with these Regulations.

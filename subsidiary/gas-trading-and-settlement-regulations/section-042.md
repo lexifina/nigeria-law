@@ -1,0 +1,1 @@
+42. Without prejudice to the exercise of its powers under the Act, the Authority may, on receipt of any information or during pendency of any inspection, inquiry or investigation or on completion, in the interest of promoting competitive gas markets, issue such directive as it deems fit.

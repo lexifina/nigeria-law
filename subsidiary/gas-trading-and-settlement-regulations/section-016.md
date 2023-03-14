@@ -1,0 +1,1 @@
+16. A gas trading and settlement licence or a clearing house authorisation, as the case may be, shall be for a period not exceeding 10 years from the date of its issuance unless such licence or authorisation is withdrawn or cancelled.

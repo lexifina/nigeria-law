@@ -1,0 +1,1 @@
+2. These Regulations shall apply to activities connected to the establishment of secure, reliable and efficient trading and settlement systems for natural gas and other gas commodities on exchange platforms regulated by the Authority.
