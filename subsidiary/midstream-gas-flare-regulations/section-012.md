@@ -1,0 +1,1 @@
+12. Where there is a conflict or inconsistency between the provisions of these Regulations and provisions of any other regulation in relation to the flaring of gas in midstream petroleum operations, the provisions of these Regulations shall take precedence and supersede any other regulation to the extent of the conflict or inconsistency.
