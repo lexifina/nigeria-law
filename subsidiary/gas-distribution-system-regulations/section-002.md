@@ -1,0 +1,1 @@
+2. TheseRegulations shall apply to activities connected with the grant of gas distribution licence for a gas distribution system within a local distribution zone, including gas distribution systems in existence prior to the commencement of these Regulations.

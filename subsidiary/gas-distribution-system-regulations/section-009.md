@@ -1,0 +1,1 @@
+9. The establishment, design, construction, modification, operation or maintenance of a gas distribution pipeline shall be in compliance with the requirements specified in the petroleum pipeline regulations issued by the Authority.
