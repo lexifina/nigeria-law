@@ -1,0 +1,1 @@
+61. Notwithstanding the provisions of any other law, the Commission may, directly or with the assistance of any other person block or disable access to any content, link or website hosted on a system or network, which it reasonably believes to infringe copyright under this Act.

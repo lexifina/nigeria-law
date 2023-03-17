@@ -1,0 +1,1 @@
+75. Any person who, without the consent of the Commission, uses an expression of folklore in a manner not permitted by section 73 of this Act, is in breach of statutory duty and is liable to the Commission in damages, injunctions and any other remedies as the court may deem fit to award in the circumstance.

@@ -1,1 +1,1 @@
-45. Regulations.
+45. Any person who aids or procures another person to commit an offence under this Act is guilty of an offence and shall be liable on conviction to the same punishment as prescribed under this Act for the commission of the main offence.

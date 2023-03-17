@@ -1,0 +1,1 @@
+99. The Minister may give to the Commission, directives of a general character relating to the policies and functions of the Commission and it shall be the duty of the Commission to comply with such directives.

@@ -1,0 +1,1 @@
+101. A member of the Board, Director-General or staff of the Commission shall be indemnified out of the assets of the Commission against any proceedings brought against him in his capacity as a member of the Board, Director-General, officer or employee of the Commission, where the act complained of is not beyond his powers.

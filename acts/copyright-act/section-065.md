@@ -1,0 +1,1 @@
+65. In the absence of express agreement to the contrary, a performer’s consent to the broadcasting of his performance shall be deemed to include his consent to an authorised rebroadcasting of his performance, the fixation of his performance for broadcasting purposes and the reproduction for broadcasting purposes of such fixation.

@@ -1,0 +1,1 @@
+84. The Director-General, Chairman or any member of the Board may be removed from office by the President on grounds of misconduct or inability to perform the functions of his office or where the President is satisfied that it is in the interest of the Commission and the public to do so.
