@@ -1,0 +1,1 @@
+263. Any sum paid or recovered on account of any fine imposed under the customs and excise laws and all costs awarded in any proceedings relating to customs and excise laws to the Service or to any person discharging any duty under those laws shall be accounted for and paid to the Service as the Service may direct.

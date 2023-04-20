@@ -1,0 +1,1 @@
+77. Nothing in the valuation methodology contained in sections 69-74 of this Act shall be construed to restrict or question the right of the Service to satisfy itself as to the truth or accuracy of any statement, document or declaration presented for customs valuation purposes.

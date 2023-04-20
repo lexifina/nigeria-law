@@ -1,0 +1,1 @@
+267. If in any proceedings under the customs and excise laws the question arises whether any person is an officer, his own evidence that he is customs officer shall be deemed sufficient unless the contrary is proved.

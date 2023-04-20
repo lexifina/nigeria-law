@@ -1,0 +1,1 @@
+171. The Service shall ensure the monthly collection of excise Customs duties on excisable goods and the duty due for each month shall be paid by a manufacturer of excisable goods within the first 21 working days of the succeeding month, failure of which the duty shall attract a penalty of 10 per cent of the amount due for each month the excise duty due remains unpaid.

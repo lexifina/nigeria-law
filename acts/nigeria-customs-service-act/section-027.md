@@ -1,0 +1,3 @@
+27.—(1) The Service may exchange information with any persons not specifically required under this Act or under any other customs legislation in particular for the purpose of mutual cooperation in the identification and management of risk, provided that such exchanges shall take place under a written agreement between the Service and any persons involved and may include access to the computer system of traders and other persons by the Service.
+
+(2) Any information provided by one party to the other in the course of the exchange of information referred to in this section shall be confidential unless both parties agree otherwise in writing.

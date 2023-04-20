@@ -1,0 +1,3 @@
+258.—(1) Any offence committed under this Act shall be prosecuted by the Attorney-General of the Federation.
+
+(2) Subject to the provision of section 174 of the Constitution of the Federal Republic of Nigeria, 1999, relating to the power of the Attorney-General of the Federation to institute, continue or discontinue criminal proceedings against any person in any court of law, the Service may request for the consent of the Attorney- General of the Federation for a legal officer of the Service to prosecute criminal or other proceedings in respect of matters relating to customs and excise under the customs and excise laws.

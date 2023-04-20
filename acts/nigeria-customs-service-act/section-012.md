@@ -1,0 +1,1 @@
+12. In the exercise of the powers and duties conferred upon the Board, the Board shall be subject to the authority, direction and control of the Minister and any written direction, order or instruction given by him after consultation with the Comptroller-General shall be carried out by the Board.

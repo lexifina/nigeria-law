@@ -1,0 +1,3 @@
+265.—(1) Subject to the provision of any applicable law on the matter where, in any court any book or document in the official custody of the Service or any officer is required to be used as evidence as to the transactions to which it refers, copies of such books or documents or of extracts there from certified by the Service shall be admissible for that purpose, without the production of the original.
+
+(2) In any proceedings under the customs and excise laws certificates and copies of official documents purporting to be certified under the hand and seal or stamp of office of the officers of the Service or of other customs administrations, shall be sufficient evidence of the matters therein stated, unless the contrary is proved.

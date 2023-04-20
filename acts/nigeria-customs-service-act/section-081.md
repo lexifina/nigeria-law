@@ -1,0 +1,1 @@
+81. Non-preferential rules of origin apply to all goods except those good that benefit from preferential rules of origin as result of an applicable international agreement or unilateral action by the Government.

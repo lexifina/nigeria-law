@@ -1,0 +1,1 @@
+159. The Service may enter into a memorandum of understanding with the postal services which shall specify the respective responsibilities of the Service and the postal service in respect of the customs treatment of postal items.

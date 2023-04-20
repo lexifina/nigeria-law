@@ -1,0 +1,3 @@
+43.—(1) A declarant or a person who is directly or indirectly involved with the importation or exportation of goods, or acts as a customs representative, or is directly or indirectly involved with the storage or transport of imported or exported goods, free zones, or any Customs control, shall keep all documents, information and data related to Customs matter for ten calendar years from the date the transaction occurred or the documents, information and data were created.
+
+(2) When an appeal from a customs determination or ruling has been lodged, all parties to the appeal shall keep all documents, information and data relating to the appeal for three years after the appeal procedure is finally resolved.

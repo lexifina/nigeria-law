@@ -1,0 +1,1 @@
+128. The warehouse keeper shall produce to the Service, on request, any goods deposited in his warehouse which has not been lawfully removed from the warehouse and where he fails to produce the goods, he commits an offence and is liable on conviction to a fine six times the value of the goods or imprisonment for a term of five years or both.

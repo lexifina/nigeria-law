@@ -1,0 +1,1 @@
+272. When a decision or alleged omission by the Service or the Board is a subject of an appeal to a court of competent jurisdiction, the decision or alleged omission shall be presumed to be correct unless the appellant demonstrates to the court that it is clearly erroneous as a matter of law or that it is not supported by substantial evidence on the record.

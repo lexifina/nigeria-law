@@ -1,0 +1,1 @@
+218. An excise license holder, excise trader or any other affected person who is dissatisfied with a penalty, seizure or forfeiture imposed under this part, or who objects to the conduct of a customs officer in connection with the exercise of his duties under this section may make objection to and be heard by the Comptroller-General.

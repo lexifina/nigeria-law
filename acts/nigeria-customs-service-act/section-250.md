@@ -1,0 +1,1 @@
+250. Any ship, aircraft, vehicle or other means of conveyance which is found to be engaged in, to have been engaged in or to be about to depart on, a voyage, flight or journey while constructed, adapted, altered or fitted in any manner for the purpose of concealing goods shall be forfeited.

@@ -1,0 +1,1 @@
+76. The valuation methodology contained in sections 69-74 of this Act shall be used to determine the value of goods for export and for the assessment of all duties, Customs duties and fees on imports, exports and the collection of statistics.

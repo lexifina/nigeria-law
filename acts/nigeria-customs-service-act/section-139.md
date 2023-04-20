@@ -1,0 +1,1 @@
+139. Goods admitted into a special economic zone which is entitled to exemption from or repayment of import duties and Customs duties when exported shall qualify for such exemption or repayment when introduced into a free zone.

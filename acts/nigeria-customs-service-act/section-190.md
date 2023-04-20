@@ -1,0 +1,1 @@
+190. Payment of excise duty on manufactured tobacco and its substitutes may be deferred, subject to conditions specified in the regulations, but not beyond the 21st day of the month following the month in which the tax became due, provided that such deferred payment must be accompanied by an excise duty returns made in the form and manner specified by the Service.
