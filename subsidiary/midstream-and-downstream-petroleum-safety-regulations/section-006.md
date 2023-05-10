@@ -1,0 +1,1 @@
+6. Technology adaptation
