@@ -1,0 +1,1 @@
+4. A licensee or permit holder shall conduct regular Environmental Management Reviews (EMR) and verifications to evaluate the status and adequacy of its EMS in relation to environmental issues, regulations and changing circumstances.

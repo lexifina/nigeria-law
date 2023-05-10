@@ -1,0 +1,1 @@
+27. A licensee or permit holder shall contain and recover any spill discovered within its operational area whether or not its source is known and even while the joint investigation process is yet to be concluded.

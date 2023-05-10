@@ -1,0 +1,1 @@
+10. An environmental study or assessment in these Regulations submitted by a licensee or permit holder shall be prepared by a person accredited by the Authority, in a form prescribed in accordance with guidelines issued by the Authority.

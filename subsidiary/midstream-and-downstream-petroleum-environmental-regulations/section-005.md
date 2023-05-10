@@ -1,0 +1,1 @@
+5. A licensee or permit holder shall conduct periodic environmental audits to facilitate management control of environmental practices and to assess compliance with the EMS and regulatory requirements.

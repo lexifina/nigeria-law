@@ -1,0 +1,1 @@
+24. The Authority shall evaluate industry chemicals and products intended for use in the midstream and downstream petroleum industry to ascertain the hazard and risk potentials as prescribed in guidelines issued by the Authority.
