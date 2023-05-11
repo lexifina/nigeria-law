@@ -1,0 +1,3 @@
+32.—(1) The right, interest, obligation, proceedings, assets and liability of the National Social Investment Office existing before the commencement of this Act shall by virtue of this Act be deemed to be that of the Agency established under this Act, to the extent that they are consistent with any of the provisions of this Act.
+
+(2) Any reference to the National Social Investment Office existing before the commencement of this Act or a document issued in the name of the National Social Investment Office existing before the commencement of this Act, shall be read, unless the context otherwise requires, as a reference to the Agency established under this Act.

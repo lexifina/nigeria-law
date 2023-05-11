@@ -1,0 +1,1 @@
+30. In any action or suit against the Agency, no execution shall be levied or attachment process issued against the Agency, unless at least three months’ notice of the intention to execute or attach has been given to the Agency.
