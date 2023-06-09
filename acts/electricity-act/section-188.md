@@ -1,0 +1,1 @@
+188. Subject of the provisions of this Act, the Council of the Institute shall be responsible for the general management of the affairs of the Institute and in particular, the control of the property and finanres of the Institute.

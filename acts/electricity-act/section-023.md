@@ -1,0 +1,1 @@
+23. The transfer of assets and liabilities under section 15(2) of this Act other than the provision of the forgoing section releases the Transmission Company of Nigeria Plc from any further liability or obligation in respect of the assets and liabilities transferred.

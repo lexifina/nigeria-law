@@ -1,0 +1,1 @@
+182. The Minister may give directives of a general or special character to the NEMSA relating to the performance by the NEMSA of any or all of its functions under this Act, and the NEMSA shall coraply and give effect to the directives.

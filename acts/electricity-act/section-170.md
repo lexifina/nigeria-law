@@ -1,0 +1,1 @@
+170. Feed-in-tariff rates app-oved by the Comunission for electricity generated from renewable energy sources shall be published by the Nigerian Electricity Regulatory Commission in the Federal Government Gazette and the mass media.

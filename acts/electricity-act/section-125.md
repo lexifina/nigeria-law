@@ -1,0 +1,1 @@
+125. Where the Minister has determined that subsidy payments from the PCAF should be disbursed to distribution companies for electricity supplied to designated consumers, or classes of consumers, the Commission shall disburse the subsidy to such distribution companies at the rates and for the durations specified by the Commission.

@@ -1,0 +1,9 @@
+15. (1) The Transmission Company of Nigeria Ple (in this Act referred to as “TCN”), being Incorporation and the successor comparty issued the license that covers transmission service provider, licensing of the ISO market and system operation functions under the Repealed Act shall in accordance with the terms of its license and within such stage or period of the market as the Commission may in a written directive specify, take such steps as are necessary under the Companies and Allied Matters Act, to incorporate an entity, the ISO which Act No. 3, 2020 may be a company limited by shares or have such ownership and governance structure as the Comrnission may specify and the entity once incorporated under the provisions of this section shall immediately apply to the Commission and be licensed by the Commission as an ISO to perform such market and system operation functions as stipulated under this Act, its license and such terms and conditions as the Commission may direct.
+
+(2) Upon incorporation and issuance of an ISO license by the Commission under _ subsection (1) —
+
+(a) the TCN shall traasfer to the ISO, all the assets and liabilities held by the Transmission Company of Nigeria Ple pertaining to its market and system operation functions and the shall be subject to such powers and duties of an ISO under the terms of its license and the provisions of this Act in relation to market and system operation;
+
+(b) the TCN shall retain its transmission service provider license and shall be responsible for transmission assets and liabilities and perform such functions as are relevant to the development and maintenance of the power transmission infrastructure in accordance with the terms of its license as may be issued by the Commission are the provisions of this Act.
+
+(c) the Commission shail, through an order put in place a clear plan and timeline for the transition process in subsections (1) and (2) to avoid disruption of industry operations.

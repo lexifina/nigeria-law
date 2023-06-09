@@ -1,0 +1,3 @@
+101. (1) The Council shall prepare and submit to the President, not later than 30 June in each year, a report in such form as the President may direct on the activities of the N- N-HYPPADEC Powers to accept gifts Borrowing powers Annual estimates and expenditure Quarterly report Annual report HYPPADEC during the immediate preceding year and shall be included in the report, a copy of the audited accounts of the N-HYPPADEC for that year and the auditor’s report.
+
+(2) The President shall, upon receiving of the report referred to in subsection (1), cause a copy of the repor: and the audited accounts of the N-HYPPADEC and the auditors report to be submitted to each House of the National Assembly.

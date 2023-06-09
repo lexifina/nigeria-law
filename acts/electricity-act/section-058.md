@@ -1,0 +1,3 @@
+58. (1) The auditor shall be entitled at all reasonable times to require to be produced to him all accounts and cther records relating to such accounts which are kept by the Commnission or its agents and to require from any Commissioner or employee or agent of the Commission such information and explanations as in the auditor's opinion are necessary for the purposes of their audit.
+
+(2) Any Commissioner or employee or agent of the Commission who fails without just cause to comply with 4 requirement of an auditor under subsection (1), commits an offence and is liable on conviction to a fine not more than N200,000 or imprisonment for a term not more than three months or both.

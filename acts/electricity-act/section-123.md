@@ -1,0 +1,3 @@
+123. (1) The Commission s'1¢]{ determine the contribution rates to be sent by designated consumers and class of consumers and eligible customers to the PCAF and the subsidies to be disbursed from the PCAF, in accordance with policy directions issued by the Minister, and subject to subsection (2).
+
+(2) The Commission, while determining “he contribution rates shall take into consideration the impact of such rates or eligible customers and consumers who Establishment of the Power Consumer Assistance Fund Contribution rates for the PCAF have to assume the burden of such contributions and for this purpose such contributions made >y such customers shall be factored into their tariffs.

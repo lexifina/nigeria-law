@@ -1,0 +1,1 @@
+160. The Agency shall submit to the Minister, not later than 30 June of each financial year, a report of its activities during the preceding financial year, and it shall include a copy of the audited accounts of the Agency for that year and a copy of auditor's report on it.

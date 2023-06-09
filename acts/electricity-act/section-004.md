@@ -1,0 +1,3 @@
+4. (1) The National Integra:ed Electricity Policy and Strategic Implementation Plan Periodic review of the approved by the Federal Executive Council (in this Act referred to as “FEC "),under National Integrated section 3 (3) of this Ast, shal? be reviewed or revised as required, but not later than Electricity Policy every five years.
+
+(2) The National Integrated Electricity Policy and Strategic Implementation Plan or the revised version referred to under section 3 of this Act and subsection (1) respectively shall be initiated, forrsulated, deliberated upon, and adopted by the Ministry of Power in accordance with the provisions of this Act and same shall be approved by the FEC before final publication in the Federal Government Gazette for implementation.

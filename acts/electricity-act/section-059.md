@@ -1,0 +1,1 @@
+59. An agreement, contract or instrument approved by the Commiission may be entered into or executed on behalf of the Commission by any persons generally or specially authorised by the Commission for that purpose.

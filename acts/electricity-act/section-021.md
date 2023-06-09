@@ -1,0 +1,3 @@
+21. (1) The ISO shall be entitled to enforce or defend all rights and obligations for or against the Transmission Company of Nigeria Ple in respect of the portion of interests transferred under section 15(2) as if the ISO was the original party to such obligations.
+
+(2) Any pending action or proceeding including arbitration in relation to the transferred assets brought by or against the Transmission Company of Nigeria Ple immediately before the initial transfer date may be enforced or continued, as the case may be, on and after that date by or against the ISO in the same way as if this Act has not been enacted,

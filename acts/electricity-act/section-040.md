@@ -1,0 +1,1 @@
+40. Subject to section 41 (5), on the death of, or vacation of office by a Commissioner, the President shall nominate a candidate to fill that vacancy, and submit such nomination to the Senate within one month for confirmation in accordance with section 35 of this Act.

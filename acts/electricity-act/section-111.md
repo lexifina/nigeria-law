@@ -1,0 +1,5 @@
+111. (1) Without prejudice to the provisions of section 66 of this Act, the Commission shall issue directions anc exercise such supervision and control as may be necessary to ensure stability and efficient operations of the national grid under the control of a transmission licensee,
+
+(2) If any dispute arises with reference to the quality of electricity or safe, secure and integrated operation of the national grid in relation to any direction given under subsection (1), it sha:] be reterred to the Fecleral High Court for settlement:
+
+Demarcation of transmission into National Contro! Centre Private sector investment in transmission network Fair spread of private sector investment in transmission network Commission to issue directives to the transmission licensee Provided that pending the decision of the Court, the directions of the Commission shall be complied with by the licensee concerned and such pending decision of the Commission supersede any contrary directive from any other Agency under this Act except as otherwise determined by the Court.

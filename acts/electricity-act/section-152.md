@@ -1,0 +1,3 @@
+152. (1) For the purpose of effective execution, coordination and monitoring of rural electrification projects nationwide and the functions of the Agency, the Agency shall collaborate with State Rural Electrification Boards or related state agency by whatever appellation and the Agency shall encourage such State to establish Local Government Rural Electrification Implementation Committees or such other similar institutions to carry out any component of the Rural Electrification Strategy and Implementation Plans in their respective States.
+
+(2) State Houses of Assembly shall by law make provision for the structure, operation and functions of the State Electricity Board and Local Government Rural Electrification Committees in their respective States,

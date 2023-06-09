@@ -1,0 +1,1 @@
+110. In giving effect to the provisions of section 109 of this Act, the Commission shall, without compromising on the economic viability of investments made by licensees and non-licensees in the transmission network, ensure the fair spread of investments.
