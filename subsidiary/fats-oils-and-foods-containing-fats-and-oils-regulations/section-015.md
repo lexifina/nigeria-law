@@ -1,0 +1,1 @@
+15. SOYA BEAN OIL Soya bean oil shall be derived from Soya beans (the seeds of Glycine max (L.) Merr.), and shall have the composition and quality factors specified in the Tenth Schedule to these Regulations.

@@ -1,0 +1,1 @@
+21. SHORTENING Shortening, other than butter or lard shall be the food prepared from fats, oils or a combination of fats and oils, which may be processed by hydrogenation and may contain a preservative, antifoaming agent, stearyl monoglyceridy] citrate and other emulsifying agent, which the use and limits of all shall be as prescribed by the Agency.

@@ -1,0 +1,3 @@
+9.—(1) A person shall not manufacture, package, import, export, Prohibition advertise, distribute, display for sale, offer for sale, sell or use edible fats and oils as specified in the First Schedule to these Regulations in Nigeria, unless it has been registered in accordance with the provisions of these Regulations.
+
+(2) Where a product within the scope of these Regulations is found to contravene the provisions of these Regulations, the Agency shall initiate a mandatory recall of such product as provided in the Recall, Handling and Disposal of Unwholesome and Adulterated Food and Food Products Regulations.

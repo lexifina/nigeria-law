@@ -1,0 +1,1 @@
+16. SUNFLOWER SEED OIL Sunflower seed oil shall be derived from sunflower seeds (the seed of Helianthus annuns) and shall have the composition and quality factors specified in the Eleventh Schedule to these Regulations.
