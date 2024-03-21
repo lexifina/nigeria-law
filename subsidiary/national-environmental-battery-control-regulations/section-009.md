@@ -1,0 +1,1 @@
+9. A person shall put in place an organisational system for pollution control and assign a qualified Environmental Manager (EM) or Pollution Control Manager (PCM) as prescribed in the Eight Schedule to these Regulations.

@@ -1,0 +1,1 @@
+49. A person involved in the handling of used batteries recycling plants shall ensure that the technicians, collectors, transporters, scavengers, or as may be applicable, wear appropriate Personal Protective Equipment (PPE) as prescribed in the Fifteenth Schedule to these Regulations.
