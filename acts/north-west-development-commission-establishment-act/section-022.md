@@ -1,0 +1,1 @@
+22. A notice, summons or other document required or authorised to be served on the Commission under the provisions of this Act or any other law or enactment may be served by delivering it to the Managing Director or by sending it by registered post and addressed to the Managing Director at the principal office of the Commission.

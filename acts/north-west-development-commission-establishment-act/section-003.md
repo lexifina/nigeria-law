@@ -1,0 +1,1 @@
+3. Subject to the provisions of section 4 of this Act, a member of the Board, other than an ex-officio member, shall hold office for a term of four years at the first instance and may be re-appointed for a further term of four years and no more.

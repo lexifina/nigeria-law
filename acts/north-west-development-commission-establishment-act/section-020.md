@@ -1,0 +1,1 @@
+20. Subject to the provisions of this Act, the President may give to the Commission directives of a general nature or relating generally to matters of policy with regard to the performance of its functions and the Commission shall comply with the directives.
