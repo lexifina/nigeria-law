@@ -1,0 +1,1 @@
+11. The inner and outer label of a fertilizer shall clearly show the Registration registration number of the product, such as "NAFDAC REG. NO.", assigned number to it as indicated on the Certificate of Registration issued by the Agency.
