@@ -1,0 +1,1 @@
+12. A holder of Certificate of Registration ofbio-fertilizer shall dispose of expired, degraded or obsolete bio-ferti I izer in the manner prescribed by the competent authority in the presence of staff of the Agency.
