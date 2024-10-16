@@ -1,0 +1,1 @@
+7. Animal Feed Premix shall not contain contaminants in amounts and in such a form that shall be harmful to the health of the animals and shall not contain contaminants in excess of the quantit) specified in the Eleventh and Twelfth Schedules to these Regulations.

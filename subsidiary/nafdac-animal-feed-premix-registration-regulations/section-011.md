@@ -1,0 +1,1 @@
+11. A person or holder of Certificate of Registration of Animal Feed Premix shall dispose of expired, degraded or obsolete Animal Feed Premix in the manner prescribed by the competent authority in the presence of staff of the Agency.

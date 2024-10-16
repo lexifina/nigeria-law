@@ -1,0 +1,1 @@
+12. The Agency shall have power to seal up any premises used or being used in connection with commission of any offence in violation of these Regulations, until such time the animal feed premix is removed or such reasonable time as the Minister may determine.
