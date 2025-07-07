@@ -1,3 +1,1 @@
-63. | Take-over/Lease Without Approval.
-
-NGN 1,000,000.00
+63. The Authority may take gas at the flare in midstream petroleum operations, free of cost or at a cost to be determined by the Authority.

@@ -1,0 +1,1 @@
+153. An officer authorised by the Authority may at any time enter and inspect any facility or premises being used for midstream and downstream petroleum operations, where the officer has reasonable grounds to suspect that the provisions of the Act or these Regulations are being contravened.

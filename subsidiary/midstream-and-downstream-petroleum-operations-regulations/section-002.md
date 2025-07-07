@@ -1,1 +1,1 @@
-2. These Regulations applies to operations in the midstream and downstream petroleum sector.
+2. These Regulations apply to persons, operations, and activities in the Nigerian midstream and downstream petroleum industry.

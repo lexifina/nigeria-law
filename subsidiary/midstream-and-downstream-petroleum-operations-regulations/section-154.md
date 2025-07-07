@@ -1,0 +1,1 @@
+154. The Authority may by notice in writing require any person carrying out midstream or downstream petroleum operations to submit such returns and other information required, in such form and at such times specified in the notice.

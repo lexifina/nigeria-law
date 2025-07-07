@@ -1,1 +1,1 @@
-95. | Under dispensing of LPG refilling plant NGN 200,000
+95. The Board of Directors of a company undertaking midstream or downstream petroleum operations shall have at least one member with proven knowledge of the specific petroleum operations which the company is undertaking.

@@ -1,9 +1,5 @@
-17._(1) A bulk gas storage facility shali not be used for export and storage.
+17. A person exporting petroleum liquids or natural gas or its derivatives from a port shall, in addition to complying with all statutory requirements, deliver to the Authority, before and after loading any vessel, written declarations, stating, in the case of a declaration made —
 
-import of gas without the approval of the Authority.
+(a) before loading a vessel, the approximate quantity of petroleum liquids or natural gas or its derivatives with which that vessel is to be loaded; and
 
-(2) Natural gas or gas derivatives products shall not be exported from a bulk gas storage facility without valid wholesale supply licence issued by the Authority, and export permit from the relevant authority.
-
-(3) A holder of a bulk gas storage licence shall undertake the activities prescribed by the licence in compliance with section 133 of the Act.
-
-Wholesale
+(b) after loading, the quantity of petroleum liquids or natural gas or its derivatives with which the vessel has been loaded.

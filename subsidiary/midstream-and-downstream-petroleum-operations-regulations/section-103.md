@@ -1,3 +1,1 @@
-103. | Construction of CNG facilities without LTC.
-
-- NGN5,000,000
+103. Where the Authority determines that an error or incorrect entry is made into a register, the Authority shall correct the error or incorrect entry and cause a notice of the error or incorrect entry and the correction to be published on the Authority’s website.

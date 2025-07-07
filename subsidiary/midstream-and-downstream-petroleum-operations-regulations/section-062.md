@@ -1,3 +1,3 @@
-62. | Product adulteration. N200/Litre.
+62. The decommissioning or abandonment of a hydrocarbon refining or processing facility shall be in accordance with relevant regulations, guidelines, directives or notices issued by the Authority.
 
-, NGN 200.00/liter
+PART VI — MIDSTREAM GAS FLARE

@@ -1,3 +1,3 @@
-53. | Discharging of Petroleum products without Earthing cable. | NGN 100,000.00
+53.—(1) The sparing philosophy of major equipment and critical systems of a hydrocarbon refining or processing facility shall be approved by the Authority.
 
-34. | Discharging Petroleum products during Lightening, | NGN200,000.00 Thunderstorm or Under Direct.
+(2) The sparing philosophy shall provide for redundancies, ease of maintenance and continuous operation.

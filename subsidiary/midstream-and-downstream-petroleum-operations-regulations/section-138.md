@@ -1,0 +1,1 @@
+138. A petroleum liquids trading licence or a clearing house authorisation, as the case may be, shall be for a period not exceeding 10 years from the date of its issuance, unless such licence or authorisation is withdrawn or cancelled.

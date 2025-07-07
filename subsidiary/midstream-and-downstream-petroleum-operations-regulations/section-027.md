@@ -1,15 +1,5 @@
-27.—(1) A person intending to carry out virtual transportation of petroleum liquids activities shall register the mode of such transportation with the Authority.
+27. A vessel utilised for fast support intervention, platform supply or support, offshore supply, anchor handling (tug supply or towing supply), dive support, jackup barge, multipurpose support, or field installation in midstream and downstream petroleum operations shall obtain a coastal vessel licence from the Authority.
 
-e
+Verification and certification by the Authority, etc.
 
-(2) A mode of virtual transportation shall not be used for transporting petroleum liquids without obtaining appropriate licence, permit, or authorisation from the Authority.
-
-(3) A person within the virtual transportation network shall not operate Without obtaining appropriate licence, permit or authorisation from the Authority.
-
-Petroleum liquids transportation pipeline.
-
-Petroleum liquids and petroleum product transport network operator.
-
-Virtual transportation for petroleum liquids.
-
-Bulk petroleum liquids storage.
+Restriction on vessel from carrying part cargo or dead freight Restriction on vessel not to depart without full documentation Prohibition of topping and loading into ballast tank Prohibition of loading, discharge, importation, or transship- ment in an unauthorised location Duty to obtain a coastal vessel licence

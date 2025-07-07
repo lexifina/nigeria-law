@@ -1,7 +1,7 @@
-23. Natural gas and gas products shall not be —
+23. A vessel carrying petroleum liquids or natural gas or its derivatives, shall not carry part cargo or dead freight, except —
 
-(a) imported without an appropriate permit issued by the Authority ; or
+(a) with the prior authorisation of the Authority;
 
-(5) exported from Nigeria without Wholesale Gas Supplier Licence.
+(b) within the limits of operational practice; or
 
-Part V — MipstreAmM AND DownstTREAM PETROLEUM LIQUIDS OPERATIONS
+(c) where such vessel is loading full complement from two or more terminals within Nigeria.

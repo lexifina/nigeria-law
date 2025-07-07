@@ -1,7 +1,1 @@
-11. Imported petroleum, petroleum derivatives, petroleum liquids or petroleum products shall not be discharged without —
-
-(a) sampling ;
-
-(b) testing of products from an approved laboratory ; and
-
-(c) the issuance of a certificate of quality from the Authority.
+11. The grant, reissue or renewal of a licence, permit, authorisation or approval in the Nigerian midstream and downstream petroleum activities and operations shall be subject to the payment of prescribed fees in regulations made by the Authority.

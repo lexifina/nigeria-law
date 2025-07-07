@@ -1,1 +1,1 @@
-32..A person shall not load or discharge petroleum liquids and petroleum products into a vessel or barge within Nigerian territorial waters, without obtaining the approval, permit or clearance of the Authority.
+32. The Authority shall approve standards and recommended practices in the design, construction, modification, upgrade, operation and maintenance of a measurement system.

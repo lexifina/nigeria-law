@@ -1,11 +1,9 @@
-21.—(1) Industrial gas storage and utilisation licence shall not serve as licence for the sales of industrial gas, but only for consumption by the licensee within the licenced premises.
+21.—(1) Petroleum liquids or natural gas or its derivatives shall not be discharged or lifted from Nigeria without a shipment identification number issued by the Authority.
 
-(2) Industrial gas storage tanks shall be separated from buildings or fixed sources of ignition, to —
+(2) The Authority shall, prior to shipment, inspect and verify the content of any cargo against declaration in the Advance Shipment Schedule and upon satisfactory verification, the Authority shall issue a shipment identification number for the cargo within 48 hours of receipt of all requested information.
 
-(a) reduce the risk of fire spreading to the tank ; and
+(3) Where the Authority, on inspection of a cargo, discovers that information provided in the Advance Shipment Schedule is false, the person responsible for the false declaration shall be liable under these Regulations.
 
-(b) maintain safe dispersal of natural gas or gas products.
+(4) A shipment identification number shall be specific to and valid for the cargo it relates and no other.
 
-(3) Agas storage tank shall be situated outdoors in a position to prevent the accumulation of vapour at ground level.
-
-(4) Gas storage construction and installation shall be in accordance with guidelines issued by the Authority from time to time.
+Prohibition of discharge into waters or atmosphere Advance Shipment Schedule Shipment identification management

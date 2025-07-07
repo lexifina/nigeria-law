@@ -1,0 +1,1 @@
+137. The Authority, on being satisfied that the applicant has complied with the conditions set out in these Regulations, may grant a licence or authorisation subject to such terms and conditions as may be prescribed in the licence or authorisation.

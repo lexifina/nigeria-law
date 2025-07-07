@@ -1,11 +1,13 @@
-34.—(1) From the Commencement of these Regulations, Petroleum liquids export and import terminal shall not be operated where the terminal —
+34.—(1) The frequency of calibration of measurement systems shall be as prescribed by the Authority.
 
-(a) is not established by an Order issued by the Authority ;:
+(2) A licensee or permit holder shall ensure that measurements and calibrations made under these Regulations have traceability to national or international measurement standards.
 
-(d) fails to comply with the Petroleum (Transportation and Shipment) Regulations made by the Authority ; and
+(3) A licensee or permit holder shall ensure that an instrument used for calibration has traceability to national or international measurement standards.
 
-(c) does not have a valid licence, permit and authorisation issued by the Authority.
+(4) A third-party measurement laboratory used to calibrate equipment covered by these Regulations shall —
 
-(2) Petroleum liquids shall not be evacuated from the terminal for export or supply to bulk customers in Nigeria without a valid wholesale petroleum liquid supply licence issued by the Authority.
+(a) be accredited in accordance with nationally and internationally recognised standards; and
 
-(3) Loading or unloading of petroleum liquids shall not be carried out without the approval of the Authority.
+(b) have a documented uncertainty equal to or better than those set out in these Regulations.
+
+(5) A licensee or permit holder shall ensure that a laboratory analysis of the composition or quality of natural gas or its derivatives or petroleum liquids for custody transfer and allocation purposes is carried out by an accredited measurement laboratory and witnessed by the Authority.

@@ -1,1 +1,1 @@
-73.| Failure to produce, upon demand, storage and sales] NGN 1,000,000 inventories and reports of midstream and downstream facilities.
+73. From the commencement of these Regulations, where the provisions of any other regulations with respect to midstream gas flare is inconsistent with the provisions of these Regulations, the provisions of these Regulations shall prevail and the provisions of that other regulations shall, to the extent of the inconsistency, be void.

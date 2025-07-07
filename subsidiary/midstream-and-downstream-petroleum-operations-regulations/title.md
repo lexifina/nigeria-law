@@ -1,135 +1,369 @@
-Extraordinary Federal Republic of Nigeria Official Gazette No. 41 Lagos - 3rd March, 2023 = Vol. 110 Government Notice No.
+Federal Republic of Nigeria Official Gazette No. 205 Lagos - 1st December, 2025 Vol. 112 Government Notice No. 85 The following is published as supplement to this Gazette :
 
-;
+S. I. No.
 
-The following is published as supplement to this Guzeltfe :
+Short Title Page Midstream and Downstream Petroleum Operations Regulations, 2025 .. B2105-2184 Printed and Published by The Federal Government Printer, Lagos, Nigeria FGP 48/12025/150 Annual Subscription from 1st January, 2025 is Local : N100,000.00 Overseas : N131,000.00 [Surface Mail] N150,000.00 [Second Class Air Mail]. Present issue N4,000 per copy. Subscribers who wish to obtain Gazette after 1st January should apply to the Federal Government Printer, Lagos for amended Subscriptions.
 
-S.
+Extraordinary PETROLEUM INDUSTRY ACT, NO. 6, 2021
 
-L No.
+MIDSTREAM AND DOWNSTREAM PETROLEUM OPERATIONS REGULATIONS, 2025
 
-Short Title Page Midstream and Downstream Petroleum Operations Regulations, 2023 ..
+ARRANGEMENT OF REGULATIONS Regulation :
 
-B69-109 Printed and Published by The Federal Government Printer. Lagos. Nigeria FGP 26/22023/350 Annual Subscription from Ist January. 2023 is Local : N50.000.00 Overseas : N65.000.00 [Surface Mail] %80.000.00 [Second Class Air Mail]. Present issue N3.000 per copy. Subscribers who wish to obtain Gazette after Ist January should apply to the Federal Government Printer. Lagos for amended Subscriptions.
+PART I — MIDSTREAM AND DOWNSTREAM PETROLEUM OPERATIONS
 
-PETROLEUM INDUSTRY ACT, NO. 6, 2021
+1. Objectives
 
-MIDSTREAM AND DOWNSTREAM PETROLEUM OPERATIONS REGULATIONS, 2023 ARRANGEMENT OF REGULATIONS Regulation :
+2. Application
 
-Part | — GENERAL PROVISIONS
+3. Application for a licence, permit or authorisation
 
-1. Objectives.
+4. Duties of a licensee and permit holder
 
-2. Application.
+5. Duties of a manager
 
-3. Application for licence, permit or authorisation.
+6. Duty to provide information
 
-Part ff — Duties AND OBLIGATIONS Duties of licensee and permit holder.
+7. Payment to the Authority Fund and Midstream and Downstream Gas Infrastructure Fund
 
-Duties of a manager.
+8. Licences, permits and authorisations for midstream and downstream gas operations
 
-Duty to provide information.
+9. Licences, permits and authorisations for midstream and downstream petroleum liquids operations
 
-Part UE — IMporration, Exportation, SippinGc, UNSHIPPING, LANDING OF
+10. Midstream and downstream oil and gas industry service permit
 
-14. 15.
+11. Fees
 
-16. 18.
+12. Wholesale supply licences
 
-PETROLEUM, PETROLEUM DERIVATIVES, PETROLEUM LIQUIDS OR PETROI.FUM PRODUCTS Entry into prescribed port.
+13. Product certification, reconciliation and accounting
 
-Compliance with statutory requirements for berthing.
+PART II — PETROLEUM TRANSPORTATION AND SHIPMENT
 
-Declaration of quantity and quality of petroleum, petroleum derivatives, petroleum liquids or petroleum products carried by vessels entering harbour.
+14. Entry into prescribed port
 
-Declaration by vessel leaving harbour.
+15. Compliance with statutory requirements for berthing
 
-Testing of samples of petroleum or petroleum derivatives, petroleum liquids, or petroleum products.
+16. Declaration of quantity and quality of petroleum liquids or natural gas or its derivatives carried by vessels entering harbour
 
-Prohibition of discharge into waters.
+17. Declaration by vessel leaving harbour
 
-Payment to the Authority, Midstream and Downstream Gas Infrastructure Fund.
+18. Testing of samples of petroleum liquids or natural gas or its derivatives
 
-.
+19. Prohibition of discharge into waters or atmosphere
 
-Part IV — MipstREAM AND DowNstREAM Gas OPERATIONS Licences, permits and authorisations for midstream and downstream gas operations.
+20. Advance Shipment Schedule
 
-Gas transportation and distribution.
+21. Shipment identification management
 
-LPG or CNG bulk cylinder peddling (exchange) operations.
+22. Verification and certification by the Authority, etc.
 
-Bulk gas storage.
+23. Restriction on vessel from carrying part cargo or dead freight
 
-Wholesale gas supply.
+24. Restriction on vessel not to depart without full documentation
 
-bo Lo to to to be Ld Lo Lo Lo > A os SAH HHA RHE ER WwW WwW
+25. Prohibition of topping and loading into ballast tank
 
-SRNAAEBNEASS HA Retail gas supply.
+26. Prohibition of loading, importation, or trans-shipment in an unauthorised location
 
-Gas aggregation.
+27. Duty to obtain a coastal vessel licence
 
-Industrial gas storage and utilisation.
+28. Ship and shore differences
 
-. Gas export and import terminal facilities.
+PART III — PETROLEUM MEASUREMENT
 
-Natural gas and gas products import and export permit.
+29. Requirement of measurement systems
 
-V — MipstreaAm AND DowNsTREAM PETROLEUM Liguips OPERATIONS Licenses, permits and authorisations for midstream and downstream petroleum liquids operations.
+30. Quality of metering activities
 
-Petroleum liquids transportation pipeline.
+31. Information reporting
 
-Petroleum liquids and petroleum product transport network operator.
+32. Measurement standards
 
-Virtual transportation for petroleum liquids.
+33. Classes of dynamic measurement
 
-Bulk petroleum liquids storage.
+34. Calibration and traceability
 
-Petroleum products backloading.
+35. Reference conditions
 
-Petroleum products distribution.
+36. By-pass of measurement system
 
-Wholesale petroleum liquids supply.
+37. Measurement methods
 
-Bunkering and barge vessel licence.
+38. Metering system design
 
-Industrial petroleum liquids storage and utilisation.
+39. Testing, calibration and inspection of measurement system
 
-Petroleum liquids export and-import.
+40. Operation and maintenance of measurement system
 
-Petroleum liquids and petroleum products import and export permit.
+41. Operations management and supervision of metering systems
 
-Product certification and accounting.
+42. Measurement loss and shrinkage
 
-Part VI — MIscELLANEOUS PROVISIONS Midstream and downstream oil and gas service companies.
+PART IV — PETROLEUM PIPELINES
 
-Conformity assessment.
+43. Prohibitions
 
-Technology adaptation.
+44. Licence to establish a pipeline
 
-Deferment of operations.
+45. Revalidation of a licence to establish a pipeline
 
-Reconciliation.
+46. Application for a petroleum pipeline licence
 
-Right to enter and inspect premises in case of offences.
+47. Third-party consent
 
-Prescribed Returns.
+48. Permit to operate a petroleum pipeline
 
-Form of application.
+PART V — HYDROCARBON REFINING AND PROCESSING FACILITIES
 
-Notices for non-compliance.
+49. Standards for design, construction and inspection of hydrocarbon refining and processing facilities
 
-General offences.
+50. Engineering and technical studies or review
 
-Powers to issue guidelines.
+51. Design optimisation or modification
 
-Interpretation.
+52. Fabrication and inspection
 
-Citation.
+53. Sparing philosophy
 
-SCHEDULES S.
+54. Pre-commissioning and readiness for start-up
 
-I. No.
+55. Requirements for commissioning
 
-8 of 2023 PETROLEUM INDUSTRY ACT, NO. 6, 2021
+56. Facility commissioning
 
-MIDSTREAM AND DOWNSTREAM PETROLEUM OPERATIONS REGULATIONS, 2023 [9th Day of February, 2023] In exercise of the powers conferred on it by sections 33, 125(3) and 174(3) of the Petroleum Industry Act, No. 6, 2021 (“the Act”) and all other powers enabling it in that behalf, the Nigerian Midstream and Downstream Petroleum Regulatory Authority (“the Authority”), makes the following Regulations — Part | —- GENERAL PROVISIONS
+57. Application for licence to operate a crude oil refinery, etc
+
+58. Modification of existing facilities
+
+59. Maintenance management
+
+60. Sustainable water management
+
+61. Crude oil requirements for refineries
+
+62. Decommissioning and abandonment of hydrocarbon refining or processing facilities
+
+PART VI — MIDSTREAM GAS FLARE
+
+63. Right of Authority to take gas at the flare
+
+64. Prohibition of venting and excessive flaring of gas in midstream facilities
+
+65. Midstream gas flaring categories
+
+66. Permit to flare gas
+
+67. Permit to access flare gas
+
+68. Revocation of permit to access flare gas
+
+69. Assignment of a permit to access flare gas
+
+70. Gas flaring logs
+
+71. Metering and safety standards
+
+72. Gas flaring report
+
+73. Conflicts with other regulations
+
+74. Penalty for venting or flaring of gas
+
+PART VII — TERMINALS AND BULK STORAGE
+
+75. Authority to license terminals and bulk storage facilities
+
+76. Terminal establishment notice
+
+77. Application for licence to establish a terminal
+
+78. Application for licence to construct a terminal
+
+79. Application for licence to operate a terminal
+
+80. Application for licence to establish a bulk storage facility
+
+81. Application for licence to construct a bulk storage facility
+
+82. Application for licence to operate a bulk storage facility
+
+PART VIII — ASSIGNMENT, TRANSFER OR SURRENDER OF LICENCE OR PERMIT
+
+83. Prohibition of assignment or transfer of licence or permit
+
+84. Nature of assignment or transfer of licence or permit
+
+85. Notification of intention to assign or transfer a licence or permit
+
+86. Application to assign or transfer of licence or permit
+
+87. Grant of consent to assign or transfer a licence or permit
+
+88. Change of name
+
+89. Surrender of licence or permit
+
+90. Obligations and consequences upon surrender
+
+91. Publication of surrender
+
+PART IX — SEPARATION OF LICENSED ACTIVITIES
+
+92. Prohibition of overlapping activities
+
+93. Separate accounting and annual audit
+
+94. Licensee or permit holder to register separate companies for petroleum operations
+
+PART X — CODE OF CONDUCT
+
+95. Requirements for Board composition
+
+96. Appointment of Chief Executive Officer
+
+97. Business conduct and ethics
+
+98. Stakeholder communication
+
+PART XI — REGISTRATION AND PUBLICATION OF LICENCES, PERMITS
+
+AND AUTHORISATIONS
+
+99. Authority to establish and maintain registers
+
+100. Duties of the secretary and legal adviser of the Authority
+
+101. Procedure for registration of licences, permits and authorisations
+
+102. Contents of register
+
+103. Error in registers
+
+104. Deletion from registers
+
+105. Public access to the registers
+
+106. Certified true copy
+
+107. Duty to notify the Authority of change in structure
+
+PART XII — DATA REPOSITORY
+
+108. Establishment of the Midstream and Downstream Petroleum Data Repository
+
+109. Functions of the Repository
+
+110. Revenue of the Repository
+
+111. Data submission
+
+112. Data confidentiality period
+
+113. Data release schedule
+
+PART XIII — DISPOSAL OF CONFISCATED MATERIALS AND EQUIPMENT
+
+114. Power to confiscate and dispose
+
+115. Interim forfeiture order
+
+116. Notice of interim forfeiture
+
+117. Final forfeiture order
+
+118. Register of confiscated materials and equipment
+
+119. Disposal Committee
+
+120. Disposal procedure
+
+121. Disposal method
+
+PART XIV — CUSTOMER PROTECTION
+
+122. Publication of terms of supply or distribution
+
+123. Establishment of customer forum
+
+124. Standards of performance
+
+125. Customer service codes
+
+126. Authority to approve customer service codes
+
+127. Duty to notify customers of customer service codes
+
+128. Submission of reports
+
+129. Establishment of customer service desk
+
+130. Power to receive and investigate complaints
+
+131. Customer protection
+
+PART XV — PETROELUM LIQUIDS TRADING AND SETTLEMENT
+
+132. Duty to obtain licence or authorisation
+
+133. Application for licence or authorisation
+
+134. Conditions for granting a petroleum liquids trading licence
+
+135. Conditions for granting a clearing house authorisation
+
+136. Power to make inquiries and call for information
+
+137. Grant of licence or authorisation
+
+138. Duration of licence or authorisation
+
+139. Renewal of licence or authorisation
+
+140. Annual operating charge and other charges
+
+141. Suspension, surrender or revocation of licence or authorisation
+
+142. Exit scheme
+
+PART XVI — PENALTIES ENFORCEMENT MECHANISMS
+
+143. Penalties for contravention in midstream and downstream petroleum operations
+
+144. Notices
+
+145. Potential incidence of non-conformity
+
+146. Incidence of non-conformity
+
+147. Enforcement order
+
+148. General contraventions
+
+PART XVII — MISCELLANEOUS PROVISIONS
+
+149. Conformity assessment
+
+150. Technology adaptation
+
+151. Deferment of operations
+
+152. Registration of throughput agreements
+
+153. Right to enter and inspect premises
+
+154. Submission of returns
+
+155. Powers to issue guidelines
+
+156. Revocation and savings
+
+157. Interpretation
+
+158. Citation
+
+SCHEDULE S. I. No. 79 of 2025 Commence- ment PETROLEUM INDUSTRY ACT, NO. 6, 2021
+
+MIDSTREAM AND DOWNSTREAM PETROLEUM OPERATIONS REGULATIONS, 2025 [7th Day of July, 2025] In the exercise of the powers conferred on it by section 33 of the Petroleum Industry Act, No. 6, 2021 (“the Act”) and all other powers enabling it in that behalf, the Nigerian Midstream and Downstream Petroleum Regulatory Authority (“the Authority”), makes these Regulations —
+
+PART I — MIDSTREAM AND DOWNSTREAM PETROLEUM OPERATIONS

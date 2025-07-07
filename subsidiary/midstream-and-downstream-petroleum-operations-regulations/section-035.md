@@ -1,5 +1,5 @@
-35.—(1) A person shall not import, store, sell, or distribute petroleum, petroleum products, petroleum derivatives and petroleum products additives in Nigeria without a valid permit or licence granted by the Authority.
+35.—(1) The reference conditions for temperature and pressure to determine standard volume is 60 oF and 14.696 psia (101.325 kPa) for crude oil and condensate.
 
-(2) A person shall not export petroleum or petroleum products from Nigeria without a valid wholesale petroleum liquid supply licence from the Authority, and export permit from appropriate authority.
+(2) A reference pressure other than 101.325 kPa may be used for natural gas liquid and liquefied petroleum gas.
 
-(3) The Authority shall process application for export of petroleum and petroleum products in Nigeria.
+(3) A reference temperature and pressure of 15oC and 101.325 kPa may be used for petroleum products and liquefied natural gas.

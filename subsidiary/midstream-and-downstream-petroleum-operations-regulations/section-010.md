@@ -1,9 +1,11 @@
-10.—(1) Petroleum, petroleum derivatives, petroleum liquids or petroleum products shall not be exported from Nigeria without a valid approval or export permit.
+10.—(1) A company shall not render or be engaged to render any service in the midstream and downstream petroleum sector without a permit to carry out such service by the Authority.
 
-(2) Crude oil, condensates, liquid petroleum products and natural gas liquids shall not be exported from Nigeria without a valid wholesale petroleum liquid supply licence from the Authority and export permit.
+(2) An application for permit shall be made to the Authority accompanied with evidence of payment of requisite fees, and in compliance with any other requirement prescribed by the Authority.
 
-(3) The owner of petroleum, petroleum derivatives, petroleum liquids or petroleum products to be exported from a port shall, in addition to complying with all statutory requirements, deliver to the harbour master, before and after loading any ship, written declarations, stating, in the case or a declaration made — _
+(3) The Authority may on receipt of an application under subregulation (2) of this regulation, issue the applicant with a permit in the relevant category.
 
-(a) before loading a vessel, the approximate quantity of petroleum, petroleum derivatives, petroleum liquids or petroleum products with which that vessel is to be loaded ; and
+Midstream and downstream oil and gas industry service permit
 
-(b) after loading a vessel, the quantity of petroleum, petrofeuimn derivatives, petroleum liquids or petroleum products with which the vessel has been loaded.
+(4) A licensee or permit holder shall only engage the services of companies with appropriate and valid midstream and downstream petroleum sector service permits.
+
+(5) A licensee or permit holder shall ensure that the service provider complies with the requirements stipulated by the Authority.

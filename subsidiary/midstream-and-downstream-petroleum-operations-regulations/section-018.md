@@ -1,21 +1,9 @@
-18.—(1) Wholesale natural gas supply shall be conducted at licenced gas supply —_ wholesales points.
+18. Petroleum liquids or natural gas or its derivatives imported into Nigeria or to be exported shall not be discharged or loaded without —
 
-(2) Aholder of a wholesale gas supply licence shall be entitled to —
+(a) sampling;
 
-(a) purchase natural gas or gas products directly from a third-party ; and
+(b) testing from a laboratory accredited; and
 
-(b) sell and deliver wholesale gas to wholesale customers and gas distributors at any location in Nigeria.
+(c) the issuance of a certificate of quality, by the Authority.
 
-(3) A wholesale gas supplier shall undertake the activities prescribed by the wholesale gas supply licence in compliance with the provisions of section
-
-143 of the Act.
-
-(4) A holder of wholesale gas supply licence shall —
-
-(a) conduct its activities in compliance with regulations on health, safety and environment issued by the Authority ; and
-
-(b) comply with customer protection measures in accordance with sections 164, 165 and 166 of the Act.
-
-(5) A wholesale gas supplier shall undertake its activities in compliance with the conditions of the licence.
-
-Retail gas
+Entry into prescribed port Compliance with statutory requirements for berthing Declaration of quantity and quality of petroleum liquids or natural gas or its derivatives carried by vessels entering harbour Declaration by vessel leaving harbour Testing of samples of petroleum liquids or natural gas or its derivatives

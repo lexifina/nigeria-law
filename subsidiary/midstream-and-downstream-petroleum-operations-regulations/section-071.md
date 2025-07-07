@@ -1,3 +1,1 @@
-71. | Pump under dispensing from retail outlets.
-
-NGN 100,000.00 per dispensing pump
+71. Metering equipment used for measuring the gas flare shall be manufactured, operated, calibrated, inspected and have accuracy in conformity to metering and data collection standards issued by the Authority.

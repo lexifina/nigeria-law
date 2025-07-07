@@ -1,33 +1,21 @@
-31.—(1) Wholesale petroleum liquids supply shall be conducted at a licenced wholesales point.
+31.—(1) A licensee or permit holder shall provide the Authority with information or data on —
 
-(2) A producer of petroleum liquids or natural gas shall not export or deliver petroleum liquids or natural gas to bulk customers in Nigeria without a valid wholesale petroleum liquids supply licence.
+(a) annual performance of measurement system;
 
-(3) Aholder of crude oil refining or bulk petroleum liquids licence shall not export petroleum products from a refinery or depot without a valid wholesale petroleum liquids supply licence.
+(b) annual maintenance plan and record for the previous year;
 
-(4) A wholesale petroleum liquids supplier shall conduct the activities under its licence in compliance with the following general obligations, to—
+(c) malfunction of measurement system;
 
-(a) provide a reliable supply of petroleum liquids to purchasers on request ; and Petroleum products backloading.
+(d) annual recertification notice;
 
-Petroleum products distribution Wholesale petroleum liquids supply.
+(e) annual totalizer measurement;
 
-Bunkering and barge vessel licence.
+(f ) annual actual measurement;
 
-Industrial petroleum liquids storage and utilisation.
+(g) report of maintenance work on flow computer and other metering system components;
 
-Petroleum liquids export and import.
+(h) petroleum liquids and natural gas handling agreements, including cargo loss claims; and
 
-a
+(i) the performance of a newly installed metering system not later than three months after installation.
 
-(b) desist from activities, which in the opinion of the Authority may prevent, restrict or distort competition.
-
-,
-
-(5) A holder of wholesale petroleum liquid supply licence shall —
-
-(a) conduct the activities under its licence in accordance with Midstream and Downstream Petroleum (Safety) Regulations issued by the Authority and any other applicable law ; and
-
-(b) comply with customer protection measures under sections 164,
-
-165 and 166 of the Act.
-
-(6) A wholesale petroleum liquids supplier shall conduct its activities in compliance with the covenants and conditions of the licence and with customer protection measures prescribed by the Authority.
+(2) The Authority may direct a person to provide information or data on any measurement operation in the prescribed manner and within the timeframe stipulated.

@@ -1,23 +1,21 @@
-3.—({1) Subject to the provisions of these Regulations, an application for a licence, permit or authorisation to undertake any of the operations under these Regulations shall be made in a form prescribed in a guidelines or directions issued by the Authority.
+3.—(1) An application for a licence, permit, or authorisation to undertake any of the operations under these Regulations shall be made in a form prescribed by the Authority.
 
-(2) A licence issued pursuant to these Regulations shall expire on the
+(2) A licence issued pursuant to these Regulations shall expire on the 31st of December of the year issued, except otherwise stated in the licence.
 
-31st December of the year issued, except otherwise stated in the licence.
+(3) Without prejudice to subregulation (2) of this regulation, where there is a modification of a facility with change in capacity or product slate on or before the 31st of December, the subsisting licence shall become invalid, and a new licence shall be issued upon the payment of prescribed fees.
 
-(3) Without prejudice to subregulation (2) of this regulation, where there is a modification of a facility with change in capacity or product slate on or before the 3 1st of December, the subsisting licence shall become invalid, and a new licence shall be issued.
+(4) An application for renewal of a licence, permit or authorisation shall be made not less than 30 days, or such a longer period as the Authority may decide, before the expiration of the original licence and in a manner prescribed by the Authority.
 
-(4) An application for renewal of a licence, permit or authorisation shall be made not less than 30 days, or such longer period as the Authority may prescribe, before the expiration of the original licence and in a manner prescribed by the Authority.
+(5) Where an affiliate of a company which holds any other licence, permit or approval from the Authority, applies for licence or approval under these Regulations, such affiliate shall disclose the relationship to the Authority.
 
-(5) A licensee or permit holder shall obtain requisite approvals from the Authority prior to the commencement of any petroleum operation.
+(6) A licensee or permit holder shall, prior to the commencement of any petroleum operations, obtain requisite authorisations from the Authority.
 
-Commence- ment.
+(7) A licence, permit or authorisation or any exemption issued by the Authority shall be signed by the Authority Chief Executive and authenticated under the seal of the Authority and the validity of the licence, permit or authorisation or any exemption shall commence from the date of its issuance.
 
-Objectives.
+(8) The date of issuance of any licence, permit or authorisation or any exemption shall be inscribed on the licence, permit or authorisation or any exemption.
 
-Application.
+(9) The extension of an existing licence or permit shall be in the manner prescribed by the Authority.
 
-Application for licence, permit or authorisation.
+(10) The Authority shall prescribe, by regulations, appropriate application, processing and service fees or charges for the grant of a licence, permit or authorisation.
 
-Duties of licensee and permit holder.
-
-Duties of a manager Parr I] — Duties AND OBLIGATIONS
+Application Application for a licence, permit or authorisation

@@ -1,0 +1,1 @@
+128. A licensee or permit holder shall prepare and submit reports to the Authority indicating its performance levels and status of its operations in respect of its activities at least once every year, or at such other intervals as the Authority may prescribe.

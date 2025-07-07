@@ -1,0 +1,1 @@
+54. Prior to pre-commissioning and commissioning of hydrocarbon refining or processing facilities, the Authority shall verify the extent of mechanical completion and subject the facilities to pre-start-up safety audit and pre- commissioning checks.

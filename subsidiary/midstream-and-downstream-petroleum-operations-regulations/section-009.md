@@ -1,11 +1,71 @@
-9.—(1) The master ofa vessel carrying petroleum. petroleum derivatives.
+9.—(1) A person shall not undertake the following activities with respect to midstream and downstream petroleum liquids operations without a valid licence, permit, or authorisation granted by the Authority —
 
-petroleum liquids or petroleum products shall upon entry into a prescribed port, deliver a written declaratic
+(a) the establishment, —
 
-(a) quantity and quality of petroleum, sensi um derivatives, petroleum liquids or petroleum products contained in the vessel ; and
+(i) design, construction, or operation of hydrocarbon processing or refining facilities and installations including the modification and decommissioning of such facilities,
 
-(6) quantity and quality of petroleum, petroleum derivatives, petroleum liquids or petroleum products intended to land at that port or any other port in Nigeria and specifying the part and type of product.
+(ii) construction or operation of a hydrocarbon liquid blending plant, waste recycling facility, waste treatment facility and bitumen processing plant,
 
-(2) Notwithstanding the provisions of subregulation (1) of this regulation, where the agent of a vessel delivers the written declaration to the harbour master in anticipation of a vessel's arrival. the master of the vessel may not be required to make any declaration.
+(iii) construction or operation of a depot for the storage of petroleum products,
 
-(3) A vessel shall not commence discharge of petroleum, petroleum derivatives, petroleum liquids or petroleum products without obtaining vessel clearance from the Authority at a prescribed fee.
+(iv) construction or operation of a lubricant blending or refilling facility,
+
+(v) construction or operation of petrochemical or fertiliser plants,
+
+(vi) construction and operation of petroleum liquids transportation and distribution pipelines,
+
+(vii) construction and operation of petroleum products distribution systems,
+
+(viii) construction, modification, operation, and decommissioning of bulk petroleum liquids storage facilities,
+
+(ix) construction, modification, operation, and decommissioning of petroleum products jetties, and
+
+(x) construction and operation of petroleum liquids retailing infrastructure.
+
+(b) the distribution, marketing or retail trading of petroleum products;
+
+(c) blending operations in a bulk petroleum liquids storage facility including the modification and decommissioning of such facility;
+
+Licences, permits and authorisations for midstream and downstream petroleum liquids operations
+
+(d) third-party blending operations;
+
+(e) the production, distribution, storage and utilisation of biofuels and other clean fuels;
+
+(f ) the operation of petroleum liquids transportation networks;
+
+(g) the virtual transportation of petroleum liquids which shall include the registration of the mode of transportation;
+
+(h) the bulk storage, sale and distribution of petroleum products;
+
+(i) petroleum liquids backloading operations;
+
+(j) wholesale petroleum liquids supply operations;
+
+(k) the construction or installation of small-scale industrial petroleum products storage and utilisation facilities;
+
+(l) the operation of bunkering vessels and barges utilised in the storage or supply of petroleum liquids and petroleum products, natural gas and natural gas products;
+
+(m) the establishment, construction, installation, and operation of AGO or DPK storage and sales facilities;
+
+(n) peddling, storage and sales of AGO and DPK by trucks;
+
+(o) industrial petroleum products storage and utilisation for own use and not for sale to customers, which shall include petroleum products stored and utilised by ministries, departments, and agencies of the federal, state and local governments for their own use;
+
+(p) introduction of hydrocarbons into midstream petroleum facilities;
+
+(q) wholesale petroleum liquids trading and settlement operations;
+
+(r) importation and exportation of petroleum liquids;
+
+(s) the designation of petroleum liquids import and export points;
+
+(t) technology adaptation for petroleum liquids facilities;
+
+(u) open access and third-party access operations;
+
+(v) coastal vessel petroleum liquids operations; and
+
+(w) any other activity as may be prescribed in regulations made by the Authority.
+
+(2) An application for a licence, permit or authorisation to conduct petroleum liquids operations shall be in accordance with the Act and as prescribed by the Authority.

@@ -1,1 +1,11 @@
-41. All petroleum, petroleum derivatives, petroleum liquids, or petroleum products produced or imported into the country shall be subject to reconciliation at such intervals as may be determined by the Authority.
+41. The Authority shall have power to witness and supervise the development of metering systems through —
+
+(a) meter selection;
+
+(b) conceptual design;
+
+(c) detailed engineering;
+
+(d) verification of accuracy of sampling systems, flow computers, gas chromatograph, proving systems and other critical components;
+
+(e) fabrication inspection; and (f ) factory and site acceptance tests.
