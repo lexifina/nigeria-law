@@ -1,0 +1,1 @@
+112. Notwithstanding the provisions of the Companies and Allied Matters Act or any other enactment, no insurer which transacts life assurance business shall voluntarily wind-up its business except for the purpose of effecting an amalgamation, transfer or acquisition under this Act.

@@ -1,0 +1,3 @@
+221.—(1) Without prejudice to the power of the Attorney General of the Federation, under the Constitution of the Federal Republic of Nigeria, 1999 to continue or discontinue criminal proceedings against any person in any court of law, the Commission may compound any offence punishable under this Act by accepting such sums of money as it deems fit not exceeding the amount of the maximum penalty to which that person would have been liable if he had been convicted of the offence.
+
+(2) The Commission may, in lieu of prosecution under any section of this Act providing for offences impose a penalty of at least N250,000 or as may be determined by the Commission.

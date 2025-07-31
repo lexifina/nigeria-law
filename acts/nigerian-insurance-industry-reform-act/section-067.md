@@ -1,0 +1,3 @@
+67.—(1) A policy of insurance shall not be made on the life of a person, property or event without inserting in the policy, the name of the insured, the property or the event as applicable and those for whose benefit or on whose account the policy is made.
+
+(2) The provision of subsection (1) shall not invalidate a policy for the benefit of unnamed persons, falling within a specified class or description, if the class or description is stated in the policy with sufficient particularity to make it possible to establish the identity of all persons who at any given time are entitled to benefit under the policy.

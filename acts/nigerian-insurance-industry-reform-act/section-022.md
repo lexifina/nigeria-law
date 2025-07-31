@@ -1,0 +1,1 @@
+22. An insurer carrying on a life assurance business shall maintain a reserve fund which shall be based on an annual valuation conducted by an actuary and the valuation approach shall consider the risk-based capital regulations.

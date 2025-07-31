@@ -1,0 +1,3 @@
+168.—(1) Where the subject matter insured is destroyed, or so damaged as to cease to be a thing of the kind insured, or where the insured is irretrievably deprived of it, there is an actual total loss.
+
+(2) In the case of an actual total loss, no notice of abandonment need be given.

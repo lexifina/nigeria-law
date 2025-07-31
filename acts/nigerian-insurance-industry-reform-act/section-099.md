@@ -1,0 +1,1 @@
+99. There is established a Fund to be known as the Road Accident Victims Compensation Fund (hereinafter referred to as "the Fund") into which shall be paid 0.5% of the underwriting profit on motor insurance business.

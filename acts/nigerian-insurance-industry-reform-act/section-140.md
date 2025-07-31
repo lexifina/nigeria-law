@@ -1,0 +1,1 @@
+140. A contract of marine insurance shall be deemed to be concluded when the proposal of the insured is accepted by the insurer, whether the policy is then issued or not, and, for the purpose of showing when the proposal was accepted, reference may be made to the slip or covering note or other customary memorandum of the contract.

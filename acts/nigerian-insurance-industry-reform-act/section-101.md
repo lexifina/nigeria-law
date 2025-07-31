@@ -1,0 +1,1 @@
+101. Any person who is found guilty of an offence under this Part for which no specific penalty is provided is liable in respect of a first conviction, to a penalty of N250,000 or imprisonment for six months or both and in the case of a second or subsequent conviction to a penalty of N500,000 or imprisonment for a maximum term of 12 months or both.

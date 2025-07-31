@@ -1,0 +1,1 @@
+165. Where a broker effects a marine policy on behalf of the insured, an acknowledgement of receipt of the premium on the policy is, in the absence of fraud, conclusive evidence of subsistence of the policy as between the insurer and the insured, but not as between the insurer and the broker.

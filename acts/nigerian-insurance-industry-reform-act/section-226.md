@@ -1,0 +1,3 @@
+226.—(1) A public officer commits an offence if, in the discharge of his lawful duties under this Act, he knowingly or recklessly presents to another public officer, who is to take a decision or do any other act in relation to it, information which is false in any material particular, unless he proves that such information was supplied to him by another person and that he exercised all due diligence to prevent the commission of the offence as he ought to have exercised, having regard to the nature of his functions in that capacity and in all the circumstances.
+
+(2) A public officer who contravenes the provisions of subsection (1) is liable to disciplinary rules for public officers and other guidelines or policy issued by the Commission.

@@ -1,0 +1,3 @@
+94. Where, under the provisions of this Part, a certificate of insurance has been delivered to the person by whom a policy has been effected, in relation to any person insured by the policy of any of the events specified in section 91(1) or (2) notwithstanding anything contained in this Part, the liability of that person as required to be covered by a policy under the provisions of this Part, shall not be affected and nothing in this section shall affect any right against the insurer conferred under this section and the provisions of sections
+
+90 and 92 of this Act on the person to whom the liability was incurred.

@@ -1,0 +1,1 @@
+69. Where an employee is missing and is not found within a period of one year, from the date he was declared missing, and a board of inquiry set up by the Commission makes a determination that, having regards to available information and all relevant circumstances, it is reasonable to presume that the employee is dead, the provisions of section 68(2) of this Act shall apply.

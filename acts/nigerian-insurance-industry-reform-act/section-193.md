@@ -1,0 +1,1 @@
+193. Where the policy contains a stipulation for the return of the premium, or a proportionate part of it, on the happening of a certain event, and that event happens, the premium, or, as the case may be, the proportionate part of it, shall be returned to the insured.

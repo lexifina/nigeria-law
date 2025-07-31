@@ -1,0 +1,3 @@
+220. The provisions of this Act are without prejudice to the application of the Companies and Allied Matters Act and any other enactment applicable to insurance institutions under this Act which are companies registered under Human resource training for special risk business Service of process Penalty for non- compliance Fees Application of the provisions of the Companies and Allied Matters Act
+
+2025 No. 14 A 859 Nigerian Insurance Industry Reform Act, 2025 that Act, however, where any of the provisions of the Companies and Allied Matters Act or any enactment is inconsistent with any provision of this Act only as related to the insurance operations of that company, the provision of this Act shall prevail to the extent of that inconsistency.

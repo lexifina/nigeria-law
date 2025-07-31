@@ -1,0 +1,3 @@
+119.—(1) Subject to the provisions of this Part a person has an insurable interest if he is interested in a marine adventure.
+
+(2) A person is interested in a marine adventure where he stands in any legal or equitable relation to the adventure or to any insurable property at risk in consequence of which he may benefit by the safety or due arrival of insurable Marine adventure and maritime perils Avoidance of wagering or gaming contracts Insurable interest in marine insurance A 826 2025 No. 14 Nigerian Insurance Industry Reform Act, 2025 property, or may be prejudiced by its loss, or damage, or by detention, or may incur liability in respect of it.

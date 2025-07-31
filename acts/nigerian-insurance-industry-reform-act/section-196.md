@@ -1,0 +1,3 @@
+196.—(1) Where any right, duty, or liability would arise under a contract of marine insurance by implication of law, it may be negative or varied by express agreement, or by usage, if the usage is such as to bind both parties to the contract.
+
+(2) The provisions of this section shall extend to any right, duty, or liability declared by this Part which may be lawfully modified by agreement.

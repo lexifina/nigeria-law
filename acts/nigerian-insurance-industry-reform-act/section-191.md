@@ -1,0 +1,1 @@
+191. Where the insured is insured for an amount less than the insurable value or, in the case of a valued policy, for an amount less than the policy valuation, he shall be deemed to be his own insurer in respect of the uninsured balance.

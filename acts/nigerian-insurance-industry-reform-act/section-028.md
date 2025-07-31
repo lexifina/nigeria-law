@@ -1,0 +1,1 @@
+28. A principal officer of an insurer who recklessly or negligently encumbers or disposes of investment or does any other thing which results in diminishing the security offered by any investment made under this Act shall be liable to a penalty in such amount as may be prescribed by the Commission.

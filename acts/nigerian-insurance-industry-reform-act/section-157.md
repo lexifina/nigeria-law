@@ -1,0 +1,1 @@
+157. Where the destination is specified in the policy, and the ship, instead of sailing for that destination, sails for any other destination, the risk shall not attach.

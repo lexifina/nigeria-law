@@ -1,0 +1,11 @@
+118.—(1) Every contract of marine insurance by way of gaming or wagering is void.
+
+(2) A contract of marine insurance shall be deemed to be a gaming or wagering contract, where the —
+
+(a) assured has no insurable interest as defined by this Part, and the contract is entered into with no expectation of acquiring such an interest ;
+
+or
+
+(b) policy is made "interest or no interest" or "without further proof of interest than the policy itself", or "without benefit of salvage to the insurer" or subject to any other like term :
+
+Provided that, where there is no possibility of salvage, a policy may be effected without benefit of salvage to the insurer.

@@ -1,0 +1,1 @@
+115. A contract of marine insurance is a contract of the utmost good faith whereby the insurer undertakes to indemnify the assured, in the manner and to the extent agreed, against marine losses, that is to say, the losses incident to marine adventure.

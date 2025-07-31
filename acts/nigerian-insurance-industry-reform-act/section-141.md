@@ -1,0 +1,3 @@
+141.—(1) Subject to the provisions of any statute, a contract of marine insurance shall not be admissible in evidence unless it is embodied in a marine policy in accordance with the form in the First Schedule to this Act or to the like effect.
+
+(2) The policy may be executed and issued either at the time when the contract is concluded, or afterwards, and subject to the provisions of this Part and unless the context of the policy otherwise requires, the terms and expressions mentioned in the Second Schedule to this Act shall be construed as having the scope and meaning in that Schedule assigned to them.

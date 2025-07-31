@@ -1,0 +1,1 @@
+70. A person with an insurable interest in the life, property or event insured, shall not be entitled to receive from the insurer an amount greater than that value of the interest of the insured in such life, property or other event and the balance payment shall be paid into the estate of the insured or policy holder.

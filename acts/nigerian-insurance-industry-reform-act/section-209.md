@@ -1,0 +1,3 @@
+209. A person who, by any statement, promise or forecast which he knows or reasonably believes to be misleading, false or deceptive, or by any dishonest concealment of material facts, or by the reckless making either dishonestly or otherwise, of any statement induces another person to enter into or offer to enter into any contract of insurance with an insurance company commits an offence and is liable on conviction to a penalty of at least N500,000 or imprisonment for a term of two years or both.
+
+Advertisement Misleading statements A 854 2025 No. 14 Nigerian Insurance Industry Reform Act, 2025
