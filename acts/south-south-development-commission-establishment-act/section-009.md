@@ -1,0 +1,3 @@
+9. Powers of the Board
+
+PART III – STRUCTURE OF THE COMMISSION

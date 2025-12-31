@@ -1,0 +1,3 @@
+7. Allowances of members
+
+PART II – FUNCTIONS AND POWERS OF THE COMMISSION
