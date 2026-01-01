@@ -1,0 +1,63 @@
+# FIFTH SCHEDULE
+Sections 16 and 26 (4) INCOME FROM SETTLEMENTS, TRUSTS AND ESTATES
+PART I — INCOME FROM SETTLEMENTS, TRUSTS AND ESTATES
+1. Subject to Part II of this Schedule and notwithstanding Part III of this Schedule, the income of a settlement or trust shall for all the purposes of Chapter Two of this Act be deemed to be the income of the settlor or person creating the trust, where the —
+(a) settlor or person retains or acquires an immediately exercisable general power of appointment over the capital assets of the settlement or trust or over the income derived therefrom;
+(b) settlor or person makes use, directly or indirectly, by borrowing or otherwise, of any part of the income arising under the settlement or trust; or
+(c) settlement or trust is revocable in circumstances whereby that settlor or person, or the spouse, resumes control over any part of the income or assets comprised therein:
+Provided that a settlement or trust shall not be regarded as revocable solely by reason of the fact that an income or asset comprised therein may revert to that settlor or person, or the spouse, in the event of a beneficiary predeceasing that settlor or person, or of the happening of an uncertain event upon which the settlement or trust is limited.
+2. For the purposes of Parts I and II of this Schedule, the income of a settlement or trust, other than a settlement or trust to which the provisions of paragraph 4 of this Schedule apply, or of the estate of a deceased individual shall be, in the case of a —
+(a) resident person, income derived from a source in Nigeria and outside Nigeria; and
+(b) non-resident person, income derived from a source in Nigeria and income brought into or received in Nigeria.
+3. The amount of income (computed income) of each period of twelve months ending on 31 December in each year shall be ascertained as though the provisions of Chapter Two of this Act and the relevant provisions of the Nigeria Tax Administration Act is applicable and —
+(a) there shall be deducted —
+(i) any expenses of the trustee or executor relative to the settlement, trust or estate which is authorised by the terms of the deed of settlement or trust or of the will, and
+(ii) any annuity of fixed annual amount paid out of the income of the settlement, trust or estate in accordance with the provisions of the deed or will; and
+(b) where the income includes any gain or profit from a trade, business, profession or vocation, or a rent or premium, there shall be added or de-ducted, any sum which would have been added or deducted in the relevant year of assessment under the provisions of Chapter Two of this Act, as if the income from those sources had been the assessable income of an individual for that year ascertained under the provisions of section 28 of this Act.
+4. The computed income of a year for a settlement, trust or estate shall be apportioned for the purpose of assessment in the following manner —
+(a) where —
+(i) the terms of the deed of settlement or trust or of a will provide that the whole income of the settlement, trust or estate after deduction of any authorised expense or annuity of fixed amount is to be divided in specific proportions among the beneficiaries entitled thereto, or
+(ii) by operation of law, on an intestacy, the income of an estate is to be divided in the manner referred to in subparagraph (a)(i) of this para-graph the income of each beneficiary for a year of assessment from the settlement, trust or estate shall be his similarly apportioned share of the computed income.
+(b) where a trustee or executor has discretion to make any payment, other than a payment on account, to a beneficiary out of the income of a settlement, trust or estate in such amount as he deems fit —
+(i) the amount of the payment to a beneficiary made in the course of a year shall be treated as income of that year which is assessable to tax in the hands of that beneficiary, and
+(ii) out of the remainder of the computed income after deducting the aggregate amount of all the payments during any year, there shall be apportioned to each beneficiary who has any specified proportional interest in the income of the settlement, trust or estate, the amount obtained by applying the proportion to that remainder:
+Provided that where the aggregate amount exceeds the computed income, the amount of each payment to be treated as income in the hands of a beneficiary under this subparagraph shall be reduced propor-tionally such that the aggregate amount does not exceed the computed income;
+(c) any remainder of the computed income of a settlement, trust or es-tate of any year after deducting all amounts apportioned to beneficiaries, or treated as income in the hands of beneficiaries under the provisions of sub-subparagraph (b) of this paragraph shall be apportioned to the trustee or executor for assessment in his name as trustee of the settlement or trust or as executor of the estate.
+PART II — SPECIAL PROVISIONS AS TO SETTLEMENT ON
+UNMARRIED CHILDREN
+5.—(1) Notwithstanding any other provision of Chapter Two of this Act, where, by virtue or in consequence of a settlement and during the life of the settlor an income is paid to or for the benefit of a child of the settlor in a year of assessment, the income shall, where at the time of payment the child was an infant and unmarried, be treated for the purposes of Chapter Two of this Act as the income of the settlor for that year and not as the income of any other person.
+(2) Income paid to or for the benefit of a child of a settlor shall not be treated as provided in subparagraph (1) of this paragraph for any year of assessment where the aggregate amount of the income paid to or for the benefit of that child does not exceed the National Minimum Wage or its equiva-lent.
+(3) This paragraph shall not apply in relation to an income arising under a settlement in a year preceding a year of assessment if the settlor is not a resident of Nigeria during that year of assessment and the income is not de-rived from, brought into or received in Nigeria.
+6. For the purposes of paragraph 5 of this Schedule —
+(a) income which, by virtue or in consequence of a settlement, may become payable or applicable to or for the benefit of a child of the settlor in the future shall be deemed to be paid to or for the benefit of that child; and
+(b) an income dealt with in accordance with subparagraph (1), which is not required by the settlement to be allocated, at the time when it is so dealt with, to any particular child or children of the settlor shall be deemed to be paid in equal shares to or for the benefit of each of the children to or for the benefit of whom or any of whom the income or assets representing the income will or may become payable or applicable.
+7.—(1) Where, by virtue of paragraph 5 of this Schedule, an income tax becomes chargeable on and is paid by the settlor, he shall be entitled to —
+(a) recover from any trustee or other person to whom the income is payable by virtue or in consequence of the settlement the amount of the tax paid; and
+(b) require the relevant tax authority to issue the settlor a certificate specifying the amount of income in respect of which he has paid tax and the amount of the tax so paid, and any certificate issued shall be conclusive evidence of the facts.
+(2) Where the settlor obtains from a trustee or any other person a pay-ment in excess of the amount he is entitled to recover under subparagraph
+(1) of this paragraph, an amount equal to the excess shall be paid by him to the trustee or other person to whom the income is payable by virtue or in consequence of the settlement, or, where there are two or more such persons, the amount shall be apportioned among those persons as required.
+(3) Where a question arises as to the amount of any payment or as to any apportionment to be made under subparagraph (2) of this paragraph, that ques-tion shall be decided by the relevant tax authority, and the provisions of Nigeria Tax Administration Act as it relates to objection and appeal shall apply as though such decisions were an assessment.
+8.—(1) In the case of any settlement where there is more than one settlor, paragraph 5 of this Schedule shall, subject to the provisions of this paragraph, have effect in relation to each settlor as if he was the only settlor.
+(2) In the case of a settlement referred to in subparagraph (1) of this paragraph, income originating from the settlor may, for the purposes of para-graph 5 of this Schedule, be taken into account, in relation to any settlor, as income paid by virtue or in consequence of the settlement to or for the benefit of a child of the settlor.
+(3) References in this paragraph to income originating from a settlor shall include references to the following —
+(a) income from property which that settlor has provided directly or indi-rectly for the purposes of the settlement;
+(b) income from property representing that property, including accumu-lated income from that property; and
+(c) income from any property which represents both properties in subparagraph (3) of this paragraph and other property as, on a just appor-tionment, represents the property in subparagraph (3)(a).
+9. In this Part —
+"child" includes a stepchild, an adopted child and an illegitimate child;
+"settlement" includes any disposition, trust, covenant, agreement, arrangement or transfer of assets;
+"settlor" in relation to a settlement, includes a person by whom the settlement was made or entered into directly or indirectly, and in particular including a person who has provided or undertaken to provide funds directly or indirectly for the purpose of the settlement, or has made with another person a reciprocal arrangement for that other person to make or enter into a settlement.
+PART III — SUPPLEMENTARY PROVISIONS
+10. For the purposes of Chapter Two of this Act and Part I of the First Schedule to this Act, where an asset of a trade or business, profession or vocation forms part of the estate of a deceased individual, being an asset in respect of which capital allowance may be claimed in arriving at the total income of that individual for the year of assessment in which the individual died, the estate shall be deemed to have incurred qualifying expenditure on the acquisition of the asset equal in amount to the residue of the expenditure on the day following the death of the individual.
+11. An individual in receipt of an annuity of fixed annual amount paid out of the income of a settlement, trust or an estate shall be assessable to tax on the full amount of the annuity.
+12. The income arising from a settlement, trust or an estate assessable to tax under a provision of this Schedule in the hands of any settlor, trustee, executor, beneficiary or annuitant for a year of assessment shall be the amount of the income ascertained under the foregoing provisions of this Schedule of the year preceding that year.
+13.—(1) Where the income of a settlement, trust or estate of a year includes an income which is taxable in Nigeria and elsewhere, whether by deduction or otherwise, the provisions of Chapter Four of this Act with respect to any relief to be given or repayment to be made shall apply as though the whole of the taxed income were receivable by the persons to whom the computed income of that year is apportioned under the provisions of paragraph 4 of this
+Schedule —
+(a) in due proportion to their respective shares therein; or
+(b) where paragraph 4(b) of this Schedule applies in proportion to their shares in the remainder of the computed income as therein specified, and where there is no computed income, the relief or repayment shall be given or made to the trustee or executor for the account of the settlement, trust or estate
+(2) For the purposes of this paragraph, references to an individual in Chapter Two of this Act shall be deemed to include references to a trustee or executor.
+14. Subject to the foregoing provisions of this Schedule —
+(a) a trustee of a settlement or trust, and every executor, shall be answerable for all things to be done in connection with the tax under this Act;
+(b) an income apportioned to a trustee or executor shall be assessable by the relevant tax authority in relation to that settlement, trust or estate.
+15. A trustee of a settlement or trust in Nigeria, and the executor of an estate in Nigeria, shall prepare accounts of the income from all sources of the settlement, trust or the assets of the settlement, trust or estate are finally distributed.
+16. An objection or appeal against the application of any provision of this Schedule shall be in accordance with the provisions of the Nigeria Tax Admin-istration Act.
