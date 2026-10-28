@@ -6,7 +6,7 @@ HERE = Path(__file__).resolve().parent
 sys.path.insert(0, str(HERE.parent / "africa-law"))
 import peachjam  # noqa: E402
 
-DELAYS = {"ncc.gov.ng": 1.0, "www.ncc.gov.ng": 1.0, "aserc.anambrastate.gov.ng": 1.0, "nass.gov.ng": 1.0, "www.nass.gov.ng": 1.0, "placng.org": 1.0, "www.placng.org": 1.0,
+DELAYS = {"pre.cac.gov.ng": 1.0, "ncc.gov.ng": 1.0, "www.ncc.gov.ng": 1.0, "aserc.anambrastate.gov.ng": 1.0, "nass.gov.ng": 1.0, "www.nass.gov.ng": 1.0, "placng.org": 1.0, "www.placng.org": 1.0,
           "justice.gov.ng": 1.0, "www.justice.gov.ng": 1.0, "ndpc.gov.ng": 1.0, "www.ndpc.gov.ng": 1.0,
           "cac.gov.ng": 1.0, "www.cac.gov.ng": 1.0}
 peachjam.CRAWL_DELAY.update(DELAYS)
