@@ -1,0 +1,47 @@
+{
+ "country": "NG",
+ "acts": [
+  {
+   "slug": "data-protection",
+   "short": "NDPA 2023",
+   "title": "Nigeria Data Protection Act, 2023",
+   "url": "https://ncc.gov.ng/media/801/view",
+   "versions": [
+    {
+     "from": "2023-06-12",
+     "units": 67,
+     "source_url": "https://ncc.gov.ng/media/801/view",
+     "sha256": "5bfb22cf7b344e92ecca9b80decf73db694a0d1000c4f42188f46e047d8df075"
+    }
+   ]
+  },
+  {
+   "slug": "constitution",
+   "short": "Constitution",
+   "title": "Constitution of the Federal Republic of Nigeria, 1999",
+   "url": "https://justice.gov.ng/wp-content/uploads/2020/09/Nigerian-Constitution.pdf",
+   "versions": [
+    {
+     "from": "1999-05-29",
+     "units": 328,
+     "source_url": "https://web.archive.org/web/20211015170245id_/https://justice.gov.ng/wp-content/uploads/2020/09/Nigerian-Constitution.pdf",
+     "sha256": "e29305389be5e213bd66984ddd49b3228e1791a3d403dda217fd81f6b6e8adbc"
+    }
+   ]
+  },
+  {
+   "slug": "companies",
+   "short": "CAMA 2020",
+   "title": "Companies and Allied Matters Act, 2020",
+   "url": "https://pre.cac.gov.ng/assets/images/CAMA-NOTE%20FINAL-FULL-VERSION.pdf",
+   "versions": [
+    {
+     "from": "2020-08-07",
+     "units": 885,
+     "source_url": "https://web.archive.org/web/20210301095237id_/https://pre.cac.gov.ng/assets/images/CAMA-NOTE%20FINAL-FULL-VERSION.pdf",
+     "sha256": "d39745af4eaeceb8dbdc3678bb5d072b48ad5e022ead3b1cec7f94b88b01a2c8"
+    }
+   ]
+  }
+ ]
+}

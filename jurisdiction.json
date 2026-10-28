@@ -1,0 +1,10 @@
+{
+  "path": "ng",
+  "code": "NG",
+  "name": "Nigeria",
+  "level": "country",
+  "repo": "https://github.com/lexifina/nigeria-law",
+  "build": "partial: Nigeria Data Protection Act, 2023 (1 version, verified); Companies and Allied Matters Act, 2020 and the Constitution of 1999 (1 version each, not today's text: preview only)",
+  "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
+  "register_date": "2026-10-28"
+}
