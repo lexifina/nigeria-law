@@ -1,0 +1,19 @@
+The legal texts in this repository are Nigerian federal legislation:
+
+  - the Nigeria Data Protection Act, 2023 and the Companies and Allied Matters Act, 2020, as printed and published
+    by the Federal Government Printer, Lagos, in supplements to the Official Gazette of the Federal Republic of
+    Nigeria (Gazette No. 119 of 1 July 2023; Gazette No. 124 of 10 August 2020);
+  - the Constitution of the Federal Republic of Nigeria, 1999, as printed by the Federal Ministry of Justice, Abuja.
+
+The copies used (listed with their sha256 in REPRODUCE.md) state no licence. This repository is private; whether
+and how it may be published is the owner's decision.
+
+Changes made by Lexifina: each act was converted to one Markdown file per provision, one paragraph per line;
+spacing, quotes and dashes were normalised; the printer's side notes were used as section headings, and Part and
+Chapter headings and cross-reference side notes were left out; the versions were arranged as git commits credited
+to the laws that made them. The wording of the law was not changed. Neither the Federal Government Printer nor the
+Federal Ministry of Justice endorses this repository.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are
+dedicated to the public domain under CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/legalcode
