@@ -1,0 +1,33 @@
+{
+ "country": "NG",
+ "acts": [
+  {
+   "slug": "data-protection",
+   "short": "NDPA 2023",
+   "title": "Nigeria Data Protection Act, 2023",
+   "url": "https://ncc.gov.ng/media/801/view",
+   "versions": [
+    {
+     "from": "2023-06-12",
+     "units": 67,
+     "source_url": "https://ncc.gov.ng/media/801/view",
+     "sha256": "5bfb22cf7b344e92ecca9b80decf73db694a0d1000c4f42188f46e047d8df075"
+    }
+   ]
+  },
+  {
+   "slug": "investments-securities",
+   "short": "ISA 2025",
+   "title": "Investments and Securities Act, 2025",
+   "url": "https://sec.gov.ng/documents/1319/Investments_and_Securities_Act_2025_x9rSXtI.pdf",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 362,
+     "source_url": "https://sec.gov.ng/documents/1319/Investments_and_Securities_Act_2025_x9rSXtI.pdf",
+     "sha256": "74c6a3ba75a3a283c0605f864aba9151cd6c0355e7098d25d4e4558505fb34c9"
+    }
+   ]
+  }
+ ]
+}

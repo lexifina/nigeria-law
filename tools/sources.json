@@ -1,0 +1,35 @@
+{
+ "retrieved": "2026-10-28",
+ "sources": {
+  "constitution": {
+   "url": "https://web.archive.org/web/20211015170245id_/https://justice.gov.ng/wp-content/uploads/2020/09/Nigerian-Constitution.pdf",
+   "original": "https://justice.gov.ng/wp-content/uploads/2020/09/Nigerian-Constitution.pdf",
+   "via": "wayback",
+   "capture": "20211015170245",
+   "publisher": "Federal Ministry of Justice, Abuja (print of the Constitution); Federal Government Printer, Lagos (gazettes of the Alteration Acts)",
+   "sha256": "e29305389be5e213bd66984ddd49b3228e1791a3d403dda217fd81f6b6e8adbc",
+   "bytes": 672495,
+   "pages": 209
+  },
+  "data-protection": {
+   "url": "https://ncc.gov.ng/media/801/view",
+   "original": "https://ncc.gov.ng/media/801/view",
+   "via": "direct",
+   "capture": null,
+   "publisher": "Federal Government Printer, Lagos (Official Gazette No. 119, Vol. 110, 1 July 2023)",
+   "sha256": "5bfb22cf7b344e92ecca9b80decf73db694a0d1000c4f42188f46e047d8df075",
+   "bytes": 658393,
+   "pages": 43
+  },
+  "companies": {
+   "url": "https://web.archive.org/web/20210301095237id_/https://pre.cac.gov.ng/assets/images/CAMA-NOTE%20FINAL-FULL-VERSION.pdf",
+   "original": "https://pre.cac.gov.ng/assets/images/CAMA-NOTE%20FINAL-FULL-VERSION.pdf",
+   "via": "wayback",
+   "capture": "20210301095237",
+   "publisher": "Federal Government Printer, Lagos (Official Gazette No. 124, Vol. 107, 10 August 2020)",
+   "sha256": "d39745af4eaeceb8dbdc3678bb5d072b48ad5e022ead3b1cec7f94b88b01a2c8",
+   "bytes": 1269127,
+   "pages": 528
+  }
+ }
+}
