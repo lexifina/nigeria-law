@@ -79,7 +79,12 @@ def read_pages(doc, first: int, last: int, head_max_y: float, foot_min_y: float 
                     y1 = max(s["bbox"][3] for s in seg)
                     if y1 <= head_max_y or y0 >= foot_min_y:
                         continue
-                    raw.append((x0, y0, x1, "".join(s["text"] for s in seg)))
+                    txt = ""
+                    for k, s in enumerate(seg):
+                        if k and s["bbox"][0] - seg[k - 1]["bbox"][2] > 1.0 and not txt.endswith(" ")                                 and not s["text"].startswith(" "):
+                            txt += " "
+                        txt += s["text"]
+                    raw.append((x0, y0, x1, txt))
         pg.chars = sum(len(r[3].strip()) for r in raw)
         wide = [r for r in raw if r[2] - r[0] > 200]
         if not wide:
@@ -141,10 +146,12 @@ def starts_para(prev: Line | None, ln: Line, t: str) -> bool:
         return True
     if ENUM.match(t) or SEC.match(t):
         return True
-    if ln.x0 > prev.x0 + 4:
-        return True
     if prev.x1 > 25 and not re.match(r"^[a-z]", t):
-        return True
+        return True  # the line before stopped short of the margin: it ended a paragraph
+    if re.search(r"[;:]$", norm(prev.text)) and re.match(r'^["A-Z]', t):
+        return True  # e.g. the next definition in an interpretation section
+    if ln.page == prev.page and ln.x0 > prev.x0 + 4:
+        return True  # indented further than the line before (a first line); not across pages, whose margins differ
     return False
 
 
