@@ -7,7 +7,10 @@ This file is written by the build on 2026-11-02, the day the source data was ret
 | Source | Address | Retrieved | Licence |
 | --- | --- | --- | --- |
 | Federal Government Printer: Nigeria Data Protection Act, 2023 (Official Gazette No. 119, Vol. 110, 1 July 2023) | <https://ncc.gov.ng/media/801/view> | 2026-10-28 | Federal Republic of Nigeria legislation as printed by the Federal Government Printer; the source states no licence. The repository is private. |
-| Federal Government Printer: Investments and Securities Act, 2025 (Official Gazette No. 19, Vol. 112, 2 May 2025) | <https://sec.gov.ng/documents/1319/Investments_and_Securities_Act_2025_x9rSXtI.pdf> | 2026-10-29 | Federal Republic of Nigeria legislation as printed by the Federal Government Printer; the source states no licence. The repository is private. |
+| Federal Government Printer: Investments and Securities Act, 2025 (Official Gazette No. 19, Vol. 112, 2 May 2025) | <https://sec.gov.ng/documents/1319/Investments_and_Securities_Act_2025_x9rSXtI.pdf> | 2026-10-29 | Federal Republic of Nigeria legislation as printed by the Federal Government Printer; the source states no licence; official texts of a legislative nature are not eligible for copyright (Copyright Act, 2022, section 3(b)). |
+| Federal Government Printer: Nigeria Revenue Service (Establishment) Act, 2025 (Official Gazette No. 117, Vol. 112, of 26 June 2025 (Government Notice No. 23)) | <https://nass.gov.ng/documents/download/11251> | 2026-11-02 | Federal Republic of Nigeria legislation as printed by the Federal Government Printer; the source states no licence; official texts of a legislative nature are not eligible for copyright (Copyright Act, 2022, section 3(b)). |
+| Federal Government Printer: Joint Revenue Board of Nigeria (Establishment) Act, 2025 (Official Gazette No. 117, Vol. 112, of 26 June 2025 (Government Notice No. 25)) | <https://nass.gov.ng/documents/download/11247> | 2026-11-02 | Federal Republic of Nigeria legislation as printed by the Federal Government Printer; the source states no licence; official texts of a legislative nature are not eligible for copyright (Copyright Act, 2022, section 3(b)). |
+| Federal Government Printer: Electoral Act, 2026 (Official Gazette No. 40, Vol. 113, of 2 March 2026 (Government Notice No. 3)) | <https://nass.gov.ng/documents/download/11248> | 2026-11-02 | Federal Republic of Nigeria legislation as printed by the Federal Government Printer; the source states no licence; official texts of a legislative nature are not eligible for copyright (Copyright Act, 2022, section 3(b)). |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -17,20 +20,23 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | --- | --- | ---: | --- |
 | `data-protection` | Nigeria Data Protection Act, 2023 | 1 | 2023-06-12 to 2023-06-12 |
 | `investments-securities` | Investments and Securities Act, 2025 | 1 | 2025-03-25 to 2025-03-25 |
+| `revenue-service` | Nigeria Revenue Service (Establishment) Act, 2025 | 1 | 2025-06-26 to 2025-06-26 |
+| `joint-revenue-board` | Joint Revenue Board of Nigeria (Establishment) Act, 2025 | 1 | 2025-06-26 to 2025-06-26 |
+| `electoral` | Electoral Act, 2026 | 1 | 2026-02-18 to 2026-02-18 |
 
-The build made 2 commits:
+The build made 5 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 2 | first version of an act |
+| 5 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-02.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 2 laws in the record.
-- 4 tags.
+- 5 laws in the record.
+- 10 tags.
 
 ## Dates
 
@@ -42,15 +48,15 @@ When a law gives no date of its own, the default rule applies: Not applied: each
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `5cf9e34729b3c7bd351c529070b6d81dd4d80a90e8cb1ab3165a50ac743eaead` (587777 bytes).
+- Corpus: sha256 `d6e84d9556505459dd99529e3682eebfb37815ca79dcbbad692bcb4979a4fb0d` (972795 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
 
-2 versions of 2 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
-A second build from the same corpus into an empty folder gave identical hashes for all 2 history commits and 4 tags (history tip `081291275c5c0e4aaed806e7b4772ad0653b2ab7`).
+No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
@@ -64,6 +70,15 @@ A second build from the same corpus into an empty folder gave identical hashes f
 - ISA 2025: the Securities and Exchange Commission lists this gazette as the Act in force on its Acts page (retrieved 2026-10-29) beside the repealed 2007 Act, with no amending Act; no amending Act was found, so the enacted text is taken as today's text.
 - ISA 2025: the Schedules are one file each; tables and forms in them are read line by line as printed. The gazette's back matter (the schedule of the Bill's passage and the clerk's certificate) is not law and is left out.
 - ISA 2025: section 31 has no side note in the gazette, so its file starts "# Section 31" with no heading. Section 356's side note prints its heading and a citation as one note ("Repeals and savings Cap. I23, LFN 2004"); its heading line reads "Repeals and savings" and the citation is left out like every other marginal citation.
+- NRS Act 2025: one version, the Act as enacted, dated 2025-06-26 by the commencement date printed under its long title ("[ 26th June, 2025 ]"); the gazette is dated 2025-06-26.
+- NRS Act 2025: no amending Act was found (the National Assembly's Acts & Publications list and the National Library of Nigeria's repository, both checked 2026-11-02), so the enacted text is taken as today's text.
+- NRS Act 2025: the Schedules are one file each; tables in them are read line by line as printed. The gazette's back matter (the schedule of the Bill's passage, the clerk's certificate and any explanatory memorandum) is not law and is left out.
+- JRB Act 2025: one version, the Act as enacted, dated 2025-06-26 by the commencement date printed under its long title ("[ 26th June, 2025 ]"); the gazette is dated 2025-06-26.
+- JRB Act 2025: no amending Act was found (the National Assembly's Acts & Publications list and the National Library of Nigeria's repository, both checked 2026-11-02), so the enacted text is taken as today's text.
+- JRB Act 2025: the Schedules are one file each; tables in them are read line by line as printed. The gazette's back matter (the schedule of the Bill's passage, the clerk's certificate and any explanatory memorandum) is not law and is left out.
+- Electoral Act 2026: one version, the Act as enacted, dated 2026-02-18 by the commencement date printed under its long title ("[ 18th day of February, 2026]"); the gazette is dated 2026-03-02.
+- Electoral Act 2026: no amending Act was found (the National Assembly's Acts & Publications list and the National Library of Nigeria's repository, both checked 2026-11-02), so the enacted text is taken as today's text.
+- Electoral Act 2026: the Schedules are one file each; tables in them are read line by line as printed. The gazette's back matter (the schedule of the Bill's passage, the clerk's certificate and any explanatory memorandum) is not law and is left out.
 
 ## What AI did and did not do
 

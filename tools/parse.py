@@ -138,7 +138,8 @@ def source_entry(key: str, name: str, notes: str) -> dict:
     p = PINS[key]
     return {"name": name, "url": p["original"], "retrieved": RETRIEVED, "requests": 1,
             "licence": "Federal Republic of Nigeria legislation as printed by the Federal Government Printer; the "
-                       "source states no licence. The repository is private.",
+                       "source states no licence; official texts of a legislative nature are not eligible for copyright "
+                       "(Copyright Act, 2022, section 3(b)).",
             "notes": notes + (f" Read from the Internet Archive's raw capture {p['capture']} ({p['url']})."
                               if p["via"] == "wayback" else f" Read directly from {p['url']}.")
                      + f" sha256 {p['sha256']}, {p['bytes']} bytes, {p['pages']} pages, text layer (no OCR)."}
