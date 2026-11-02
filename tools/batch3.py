@@ -34,7 +34,7 @@ ITEMS = {
         law="act-2025-4", label="Act No. 4 of 2025", title="Nigeria Revenue Service (Establishment) Act, 2025",
         short="NRS Act 2025", frm="2025-06-26", printed="[ 26th June, 2025 ]",
         gazette="Official Gazette No. 117, Vol. 112, of 26 June 2025 (Government Notice No. 23)", published="2025-06-26",
-        first=4, head=165),
+        first=4, head=165, clean_headings=True, keep_headings=["sec-040"]),  # "Repeal of Act No. 13, 2007"
     "tax-administration": dict(
         doc=11250, sha="eb3ea717052f48492cc6441ad23f9e7ac2ad4782395db1c391580cc1adef20e2", part="51-tax-administration",
         law="act-2025-5", label="Act No. 5 of 2025", title="Nigeria Tax Administration Act, 2025",
@@ -51,7 +51,7 @@ ITEMS = {
         law="act-2025-6", label="Act No. 6 of 2025", title="Joint Revenue Board of Nigeria (Establishment) Act, 2025",
         short="JRB Act 2025", frm="2025-06-26", printed="[ 26th June, 2025 ]",
         gazette="Official Gazette No. 117, Vol. 112, of 26 June 2025 (Government Notice No. 25)", published="2025-06-26",
-        first=4, head=148),
+        first=4, head=148, clean_headings=True),
     "tax": dict(
         doc=11249, sha="41abf6887bc58a3c97116fd9a048aa91ad49c1cab156f39065a58401c0fce94f", part="53-tax",
         law="act-2025-7", label="Act No. 7 of 2025", title="Nigeria Tax Act, 2025",
@@ -68,7 +68,7 @@ ITEMS = {
         law="act-2026-1", label="Act No. 1 of 2026", title="Electoral Act, 2026",
         short="Electoral Act 2026", frm="2026-02-18", printed="[ 18th day of February, 2026]",
         gazette="Official Gazette No. 40, Vol. 113, of 2 March 2026 (Government Notice No. 3)", published="2026-03-02",
-        first=8, head=148),
+        first=8, head=148, clean_headings=True),
 }
 
 
@@ -78,13 +78,13 @@ XREF = re.compile(r"\s+(?:Cap\.?\s*[A-Z]\s?\d+[A-Z]?,?\s*LFN,?\s*\d{4}|Act,?\s+N
                   r"(?:" + "|".join(ORDINALS + ["Thid"]) + r")\s+[Ss]s?c?hedule)$")
 
 
-def clean_headings(units: dict, given: dict, unused_notes: list[str]) -> list:
+def clean_headings(units: dict, given: dict, unused_notes: list[str], keep=()) -> list:
     """Remove cross-references from the end of section headings, and set the headings in `given` (each must be printed
     in a side note the reader did not use, or inside the merged note it is cut from). Returns what changed."""
     done = []
     printed_heads = [u["text"].partition("\n")[0] for k, u in units.items() if k.startswith("sec-")]
     for key, u in units.items():
-        if not key.startswith("sec-"):
+        if not key.startswith("sec-") or key in keep:  # keep: a heading that really ends with an Act's citation
             continue
         head, nl, rest = u["text"].partition("\n")
         m = re.match(r"^# (\d+[A-Z]?)\. (.+)$", head)
@@ -141,7 +141,8 @@ def main() -> None:
         it, p = ITEMS[k], pins[k]
         u, r = P.read_act(k)
         if it.get("clean_headings"):
-            r["headings_cleaned"] = clean_headings(u, it.get("headings") or {}, r["side_notes_not_headings"])
+            r["headings_cleaned"] = clean_headings(u, it.get("headings") or {}, r["side_notes_not_headings"],
+                                                     it.get("keep_headings") or ())
         verification[k] = r
         act = {"slug": k, "short": it["short"], "title": it["title"], "url": p["original"], "first_law": it["law"],
                "earlier_laws": [],

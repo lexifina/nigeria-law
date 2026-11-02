@@ -52,7 +52,7 @@ When a law gives no date of its own, the default rule applies: Not applied: each
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `00ed145c6c2b9046eedd6607b84f3f37f04996c2e91d40a6347614b4d905c55b` (1614445 bytes).
+- Corpus: sha256 `7cd75438d7578e054ebb9aeb5f3468d497f19b3155d8a1246d51f3f1be8d01be` (1615626 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -73,10 +73,12 @@ No second build of this corpus has been compared yet.
 - ISA 2025: one version, the Act as enacted, dated 25 March 2025 ("[25th Day of March, 2025]" under the long title, the day of the President's assent). It repeals the Investments and Securities Act, No. 29, 2007, which is not in this history.
 - ISA 2025: the Securities and Exchange Commission lists this gazette as the Act in force on its Acts page (retrieved 2026-10-29) beside the repealed 2007 Act, with no amending Act; no amending Act was found, so the enacted text is taken as today's text.
 - ISA 2025: the Schedules are one file each; tables and forms in them are read line by line as printed. The gazette's back matter (the schedule of the Bill's passage and the clerk's certificate) is not law and is left out.
+- ISA 2025: where a cross-reference side note ("Cap. T22, LFN 2004") is printed straight under a section's heading note, it is left out of the heading, like every other cross-reference note (ss. 284, 290, 345).
 - ISA 2025: section 31 has no side note in the gazette, so its file starts "# Section 31" with no heading. Section 356's side note prints its heading and a citation as one note ("Repeals and savings Cap. I23, LFN 2004"); its heading line reads "Repeals and savings" and the citation is left out like every other marginal citation.
 - NRS Act 2025: one version, the Act as enacted, dated 2025-06-26 by the commencement date printed under its long title ("[ 26th June, 2025 ]"); the gazette is dated 2025-06-26.
 - NRS Act 2025: no amending Act was found (the National Assembly's Acts & Publications list and the National Library of Nigeria's repository, both checked 2026-11-02), so the enacted text is taken as today's text.
 - NRS Act 2025: the Schedules are one file each; tables in them are read line by line as printed. The gazette's back matter (the schedule of the Bill's passage, the clerk's certificate and any explanatory memorandum) is not law and is left out.
+- NRS Act 2025: where a cross-reference side note ("Act No. 6, 2021", "Cap. P10, LFN, 2024", "Ninth Schedule") is printed straight under a section's heading note, it is left out of the heading, like every other cross-reference note. Headings the reader could not place are set from their side notes: . verification-batch3.json lists every heading changed (headings_cleaned).
 - NTAA 2025: one version, the Act as enacted, dated 2025-06-26 by the commencement date printed under its long title ("[26th June, 2025]"); the gazette is dated 2025-06-26.
 - NTAA 2025: no amending Act was found (the National Assembly's Acts & Publications list and the National Library of Nigeria's repository, both checked 2026-11-02), so the enacted text is taken as today's text.
 - NTAA 2025: the Schedules are one file each; tables in them are read line by line as printed. The gazette's back matter (the schedule of the Bill's passage, the clerk's certificate and any explanatory memorandum) is not law and is left out.
@@ -85,6 +87,7 @@ No second build of this corpus has been compared yet.
 - JRB Act 2025: one version, the Act as enacted, dated 2025-06-26 by the commencement date printed under its long title ("[ 26th June, 2025 ]"); the gazette is dated 2025-06-26.
 - JRB Act 2025: no amending Act was found (the National Assembly's Acts & Publications list and the National Library of Nigeria's repository, both checked 2026-11-02), so the enacted text is taken as today's text.
 - JRB Act 2025: the Schedules are one file each; tables in them are read line by line as printed. The gazette's back matter (the schedule of the Bill's passage, the clerk's certificate and any explanatory memorandum) is not law and is left out.
+- JRB Act 2025: where a cross-reference side note ("Act No. 6, 2021", "Cap. P10, LFN, 2024", "Ninth Schedule") is printed straight under a section's heading note, it is left out of the heading, like every other cross-reference note. Headings the reader could not place are set from their side notes: . verification-batch3.json lists every heading changed (headings_cleaned).
 - NTA 2025: one version, the Act as enacted, dated 2026-01-01 by the commencement date printed under its long title ("[1st January, 2026]"); the gazette is dated 2025-06-26.
 - NTA 2025: no amending Act was found (the National Assembly's Acts & Publications list and the National Library of Nigeria's repository, both checked 2026-11-02), so the enacted text is taken as today's text.
 - NTA 2025: the Schedules are one file each; tables in them are read line by line as printed. The gazette's back matter (the schedule of the Bill's passage, the clerk's certificate and any explanatory memorandum) is not law and is left out.
@@ -95,6 +98,7 @@ No second build of this corpus has been compared yet.
 - Electoral Act 2026: one version, the Act as enacted, dated 2026-02-18 by the commencement date printed under its long title ("[ 18th day of February, 2026]"); the gazette is dated 2026-03-02.
 - Electoral Act 2026: no amending Act was found (the National Assembly's Acts & Publications list and the National Library of Nigeria's repository, both checked 2026-11-02), so the enacted text is taken as today's text.
 - Electoral Act 2026: the Schedules are one file each; tables in them are read line by line as printed. The gazette's back matter (the schedule of the Bill's passage, the clerk's certificate and any explanatory memorandum) is not law and is left out.
+- Electoral Act 2026: where a cross-reference side note ("Act No. 6, 2021", "Cap. P10, LFN, 2024", "Ninth Schedule") is printed straight under a section's heading note, it is left out of the heading, like every other cross-reference note. Headings the reader could not place are set from their side notes: . verification-batch3.json lists every heading changed (headings_cleaned).
 
 ## What AI did and did not do
 
