@@ -1,8 +1,7 @@
 """Nigeria batch 3: the 2025 tax reform Acts and the Electoral Act, 2026, from the Federal Government Printer's
 gazettes as published by the National Assembly (nass.gov.ng, Acts & Publications). One corpus.d part per Act.
 
-    python -X utf8 scripts/nigeria-law/ng_get.py <url> ...   # fetch (official host, through the shared scheduler)
-    python -X utf8 scripts/nigeria-law/batch3.py             # parse: cache only, writes the parts + verification-batch3.json
+    python -X utf8 scripts/nigeria-law/batch3.py    # reads the pinned PDFs; writes the parts + verification-batch3.json
 
 Same reader and word-for-word fidelity check as batch 2 (gazette.py through parse.read_act); text layer, no OCR.
 Deterministic: the same cache gives the same bytes.
