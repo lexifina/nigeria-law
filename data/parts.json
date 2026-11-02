@@ -1,0 +1,41 @@
+{
+ "parts": {
+  "30-investments-securities.json": {
+   "acts": [
+    "investments-securities"
+   ],
+   "sha256": "d127d42c7d1c4d64647fbe7a363d870370bd92526fadfd6a67b0a166ede3ab86"
+  },
+  "50-revenue-service.json": {
+   "acts": [
+    "revenue-service"
+   ],
+   "sha256": "4b8165a0a774772e4cd18b93d2dbd228d7425c3db35e9b78b34d9f7bcdccb82f"
+  },
+  "51-tax-administration.json": {
+   "acts": [
+    "tax-administration"
+   ],
+   "sha256": "05446f131e5eae81e1b9ab0d3072c371a997b246ddc360224b906f9c5d871dfe"
+  },
+  "52-joint-revenue-board.json": {
+   "acts": [
+    "joint-revenue-board"
+   ],
+   "sha256": "e2f857061a5b4b6e7383cae1a743750d6ff9abfc9bb2be45caf280c931c29bc3"
+  },
+  "53-tax.json": {
+   "acts": [
+    "tax"
+   ],
+   "sha256": "e2d6130db93c4eb5d6c08de8806d279ed8ddd1d93ed32db0603eeeeda450406f"
+  },
+  "60-electoral.json": {
+   "acts": [
+    "electoral"
+   ],
+   "sha256": "9c730154857008bb298d8226ebd87ce2976a2b07eec374b7a2657baeb846f1ec"
+  }
+ },
+ "schema": 1
+}
