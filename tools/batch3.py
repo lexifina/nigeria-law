@@ -11,6 +11,7 @@ from __future__ import annotations
 
 import hashlib
 import json
+import re
 import sys
 from pathlib import Path
 
@@ -40,7 +41,12 @@ ITEMS = {
         law="act-2025-5", label="Act No. 5 of 2025", title="Nigeria Tax Administration Act, 2025",
         short="NTAA 2025", frm="2025-06-26", printed="[26th June, 2025]",
         gazette="Official Gazette No. 117, Vol. 112, of 26 June 2025 (Government Notice No. 24)", published="2025-06-26",
-        first=8, head=148, fixes={"15. . Notwithstanding": "15. Notwithstanding"}),
+        first=8, head=148, fixes={"15. . Notwithstanding": "15. Notwithstanding"}, clean_headings=True,
+        # side notes the reader could not place: ss. 66 and 67 print theirs 15 points below the first line; the notes
+        # of ss. 103 and 104 are printed as one
+        headings={"sec-066": "Remission of penalty", "sec-067": "Recovery of tax",
+                  "sec-103": "Failure to grant access for the deployment of technology",
+                  "sec-104": "Failure to use fiscalisation system"}),
     "joint-revenue-board": dict(
         doc=11247, sha="97b648230dee2f6fc1e9f5248343dfb8d6c6d17b4c2d38abe661abee6201e458", part="52-joint-revenue-board",
         law="act-2025-6", label="Act No. 6 of 2025", title="Joint Revenue Board of Nigeria (Establishment) Act, 2025",
@@ -52,7 +58,12 @@ ITEMS = {
         law="act-2025-7", label="Act No. 7 of 2025", title="Nigeria Tax Act, 2025",
         short="NTA 2025", frm="2026-01-01", printed="[1st January, 2026]",
         gazette="Official Gazette No. 117, Vol. 112, of 26 June 2025 (Government Notice No. 26)", published="2025-06-26",
-        first=10, head=148, fixes={"148—(1) For the purposes": "148.—(1) For the purposes"}),
+        first=10, head=148, fixes={"148—(1) For the purposes": "148.—(1) For the purposes",
+                                     "154—(1) Without prejudice": "154.—(1) Without prejudice"},
+        table_pages=(170, 202), notes_pages_from=208, clean_headings=True,
+        # the notes of ss. 156 and 157 are printed as one ("Business restructur-ing Fiscalisation of supplies for VAT")
+        headings={"sec-156": "Business restructuring", "sec-157": "Fiscalisation of supplies for VAT"},
+        table_drop=[r"Nigeria Tax Act, 2025", r"2025\s+No\.\s*7(?:\s+A\s+\d{3})?", r"A\s+\d{3}(?:\s+2025\s+No\.\s*7)?"]),
     "electoral": dict(
         doc=11248, sha="dee5a37b62b920c9cfaf009b7dc1dcf5ccb5cbbeff807f5487eac868ce882fd6", part="60-electoral",
         law="act-2026-1", label="Act No. 1 of 2026", title="Electoral Act, 2026",
@@ -60,6 +71,40 @@ ITEMS = {
         gazette="Official Gazette No. 40, Vol. 113, of 2 March 2026 (Government Notice No. 3)", published="2026-03-02",
         first=8, head=148),
 }
+
+
+# a cross-reference side note printed just under a section's heading note joins it ("Declaration of result Cap. C23,
+# LFN, 2004", "Charge of duties Ninth Schedule"); the reader leaves such notes out everywhere else
+XREF = re.compile(r"\s+(?:Cap\.?\s*[A-Z]\s?\d+[A-Z]?,?\s*LFN,?\s*\d{4}|Act,?\s+No\.\s*\d+,?\s*\d{4}|"
+                  r"(?:" + "|".join(ORDINALS + ["Thid"]) + r")\s+[Ss]s?c?hedule)$")
+
+
+def clean_headings(units: dict, given: dict, unused_notes: list[str]) -> list:
+    """Remove cross-references from the end of section headings, and set the headings in `given` (each must be printed
+    in a side note the reader did not use, or inside the merged note it is cut from). Returns what changed."""
+    done = []
+    printed_heads = [u["text"].partition("\n")[0] for k, u in units.items() if k.startswith("sec-")]
+    for key, u in units.items():
+        if not key.startswith("sec-"):
+            continue
+        head, nl, rest = u["text"].partition("\n")
+        m = re.match(r"^# (\d+[A-Z]?)\. (.+)$", head)
+        num = re.sub(r"^0+", "", key[4:7]) + key[8:].upper()
+        if key in given:
+            new = given[key]
+            if not any(new in n for n in unused_notes + printed_heads):
+                raise SystemExit(f"{key}: heading {new!r} is not printed in any side note")
+            u["text"] = f"# {num}. {new}" + nl + rest
+            done.append((key, head, f"# {num}. {new}"))
+            continue
+        if m:
+            h = m.group(2)
+            while (x := XREF.search(h)) and x.start() > 0:
+                h = h[:x.start()]
+            if h != m.group(2):
+                u["text"] = f"# {num}. {h}" + nl + rest
+                done.append((key, head, f"# {num}. {h}"))
+    return done
 
 
 def url_of(key: str) -> str:
@@ -86,14 +131,18 @@ def main() -> None:
     P.PINS.update(pins)
     for k in keys:
         P.ACTS[k] = {"pages": (ITEMS[k]["first"], None), "head_max_y": ITEMS[k]["head"],
-                     "start": r"^EN[AE]CTED by", "stop": STOP, "schedule": SCHEDULE, "schedule_pages_from": None,
-                     "structure": None, "renumber": None, "fixes": ITEMS[k].get("fixes")}
+                     "start": r"^EN[AE]CTED by", "stop": STOP, "schedule": SCHEDULE,
+                     "structure": None, "renumber": None, "fixes": ITEMS[k].get("fixes"),
+                     "schedule_pages_from": ITEMS[k].get("notes_pages_from"), "table_pages": ITEMS[k].get("table_pages"),
+                     "table_drop": ITEMS[k].get("table_drop")}
     P.RETRIEVED = RETRIEVED
     ver_path = HERE / "verification-batch3.json"
     verification = json.loads(ver_path.read_text(encoding="utf-8")) if ver_path.exists() else {}
     for k in keys:
         it, p = ITEMS[k], pins[k]
         u, r = P.read_act(k)
+        if it.get("clean_headings"):
+            r["headings_cleaned"] = clean_headings(u, it.get("headings") or {}, r["side_notes_not_headings"])
         verification[k] = r
         act = {"slug": k, "short": it["short"], "title": it["title"], "url": p["original"], "first_law": it["law"],
                "earlier_laws": [],
@@ -119,6 +168,30 @@ def main() -> None:
                 f"explanatory memorandum) is not law and is left out.",
             ],
         }
+        if it.get("fixes"):
+            part["decisions"].append(
+                f"{it['short']}: misprinted section-number lines are read as their section's first line: "
+                + "; ".join(f"\"{a}\" as \"{b}\"" for a, b in it["fixes"].items())
+                + ". Without the full stop the reader would not see the section start; the words are unchanged.")
+        if it.get("clean_headings"):
+            part["decisions"].append(
+                f"{it['short']}: where a cross-reference side note (\"Act No. 6, 2021\", \"Cap. P10, LFN, 2024\", "
+                f"\"Ninth Schedule\") is printed straight under a section's heading note, it is left out of the heading, "
+                f"like every other cross-reference note. Headings the reader could not place are set from their side "
+                f"notes: " + "; ".join(f"{k}: \"{v}\"" for k, v in (it.get("headings") or {}).items())
+                + ". verification-batch3.json lists every heading changed (headings_cleaned).")
+        if it.get("table_pages"):
+            a, b = it["table_pages"]
+            part["decisions"].append(
+                f"{it['short']}: gazette pages {a + 1}-{b + 1} (PDF numbering) are printed as tables only, most of them "
+                f"landscape: the end of the Eighth Schedule and the Ninth and Tenth Schedules. They are read line by "
+                f"line as printed (each printed line, left to right, one line in the file), without the table layout, "
+                f"so a cell that runs over several printed lines is split across lines of the file. The running head "
+                f"of those pages is left out. A second reading of every such page (pdftotext) gives the same words.")
+        if it.get("notes_pages_from"):
+            part["decisions"].append(
+                f"{it['short']}: on gazette page {it['notes_pages_from'] + 1} (the Thirteenth Schedule) a table column "
+                f"is printed in the margin; its cells are read as body lines at their own height.")
         P.write_atomic(HERE / "corpus.d" / f"{it['part']}.json", part)
     P.write_atomic(ver_path, verification)
     print(json.dumps({k: {x: v[x] for x in ("units", "sections", "last_section", "sections_without_heading",

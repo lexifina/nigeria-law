@@ -44,6 +44,20 @@
    ]
   },
   {
+   "slug": "tax-administration",
+   "short": "NTAA 2025",
+   "title": "Nigeria Tax Administration Act, 2025",
+   "url": "https://nass.gov.ng/documents/download/11250",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 153,
+     "source_url": "https://nass.gov.ng/documents/download/11250",
+     "sha256": "eb3ea717052f48492cc6441ad23f9e7ac2ad4782395db1c391580cc1adef20e2"
+    }
+   ]
+  },
+  {
    "slug": "joint-revenue-board",
    "short": "JRB Act 2025",
    "title": "Joint Revenue Board of Nigeria (Establishment) Act, 2025",
@@ -54,6 +68,20 @@
      "units": 64,
      "source_url": "https://nass.gov.ng/documents/download/11247",
      "sha256": "97b648230dee2f6fc1e9f5248343dfb8d6c6d17b4c2d38abe661abee6201e458"
+    }
+   ]
+  },
+  {
+   "slug": "tax",
+   "short": "NTA 2025",
+   "title": "Nigeria Tax Act, 2025",
+   "url": "https://nass.gov.ng/documents/download/11249",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 216,
+     "source_url": "https://nass.gov.ng/documents/download/11249",
+     "sha256": "41abf6887bc58a3c97116fd9a048aa91ad49c1cab156f39065a58401c0fce94f"
     }
    ]
   },

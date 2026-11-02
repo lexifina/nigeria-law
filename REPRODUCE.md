@@ -9,7 +9,9 @@ This file is written by the build on 2026-11-02, the day the source data was ret
 | Federal Government Printer: Nigeria Data Protection Act, 2023 (Official Gazette No. 119, Vol. 110, 1 July 2023) | <https://ncc.gov.ng/media/801/view> | 2026-10-28 | Federal Republic of Nigeria legislation as printed by the Federal Government Printer; the source states no licence. The repository is private. |
 | Federal Government Printer: Investments and Securities Act, 2025 (Official Gazette No. 19, Vol. 112, 2 May 2025) | <https://sec.gov.ng/documents/1319/Investments_and_Securities_Act_2025_x9rSXtI.pdf> | 2026-10-29 | Federal Republic of Nigeria legislation as printed by the Federal Government Printer; the source states no licence; official texts of a legislative nature are not eligible for copyright (Copyright Act, 2022, section 3(b)). |
 | Federal Government Printer: Nigeria Revenue Service (Establishment) Act, 2025 (Official Gazette No. 117, Vol. 112, of 26 June 2025 (Government Notice No. 23)) | <https://nass.gov.ng/documents/download/11251> | 2026-11-02 | Federal Republic of Nigeria legislation as printed by the Federal Government Printer; the source states no licence; official texts of a legislative nature are not eligible for copyright (Copyright Act, 2022, section 3(b)). |
+| Federal Government Printer: Nigeria Tax Administration Act, 2025 (Official Gazette No. 117, Vol. 112, of 26 June 2025 (Government Notice No. 24)) | <https://nass.gov.ng/documents/download/11250> | 2026-11-02 | Federal Republic of Nigeria legislation as printed by the Federal Government Printer; the source states no licence; official texts of a legislative nature are not eligible for copyright (Copyright Act, 2022, section 3(b)). |
 | Federal Government Printer: Joint Revenue Board of Nigeria (Establishment) Act, 2025 (Official Gazette No. 117, Vol. 112, of 26 June 2025 (Government Notice No. 25)) | <https://nass.gov.ng/documents/download/11247> | 2026-11-02 | Federal Republic of Nigeria legislation as printed by the Federal Government Printer; the source states no licence; official texts of a legislative nature are not eligible for copyright (Copyright Act, 2022, section 3(b)). |
+| Federal Government Printer: Nigeria Tax Act, 2025 (Official Gazette No. 117, Vol. 112, of 26 June 2025 (Government Notice No. 26)) | <https://nass.gov.ng/documents/download/11249> | 2026-11-02 | Federal Republic of Nigeria legislation as printed by the Federal Government Printer; the source states no licence; official texts of a legislative nature are not eligible for copyright (Copyright Act, 2022, section 3(b)). |
 | Federal Government Printer: Electoral Act, 2026 (Official Gazette No. 40, Vol. 113, of 2 March 2026 (Government Notice No. 3)) | <https://nass.gov.ng/documents/download/11248> | 2026-11-02 | Federal Republic of Nigeria legislation as printed by the Federal Government Printer; the source states no licence; official texts of a legislative nature are not eligible for copyright (Copyright Act, 2022, section 3(b)). |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
@@ -21,22 +23,24 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `data-protection` | Nigeria Data Protection Act, 2023 | 1 | 2023-06-12 to 2023-06-12 |
 | `investments-securities` | Investments and Securities Act, 2025 | 1 | 2025-03-25 to 2025-03-25 |
 | `revenue-service` | Nigeria Revenue Service (Establishment) Act, 2025 | 1 | 2025-06-26 to 2025-06-26 |
+| `tax-administration` | Nigeria Tax Administration Act, 2025 | 1 | 2025-06-26 to 2025-06-26 |
 | `joint-revenue-board` | Joint Revenue Board of Nigeria (Establishment) Act, 2025 | 1 | 2025-06-26 to 2025-06-26 |
+| `tax` | Nigeria Tax Act, 2025 | 1 | 2026-01-01 to 2026-01-01 |
 | `electoral` | Electoral Act, 2026 | 1 | 2026-02-18 to 2026-02-18 |
 
-The build made 5 commits:
+The build made 7 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 5 | first version of an act |
+| 7 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-02.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 5 laws in the record.
-- 10 tags.
+- 7 laws in the record.
+- 14 tags.
 
 ## Dates
 
@@ -48,13 +52,13 @@ When a law gives no date of its own, the default rule applies: Not applied: each
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `d6e84d9556505459dd99529e3682eebfb37815ca79dcbbad692bcb4979a4fb0d` (972795 bytes).
+- Corpus: sha256 `00ed145c6c2b9046eedd6607b84f3f37f04996c2e91d40a6347614b4d905c55b` (1614445 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
 
-5 versions of 5 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
@@ -73,9 +77,21 @@ No second build of this corpus has been compared yet.
 - NRS Act 2025: one version, the Act as enacted, dated 2025-06-26 by the commencement date printed under its long title ("[ 26th June, 2025 ]"); the gazette is dated 2025-06-26.
 - NRS Act 2025: no amending Act was found (the National Assembly's Acts & Publications list and the National Library of Nigeria's repository, both checked 2026-11-02), so the enacted text is taken as today's text.
 - NRS Act 2025: the Schedules are one file each; tables in them are read line by line as printed. The gazette's back matter (the schedule of the Bill's passage, the clerk's certificate and any explanatory memorandum) is not law and is left out.
+- NTAA 2025: one version, the Act as enacted, dated 2025-06-26 by the commencement date printed under its long title ("[26th June, 2025]"); the gazette is dated 2025-06-26.
+- NTAA 2025: no amending Act was found (the National Assembly's Acts & Publications list and the National Library of Nigeria's repository, both checked 2026-11-02), so the enacted text is taken as today's text.
+- NTAA 2025: the Schedules are one file each; tables in them are read line by line as printed. The gazette's back matter (the schedule of the Bill's passage, the clerk's certificate and any explanatory memorandum) is not law and is left out.
+- NTAA 2025: misprinted section-number lines are read as their section's first line: "15. . Notwithstanding" as "15. Notwithstanding". Without the full stop the reader would not see the section start; the words are unchanged.
+- NTAA 2025: where a cross-reference side note ("Act No. 6, 2021", "Cap. P10, LFN, 2024", "Ninth Schedule") is printed straight under a section's heading note, it is left out of the heading, like every other cross-reference note. Headings the reader could not place are set from their side notes: sec-066: "Remission of penalty"; sec-067: "Recovery of tax"; sec-103: "Failure to grant access for the deployment of technology"; sec-104: "Failure to use fiscalisation system". verification-batch3.json lists every heading changed (headings_cleaned).
 - JRB Act 2025: one version, the Act as enacted, dated 2025-06-26 by the commencement date printed under its long title ("[ 26th June, 2025 ]"); the gazette is dated 2025-06-26.
 - JRB Act 2025: no amending Act was found (the National Assembly's Acts & Publications list and the National Library of Nigeria's repository, both checked 2026-11-02), so the enacted text is taken as today's text.
 - JRB Act 2025: the Schedules are one file each; tables in them are read line by line as printed. The gazette's back matter (the schedule of the Bill's passage, the clerk's certificate and any explanatory memorandum) is not law and is left out.
+- NTA 2025: one version, the Act as enacted, dated 2026-01-01 by the commencement date printed under its long title ("[1st January, 2026]"); the gazette is dated 2025-06-26.
+- NTA 2025: no amending Act was found (the National Assembly's Acts & Publications list and the National Library of Nigeria's repository, both checked 2026-11-02), so the enacted text is taken as today's text.
+- NTA 2025: the Schedules are one file each; tables in them are read line by line as printed. The gazette's back matter (the schedule of the Bill's passage, the clerk's certificate and any explanatory memorandum) is not law and is left out.
+- NTA 2025: misprinted section-number lines are read as their section's first line: "148—(1) For the purposes" as "148.—(1) For the purposes"; "154—(1) Without prejudice" as "154.—(1) Without prejudice". Without the full stop the reader would not see the section start; the words are unchanged.
+- NTA 2025: where a cross-reference side note ("Act No. 6, 2021", "Cap. P10, LFN, 2024", "Ninth Schedule") is printed straight under a section's heading note, it is left out of the heading, like every other cross-reference note. Headings the reader could not place are set from their side notes: sec-156: "Business restructuring"; sec-157: "Fiscalisation of supplies for VAT". verification-batch3.json lists every heading changed (headings_cleaned).
+- NTA 2025: gazette pages 171-203 (PDF numbering) are printed as tables only, most of them landscape: the end of the Eighth Schedule and the Ninth and Tenth Schedules. They are read line by line as printed (each printed line, left to right, one line in the file), without the table layout, so a cell that runs over several printed lines is split across lines of the file. The running head of those pages is left out. A second reading of every such page (pdftotext) gives the same words.
+- NTA 2025: on gazette page 209 (the Thirteenth Schedule) a table column is printed in the margin; its cells are read as body lines at their own height.
 - Electoral Act 2026: one version, the Act as enacted, dated 2026-02-18 by the commencement date printed under its long title ("[ 18th day of February, 2026]"); the gazette is dated 2026-03-02.
 - Electoral Act 2026: no amending Act was found (the National Assembly's Acts & Publications list and the National Library of Nigeria's repository, both checked 2026-11-02), so the enacted text is taken as today's text.
 - Electoral Act 2026: the Schedules are one file each; tables in them are read line by line as printed. The gazette's back matter (the schedule of the Bill's passage, the clerk's certificate and any explanatory memorandum) is not law and is left out.

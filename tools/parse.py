@@ -77,6 +77,18 @@ def read_act(slug: str) -> tuple[dict, dict]:
     body = " ".join(l.text for p in pages.values() for l in p.body)
     vocab = set(re.findall(r"[a-z]+", body.lower()))
     hyph = set(re.findall(r"[a-z]+-[a-z]+", body.lower()))
+    table_heads: list[str] = []
+    if cfg.get("table_pages"):
+        # pages printed as a table only (no body line): read line by line as printed (tables.py), each line its own
+        # paragraph, as on the other schedule pages; the running head is dropped span by span and reported
+        import tables as T  # noqa: PLC0415
+        drop = [re.compile(x) for x in cfg["table_drop"]]
+        a, b = cfg["table_pages"]
+        for i in range(a, b + 1):
+            lines, dr = T.read_lines(doc[i], drop)
+            pages[i].body = [g.Line(i, 99.0, y, 100.0, t) for y, t in lines]
+            pages[i].notes = []
+            table_heads += dr
     if cfg["schedule_pages_from"] is not None:
         for i, p in pages.items():
             if i >= cfg["schedule_pages_from"]:
@@ -127,7 +139,8 @@ def read_act(slug: str) -> tuple[dict, dict]:
               "first_section": secs[0] if secs else None, "last_section": secs[-1] if secs else None,
               "schedules": sch_names, "sections_without_heading": rep["no_heading"],
               "orphan_lines": rep["orphans"], "renumbered": rep["renumbered"], **({"corrected": rep["corrected"]} if "corrected" in rep else {}),
-              "headings_used_twice": dup, "side_notes_not_headings": unused,
+              "headings_used_twice": dup, **({"table_pages": list(cfg["table_pages"]), "table_heads_dropped": len(table_heads)}
+                                        if cfg.get("table_pages") else {}), "side_notes_not_headings": unused,
               "structure_lines": len(rep["structure_lines"]), "dropped_lines": rep["dropped"],
               "words_printed": seq_words, "words_kept": unit_words,
               "words_missing": missing, "words_added": extra}
