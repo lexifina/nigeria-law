@@ -208,7 +208,8 @@ def split_units(pages: dict[int, Page], start: re.Pattern, stop: re.Pattern | No
                 schedule_rx: re.Pattern | None, prefix: str = "sec", label_word: str = "Section",
                 preamble_key: str | None = None, preamble_label: str = "Preamble",
                 drop_rx: re.Pattern | None = None, structure_rx: re.Pattern | None = None,
-                renumber: dict[str, str] | None = None) -> tuple[list[Unit], dict]:
+                renumber: dict[str, str] | None = None,
+                fixes: dict[str, str] | None = None) -> tuple[list[Unit], dict]:
     """Cut the body into sections (numbered in sequence), an optional preamble before section 1, and schedules.
 
     start: the first body line of the enacted text comes after the line matching it (e.g. "ENACTED by ...").
@@ -221,6 +222,8 @@ def split_units(pages: dict[int, Page], start: re.Pattern, stop: re.Pattern | No
     structure_rx = structure_rx or re.compile(r"^(?:PART|CHAPTER)\b|^(?:Part|Chapter) [0-9IVXLC]+[A-Z]?\s*[—-]")
     units: list[Unit] = []
     report: dict = {"structure_lines": [], "no_heading": [], "dropped": [], "orphans": [], "renumbered": []}
+    if fixes:
+        report["corrected"] = []
     seq = [l for i in sorted(pages) for l in pages[i].body]
     if start is not None:  # None: the enacted text starts on the first page read
         i0 = next((k for k, l in enumerate(seq) if start.search(norm(l.text))), None)
@@ -259,6 +262,10 @@ def split_units(pages: dict[int, Page], start: re.Pattern, stop: re.Pattern | No
             prev_line = l
             continue
         if not in_schedules:
+            for wrong, right in (fixes or {}).items():
+                if t.startswith(wrong):  # a misprinted section-number line ("148—(1)", "15. . "), corrected as listed
+                    t = right + t[len(wrong):]
+                    report["corrected"].append((wrong, right))
             for line_start, right_num in (renumber or {}).items():
                 if t.startswith(line_start):  # a misprinted section number, corrected (the caller lists why)
                     t = right_num + t[len(re.match(r"\d+[A-Z]*", t).group(0)):]

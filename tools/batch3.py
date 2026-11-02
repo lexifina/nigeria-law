@@ -40,7 +40,7 @@ ITEMS = {
         law="act-2025-5", label="Act No. 5 of 2025", title="Nigeria Tax Administration Act, 2025",
         short="NTAA 2025", frm="2025-06-26", printed="[26th June, 2025]",
         gazette="Official Gazette No. 117, Vol. 112, of 26 June 2025 (Government Notice No. 24)", published="2025-06-26",
-        first=8, head=148),
+        first=8, head=148, fixes={"15. . Notwithstanding": "15. Notwithstanding"}),
     "joint-revenue-board": dict(
         doc=11247, sha="97b648230dee2f6fc1e9f5248343dfb8d6c6d17b4c2d38abe661abee6201e458", part="52-joint-revenue-board",
         law="act-2025-6", label="Act No. 6 of 2025", title="Joint Revenue Board of Nigeria (Establishment) Act, 2025",
@@ -52,7 +52,7 @@ ITEMS = {
         law="act-2025-7", label="Act No. 7 of 2025", title="Nigeria Tax Act, 2025",
         short="NTA 2025", frm="2026-01-01", printed="[1st January, 2026]",
         gazette="Official Gazette No. 117, Vol. 112, of 26 June 2025 (Government Notice No. 26)", published="2025-06-26",
-        first=10, head=148),
+        first=10, head=148, fixes={"148—(1) For the purposes": "148.—(1) For the purposes"}),
     "electoral": dict(
         doc=11248, sha="dee5a37b62b920c9cfaf009b7dc1dcf5ccb5cbbeff807f5487eac868ce882fd6", part="60-electoral",
         law="act-2026-1", label="Act No. 1 of 2026", title="Electoral Act, 2026",
@@ -87,7 +87,7 @@ def main() -> None:
     for k in keys:
         P.ACTS[k] = {"pages": (ITEMS[k]["first"], None), "head_max_y": ITEMS[k]["head"],
                      "start": r"^EN[AE]CTED by", "stop": STOP, "schedule": SCHEDULE, "schedule_pages_from": None,
-                     "structure": None, "renumber": None}
+                     "structure": None, "renumber": None, "fixes": ITEMS[k].get("fixes")}
     P.RETRIEVED = RETRIEVED
     ver_path = HERE / "verification-batch3.json"
     verification = json.loads(ver_path.read_text(encoding="utf-8")) if ver_path.exists() else {}

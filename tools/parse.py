@@ -84,7 +84,7 @@ def read_act(slug: str) -> tuple[dict, dict]:
     rx = (lambda s: re.compile(s) if s else None)
     units, rep = g.split_units(pages, rx(cfg["start"]), rx(cfg["stop"]), rx(cfg["schedule"]),
                                preamble_key="preamble" if slug == "constitution" else None,
-                               structure_rx=cfg["structure"], renumber=cfg["renumber"])
+                               structure_rx=cfg["structure"], renumber=cfg["renumber"], fixes=cfg.get("fixes"))
     out: dict = {}
     headings = []
     sch_names = {}
@@ -126,7 +126,7 @@ def read_act(slug: str) -> tuple[dict, dict]:
     report = {"pages": [first, last], "pages_without_text": no_text, "units": len(out), "sections": len(secs),
               "first_section": secs[0] if secs else None, "last_section": secs[-1] if secs else None,
               "schedules": sch_names, "sections_without_heading": rep["no_heading"],
-              "orphan_lines": rep["orphans"], "renumbered": rep["renumbered"],
+              "orphan_lines": rep["orphans"], "renumbered": rep["renumbered"], **({"corrected": rep["corrected"]} if "corrected" in rep else {}),
               "headings_used_twice": dup, "side_notes_not_headings": unused,
               "structure_lines": len(rep["structure_lines"]), "dropped_lines": rep["dropped"],
               "words_printed": seq_words, "words_kept": unit_words,
