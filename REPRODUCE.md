@@ -28,7 +28,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `tax` | Nigeria Tax Act, 2025 | 1 | 2026-01-01 to 2026-01-01 |
 | `electoral` | Electoral Act, 2026 | 1 | 2026-02-18 to 2026-02-18 |
 
-The build made 7 commits:
+The build made 11 commits:
 
 | Commits | Kind |
 | ---: | --- |
@@ -54,7 +54,7 @@ When a law gives no date of its own, the default rule applies: Not applied: each
 
 - Corpus: sha256 `7cd75438d7578e054ebb9aeb5f3468d497f19b3155d8a1246d51f3f1be8d01be` (1615626 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
-- Python 3.14.4; git version 2.53.0.
+- Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
 
