@@ -93,7 +93,7 @@ def read_act(slug: str) -> tuple[dict, dict]:
             u.heading = g.dehyphen(u.heading, vocab, hyph)
             headings.append(u.heading)
         if u.kind == "schedule":
-            name = re.match(r"^((?:[A-Z]+ +)?SCHEDULE)", u.heading).group(1)
+            name = re.match(r"^((?:[A-Z]+ +)?SCHEDULE)", u.heading, re.I).group(1)
             name = re.sub(r"\s+", " ", name).title()
             sch_names[u.key] = name
             u.label = name

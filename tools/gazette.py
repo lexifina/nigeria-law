@@ -247,6 +247,11 @@ def split_units(pages: dict[int, Page], start: re.Pattern, stop: re.Pattern | No
             report["dropped"].append(t)
             continue
         if schedule_rx and prev_num is not None and schedule_rx.match(t):
+            if cur is not None and cur.kind == "schedule" and t.upper() == cur.heading.upper():
+                # the same schedule heading printed again at the top of a later page of that schedule
+                report["dropped"].append(t)
+                prev_line = l
+                continue
             in_schedules = True
             sch_n += 1
             cur = Unit(f"sch-{sch_n:02d}", re.sub(r"\s*[—-].*$", "", t).title(), "schedule", t, [])
