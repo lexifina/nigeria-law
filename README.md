@@ -1,96 +1,89 @@
 # Nigeria: law history in git
 
-Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Nigeria's national law, which global-law reads at `nigeria/national/acts/`.
 
-The federal law of Nigeria as a git history: one file per provision, one commit per law on the day it took effect, and the law that made each change as the commit's author. `git blame` names the law behind every paragraph; `git log` lists every change to a provision; `tools/on.py` gives the text in force on any day.
+The federal law of Nigeria as a git history: one file per section, one commit per version on the day it took effect, and the law that made each change as the commit's author. `git blame` names the law behind every paragraph; `git log` lists every change to a section; picking a date gives the text in force that day.
 
-It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `ng/`. Every version is read from a Federal Government Printer text (an Official Gazette supplement, or the Federal Ministry of Justice's print of the Constitution) with a text layer. No OCR is used.
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Nigeria's federal law, which global-law reads at `nigeria/national/acts/`.
 
-**What is in it now**
+**What is in it now:** 7 Acts of the National Assembly as enacted, one version each, in 1,067 provisions (1,034 sections and 33 Schedules): the Nigeria Data Protection Act, 2023; the Investments and Securities Act, 2025; the Nigeria Revenue Service (Establishment) Act, 2025; the Nigeria Tax Administration Act, 2025; the Joint Revenue Board of Nigeria (Establishment) Act, 2025; the Nigeria Tax Act, 2025; and the Electoral Act, 2026. [`REPRODUCE.md`](REPRODUCE.md) lists every act with its source; each act's `README.md` lists its provisions.
 
-| Folder | Act | Versions | In force from | Branch | Today's text? |
-| --- | --- | ---: | --- | --- | --- |
-| `data-protection/` | Nigeria Data Protection Act, 2023 (Act No. 37 of 2023) | 1 | 2023-06-12 | `main` | Yes: no amending Act found |
-| `investments-securities/` | Investments and Securities Act, 2025 (Act No. 2 of 2025) | 1 | 2025-03-25 | `main` | Yes: the Securities and Exchange Commission lists it as the Act in force; no amending Act found |
-| `revenue-service/` | Nigeria Revenue Service (Establishment) Act, 2025 (Act No. 4 of 2025) | 1 | 2025-06-26 | `main` | Yes: no amending Act found |
-| `joint-revenue-board/` | Joint Revenue Board of Nigeria (Establishment) Act, 2025 (Act No. 6 of 2025) | 1 | 2025-06-26 | `main` | Yes: no amending Act found |
-| `tax/` | Nigeria Tax Act, 2025 (Act No. 7 of 2025) | 1 | 2026-01-01 | `main` | Yes: no amending Act found |
-| `tax-administration/` | Nigeria Tax Administration Act, 2025 (Act No. 5 of 2025) | 1 | 2025-06-26 | `main` | Yes: no amending Act found |
-| `electoral/` | Electoral Act, 2026 (Act No. 1 of 2026) | 1 | 2026-02-18 | `main` | Yes: no amending Act found |
-| `petroleum-industry/` | Petroleum Industry Act, 2021 (Act No. 6 of 2021) | 1 | 2021-08-16 | not on `main` | Not checked: later Acts (among them the Nigeria Tax Act, 2025) are reported to amend it; none is applied |
-| `companies/` | Companies and Allied Matters Act, 2020 (Act No. 3 of 2020) | 1 | 2020-08-07 | `preview` only | No: amended by the Business Facilitation (Miscellaneous Provisions) Act, 2022, not yet applied |
-| `constitution/` | Constitution of the Federal Republic of Nigeria, 1999 | 1 | 1999-05-29 | `preview` only | No: as promulgated; none of the Alteration Acts (2010, 2011, 2017-2018, 2023) is applied |
+Each act is a folder named after its short title, with one file per section or Schedule (`data-protection/sec-037.md` is section 37 of the Nigeria Data Protection Act, 2023, Act No. 37 of 2023). The `preview` branch also holds the Constitution of 1999 as promulgated and the Companies and Allied Matters Act, 2020 as enacted, kept off `main` because their later amendments are not applied.
 
-`main` holds only acts whose last version has been checked to be today's text. The other acts are on the `preview` branch until their amendments are applied.
+The text is in English, as the Federal Government Printer prints it.
 
-Each folder's `README.md` lists every provision, how often it changed and when.
-
-## A lawyer's questions as git commands
+## Questions as git commands
 
 | Question | Command |
 | --- | --- |
-| What did section 37 say on 2023-06-12? | `python tools/on.py 2023-06-12 data-protection sec-037` |
-| The same, with raw git (bash) | `git show $(git rev-list -1 --before="2023-06-12T23:59:59Z" main -- data-protection/sec-037.md):data-protection/sec-037.md` |
-| The same, in PowerShell | `$r = git rev-list -1 --before="2023-06-12T23:59:59Z" main -- data-protection/sec-037.md; git show "$($r):data-protection/sec-037.md"` |
-| Which law wrote each line? | `git blame data-protection/sec-037.md` |
-| Every change, word by word | `git log -p --word-diff data-protection/sec-037.md` |
-| Every law in the record, in order | `git log --reverse --format="%ad %an" --date=short main` |
-| Everything one law changed | `git show law/<key>` (tags `law/<key>` mark each law's commit) |
-| The whole act on a date | `python tools/on.py 2023-06-12 data-protection` |
-| Which law gave a provision its wording on a date | `python tools/on.py --law 2023-06-12 data-protection sec-037` |
+| Every change to section 37 of the Nigeria Data Protection Act | `git log -p --word-diff -- data-protection/sec-037.md` |
+| Which law wrote each line of section 37? | `git blame data-protection/sec-037.md` |
+| Every version of the Act, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- data-protection ':!*/README.md'` |
+| Section 37 as in force on 1 January 2024 | `python tools/on.py 2024-01-01 data-protection sec-037` |
 
-After a rebuild, refresh tags with `git fetch --force --tags`: a plain fetch keeps stale tags.
+**Outside git**, we also host this record publicly, for free:
+
+- **[Ask Claude about Nigerian law](https://global-law.lexifina.com/v1/try_claude?country=nigeria)**: opens Claude with a first question ready.
+- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=nigeria)**: the same question in ChatGPT.
+- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=personal+data&jurisdictions=nigeria)**: a search of Nigerian law for "personal data", returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
+
+Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in English.
+
+**Host it yourself easily.** All it takes is git and Python, and the tools run on your machine:
+
+```sh
+git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
+python3 tools/countries.py add nigeria/national/acts
+python3 tools/law.py show 2026-01-01 nigeria/national/acts/data-protection/sec-037.md
+```
+
+Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
 ## Dates
 
-- Each commit is dated at **noon, Africa/Lagos, on the day the change took effect**. The day is also in the `In-force:` trailer, which the tools read; assent and Gazette dates are trailers too.
-- **An Act's day is its own commencement date**, printed under its long title in the Federal Government Printer's gazette ("[12th Day of June, 2023]"). The Constitution's day is 29 May 1999, set by section 1(2) of the Constitution of the Federal Republic of Nigeria (Promulgation) Act. No date is computed from a default rule.
-- `--before="YYYY-MM-DD"` alone uses your clock's time of day, so a law that took effect that day may be missed before noon. Use `T23:59:59Z` as above, or the tool.
+Each commit is dated at noon, Africa/Lagos, on the day the version took effect, and carries it in its `In-force:` trailer:
+
+- for an Act, the commencement date printed under its long title in the gazette ("[12th Day of June, 2023]"); the day of assent and the gazette's date are the `Enacted:` and `Published:` trailers;
+- no day is computed from a default rule: the Nigeria Tax Act, 2025, gazetted on 26 June 2025, is dated 1 January 2026, the commencement date it prints.
+
+Each Act is credited to itself, as the gazette numbers it (`Act No. 37 of 2023 <act-2023-37@federal-government-printer.invalid>`). So are the four later commits that correct 11 section headings in four Acts (a printer's cross-reference note had been read into the heading); they change no words of the law. The committer is Lexifina.
 
 ## How it is checked
 
-- Every version is read back from git on the day it took effect and on the day before (`tools/check_repo.py`); both must match `corpus.json`. Results are in `REPRODUCE.md`.
-- **Word for word against the print:** for each act, every word of the enacted text as printed (from the enacting formula to the clerk's certificate) is in a provision file or in a Part or Chapter heading, and no word is added (`verification.json` in the build folder: `words_missing` and `words_added` are empty; the one exception is the Constitution's misprinted section number, below).
-- **Against today's law:** the Data Protection Act's last version is the Act as enacted; no amending Act was found in NigeriaLII, the National Assembly's list of Acts or the Federal Ministry of Justice's library. The Investments and Securities Act, 2025 is the Act as enacted, which the Securities and Exchange Commission lists as the Act in force. The Nigeria Tax Act, 2025, the Nigeria Tax Administration Act, 2025, the Nigeria Revenue Service (Establishment) Act, 2025, the Joint Revenue Board of Nigeria (Establishment) Act, 2025 and the Electoral Act, 2026 are the Acts as enacted; no amending Act was found in the National Assembly's list of Acts or the National Library of Nigeria's repository (checked 2026-11-02). The other acts are not checked to be today's text, and are kept off `main`.
-- The repository is rebuilt from the same data a second time and must give identical hashes.
-
-## What "author" means
-
-The author of a commit is the law that made the change, with an e-mail address that cannot exist, so `git blame` and `git log --author` name laws. The committer is always Lexifina.
-
-- Each act here has one version: the act as enacted (or, for the Constitution, as promulgated), credited to its enacting law.
-- Blame credits whole lines (one paragraph per line). Use `git log -p --word-diff` to see exactly which words each change made.
+- `tools/check_repo.py` reads every version back from git on the day it took effect and on the day before, and compares it with the corpus: 7 versions of 7 acts, 0 mismatches (see [`REPRODUCE.md`](REPRODUCE.md)).
+- Word for word against the print: every word of each Act's enacted text as printed is in a provision file or in a Part or Chapter heading, and no word is added.
+- Against today's law: no amending Act was found for any of the seven in the National Assembly's list of Acts or the National Library of Nigeria's repository (checked 2026-11-02); acts not checked to be today's text stay off `main`.
+- History is append-only: no merge commits, no commit dates that go backwards, none dated after the build, and every commit's trailers parse; a text found wrong later is corrected in a new commit, not rewritten.
 
 ## What it does not show
 
-- **Amendments not yet applied.** The Companies and Allied Matters Act, 2020 was amended by the Business Facilitation (Miscellaneous Provisions) Act, 2022 (in force February 2023); no official text of that Act with a text layer was found, so it is not applied.
-- **The Constitution's alterations.** The Federal Ministry of Justice's print is titled "With the First, Second and Third Alterations", but its body is the Constitution as promulgated in 1999 (for example, section 75 still refers to "the 1991 census", which the First Alteration Act deleted); the three Alteration Acts follow it only as gazettes. They are not applied yet. Nor are the Fourth Alteration Acts (2017-2018) or the Fifth Alteration Acts (2023), for which no official text-layer source was found. There is no official consolidation of the Constitution after 2011 online.
-- **Misprints are kept.** The print numbers section 281 of the Constitution "285"; it is filed as `sec-281`. Section 267 has no side note in the print, so its file has no heading. Spelling errors in the prints are kept as printed.
-- **Side notes that are not headings** ("Cap. I24, LFN, 2004.", "Third Schedule.") are the printer's cross-references and are left out. Part and Chapter headings are left out; each file starts with its own number and heading.
-- **Tables** in Schedules (the Constitution's list of States and Local Government Areas, the Companies Act's forms and accounts formats) are read line by line as printed, without their table layout. The Nigeria Tax Act's Ninth Schedule (stamp duties) and Tenth Schedule (priority sectors) are printed as landscape tables; they are read the same way, so a cell that runs over several printed lines is split across lines of the file.
-- **No OCR.** Scanned texts (such as the National Assembly's copies of the Alteration Acts) are not used.
-
-## How it is built
-
-Lexifina reads the sources listed here and records each act's dated versions, and the laws that made each change, in one corpus file. `tools/build.py` writes this repository from that file, and the same corpus always gives the same commit hashes; `REPRODUCE.md` gives the details and the checks. A model (Claude) wrote Lexifina's code; it wrote no legal text, and no model runs when the history is built.
+- **Most federal law.** Older Acts, the Laws of the Federation of Nigeria, subsidiary legislation and case law are not here.
+- **Earlier texts.** Each history starts with the Act as enacted; Acts it repealed (such as the Investments and Securities Act, 2007) are not here.
+- **The Constitution and the Companies and Allied Matters Act, 2020 as in force.** On `preview` they are the 1999 text as promulgated, with none of the Alteration Acts (2010 to 2023), and the 2020 Act without the Business Facilitation (Miscellaneous Provisions) Act, 2022. The Petroleum Industry Act, 2021 is held back: later Acts are reported to amend it and none is applied.
+- **Part and Chapter headings and the printer's cross-reference side notes** are left out; each file starts with its section number and heading. Misprints and spelling errors are kept as printed.
+- **Table layout.** Tables in Schedules are read line by line as printed, so a cell that runs over several printed lines is split across lines (the Nigeria Tax Act's Ninth and Tenth Schedules).
 
 ## Sources
 
-| Source | What it gives | Used for |
-| --- | --- | --- |
-| Federal Government Printer, Official Gazette No. 119, Vol. 110, 1 July 2023 ([copy served by the Nigerian Communications Commission](https://ncc.gov.ng/media/801/view)) | Nigeria Data Protection Act, 2023, Act No. 37 | `data-protection/` |
-| Federal Government Printer, Official Gazette No. 19, Vol. 112, 2 May 2025 ([copy published by the Securities and Exchange Commission](https://sec.gov.ng/documents/1319/Investments_and_Securities_Act_2025_x9rSXtI.pdf)) | Investments and Securities Act, 2025, Act No. 2 | `investments-securities/` |
-| Federal Government Printer, Official Gazette No. 117, Vol. 112, 26 June 2025 (copies published by the National Assembly: [Act No. 4](https://nass.gov.ng/documents/download/11251), [Act No. 5](https://nass.gov.ng/documents/download/11250), [Act No. 6](https://nass.gov.ng/documents/download/11247), [Act No. 7](https://nass.gov.ng/documents/download/11249)) | Nigeria Revenue Service (Establishment) Act, 2025; Nigeria Tax Administration Act, 2025; Joint Revenue Board of Nigeria (Establishment) Act, 2025; Nigeria Tax Act, 2025 | `revenue-service/`, `tax-administration/`, `joint-revenue-board/`, `tax/` |
-| Federal Government Printer, Official Gazette No. 40, Vol. 113, 2 March 2026 ([copy published by the National Assembly](https://nass.gov.ng/documents/download/11248)) | Electoral Act, 2026, Act No. 1 | `electoral/` |
-| Federal Government Printer, Official Gazette No. 142, Vol. 108, 27 August 2021 ([copy published by the Nigerian Upstream Petroleum Regulatory Commission](https://nuprc.gov.ng/upload/nuprc_laws/Petroleum_Industry_Act_2021_ec850262c409d1a364ed08a6.pdf)) | Petroleum Industry Act, 2021, Act No. 6 | `petroleum-industry/` |
-| Federal Government Printer, Official Gazette No. 124, Vol. 107, 10 August 2020 ([Corporate Affairs Commission copy](https://pre.cac.gov.ng/assets/images/CAMA-NOTE%20FINAL-FULL-VERSION.pdf), read from the Internet Archive's capture of 1 March 2021) | Companies and Allied Matters Act, 2020, Act No. 3 | `companies/` |
-| Federal Ministry of Justice, "Constitution of the Federal Republic of Nigeria, 1999 [With the First, Second and Third Alterations]" ([justice.gov.ng](https://justice.gov.ng/wp-content/uploads/2020/09/Nigerian-Constitution.pdf), read from the Internet Archive's capture of 15 October 2021) | The Promulgation Act, the Constitution as promulgated, and the gazettes of the three Alteration Acts of 2010 | `constitution/` |
-| [Internet Archive](https://web.archive.org/) | Archived copies of the two files no longer served at their original address | Reading them |
-
-Sources looked at and not used: [NigeriaLII](https://nigerialii.org) lists no legislation; the National Assembly's [Acts and Publications](https://nass.gov.ng/documents/magazine) has the 1999 Constitution only as a clipped web printout and the First and Third Alteration Acts only as scans; the unofficial [Laws of the Federation](https://lawsofnigeria.placng.org) (PLAC) copy of the 2004 revised edition is not an official text.
+| Source | Kind | Past versions | Notes |
+| --- | --- | --- | --- |
+| Federal Government Printer, Official Gazette of the Federal Republic of Nigeria | Official gazette: each Act as enacted | no, the text as enacted | Read from copies with a text layer (no OCR); each copy's address is in `REPRODUCE.md` and its sha256 in `data/versions.json` |
+| [National Assembly](https://nass.gov.ng), Acts and Publications | Gazette copies | as published | The four revenue and tax Acts of 2025 and the Electoral Act, 2026 |
+| [Securities and Exchange Commission](https://sec.gov.ng) | Gazette copy | as published | The Investments and Securities Act, 2025, which it lists as the Act in force |
+| [Nigerian Communications Commission](https://ncc.gov.ng) | Gazette copy | as published | The Nigeria Data Protection Act, 2023 |
 
 ## Licence
 
-See [LICENSE](LICENSE). The texts are Nigerian federal legislation as printed by the Federal Government Printer and the Federal Ministry of Justice; the copies used state no licence. This repository is private. Lexifina's arrangement, messages, tables and tools are CC0.
+See [`LICENSE`](LICENSE). Official texts of a legislative nature are not eligible for copyright in Nigeria (Copyright Act, 2022, section 3(b)), and each Act was read from its own printed text, not from a compilation. The history, commit messages, tables and tools are CC0 1.0.
 
-This repository is not legal advice. Nigeria's federal laws are published in English, so there is no separate summary in another language.
+No AI model wrote, translated or corrected legal text, and none runs at build time; the scripts that read the sources and build the history were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## More
+
+From [lexifina/global-law](https://github.com/lexifina/global-law):
+
+- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): every feature, and what every corpus must support (`git blame`, `law.py`, the MCP tools)
+- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): questions and answers · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): proposing changes · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): the MCP server · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): how it was built · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
+- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): how current each corpus is · [Monitoring](https://github.com/lexifina/global-law/tree/main/monitoring): whether updates are running · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): how each official source is watched for changes
+- [performance/](https://github.com/lexifina/global-law/tree/main/performance): how fast the tools are, measured
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): charts and bridges across the world's law
+- [Vulnerabilities](https://github.com/lexifina/global-law/tree/main/vulnerabilities): mistakes in legislation as published
