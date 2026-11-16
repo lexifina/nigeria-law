@@ -58,6 +58,7 @@ Each Act is credited to itself, as the gazette numbers it (`Act No. 37 of 2023 <
 - Word for word against the print: every word of each Act's enacted text as printed is in a provision file or in a Part or Chapter heading, and no word is added.
 - Against today's law: no amending Act was found for any of the seven in the National Assembly's list of Acts or the National Library of Nigeria's repository (checked 2026-11-02); acts not checked to be today's text stay off `main`.
 - History is append-only: no merge commits, no commit dates that go backwards, none dated after the build, and every commit's trailers parse; a text found wrong later is corrected in a new commit, not rewritten.
+- [vulnerabilities/](vulnerabilities/): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -81,6 +82,10 @@ Each Act is credited to itself, as the gazette numbers it (`Act No. 37 of 2023 <
 See [`LICENSE`](LICENSE). Official texts of a legislative nature are not eligible for copyright in Nigeria (Copyright Act, 2022, section 3(b)), and each Act was read from its own printed text, not from a compilation. The history, commit messages, tables and tools are CC0 1.0.
 
 No AI model wrote, translated or corrected legal text, and none runs at build time; the scripts that read the sources and build the history were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/): charts drawn from this repository. Not drawn yet.
 
 ## More
 
