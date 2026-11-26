@@ -1,22 +1,34 @@
-The legal texts in this repository are Nigerian federal legislation, as printed and published by the Federal
-Government Printer, Lagos, in supplements to the Official Gazette of the Federal Republic of Nigeria, and the
-Constitution of the Federal Republic of Nigeria, 1999, as printed by the Federal Ministry of Justice, Abuja. Each
-act's gazette, and the government website whose copy was used, is listed in README.md and REPRODUCE.md (with its
-sha256).
-
-Official texts of legislation are not protected by copyright in Nigeria. Copyright Act, 2022 (Act No. 8 of 2022),
-section 3: "The following shall not be eligible for copyright — ... (b) official texts of a legislative or
-administrative nature as well as any official translations, except their compilations". Each act here was read
-from its own printed text, not from a compilation.
-
-The copies used state no licence of their own.
-
-Changes made by Lexifina: each act was converted to one Markdown file per provision, one paragraph per line;
-spacing, quotes and dashes were normalised; the printer's side notes were used as section headings, and Part and
-Chapter headings and cross-reference side notes were left out; the versions were arranged as git commits credited
-to the laws that made them. The wording of the law was not changed. Neither the Federal Government Printer, the
-Federal Ministry of Justice nor any website named in README.md endorses this repository.
-
-Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are
-dedicated to the public domain under CC0 1.0 Universal:
+Lexifina's own work in this repository (the arrangement of the history, the file layout, the commit messages, the
+tables and the tools) is dedicated to the public domain under CC0 1.0 Universal:
 https://creativecommons.org/publicdomain/zero/1.0/legalcode
+
+The legal texts are Nigerian federal legislation. Official texts of legislation are not protected by copyright in
+Nigeria. Copyright Act, 2022 (Act No. 8 of 2022), section 3: "The following shall not be eligible for copyright -
+... (b) official texts of a legislative or administrative nature as well as any official translations, except their
+compilations". Each Act is kept here as its own text, one folder per Act; no compilation's selection, notes or
+apparatus is claimed or reproduced as such.
+
+Sources and their terms:
+
+- Policy and Legal Advocacy Centre (PLAC), "The Complete 2004 Laws of Nigeria" (https://placng.org/lawsofnigeria/):
+  the Acts of the Laws of the Federation of Nigeria 2004, as PLAC's HTML pages and PDFs serve them (read 2026-11-26).
+  The site states "(c) Copyright Policy and Legal Advocacy Centre (2021)" for the site and states no licence for the
+  law texts; only the official texts of the Acts are taken, not PLAC's own writing.
+- PLAC, Acts collection (https://placng.org/i/acts/): Acts of the National Assembly since 2003 and the Fifth
+  Alteration Acts to the Constitution (2023), as PDFs (read 2026-11-26); same terms as above.
+- Federal Ministry of Justice, Abuja: the Constitution of the Federal Republic of Nigeria, 1999, from its print
+  "[With the First, Second and Third Alterations]" (justice.gov.ng, read through the Internet Archive's capture of
+  15 October 2021 because the ministry no longer serves the file); no licence stated.
+- Federal Government Printer, Lagos: Official Gazette copies of Acts (as listed in README.md and REPRODUCE.md),
+  served by the National Assembly, the Securities and Exchange Commission, the Nigerian Communications Commission
+  and the Corporate Affairs Commission; no licence stated.
+
+Where a source PDF is a page scan with a text layer added by its publisher, the text is that publisher's OCR, as
+served, and the commit says so (Text-source: publisher OCR). Lexifina ran no OCR.
+
+Changes made by Lexifina: each Act was converted to one Markdown file per section or Schedule where the section
+numbering could be read, otherwise one file; spacing was normalised; the versions were arranged as git commits dated
+on the day each took effect. The wording of the law was not changed. Neither PLAC, the Federal Government Printer,
+the Federal Ministry of Justice nor any website named here endorses this repository.
+
+This repository is not legal advice and not an official publication.

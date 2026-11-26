@@ -1,0 +1,7 @@
+{
+  "corpus": "ng/national/acts",
+  "name": "Nigeria: the Constitution of 1999, the Laws of the Federation of Nigeria 2004 and later federal Acts",
+  "label": "Nigeria",
+  "language": "en",
+  "folders": ["constitution", "acts", "subsidiary", "data-protection", "investments-securities", "tax", "tax-administration", "revenue-service", "joint-revenue-board", "electoral"]
+}
