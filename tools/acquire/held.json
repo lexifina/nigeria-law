@@ -394,5 +394,119 @@
   "title": "2026 Appropriation Act",
   "why": "not an Act text (a Bill, budget summary, list, appropriation, or already on main)",
   "url": "https://placng.org/i/documents/2026-appropriation-act/"
+ },
+ {
+  "key": "faolex:LEX-FAOC178628",
+  "title": "Niger-Delta Development Commission (Establishment, etc.) (Amendment) Act",
+  "why": "not fetched",
+  "url": "https://faolex.fao.org/docs/pdf/nig178628.pdf"
+ },
+ {
+  "key": "faolex:LEX-FAOC241203",
+  "title": "NAFDAC (Bio-Fertilizer Advertisement) Regulations",
+  "why": "not fetched",
+  "url": "https://faolex.fao.org/docs/pdf/nig241203.pdf"
+ },
+ {
+  "key": "faolex:LEX-FAOC241221",
+  "title": "NAFDAC (Fertilizer Registration) Regulations",
+  "why": "not fetched",
+  "url": "https://faolex.fao.org/docs/pdf/nig241221.pdf"
+ },
+ {
+  "key": "faolex:LEX-FAOC145946",
+  "title": "National Environmental (Ozone Layer Protection) Regulations, 2009",
+  "why": "no usable text layer (37 characters on 23 pages): a page scan, not OCRed here",
+  "url": "https://faolex.fao.org/docs/pdf/nig145946.pdf"
+ },
+ {
+  "key": "faolex:LEX-FAOC181840",
+  "title": "Federal Capital Territory Water Board (Establishment) Act, 2017",
+  "why": "no usable text layer (0 characters on 31 pages): a page scan, not OCRed here",
+  "url": "https://faolex.fao.org/docs/pdf/nig181840.pdf"
+ },
+ {
+  "key": "faolex:LEX-FAOC217471",
+  "title": "The Pharmacy Council of Nigeria (Establishment) Act",
+  "why": "a version of this year is already in the repo (official or another copy)",
+  "url": "https://faolex.fao.org/docs/pdf/nig217471.pdf"
+ },
+ {
+  "key": "faolex:LEX-FAOC231349",
+  "title": "Nigerian Meteorological Agency (Establishment) Act",
+  "why": "a version of this year is already in the repo (official or another copy)",
+  "url": "https://faolex.fao.org/docs/pdf/nig231349.pdf"
+ },
+ {
+  "key": "faolex:LEX-FAOC235336",
+  "title": "South-West Development Commission (Establishment) Act, 2025",
+  "why": "a version of this year is already in the repo (official or another copy)",
+  "url": "https://faolex.fao.org/docs/pdf/nig235336.pdf"
+ },
+ {
+  "key": "faolex:LEX-FAOC235340",
+  "title": "South-South Development Commission (Establishment) Act, 2025",
+  "why": "a version of this year is already in the repo (official or another copy)",
+  "url": "https://faolex.fao.org/docs/pdf/nig235340.pdf"
+ },
+ {
+  "key": "wipolex:5575",
+  "title": "Spirit Drinks Regulations 2005",
+  "why": "a version of this year is already in the repo (official or another copy)",
+  "url": "https://wipolex-res.wipo.int/edocs/lexdocs/laws/en/ng/ng021en.pdf"
+ },
+ {
+  "key": "wipolex:5576",
+  "title": "Wine Regulations 2005",
+  "why": "a version of this year is already in the repo (official or another copy)",
+  "url": "https://wipolex-res.wipo.int/edocs/lexdocs/laws/en/ng/ng022en.pdf"
+ },
+ {
+  "key": "wipolex:21158",
+  "title": "National Agricultural Seeds Council Act, 2019",
+  "why": "a version of this year is already in the repo (official or another copy)",
+  "url": "https://wipolex-res.wipo.int/edocs/lexdocs/laws/en/ng/ng049en.pdf"
+ },
+ {
+  "key": "wipolex:21820",
+  "title": "Copyright Act, 2022",
+  "why": "a version of this year is already in the repo (official or another copy)",
+  "url": "https://wipolex-res.wipo.int/edocs/lexdocs/laws/en/ng/ng052en_1.pdf"
+ },
+ {
+  "key": "wipolex:21826",
+  "title": "Business Facilitation (Miscellaneous Provisions) Act, 2022",
+  "why": "a version of this year is already in the repo (official or another copy)",
+  "url": "https://wipolex-res.wipo.int/edocs/lexdocs/laws/en/ng/ng053en_1.pdf"
+ },
+ {
+  "key": "wipolex:22078",
+  "title": "Plant Variety Protection Act, 2021",
+  "why": "a version of this year is already in the repo (official or another copy)",
+  "url": "https://wipolex-res.wipo.int/edocs/lexdocs/laws/en/ng/ng054en_1.pdf"
+ },
+ {
+  "key": "wipolex:22677",
+  "title": "Evidence Act, 2011",
+  "why": "a version of this year is already in the repo (official or another copy)",
+  "url": "https://wipolex-res.wipo.int/edocs/lexdocs/laws/en/ng/ng055en_1.pdf"
+ },
+ {
+  "key": "wipolex:22694",
+  "title": "Nigeria Customs Service Act, 2023",
+  "why": "a version of this year is already in the repo (official or another copy)",
+  "url": "https://wipolex-res.wipo.int/edocs/lexdocs/laws/en/ng/ng057en_1.pdf"
+ },
+ {
+  "key": "wipolex:22696",
+  "title": "Cybercrimes (Prohibition, Prevention, etc.) Act, 2015",
+  "why": "no usable text layer (0 characters on 43 pages): a page scan, not OCRed here",
+  "url": "https://wipolex-res.wipo.int/edocs/lexdocs/laws/en/ng/ng058en_1.pdf"
+ },
+ {
+  "key": "wipolex:22697",
+  "title": "Federal Competition and Consumer Protection Act, 2018",
+  "why": "a version of this year is already in the repo (official or another copy)",
+  "url": "https://wipolex-res.wipo.int/edocs/lexdocs/laws/en/ng/ng059en_1.pdf"
  }
 ]

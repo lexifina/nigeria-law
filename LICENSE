@@ -22,6 +22,13 @@ Sources and their terms:
 - Federal Government Printer, Lagos: Official Gazette copies of Acts (as listed in README.md and REPRODUCE.md),
   served by the National Assembly, the Securities and Exchange Commission, the Nigerian Communications Commission
   and the Corporate Affairs Commission; no licence stated.
+- FAOLEX, the FAO Legal Database (https://faolex.fao.org): PDFs of federal Acts and regulations since 2003 (read
+  2026-11-26), a secondary copy of the official texts. FAO's terms allow reuse of its materials for non-commercial
+  purposes with acknowledgement of FAO as the source; only the official texts are taken, not FAO's abstracts or
+  indexing.
+- WIPO Lex (https://www.wipo.int/wipolex/): PDFs of Nigerian Acts, regulations and rules of court (read 2026-11-26),
+  a secondary copy of the official texts; WIPO Lex reproduces national texts for information and states no licence
+  for them; only the official texts are taken.
 
 Where a source PDF is a page scan with a text layer added by its publisher, the text is that publisher's OCR, as
 served, and the commit says so (Text-source: publisher OCR). Lexifina ran no OCR.

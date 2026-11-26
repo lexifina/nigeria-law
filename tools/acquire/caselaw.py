@@ -30,12 +30,17 @@ def main():
         if not d:
             held.append([cid, suit, "no judgment date"]); continue
         d = datetime.date.fromisoformat(d[:10])
-        if not os.path.exists(fn):
-            held.append([cid, suit, "PDF not fetched"]); continue
-        pages, n, why = pdf_text(fn)
-        if why:
-            held.append([cid, suit, why]); continue
-        text = "\n".join(pages)
+        api = (r.get("judgement") or "").replace("\r", "").strip()
+        if not r.get("pdfFile") and len(api) >= 2000:
+            # the Court's judgments API carries the full typed text for judgments it serves without a PDF
+            text, n, src = api, 0, "api"
+        elif not os.path.exists(fn):
+            held.append([cid, suit, "PDF not fetched" if r.get("pdfFile") else "no PDF and no full text in the Court's API"]); continue
+        else:
+            pages, n, why = pdf_text(fn)
+            if why:
+                held.append([cid, suit, why]); continue
+            text, src = "\n".join(pages), "pdf"
         if PROTECTED.search(parties) or PROTECTED.search(text[:20000]):
             held.append([cid, suit, "protected case (sexual offence, child or family matter): left out"]); continue
         name = re.sub(r"[^A-Za-z0-9]+", "-", suit).strip("-").lower() or f"case-{cid}"
@@ -43,18 +48,26 @@ def main():
         body = (f"# {parties}\n\nSupreme Court of Nigeria, {suit}, {r.get('type') or 'Judgment'} delivered {d.isoformat()}.\n"
                 f"Lead judgment: {(r.get('leadJudgeName') or r.get('mainjudge') or '').strip()}\n"
                 f"Panel: {(r.get('judgeName') or '').strip()}\n\n---\n\n" + re.sub(r"\n{3,}", "\n\n", text).strip() + "\n")
-        items.append((d, cid, suit, parties, path, body, r, n))
+        items.append((d, cid, suit, parties, path, body, r, n, src))
     items.sort()
     if items:
         parent = git(repo, "rev-parse", "--verify", "-q", "main").strip()
         p = subprocess.Popen(["git", "-C", repo, "fast-import", "--quiet", "--done"], stdin=subprocess.PIPE)
         w = p.stdin
-        for seq, (d, cid, suit, parties, path, body, r, n) in enumerate(items):
+        for seq, (d, cid, suit, parties, path, body, r, n, src) in enumerate(items):
+            if src == "api":
+                how = "the full text the Court's judgments API serves (typed text, no PDF)"
+                ts = "Supreme Court of Nigeria judgments API, typed text"
+                so = f"https://supreme-cms.supremecourt.gov.ng/api/v1.0/judgment-new/search?judgmentDate={d}&judgmentDate2={d}"
+            else:
+                how = f"{n} pages, the PDF's own text layer, no OCR"
+                ts = "Supreme Court PDF text layer, no OCR"
+                so = r["pdfFile"]
             msg = (f"{suit}: {parties[:150]}, {d.isoformat()}\n\n"
                    f"Supreme Court of Nigeria {(r.get('type') or 'judgment').lower()} delivered {d.isoformat()}, as the Court's\n"
-                   f"website serves it ({n} pages, the PDF's own text layer, no OCR).\n\n"
+                   f"website serves it ({how}).\n\n"
                    f"Kind: judgment\nCourt: Supreme Court of Nigeria\nDelivered: {d.isoformat()}\nSuit-no: {suit}\n"
-                   f"Text-source: Supreme Court PDF text layer, no OCR\nSource: {r['pdfFile']}\nScn-case: {cid}\n").encode("utf-8")
+                   f"Text-source: {ts}\nSource: {so}\nScn-case: {cid}\n").encode("utf-8")
             tm = when(d, seq)
             w.write(f"commit refs/heads/main\nauthor Supreme Court of Nigeria <scn@supremecourt.gov.ng.invalid> {tm}\n"
                     f"committer Lexifina <nigeria-law@lexifina.com> {tm}\n".encode())

@@ -291,6 +291,140 @@ def plac_items(have, used):
     return items
 
 
+def folder_years(repo):
+    """{folder: {years of the In-force days of versions already committed there}}."""
+    out = {}
+    cur = None
+    for line in git(repo, "log", "--format=@@%(trailers:key=In-force,valueonly,separator=)", "--name-only", "main", "--", "acts", "subsidiary").split("\n"):
+        if line.startswith("@@"):
+            cur = line[2:].strip()[:4]
+        elif line.strip() and cur and cur.isdigit():
+            parts = line.strip().split("/")
+            if len(parts) >= 3:
+                out.setdefault("/".join(parts[:2]), set()).add(int(cur))
+    return out
+
+
+def clean_title(t):
+    t = re.sub(r"\s+", " ", t.replace("’", "'")).strip().rstrip(".")
+    t = re.sub(r"(?i),?\s*\(?(?:act )?no\.?\s*\d+\s+of\s+(?:19|20)\d\d\)?", "", t)
+    t = re.sub(r"(?i),?\s*\(?statutory instrument no\.?\s*[\d.]+\s*(?:of\s+(?:19|20)\d\d)?\)?", "", t)
+    t = re.sub(r"(?i),?\s*\(?S\.\s*I\.?,?\s*(?:No\.?)?\s*[\d.]+\s*(?:of\s+(?:19|20)\d\d)?\)?", "", t)
+    t = re.sub(r"\s*\((?:S\.?\s*I|L\.?\s*N|Government Notice)[^)]*\)?$", "", t)
+    t = re.sub(r"\./(?:19|20)\d\d$", "", t).rstrip(".")
+    t = re.sub(r"(?i),?\s*\(?statutory instrument\)?\s*$", "", t)
+    t = re.sub(r"\s*-\s*$", "", t)
+    return t.strip(" ,")
+
+
+def secondary_items(repo, have, used):
+    """Federal Acts and regulations from FAOLEX and WIPO Lex copies with a text layer: versions not already in the repo."""
+    fy = folder_years(repo)
+    cands = []
+    fp = os.path.join(CACHE, "faolex", "records.json")
+    if os.path.exists(fp):
+        for r in json.load(open(fp, encoding="utf-8")):
+            types = {t.get("name") for t in r.get("type_of_text") or []}
+            if not types & {"Legislation", "Regulation"} or r.get("territorial_subdivisions"):
+                continue
+            files = [f for f in r.get("links_to_full_text") or [] if f.lower().endswith(".pdf")]
+            if not files:
+                continue
+            cands.append(dict(key=f"faolex:{r['faolex_id']}", title=r["title_of_text"], fn=os.path.join(CACHE, "faolex", "pdf", files[0]),
+                              url="https://faolex.fao.org/docs/pdf/" + files[0], page=r["_url"], date_of_text=None if r.get("has_partial_date_of_text") else r.get("date_of_text"),
+                              eif=r.get("entry_into_force") or "", reg="Regulation" in types and "Legislation" not in types,
+                              imprint=r.get("serial_imprint") or "", src="FAOLEX (FAO Legal Database)",
+                              terms="FAO: reuse for non-commercial purposes with credit"))
+    wp = os.path.join(CACHE, "wipo", "items.json")
+    if os.path.exists(wp):
+        for it in json.load(open(wp, encoding="utf-8")):
+            if not it.get("pdfs"):
+                continue
+            t = re.sub(r"(?i),\s*Nigeria,\s*WIPO Lex\s*$", "", it["title"]).strip()
+            u = it["pdfs"][0].split("?")[0]
+            eif = ""
+            dp = os.path.join(CACHE, "wipo", "details", f"{it['id']}.html")
+            if os.path.exists(dp):
+                pt = re.sub(r"<[^>]+>", "\n", re.sub(r"<script[\s\S]*?</script>|<style[\s\S]*?</style>", "", open(dp, encoding="utf-8", errors="replace").read()))
+                m = re.search(r"(?:Entry into force|Commenced):\s*([A-Z][a-z]+ \d{1,2}, \d{4})", re.sub(r"\s+", " ", pt))
+                if m:
+                    eif = datetime.datetime.strptime(m.group(1), "%B %d, %Y").date().isoformat()
+            cands.append(dict(key=f"wipolex:{it['id']}", title=t, fn=os.path.join(CACHE, "wipo", "pdf", os.path.basename(u)),
+                              url=u, page=it["url"], date_of_text=None, eif=eif, reg=bool(re.search(r"(?i)regulations|rules|order|notice", t)),
+                              imprint="", src="WIPO Lex", terms="WIPO Lex: national texts reproduced for information"))
+    items, seen = [], set()
+    for c in cands:
+        if c["key"] in have:
+            continue
+        title = clean_title(c["title"])
+        ym = re.findall(r"(?<!\d)((?:19|20)\d\d)(?!\d)", c["title"])
+        year = int(ym[-1]) if ym else (int(c["date_of_text"][:4]) if c.get("date_of_text") else None)
+        if re.search(r"(?i)\bcap(?:ter|\.)?\s*[A-Z]?\d|chapter\s+[A-Z]?\.?\s*\d|laws of the federation|\bLFN\b", c["title"]):
+            continue  # an LFN revision copy: the LFN 2004 text is already taken from PLAC
+        if not year or year < 2003:
+            continue  # the LFN 2004 revision (as at 2002) is the earliest layer taken; earlier texts are not versions we can place
+        if re.search(r"(?i)\b(policy|strategy|plan|guidelines?|code of practice|framework|bill)\b", title) and not re.search(r"(?i)\bact\b|regulations", title):
+            held(c["key"], title, "not a legal text (a policy, plan, strategy or guideline)", c["url"]); continue
+        if not os.path.exists(c["fn"]):
+            held(c["key"], title, "not fetched", c["url"]); continue
+        pages, n, why = pdf_text(c["fn"])
+        if why:
+            held(c["key"], title, why, c["url"]); continue
+        lines = pdf_lines(pages)
+        base = re.sub(r",?\s*\(?(?:19|20)\d\d\)?$", "", title).strip()
+        amend = re.search(r"(?i)amendment|repeal", title) is not None
+        if c["reg"]:
+            folder = "subsidiary/" + slug(base)
+        elif amend:
+            folder = "acts/" + slug(title)
+        else:
+            folder = "acts/" + slug(base)
+        if year in fy.get(folder, set()) or (folder, year) in seen:
+            held(c["key"], title, "a version of this year is already in the repo (official or another copy)", c["url"]); continue
+        dd, basis = act_date(lines, year)
+        if basis and basis.startswith("31 December"):
+            for k, lab in (("eif", "entry into force"), ("date_of_text", "date of the text")):
+                v = c.get(k) or ""
+                if re.fullmatch(r"\d{4}-\d\d-\d\d", v) and not v.endswith("-01-01") and abs(int(v[:4]) - year) <= 1:
+                    dd = datetime.date.fromisoformat(v)
+                    basis = f"{lab} as {c['src']} records it ({v}); no commencement day is printed at the head of the copy"
+                    break
+        if not dd or dd > TODAY:
+            held(c["key"], title, "no reliable in-force day", c["url"]); continue
+        if dd.year in fy.get(folder, set()) or (folder, dd.year) in seen:
+            held(c["key"], title, "a version of this year is already in the repo (official or another copy)", c["url"]); continue
+        seen.add((folder, dd.year))
+        seen.add((folder, year))
+        files = split_lines(lines)
+        if files:
+            tot = sum(len(x) for _, x in files) or 1
+            if sum(len(x) for f, x in files if not f.startswith(("section-", "schedule-"))) > 0.3 * tot:
+                files = None  # the numbering run found is not the Act's own (e.g. regulations printed with it): keep one file
+        whole = files is None
+        if whole:
+            files = [("text.md", "\n\n".join(lines))]
+        nsec = sum(1 for f, _ in files if f.startswith("section-"))
+        desc = ("One file: the reader found no section numbering to split on." if whole else
+                f"{len(files)} files: {nsec} sections, the front matter and {len(files) - nsec - 1} schedules.")
+        ocr = OCR.get(c["fn"])
+        tr = {"Kind": "enactment", "In-force": dd.isoformat(), "In-force-basis": basis,
+              "Text-source": (f"publisher OCR: the text layer of the PDF {c['src']} serves ({n} pages of page scans)" if ocr
+                              else f"PDF served by {c['src']} ({n} pages), its own text layer, no OCR"),
+              "Source-status": f"secondary copy ({c['src']}, {c['page']})",
+              "Source": c["url"], "Source-key": c["key"]}
+        if c.get("imprint"):
+            tr["Published"] = c["imprint"]
+        replace = not amend and not c["reg"]
+        items.append(dict(key=c["key"], date=dd, folder=folder, files=files, extra=[], replace=replace or c["reg"],
+                          subject=f"{title}: as enacted, {dd.isoformat()}",
+                          body=f"{title}, as enacted, from the copy {c['src']} serves (a secondary source; no official copy with a\n"
+                               f"text layer was found). {desc}\n"
+                               + ("It takes the place of the earlier Act under the same short title in this folder.\n" if (folder in used and replace) else ""),
+                          trailers=tr, author=(re.sub(r"[<>]", "", title)[:120], f"{c['key'].replace(':', '-').lower()}@{'fao.org' if c['key'].startswith('faolex') else 'wipo.int'}.invalid")))
+        used.add(folder)
+    return items
+
+
 def when(d, seq):
     t = int(datetime.datetime(d.year, d.month, d.day, 11, 0, tzinfo=datetime.timezone.utc).timestamp())
     if t < 0:
@@ -312,6 +446,8 @@ def main():
             items += lfn_items(have)
         elif part == "plac":
             items += plac_items(have, used)
+        elif part == "secondary":
+            items += secondary_items(repo, have, used)
     items.sort(key=lambda r: (r["date"], r["folder"]))
     if not items:
         print("nothing to commit"); return
